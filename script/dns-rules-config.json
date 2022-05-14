@@ -22,7 +22,31 @@
         },
         {
             "name": "DNS List",
+            "source": "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/blacklist/master/whitelisted.list",
+            "type": "hosts",
+            "transformations": ["RemoveModifiers", "Validate","InvertAllow"]
+        },
+        {
+            "name": "DNS List",
+            "source": "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list",
+            "type": "hosts",
+            "transformations": ["RemoveModifiers", "Validate","InvertAllow"]
+        },
+        {
+            "name": "DNS List",
+            "source": "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt",
+            "type": "hosts",
+            "transformations": ["RemoveModifiers", "Validate","InvertAllow"]
+        },
+        {
+            "name": "DNS List",
             "source": "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt",
+            "type": "adblock",
+            "transformations": ["RemoveModifiers", "Validate"]
+        },        
+        {
+            "name": "DNS List",
+            "source": "./origin-files/dns99999.txt",
             "type": "adblock",
             "transformations": ["RemoveModifiers", "Validate"]
         }
