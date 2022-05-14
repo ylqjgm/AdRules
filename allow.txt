@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: M48IeAsgo1zQcLYN0egwsA
+! Checksum: HRYWlSOWkbveWCUUoRpvtg
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-05-14 11:40:50（北京时间） 
-! Total count: 18261
+! Version: 2022-05-14 16:27:43（北京时间） 
+! Total count: 18267
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -646,7 +646,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgncouragingleaf.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgamerica.com^
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -2235,6 +2235,7 @@
 @@||api.adinplay.com/$xmlhttprequest,domain=taming.io
 @@||api.adinplay.com/display/pub/*/display.min.js$domain=blastz.io
 @@||api.adinplay.com/display/pub/*/display.min.js$domain=tombr.io
+@@||api.adinplay.com/libs/$script,domain=wowescape.com
 @@||api.adinplay.com/libs/aiptag/$script,domain=bigescapegames.com|brofist.io|findcat.io|squadd.io
 @@||api.adinplay.com/libs/aiptag/*/tag.min.js$domain=v6p9d9t4.ssl.hwcdn.net|golfroyale.io|bullet.town|zoneroyale.com|dizzytroopers.io|bumpercars.io|memegames.space|erigato.space|inkwars.io|creatur.io|robofight.io|wormate.io|deadwalk.io|swaarm.io|octagor.com|captureflag.io|lordz2.io|brutalmania.io|warscrap.io|squadd.io|findcat.io|evowars.io|shellshock.io|dinoman.io|bombhopper.io|clashblade.com|littlebigsnake.com|evoworld.io
 @@||api.adinplay.com/libs/aiptag/assets/adsbygoogle.js
@@ -3268,6 +3269,7 @@
 @@||btg.mtvnservices.com/aria/coda.html?site=nickelodeontv.ru$domain=nickelodeon.ru
 @@||btgigs.info/index.php$generichide
 @@||btloader.com/tag?$domain=programme-tv.net
+@@||btloader.com/tag?h=prismamedia-com&upapi=true$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||btsax.info^$generichide
 @@||btspread.com/*.js|$script
 @@||btstatic.com/tag.js$domain=oralb.de
@@ -7115,6 +7117,7 @@
 @@||gmailnator.com/assets/js/prebid-ads.js
 @@||gmclan.org^*/images/fb_$image
 @@||gminazamosc.pl/wp-content/plugins/wp-google-analytics-events/js/ga-scroll-events.js?
+@@||gmx.net/magazine/consent-management/|
 @@||gmyankee.tistory.com^$generichide
 @@||gn-web-assets.api.bbc.com/bbcdotcom/assets/$script,domain=bbc.co.uk
 @@||gnomio.com^$ghide
@@ -9728,6 +9731,7 @@
 @@||js-agent.newrelic.com/nr-*.min.js$domain=copy.com
 @@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
 @@||js-agent.newrelic.com^$app=com.jnj.acuvue.consumer
+@@||js-sec.indexww.com/$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||js-sec.indexww.com/asl/asl_*.js$domain=envedette.ca
 @@||js-sec.indexww.com/ht/htw-baltimore-sun.js$domain=baltimoresun.com
 @@||js-sec.indexww.com/htv/bell.js$domain=envedette.ca
@@ -13232,6 +13236,7 @@
 @@||princesshighway.com.au/min/?f=/skin/frontend/*/styles.css
 @@||printfriendly.com^
 @@||prism-break.org/assets/img/$image,~third-party
+@@||prismamedia-com.videoplayerhub.com/galleryplayer.js$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||privacy-center.org/*/loader.js$domain=tuttosport.com
 @@||privacy-center.org/sdk.*.js$domain=tuttosport.com
 @@||privacy.tapad.com/edaa-coop^$domain=youronlinechoices.com
@@ -16370,6 +16375,7 @@
 @@||tq121.com.cn/j/ad/caoyu-min.js$domain=products.weather.com.cn
 @@||tr.line.me^$app=jp.co.alc.eow
 @@||tr.outbrain.com^$app=jp.co.alc.eow
+@@||tra.scds.pmdstatic.net/$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|voici.fr
 @@||track.adform.net/*serving/opt/iab
@@ -16661,7 +16667,7 @@
 @@||ugdturner.com/xd.sjs$domain=tbs.com
 @@||ugdturner.com^$script,domain=live.bleacherreport.com
 @@||ui.skype.com^
-@@||uicdn.com^*/consent-management.js$domain=gmx.com|mail.com
+@@||uicdn.com^*/consent-management.js$domain=gmx.co.uk|gmx.com|mail.com
 @@||uicdn.com^*/consent-management.js$domain=gmx.net|home.1und1.de|web.de
 @@||uid.mavencoalition.io/v$domain=owlcation.com
 @@||uid.mavencoalition.io/v3$xmlhttprequest,domain=discover.hubpages.com

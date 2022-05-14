@@ -3059,7 +3059,7 @@ zlshorte.net##.banner-inner
 watch-series.*,watchseries.*##+js(acis, Math, XMLHttpRequest)
 watch-series.*,watchseries.*##+js(nowebrtc)
 watch-series.*,watchseries.*##+js(nowoif)
-watch-series.*,watchseries.*##+js(aopr, console.clear)
+watch-series.*,watchseries.*##+js(set, console.clear, trueFunc)
 watch-series.*,watchseries.*##+js(aopw, _pop)
 watchseries.*##+js(acis, parseInt, break;case $.)
 watch-series.*,watchseries.*##.freeEpisode
@@ -3070,7 +3070,7 @@ watch-series.*,watchseries.*##.category-item-ad
 watch-series.*,watchseries.*###related
 watch-series.*,watchseries.*###rotating-item-wrapper
 watch-series.*,watchseries.*##div.block-left-home-inside[style^="height:252"]
-*$script,3p,denyallow=cloudflare.com|cloudflare.net|edgecastcdn.net|facebook.net|fastly.net|fbcdn.net|fontawesome.com|google.com|googleapis.com|graphcomment.com|gstatic.com|hwcdn.net|jquery.com|jsdelivr.net|recaptcha.net|twitter.com|watch-series.la|zdassets.com,domain=watch-series.*|watchseries.*
+*$script,3p,denyallow=cloudflare.com|cloudflare.net|edgecastcdn.net|facebook.net|fastly.net|fbcdn.net|fontawesome.com|google.com|googleapis.com|graphcomment.com|gstatic.com|hwcdn.net|jquery.com|jsdelivr.net|recaptcha.net|twitter.com|watch-series.la|zdassets.com|unpkg.com,domain=watch-series.*|watchseries.*
 @@||watchseries.*^$ghide
 watchseries.*##.modal
 watchseries.*##.show.fade.modal-backdrop
@@ -7322,10 +7322,6 @@ imgtorrnt.in##[id*="Banner"]
 imgtorrnt.in##.bannerImage
 *.gif$domain=imgtorrnt.in,image
 
-! https://github.com/uBlockOrigin/uAssets/issues/3154
-funimg.net##+js(aopr, ExoLoader)
-funimg.net##+js(aopr, ExoLoader.serve)
-
 ! https://github.com/uBlockOrigin/uAssets/issues/3158
 ! https://github.com/uBlockOrigin/uAssets/issues/5357
 ! https://github.com/NanoMeow/QuickReports/issues/1218
@@ -7376,7 +7372,7 @@ gomiblog.com##+js(nostif, instance.check, 1)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3399
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=esgentside.com|exclusivomen.com|gentside.*|maxisciences.com|ohmirevista.com|ohmymag.*
-*$script,redirect-rule=noopjs,domain=esgentside.com|gentside.*|gentside.it|gentside.com|gentside.de|gentside.co.uk|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.de|ohmymag.co.uk,3p
+!*$script,redirect-rule=noopjs,domain=esgentside.com|gentside.*|gentside.it|gentside.com|gentside.de|gentside.co.uk|maxisciences.com|ohmirevista.com|ohmymag.com|ohmymag.de|ohmymag.co.uk,3p
 @@||maxisciences.com/js/amazon/$script,domain=maxisciences.com
 @@||googletagservices.com/tag/js/gpt.js$script,domain=esgentside.com|gentside.*|maxisciences.com|ohmirevista.com|ohmymag.*
 @@*/assets/prebid/$script,xhr,1p,domain=esgentside.com|gentside.*|maxisciences.com|ohmirevista.com|ohmymag.*
@@ -7384,6 +7380,11 @@ gomiblog.com##+js(nostif, instance.check, 1)
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gentside.*|ohmymag.*|maxisciences.com|esgentside.com|ohmirevista.com
 @@||cdn.adsafeprotected.com^$script,domain=gentside.*|ohmymag.*|maxisciences.com|esgentside.com|ohmirevista.com
 @@||pixel.adsafeprotected.com/services/pub$xhr,domain=gentside.*|ohmymag.*|maxisciences.com|esgentside.com|ohmirevista.com
+@@||tra.scds.pmdstatic.net/$script,domain=maxisciences.com|gentside.*|ohmymag.*
+@@||btloader.com/tag?h=prismamedia-com&upapi=true$script,domain=maxisciences.com|gentside.*|ohmymag.*
+@@||js-sec.indexww.com/$script,domain=maxisciences.com|gentside.*|ohmymag.*
+@@||prismamedia-com.videoplayerhub.com/galleryplayer.js$script,domain=maxisciences.com|gentside.*|ohmymag.*
+#@#[data-ads-core]
 
 ! https://github.com/NanoAdblocker/NanoCore/issues/197
 antarvasnastories.com##+js(aopr, ExoLoader)
@@ -7438,6 +7439,7 @@ wowescape.com##div:has(>div:has(>.adsbygoogle))
 wowescape.com##div.border_radius:has-text(Advertisement)
 wowescape.com##.col-sm-4:has-text(Advertisement)
 wowescape.com##+js(ra, target)
+@@||api.adinplay.com/libs/$script,domain=wowescape.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4476
 duellinksmeta.com##+js(noeval)
