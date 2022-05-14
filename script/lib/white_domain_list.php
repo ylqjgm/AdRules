@@ -9,6 +9,7 @@
 
 return array(
     /**start**/
+    'data.vod.itc.cn' => 0, //搜狐视频
     'lens.zhihu.com' => 0, // 知乎网页视频
     'news-events.apple.com' => 0, //apple new 
     'dbankcdn.com' => 2, //华为APP商店图片
