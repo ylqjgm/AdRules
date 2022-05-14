@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: OV1n1ZZ6MInHOqeiF1Mnvw
-! Title: AdRules (For AdBlock)
+! Checksum: pYGO2HuMHOK/yfePLG3/pg
+! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-14 10:26:30（北京时间） 
-! Total count: 91376
+! Version: 2022-05-14 11:40:50（北京时间） 
+! Total count: 91381
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -50476,6 +50476,7 @@ zznews.cn##.ad:not([style])
 ||an.yandex.ru^$domain=~e.mail.ru
 ||an5.uyueread.com^
 ||ana.tv5unis.ca^
+||anabcd.xyz^
 ||analdin.com/player/html.php?aid=*_html&video_id=*&*&referer
 ||analights.com^$third-party
 ||analitica.webrpp.com^
@@ -53887,6 +53888,7 @@ zznews.cn##.ad:not([style])
 ||c0.ifengimg.com/iis/iis_$script,redirect=noopjs,important,domain=rjno1.com
 ||c0012.brsimg.com^
 ||c09.xyz^
+||c0c.biz^
 ||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^
 ||c1.4qx.net^
@@ -62952,6 +62954,7 @@ zznews.cn##.ad:not([style])
 ||gxnews.com.cn/clientscript/index_duilian_
 ||gxnews.com.cn/upload/index/*.swf
 ||gxtytj.com^
+||gxzxiww.com^
 ||gybyxsy1588.com^
 ||gycy2.com^
 ||gyeet.com^
@@ -74341,6 +74344,7 @@ zznews.cn##.ad:not([style])
 ||pezxux.footlocker.co.uk^
 ||pf.intuit.com^
 ||pf.newegg.com^
+||pfiparts.com^
 ||pfizer.com.tw^$subdocument
 ||pflhnpu.cn^
 ||pfp.sina.com.cn/
@@ -82381,6 +82385,7 @@ zznews.cn##.ad:not([style])
 ||summaryflamen.com^
 ||summerhamster.com^
 ||summerobject.com^
+||summerxzp.xyz^
 ||summit.edm.globalsources.com^
 ||sumo.com^$third-party
 ||sumokoin.com^$third-party

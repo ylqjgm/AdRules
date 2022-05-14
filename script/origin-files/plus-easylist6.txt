@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205130319
+! Version: 202205140321
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41474
+! Lenth = 41478
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7733,6 +7733,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||images.apple.com/metrics/scripts/s_code_h.js$domain=apple.com
 @@||images.sprinklecontent.com^$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||images.taboola.com^$domain=samsung.com|thestartmagazine.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=r7.com
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||img.blesk.cz/js/base-cz/gemius.js
 @@||imgur.com/min/px.js$~third-party
@@ -10888,6 +10889,7 @@ znak.com##.relap
 ||adbmetrics.vehiculosdeocasion.eus^
 ||adbmetrics.vidasolidaria.com^
 ||adbmetrics.xn--futuroenespaol-1nb.es^
+||adbp.online^
 ||adbq.bk.mufg.jp^
 ||adbrix.io^$third-party
 ||adbsmetrics.ep.hmc.co.kr^
@@ -14909,7 +14911,7 @@ znak.com##.relap
 ||clicki.cn^$third-party
 ||clickinc.com^$third-party
 ||clickiocdn.com/consent/log/
-||clickiocdn.com^$third-party
+||clickiocdn.com/hbadx/
 ||clickmail.stubhub.com^$image,script
 ||clickmanage.com^$third-party
 ||clickmap.ch^$third-party
@@ -29424,6 +29426,7 @@ znak.com##.relap
 ||r3.mail.ru/k?sign=
 ||r42tag.com^
 ||r4nds.absorba.com^
+||r7.com/comscore/
 ||r7ls.net^$third-party
 ||ra.rockcontent.com^$third-party
 ||raac33.net^
@@ -39605,6 +39608,7 @@ znak.com##.relap
 ||vmweb.net^$third-party
 ||vnecdn.net/*/?action=
 ||vnecdn.net/get?app_id=
+||vnecdn.net/videolog?
 ||vnl1.voyage-prive.nl^
 ||vnwhzk.togas.com^
 ||vnypvi.babylove.se^

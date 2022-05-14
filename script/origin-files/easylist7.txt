@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202205130319
+! Version: 202205140321
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26386
+! Lenth = 26404
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -1190,6 +1190,7 @@
 ##a[target="_blank"] > img[height="60px"][src*=".360buyimg.com"][src$=".gif"]
 ##a[target="_blank"] > img[height="60px"][src*=".alicdn.com"][src$=".gif"]
 ##a[target="_blank"] > img[height="60px"][src*=".c-ctrip.com"][src$=".gif"]
+##a[target="_blank"] > img[height="60px"][src*=".lenovo.com"][src$=".png"]
 ##a[target="_blank"] > img[height="60px"][src*=".meituan.net"][src$=".gif"]
 ##a[target="_blank"] > img[height="60px"][src*="qlogo.cn"][src$=".png"]
 ##a[target="_blank"] > img[src*=".bitautoimg.com/"][src$=".gif"]
@@ -1225,6 +1226,7 @@
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[onclick^="window.location.href"][onclick*=".haoyundm.com"]
 ##div[style=" max-width:965px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="border-radius:8px;background-color:#005737;padding:6px;"]
 ##div[style="box-sizing:border-box;padding:20px 16px;border-radius:8px;width:90%;margin:0 auto;"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
@@ -11773,6 +11775,7 @@ zznews.cn##.ad:not([style])
 ||027cgb.com^*.gif
 ||027whht.com^
 ||029mxhs.cn^
+||02m830l.cn^
 ||02wq.com/script/
 ||02wq.com/script1/
 ||02wq.com/scrtips/
@@ -12128,6 +12131,7 @@ zznews.cn##.ad:not([style])
 ||172.121.4.251^
 ||172.121.4.252^
 ||1722t.com/js/jquery.js
+||17271819.com^
 ||173app.com/hot/666/alipay-
 ||174.123.15.43:8080
 ||174.139.53.195^
@@ -12298,6 +12302,7 @@ zznews.cn##.ad:not([style])
 ||239300.net/template/*_mh_gg
 ||23962340.com^
 ||23986834.com^
+||23991511.com^
 ||23aitt.com/zz/
 ||23dsf.top^
 ||23kmm.com^$third-party
@@ -12344,6 +12349,7 @@ zznews.cn##.ad:not([style])
 ||292812.com^
 ||29299892.com^
 ||293870.com^
+||29525187.com^
 ||297772.com^
 ||29873398.com^
 ||2999.store^
@@ -14053,6 +14059,7 @@ zznews.cn##.ad:not([style])
 ||amradmin.5173.com^
 ||ams.fx678.com^
 ||amvecurt.cn^
+||anabcd.xyz^
 ||analy.tuniu.cn^
 ||analyse.weather.com.cn^
 ||analysis.chinaiiss.com^
@@ -15106,6 +15113,7 @@ zznews.cn##.ad:not([style])
 ||c.tysjkw.cn^$third-party
 ||c0.ifengimg.com/iis/iis_$script,redirect=noopjs,important,domain=rjno1.com
 ||c09.xyz^
+||c0c.biz^
 ||c1.4qx.net^
 ||c1.chajiaotong.com^
 ||c1.china.cn^
@@ -16942,6 +16950,7 @@ zznews.cn##.ad:not([style])
 ||firefoxchina.cn^*49560.
 ||firefoxchina.cn^*_couplet
 ||firefoxchina.cn^*_topbanner
+||first-hufu.oss-cn-shanghai.aliyuncs.com^
 ||first11.cn^
 ||fisher56.com^
 ||fishsalt.top^
@@ -17603,6 +17612,7 @@ zznews.cn##.ad:not([style])
 ||gxnews.com.cn/clientscript/index_duilian_
 ||gxnews.com.cn/upload/index/*.swf
 ||gxtytj.com^
+||gxzxiww.com^
 ||gybyxsy1588.com^
 ||gycy2.com^
 ||gyeet.com^
@@ -18831,6 +18841,7 @@ zznews.cn##.ad:not([style])
 ||j05.xyz^
 ||j1.piaobing.com^
 ||j1ybkf.cn^
+||j45.xyz^
 ||j46.xyz^
 ||j49.xyz^
 ||j5sq8.com^
@@ -19050,6 +19061,7 @@ zznews.cn##.ad:not([style])
 ||jinkege.com^
 ||jinks.top^
 ||jinlianchengwhcm.cn^
+||jinlijzbd.com^
 ||jinlubaojie.cn^
 ||jinriguanzhu.cc^$domain=cgfdjz.net
 ||jinrongwang.net^
@@ -19388,6 +19400,7 @@ zznews.cn##.ad:not([style])
 ||jxxcfd.com^
 ||jxxiangyujinshu.com^
 ||jxyufa.com^
+||jxyy.site^
 ||jxzz.tech^
 ||jy.zhongxues.com^
 ||jy135.com/js/pubuliu.
@@ -21499,6 +21512,7 @@ zznews.cn##.ad:not([style])
 ||petsfairy.com^
 ||petsheying.com^
 ||pexels.com^*/sponsored_
+||pfiparts.com^
 ||pfizer.com.tw^$subdocument
 ||pflhnpu.cn^
 ||pfp.sina.com.cn^$script,subdocument
@@ -23116,6 +23130,7 @@ zznews.cn##.ad:not([style])
 ||suibianlu.com/zb_users/theme/tx_fzy/script/zhao.js
 ||suigeng.shop^
 ||suiyishop.cn/zhuangxiu_
+||summerxzp.xyz^
 ||sums.suning.com^$third-party
 ||sun66387567606.online^
 ||sun66387567606.site^
@@ -25229,6 +25244,7 @@ zznews.cn##.ad:not([style])
 ||yan007.com/js/sss/ad.js
 ||yanbenji.cn^
 ||yancy.fun^
+||yangchunblog.club^
 ||yanghuaer.mobi^
 ||yanglangkk.cn^
 ||yangll.xin^
@@ -25754,6 +25770,7 @@ zznews.cn##.ad:not([style])
 ||yxgfcj.com^$third-party
 ||yxhjt.com^
 ||yxhxs.com^
+||yximgs.com/bs2/adcarsku/sku9c0e68cc-2f12-4e47-a340-a7293ee88c88.
 ||yxjibph.cn^
 ||yxlady.com/wxetj/pcfarmgg.jpg
 ||yxmspx.com^
@@ -26299,6 +26316,7 @@ zznews.cn##.ad:not([style])
 ||zxopen.tech^
 ||zxptw.cn^
 ||zxptw.cn^$third-party
+||zxse43.com^
 ||zxsmxt.com^
 ||zxucii.com^
 ||zxvvcvd.cn^
