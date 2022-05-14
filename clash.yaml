@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220514162729
+#VER=20220514225204
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93686
+#TOTAL_LINES=93691
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -23794,6 +23794,7 @@ payload:
   - '+.dmdi.pl'
   - '+.online.dmec.org'
   - '+.dmfhqzo.cn'
+  - '+.dmfjeu.xyz'
   - '+.dmfwniplqhnf.com'
   - '+.pop.dmglobal.com'
   - '+.dmgmediaprivacy.co.uk'
@@ -27288,8 +27289,7 @@ payload:
   - '+.dcs.espritshop.it'
   - '+.dcs.espritshop.pl'
   - '+.esptj.com'
-  - '+.push.esputnik.com'
-  - '+.tracker.esputnik.com'
+  - '+.esputnik.com'
   - '+.esqfctbqf.com'
   - '+.securetags.esri.ca'
   - '+.mercadeo.esri.co'
@@ -35568,6 +35568,7 @@ payload:
   - '+.adsfs.heytapimage.com'
   - '+.dhfs.heytapimage.com'
   - '+.ads.heytapmobi.com'
+  - '+.dragate-cn.dc.heytapmobi.com'
   - '+.heyux.cn'
   - '+.heyzap.com'
   - '+.hezhenzi.com'
@@ -43885,6 +43886,7 @@ payload:
   - '+.kujrsivgg.com'
   - '+.kuk8.com'
   - '+.kukanlm-lubu1.com'
+  - '+.kukanlm-my1.com'
   - '+.kukanlm-youeryuan.com'
   - '+.kuku99.com'
   - '+.log.kukuplay.com'
@@ -47426,6 +47428,7 @@ payload:
   - '+.analytics.mail-corp.com'
   - '+.ads.mail.bg'
   - '+.adsy.mail.bg'
+  - '+.wa.mail.com'
   - '+.ads.mail3x.com'
   - '+.track.mailalert.io'
   - '+.mailboxleadsphone.com'
@@ -71703,6 +71706,7 @@ payload:
   - '+.omni.suntrust.com'
   - '+.sunwardamoraic.com'
   - '+.sunyftlaoiiy.com'
+  - '+.sunyujia.top'
   - '+.suocloud.com'
   - '+.suoksm.cn'
   - '+.mgefhu.suomi24.fi'
@@ -81478,6 +81482,7 @@ payload:
   - '+.e.webfleet.com'
   - '+.webflowmetrics.com'
   - '+.webforensics.co.uk'
+  - '+.webfunny.cn'
   - '+.webgains.com'
   - '+.analytics.webgains.io'
   - '+.quokka.webgems.io'

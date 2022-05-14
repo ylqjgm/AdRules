@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220514162727
+#VER=20220514225202
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93686
+#TOTAL_LINES=93691
 DOMAIN-SUFFIX,cda.0-shiny.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
 DOMAIN-SUFFIX,c.0.0.0.0.cn
@@ -23791,6 +23791,7 @@ DOMAIN-SUFFIX,dmdamedia.hu
 DOMAIN-SUFFIX,dmdi.pl
 DOMAIN-SUFFIX,online.dmec.org
 DOMAIN-SUFFIX,dmfhqzo.cn
+DOMAIN-SUFFIX,dmfjeu.xyz
 DOMAIN-SUFFIX,dmfwniplqhnf.com
 DOMAIN-SUFFIX,pop.dmglobal.com
 DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
@@ -27285,8 +27286,7 @@ DOMAIN-SUFFIX,dcs.espritshop.ch
 DOMAIN-SUFFIX,dcs.espritshop.it
 DOMAIN-SUFFIX,dcs.espritshop.pl
 DOMAIN-SUFFIX,esptj.com
-DOMAIN-SUFFIX,push.esputnik.com
-DOMAIN-SUFFIX,tracker.esputnik.com
+DOMAIN-SUFFIX,esputnik.com
 DOMAIN-SUFFIX,esqfctbqf.com
 DOMAIN-SUFFIX,securetags.esri.ca
 DOMAIN-SUFFIX,mercadeo.esri.co
@@ -35565,6 +35565,7 @@ DOMAIN-SUFFIX,adsfs-sdkconfig.heytapimage.com
 DOMAIN-SUFFIX,adsfs.heytapimage.com
 DOMAIN-SUFFIX,dhfs.heytapimage.com
 DOMAIN-SUFFIX,ads.heytapmobi.com
+DOMAIN-SUFFIX,dragate-cn.dc.heytapmobi.com
 DOMAIN-SUFFIX,heyux.cn
 DOMAIN-SUFFIX,heyzap.com
 DOMAIN-SUFFIX,hezhenzi.com
@@ -43882,6 +43883,7 @@ DOMAIN-SUFFIX,a8cv.kuih.jp
 DOMAIN-SUFFIX,kujrsivgg.com
 DOMAIN-SUFFIX,kuk8.com
 DOMAIN-SUFFIX,kukanlm-lubu1.com
+DOMAIN-SUFFIX,kukanlm-my1.com
 DOMAIN-SUFFIX,kukanlm-youeryuan.com
 DOMAIN-SUFFIX,kuku99.com
 DOMAIN-SUFFIX,log.kukuplay.com
@@ -47423,6 +47425,7 @@ DOMAIN-SUFFIX,tr.mail-companeo.fr
 DOMAIN-SUFFIX,analytics.mail-corp.com
 DOMAIN-SUFFIX,ads.mail.bg
 DOMAIN-SUFFIX,adsy.mail.bg
+DOMAIN-SUFFIX,wa.mail.com
 DOMAIN-SUFFIX,ads.mail3x.com
 DOMAIN-SUFFIX,track.mailalert.io
 DOMAIN-SUFFIX,mailboxleadsphone.com
@@ -71700,6 +71703,7 @@ DOMAIN-SUFFIX,somni.suntrust.com
 DOMAIN-SUFFIX,omni.suntrust.com
 DOMAIN-SUFFIX,sunwardamoraic.com
 DOMAIN-SUFFIX,sunyftlaoiiy.com
+DOMAIN-SUFFIX,sunyujia.top
 DOMAIN-SUFFIX,suocloud.com
 DOMAIN-SUFFIX,suoksm.cn
 DOMAIN-SUFFIX,mgefhu.suomi24.fi
@@ -81475,6 +81479,7 @@ DOMAIN-SUFFIX,inspire.webfleet.com
 DOMAIN-SUFFIX,e.webfleet.com
 DOMAIN-SUFFIX,webflowmetrics.com
 DOMAIN-SUFFIX,webforensics.co.uk
+DOMAIN-SUFFIX,webfunny.cn
 DOMAIN-SUFFIX,webgains.com
 DOMAIN-SUFFIX,analytics.webgains.io
 DOMAIN-SUFFIX,quokka.webgems.io

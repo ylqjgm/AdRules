@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: HRYWlSOWkbveWCUUoRpvtg
+! Checksum: 4tMFne7AIFfvUDa5bJXeog
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-05-14 16:27:43（北京时间） 
-! Total count: 18267
+! Version: 2022-05-14 22:52:19（北京时间） 
+! Total count: 18273
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -646,7 +646,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgamerica.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgga-explorations.
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -7871,6 +7871,7 @@
 @@||googletagmanager.com/gtm.js$domain=managertoday.com.tw
 @@||googletagmanager.com/gtm.js$domain=mangaseek.net
 @@||googletagmanager.com/gtm.js$domain=matsukiyo.co.jp
+@@||googletagmanager.com/gtm.js$domain=maxisciences.com|gentside.*|ohmymag.*
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.be|mediamarkt.ch
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.com.tr
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.de
@@ -8300,6 +8301,7 @@
 @@||hanjuwang.net^$script,~third-party
 @@||hao123img.com/resource/zt/widget/service/util/clickTrack.
 @@||haohuo.snssdk.com^
+@@||haokoubei.top/jquery/jquery-1.7.2.min.js
 @@||haoweichi.com/Public/js/ads.js
 @@||happyride.se/img/admarket/
 @@||harajuku.pl^$ghide
@@ -9735,6 +9737,7 @@
 @@||js-sec.indexww.com/asl/asl_*.js$domain=envedette.ca
 @@||js-sec.indexww.com/ht/htw-baltimore-sun.js$domain=baltimoresun.com
 @@||js-sec.indexww.com/htv/bell.js$domain=envedette.ca
+@@||js-sec.indexww.com^$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||js-sec.indexww.com^$script,domain=nydailynews.com
 @@||js.adscale.de/getads.js:adscale_slot_id/$domain=dasolo.org
 @@||js.adsrvr.org/up_loader.$script,domain=www3.nissan.co.jp
@@ -13168,6 +13171,7 @@
 @@||pos.baidu.com^$script,domain=rjno1.com
 @@||positivewordsdictionary.com^$ghide
 @@||post4earn.com/js/advertisement.js
+@@||postclickmarketing.com^$domain=adtspecials.com|befinanciallyfit.com|cursodemedicina.com.br|demandmetric.com|hootsuite.com|semipresencial.com.br|systemsprotect.com
 @@||poste.it/cerca-app/js/app/webtrends_service.js$script,~third-party
 @@||postex.com/api/ping?$~third-party
 @@||postfiles*.naver.net^$stealth
@@ -13878,6 +13882,7 @@
 @@||rojadirecta.me^$generichide
 @@||roleplayer.me/adframe_
 @@||roleplayer.me/adframe_*.js$script
+@@||rollbar.com^*/rollbar.min.js$domain=rollingstone.com|variety.com|wwd.com
 @@||rollingstone.de/resources/js/webtrekk.js
 @@||romagnanoi.it/js/cookiecuttr/jquery.cookiecuttr.js
 @@||romanialivewebcam.blogspot.com^$ghide
@@ -13950,6 +13955,7 @@
 @@||rushtime.in^$ghide
 @@||rustica.fr/assets/js/advertisement-*.js
 @@||ruten.com.tw/ahd/fetch_ad.php
+@@||ruten.com.tw/ahd/fetch_ad.uda.pro^$popup
 @@||ruten.com.tw/js/jquery.ruten.supertop_ad.js
 @@||ruten.com.tw^$stealth
 @@||rutube.ru/api/play/options/$app=ru.rutube.app|ru.rutube.RutubeKids,important
@@ -14429,7 +14435,7 @@
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=tvmovie.de
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=viz.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$domain=www.vulture.com
-@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gentside.*|ohmymag.*|maxisciences.com|esgentside.com|ohmirevista.com
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gentside.*|ohmymag.*|esgentside.com|ohmirevista.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=m.timesofindia.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=10play.com.au
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_*.js$domain=20min.ch
@@ -14529,7 +14535,7 @@
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=vogue.ru
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=wunderground.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=dropgalaxy.com
-@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=gentside.*|ohmymag.*|maxisciences.com|esgentside.com|ohmirevista.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=gentside.*|ohmymag.*|esgentside.com|ohmirevista.com
 @@||securepubads.g.doubleclick.net^$domain=hoyts.com.au
 @@||securepubads.g.doubleclick.net^$script,subdocument,domain=geektime.co.il
 @@||securepubads.g.doubleclick.net^$script,xhr,domain=hackintoshshop.com
@@ -14778,6 +14784,7 @@
 @@||sign.mojebanka.cz$elemhide,jsinject
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||signalstart.com/assets/global/plugins/cookieconsent/cookieconsent.min.js
+@@||signin.aws.amazon.com/signin^$stealth
 @@||signin.verizon.com^*/affiliate/$subdocument,xmlhttprequest
 @@||signs.pl/_css/adserver.css
 @@||sigourney-weaver.net^$generichide
@@ -16375,7 +16382,6 @@
 @@||tq121.com.cn/j/ad/caoyu-min.js$domain=products.weather.com.cn
 @@||tr.line.me^$app=jp.co.alc.eow
 @@||tr.outbrain.com^$app=jp.co.alc.eow
-@@||tra.scds.pmdstatic.net/$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||tra.scds.pmdstatic.net/advertising-core/$domain=voici.fr
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|voici.fr
 @@||track.adform.net/*serving/opt/iab
