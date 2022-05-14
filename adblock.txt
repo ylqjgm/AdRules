@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: cJh42IkuC4lFu4tj2ctgyw
+! Checksum: eg6+CE3HAxAUl6hdjMe6NA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-14 22:52:19（北京时间） 
-! Total count: 91360
+! Version: 2022-05-15 00:31:16（北京时间） 
+! Total count: 91359
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -34098,7 +34098,6 @@ informer.com##.spnsrd
 infosecurity-magazine.com#@#.header-ad-row
 infowars.com##.css-1upmbem
 infowars.com##.css-1vj1npn
-ing-left:5px; font-size:18px; "]
 inhumanity.com##+js(abort-on-property-read, inhumanity_pop_var_name)
 inky.dk,inky.fi,inky.no,inky.se#@#iframe[width="200"][height="240"]
 inky.no#@#iframe[width="200"][height="240"]

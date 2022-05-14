@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220514225204
+#VER=20220515003100
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93691
+#TOTAL_LINES=93692
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -65141,6 +65141,7 @@ payload:
   - '+.rugrukoca.com'
   - '+.sensorsdata.ruguoapp.com'
   - '+.stats.ruhrfestspiele.de'
+  - '+.zzznews.rui.ee'
   - '+.ruibokeji.cn'
   - '+.ruide168.pw'
   - '+.ruif.xyz'
