@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: IJu8EBsGl4x5S1/SLJnzXQ
+! Checksum: OV1n1ZZ6MInHOqeiF1Mnvw
 ! Title: AdRules (For AdBlock)
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-14 10:18:24（北京时间） 
-! Total count: 91358
+! Version: 2022-05-14 10:26:30（北京时间） 
+! Total count: 91376
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -23256,6 +23256,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||login.ingbank.pl^*/satelliteLib-$script
 @@||login.live.com/ppsecure/$document
 @@||login.meijer.com/*?ref=$removeparam
+@@||login.windows.net^$app=com.microsoft.skydrive
 @@||loginza.ru/api/
 @@||logmein.com/js/tracking.js$domain=logme.in|logmein.com
 @@||logo.clearbit.com^$image,domain=securitytrails.com
@@ -45463,6 +45464,7 @@ zznews.cn##.ad:not([style])
 ||*.kameleoon.eu^$domain=20minutes.fr|20min.fr
 ||*/ad/$redirect=noopmp3-0.1s,domain=huaren.tv
 ||*/ad/$rewrite=abp-resource:blank-mp3,domain=huaren.tv
+||*/vhot2.qqvideo.tc.qq.com^
 ||*^sdtfrom=^$media,redirect=noop-0.1s.mp3,domain=qq.com
 ||*^sdtfrom=^$media,redirect=noopmp3-0.1s,domain=qq.com
 ||*^sdtfrom=^$media,rewrite=abp-resource:blank-mp3,domain=qq.com
@@ -51027,6 +51029,8 @@ zznews.cn##.ad:not([style])
 ||api.nobeta.com.br^
 ||api.odysee.com/locale/get
 ||api.piclick.kr/common/*/piclick-ad.$domain=news1.kr
+||api.psy-1.com/cosleep/newborn/ad^
+||api.psy-1.com/cosleep/newborn/vips/picks^
 ||api.pubfinity.com^
 ||api.qvpublish.com^
 ||api.ryanyao.design^
@@ -61539,6 +61543,7 @@ zznews.cn##.ad:not([style])
 ||g.hsw.cn^
 ||g.ign.com^
 ||g.jinti.com/f/a/a
+||g.koowo.com^$app=cn.kuwo.player
 ||g.lznews.cn^
 ||g.mashable.com^
 ||g.mnw.cn^
@@ -63869,6 +63874,7 @@ zznews.cn##.ad:not([style])
 ||holor857.cn^
 ||holyyjs.xyz^
 ||homchang.site^
+||home.mi.com/cgi-op/api/v1/recommendation/banner^
 ||home.usg.com^
 ||homedepot-static.com/data-collection/
 ||homedepot.com/YJvc1C/M4Hw/
@@ -64113,6 +64119,7 @@ zznews.cn##.ad:not([style])
 ||htsysltuujfjcb.com^
 ||httdev.it/e/c?
 ||httpcn.com/Images/banner
+||httpdns.kg.qq.com^
 ||httpool.com^$third-party
 ||httpsjs.com^
 ||httpwwwdcom.com/js/aaa/
@@ -70938,6 +70945,7 @@ zznews.cn##.ad:not([style])
 ||mgtw.xyz^
 ||mgvrst.mi-shop.com^
 ||mgwcn.com^
+||mgxhtj.kuwo.cn/mgxh.s^$app=cn.kuwo.player
 ||mgygdeofh.com^
 ||mgz.com.ua/counter.php?
 ||mgzjin.cn^$third-party
@@ -71263,6 +71271,7 @@ zznews.cn##.ad:not([style])
 ||mmtalk.net/images/banner
 ||mmtro.com^$third-party
 ||mmxirnadca.com^
+||mmykm1.gdbs.gov.cn/api/open/r/ykmrecommend^
 ||mmys.net/js/mmys.
 ||mmys.net^*.php
 ||mn.mistermenuiserie.com^
@@ -71298,6 +71307,7 @@ zznews.cn##.ad:not([style])
 ||mobcrummymow.com^
 ||mobee.xyz^$third-party
 ||mobfox.com/ad_sdk.js
+||mobi.kuwo.cn/mobi.s^app=cn.kuwo.player
 ||mobile.sina.cn/public/files/image/600x150_
 ||mobile.sina.cn/public/files/image/620x300_
 ||mobileadspopup.com^
@@ -72568,6 +72578,7 @@ zznews.cn##.ad:not([style])
 ||nmlysc.wang^
 ||nmmgp.cn^
 ||nmo1.orpi.com^
+||nmobi.kuwo.cn/mobi.s^app=cn.kuwo.player
 ||nmpcdn.com^
 ||nmqbg.com^
 ||nmqdnykj.com^
@@ -76865,6 +76876,7 @@ zznews.cn##.ad:not([style])
 ||res.paruvendu.fr^
 ||res.pinpai8.cn^
 ||res.programme-television.org^
+||res.psy-1.com/music/recommend^$app=com.psyone.brainmusic
 ||res.public.fr^
 ||res.rbl.ms^
 ||res.ydcabin.com^
@@ -80730,6 +80742,7 @@ zznews.cn##.ad:not([style])
 ||soulu365.com/images/zhuce.jpg
 ||soundcloud.com^$ping
 ||soundcloud.com^$removeparam=si
+||soup.v.qq.com^
 ||sourcecode.pro^$third-party
 ||sourceforge.net/tracker/$~xmlhttprequest
 ||sourcepoint-mms.aetv.com^
@@ -85888,6 +85901,7 @@ zznews.cn##.ad:not([style])
 ||ulmoyc.com^
 ||ulogin.ru/js/stats.js
 ||ulogin.ru/stats.html
+||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||ulourgaz.net^
 ||ulqihfr.cn^
@@ -86134,6 +86148,7 @@ zznews.cn##.ad:not([style])
 ||urtutb.cn^
 ||uruswan.com^
 ||urxbvw.tui.nl^
+||us.l.qq.com/exapp^
 ||us.onkyo.actonservice.com^
 ||us9recc3.simseller.goo.ne.jp^
 ||usa.cc^$third-party
@@ -89221,6 +89236,7 @@ zznews.cn##.ad:not([style])
 ||xiyyq.cn^
 ||xizi.com/a/
 ||xizi.com/js/rotator.js
+||xj-landing.gdtimg.com^
 ||xjbaisi.cn^
 ||xjhjtz.cn^
 ||xjhmap.cn^
@@ -89571,7 +89587,9 @@ zznews.cn##.ad:not([style])
 ||xzyituo.com^
 ||y-track.com^$third-party
 ||y.21haodianmt.com^$third-party
+||y.gtimg.cn/music/common//upload/kg_ad^
 ||y.ksl.com^
+||y.qq.com/music/common/upload/t_kg_activity_show^
 ||y0764.cn^
 ||y0o1g.cn^
 ||y1.arte.tv^

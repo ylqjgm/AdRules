@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: dRefsrdMUPJqDVFLTI12Jw
+! Checksum: QgZsQSPbBzCE1FgIkpcMHw
 ! Title: AdRules (For DNS)
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
-! Version: 2022-05-14 10:18:24（北京时间） 
-! Total count: 90163
+! Version: 2022-05-14 10:26:30（北京时间） 
+! Total count: 90166
 *.91ivr.
 *.91wan.
 *.99g99.
@@ -38358,6 +38358,7 @@
 ||httpdns.*.netease.com^
 ||httpdns.baidubce.com^
 ||httpdns.browser.miui.com^
+||httpdns.kg.qq.com^
 ||httpdns.push.oppomobile.com^
 ||httpdns.zybang.com^
 ||httpool.com^
@@ -80949,6 +80950,7 @@
 ||ulngtppm.com^
 ||ulogin-stats.ru^
 ||ulogix.ru^
+||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||uloprjcy.xyz^
 ||ulosmuynstes.ml^
@@ -87024,6 +87026,7 @@
 ||xiyouence.com^
 ||xiyyq.cn^
 ||xizupsawo.pro^
+||xj-landing.gdtimg.com^
 ||xj.gdt.qq.com^
 ||xj40666.vip^
 ||xjbaisi.cn^
