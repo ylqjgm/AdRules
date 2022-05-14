@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220514094840
+#VER=20220514100650
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93833
+#TOTAL_LINES=93834
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -8623,6 +8623,7 @@ payload:
   - '+.amzbr.com'
   - '+.cdn.amzuu.com'
   - '+.an-donut.com'
+  - '+.anabcd.xyz'
   - '+.eapik.anagog.com'
   - '+.letsgo.anaheimducks.com'
   - '+.anal-acrobats.com'
@@ -58155,7 +58156,7 @@ payload:
   - '+.hnd.pfdth.cn'
   - '+.pffw8mgd.com'
   - '+.pfhsystem.com'
-  - '+.percent.pfiparts.com'
+  - '+.pfiparts.com'
   - '+.pfizer.com.tw'
   - '+.metrics.pfizerpro.com'
   - '+.gjt.pfjzzl.com'
