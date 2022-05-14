@@ -10,10 +10,10 @@ num_domains=`sed -n 's/^! Total count: //p' ad-domains.txt`
 
 time=$(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')
 sed -i "s/^更新时间:.*/更新时间: $time （北京时间） /g" README.md
-sed -i 's/^AdRules（For AdBlock）规则数量.*/AdRules（For AdBlock）规则数量: '$num_adb' /g' README.md
-sed -i 's/^AdRules（For AdGuard）规则数量.*/AdRules（For AdGuard）规则数量: '$num_adg' /g' README.md
-sed -i 's/^AdRules（For DNS）规则数量.*/AdRules（For DNS）规则数量: '$num_dns' /g' README.md
-sed -i 's/^AdRules（For Adaway）规则数量.*/AdRules（For Adaway）规则数量: '$num_hosts' /g' README.md
+sed -i 's/^AdRules AdBlock List 规则数量.*/AdRules AdBlock List 规则数量: '$num_adb' /g' README.md
+sed -i 's/^AdRules AdGuard Filter List 规则数量.*/AdRules AdGuard Filter List 规则数量: '$num_adg' /g' README.md
+sed -i 's/^AdRules DNS List 规则数量.*/AdRules DNS List 规则数量: '$num_dns' /g' README.md
+sed -i 's/^AdRules Hosts List 规则数量.*/AdRules Hosts List 规则数量: '$num_hosts' /g' README.md
 sed -i 's/^AdRules Allowlist 规则数量.*/AdRules Allowlist 规则数量: '$num_al' /g' README.md
 sed -i 's/^AdRules Ad Domains List 数量.*/AdRules Ad Domains List 数量: '$num_domains' /g' README.md
 sed -i 's/^AdRules AdBlock Full List 规则数量.*/AdRules AdBlock Full List 规则数量: '$num_adp' /g' README.md
