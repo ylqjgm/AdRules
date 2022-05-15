@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: iB4/I0B6VLJAh8rp1RhMZA
+! Checksum: 5mxYZCAqZeNCA5pYzStyrg
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-15 20:13:17（北京时间） 
-! Total count: 91363
+! Version: 2022-05-15 20:26:52（北京时间） 
+! Total count: 91366
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -37990,6 +37990,7 @@ ntm.gov.tw#@#.ad-left
 ntp.msn.cn##recommended-sites
 ntp.msn.com#@#[style*="background-image:"]
 ntpcb.com##img[width="1195"]
+ntrol
 ntunhs.edu.tw,ntust.edu.tw,sjsmitaa.org#@#.module-ads
 nude-gals.com##a[href^="go.php?"]
 nudeclap.com##.style75
@@ -70357,6 +70358,7 @@ zznews.cn##.ad:not([style])
 ||media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/js/blocked.min.js$script,domain=smashingmagazine.com
 ||media-servers.net^
 ||media.$third-party,script,subdocument
+||media.cdn.kuwo.cn*tuijian*.json$app=cn.kuwo.player
 ||media.datahc.com/Affiliates/$third-party
 ||media.net^$third-party
 ||media.pussycash.com^$third-party
@@ -78073,6 +78075,7 @@ zznews.cn##.ad:not([style])
 ||searchiq.co/api/tr?
 ||searchmarketing.net.zooplus.nl^
 ||searchplow.com^$third-party
+||searchrecterm.kuwo.cn^$app=cn.kuwo.player
 ||searchresults.cc/system.js
 ||searchsecurer.com^
 ||searchssl.net.zooplus.es^

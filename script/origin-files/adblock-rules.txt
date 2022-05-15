@@ -69,6 +69,8 @@
 ||g.koowo.com^$app=cn.kuwo.player
 ||mobi.kuwo.cn/mobi.s*$app=cn.kuwo.player
 ||fvedio.kuwo.cn^$app=cn.kuwo.player
+||searchrecterm.kuwo.cn^$app=cn.kuwo.player
+||media.cdn.kuwo.cn*tuijian*.json$app=cn.kuwo.player
 
 !全民k歌
 ||y.qq.com/music/common/upload/t_kg_activity_show^
