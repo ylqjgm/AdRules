@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220515120848
+#VER=20220515134723
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93041
+#TOTAL_LINES=93046
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -34857,6 +34857,7 @@ payload:
   - '+.hdtracker.ru'
   - '+.hduic.com'
   - '+.hdvcode.com'
+  - '+.hdvkl.cn'
   - '+.hdwbdlre.top'
   - '+.matomo.hdweb.ru'
   - '+.hdxxaq.cn'
@@ -35337,6 +35338,7 @@ payload:
   - '+.hfawdgz.cn'
   - '+.hfc195b.com'
   - '+.hfcpa.top'
+  - '+.hfctx.cn'
   - '+.tcoxndk.hfgjdcbrv.xyz'
   - '+.hfhfkc.xyz'
   - '+.hfjuki.com'
@@ -37130,6 +37132,7 @@ payload:
   - '+.pardot.hytera.com'
   - '+.pardot.hytera.la'
   - '+.hytgj.com'
+  - '+.hytzp.cn'
   - '+.hyuanprint.com'
   - '+.adbsmetrics.hyundai.com'
   - '+.dcxt-jp.hyundai.com'
@@ -52933,6 +52936,7 @@ payload:
   - '+.t.nhra.com'
   - '+.y738.nhregister.com'
   - '+.nhrlzy.com'
+  - '+.nhscv.cn'
   - '+.nhskuhiuscja.xyz'
   - '+.nhynbqdf.com'
   - '+.nhyund4.com'
@@ -60461,6 +60465,7 @@ payload:
   - '+.ptezyluny.com'
   - '+.c.ptffw.net'
   - '+.gg.ptfish.com'
+  - '+.ptgdb.cn'
   - '+.ptgezc.com'
   - '+.go.ptglab.com'
   - '+.deliver.ptgncdn.com'
