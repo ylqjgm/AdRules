@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: CCsyWwG/exMeuaqWRHmurA
+! Checksum: vAn0nsZwZvnMEgYd55lb8Q
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-15 23:08:31（北京时间） 
-! Total count: 91401
+! Version: 2022-05-16 00:31:56（北京时间） 
+! Total count: 91402
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -11057,7 +11057,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /Wrappers?cmd=
 /YuduStatistics/*
 /ZagUser.js
-/[a-z]{8,}.com\/[a-z]{4,}.(css|png)\?/$domain=clicknupload.to
+/[a-z]{8,}.com\/[a-z]{4,}.(css|png|json|js)/$domain=clicknupload.to
 /\.com\/[0-9a-z]{12,}\/[0-9a-z]{12,}\.js$/$script,~third-party,domain=tube-teen-18.com|teen-hd-sex.com|xxx-asian-tube.com
 /\.com\/[_0-9a-zA-Z]+\.jpg$/$image,~third-party,domain=hottystop.com
 /\.com\/[a-zA-Z]{10}\.js$/$script,~third-party,domain=povaddict.com
@@ -40656,6 +40656,7 @@ sina.com.cn###AD_Background_Wall_BG_Link
 sina.com.cn###AD_Background_Wall_Banner
 sina.com.cn###J_forAutoShow
 sina.com.cn###SI_Comment_DA
+sina.com.cn###ad
 sina.com.cn###ad_blk_fixed
 sina.com.cn###ad_tl_01
 sina.com.cn###commonSideBar
