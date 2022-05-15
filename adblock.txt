@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: c2uNMC2D1hAPcQv5Yaw/gQ
+! Checksum: g8dBDqBjwNIZtBmu+erLfA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-15 16:27:00（北京时间） 
-! Total count: 91327
+! Version: 2022-05-15 18:29:45（北京时间） 
+! Total count: 91332
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -21137,7 +21137,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||brighteon.com^$generichide
 @@||briian.com/advert.
 @@||britannica.com^$csp=script-src 'self' * 'unsafe-inline'
-@@||browser.sentry-cdn.com^$domain=dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk
+@@||browser.sentry-cdn.com^$domain=dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|timesprime.com
 @@||browser.sentry-cdn.com^$domain=marshmallow-qa.com
 @@||browser.sentry-cdn.com^$script,domain=podcasty.seznam.cz
 @@||browser.sentry-cdn.com^$script,domain=vivareal.com.br
@@ -21220,6 +21220,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||cash4files.com/intermission/loadTargetUrl$xmlhttprequest
 @@||cash4links.co/intermission/loadTargetUrl$xmlhttprequest
 @@||caskers.tistory.com^$generichide
+@@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||catalogue.jbhifi.com.au^*/static/analytics.js$script,~third-party
 @@||catchsms.co^$generichide
 @@||catchsms.com^$generichide
@@ -29295,6 +29296,7 @@ cricbeamer.com#?#div[data-section="home"] > div:-abp-has(span[name="adchoicehtml
 cricbuzz.com##.cb-ad-unit
 crichd.*##div[id^="floatingLayer"]
 crichd.tv###notice
+cricket.com##[href^="https://www.a23.com/downloads.html?"] > img
 cricketcountry.com##.add-box
 crictracker.com##.ad-block-container
 crictracker.com##div[class^="ad-block-"]
@@ -48933,6 +48935,7 @@ zznews.cn##.ad:not([style])
 ||adbottw.net^$third-party
 ||adbox.lv^
 ||adbox.sina.com.cn/
+||adbp.online^
 ||adbq.bk.mufg.jp^
 ||adbrite.com^
 ||adbrn.com^
@@ -65961,6 +65964,7 @@ zznews.cn##.ad:not([style])
 ||jable.tv/assets/images/wejo/$image
 ||jacklm1.com^
 ||jacklm2.com^
+||jacksonyee.club^
 ||jacquelinelaura.com^
 ||jadedjoke.com^
 ||jadeitite.com^$third-party
@@ -75123,6 +75127,7 @@ zznews.cn##.ad:not([style])
 ||ppwxgpr.cn^
 ||ppx.com/tracking/
 ||ppxhpc.eurocamp.nl^
+||ppyibei.com^
 ||pqdhda.bluepops.co.kr^
 ||pqlcpm.kindoh.co.kr^
 ||pqn7.cheque-dejeuner.fr^

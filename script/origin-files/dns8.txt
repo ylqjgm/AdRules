@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vzKp0g9OgeGsKQetkLJ+gw
+! Checksum: YzEshUY6kieZswkHxdh/Fg
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202205150733
-! Last modified: 2022-05-15 07:33 UTC
+! Version: 202205150933
+! Last modified: 2022-05-15 09:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -27997,6 +27997,7 @@ _800x80_
 ##.re-Ads-l
 ##.readerads
 ##.readermodeAd
+##.ready-ad
 ##.realtor-ad
 ##.rebel-ad-unit-header
 ##.rec_ad
@@ -39055,6 +39056,7 @@ tf2r.com#@#.adverts
 ||honoursdashed.com^
 ||hooify.com^
 ||hookeroblong.com^
+||hooliganmedia.com^
 ||hoolyfy.com^
 ||hoophaub.com^
 ||hooptaik.net^
@@ -58264,6 +58266,7 @@ steamanalyst.com##[href^="https://static.steamanalyst.com/steam/delivery/"]
 terraria.wiki.gg##[href^="https://store.steampowered.com/app/"]
 beforeitsnews.com,highshortinterest.com##[href^="https://tinyurl.com/"]
 minidl.org##[href^="https://uploadgig.com/premium/index/"]
+cricket.com##[href^="https://www.a23.com/downloads.html?"] > img
 mailshub.in##[href^="https://www.amazon.in/"]
 businessonhome.com##[href^="https://www.binance.com/en/register?ref="]
 bleepingcomputer.com##[href^="https://www.bleepingcomputer.com/go/"]
@@ -66358,6 +66361,7 @@ _mongo_stats/
 ||520886.xyz^
 ||8672.site^
 ||a1webstrategy.com^
+||adbp.online^
 ||adcontroll.com^
 ||adnext.co^
 ||adrtx.net^
@@ -86854,7 +86858,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||boots.com/wcsstore/ebootsstorefrontassetstore/javascript/analytics.js$~third-party
-@@||browser.sentry-cdn.com^$domain=dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk
+@@||browser.sentry-cdn.com^$domain=dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|timesprime.com
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
 @@||c.paypal.com/da/r/fb.js$script
 @@||c.webtrends-optimize.com/acs/$script,domain=tvlicensing.co.uk
@@ -87668,6 +87672,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 !---------- Norwegian ----------
 !
 @@||adobedtm.com^*/satelliteLib-$script,domain=elkjop.no
+@@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||cloudfront.net/autoTracker.min.js$domain=direkte.vg.no
 @@||epub.ekh.no/*/static/analytics.js
 @@||google-analytics.com/analytics.js$domain=tv3play.no
@@ -135514,6 +135519,7 @@ jdslabs.com##.bottom-5
 simtex.io##.bottom-5.fixed
 asket.com##.bottom-fixed-container
 ofisitebg.com##.bottom-freezed-bar
+learntotradethemarket.com##.bottom-navbar
 yubico.com##.bottom-pop-up-container
 cointelegraph.com##.bottom-zone
 hostkey.com##.bottomMessages

@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: vjCVfXwwLU8xFPmsvlmfHQ
+! Checksum: EErwARUXl8d3tHpPfeJCMw
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
-! Version: 2022-05-15 16:27:00（北京时间） 
-! Total count: 89931
+! Version: 2022-05-15 18:29:45（北京时间） 
+! Total count: 89936
 *.91ivr.
 *.91wan.
 *.99g99.
@@ -283,6 +283,7 @@
 @@||static.yximgs.com^
 @@||sug.browser.miui.com^
 @@||thirdwx.qlogo.cn^
+@@||turn.chillyroom.com^
 @@||uri6.com^
 @@||v2.get.sogou.com^
 @@||w.pandora.xiaomi.com^
@@ -2085,6 +2086,7 @@
 ||4htixb.cn^
 ||4info.com^
 ||4jnzhl0d0.com^
+||4kddyfd.cn^
 ||4ke5b4ila.codedge.de^
 ||4kfv18.cn^
 ||4kmovies.online^
@@ -37952,6 +37954,7 @@
 ||hookhub.webcam^
 ||hookupbucks.com^
 ||hookworm.commanddot.com^
+||hooliganmedia.com^
 ||hooligapps.com^
 ||hoolyfy.com^
 ||hoood.info^
@@ -38438,6 +38441,7 @@
 ||huixingcheng.cn^
 ||huiyef.cn^
 ||huiyutz.cn^
+||huizai.top^
 ||huizeyoupin.com^
 ||hukbo.com^
 ||hulai0323166.space^
@@ -41816,6 +41820,7 @@
 ||ixmlusc.cn^
 ||ixnow.xyz^
 ||ixnp.com^
+||ixnrmco.com^
 ||ixpub.net^
 ||ixqfughrynmfh.com^
 ||ixsgoy.getpenta.com^

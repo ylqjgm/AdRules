@@ -1,5 +1,5 @@
 ! Title: AdRules for AdGuard
-! Version: 20220515082645386444156
+! Version: 20220515102931367003552
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Total lines: 00000
 ||cda.0-shiny.com^
@@ -2111,6 +2111,7 @@
 ||4info.com^
 ||4jnzhl0d0.com^
 ||lk.4jzl.cn^
+||4kddyfd.cn^
 ||gg.4kdy.net^
 ||4kfv18.cn^
 ||4kmovies.online^
@@ -7540,9 +7541,9 @@
 ||aitehao.top^
 ||ads.aitype.net^
 ||s3-iad-2.cf.dash.row.aiv-cdn.net^
+||pop-iad-2.cf.dash.row.aiv-cdn.net^
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||s3.ll.videorolls.row.aiv-cdn.net^
-||pop-iad-2.cf.dash.row.aiv-cdn.net^
 ||api.us-east-1.aiv-delivery.net^
 ||aivalabs.com^
 ||go.aiven.io^
@@ -9733,9 +9734,9 @@
 ||info.asahigloval.co.jp^
 ||asai77.top^
 ||rcn.asapp.com^
-||sdk.asapp.com^
 ||sprint-srs-appopen.asapp.com^
 ||sprint.asapp.com^
+||sdk.asapp.com^
 ||visit.asb.co.nz^
 ||asc.asc-net.com^
 ||licensinginsights.ascap.com^
@@ -13337,9 +13338,9 @@
 ||biteburied.com^
 ||bitesizememorable.com^
 ||click.bitesquad.com^
-||bitcast-a.v1.iad1.bitgravity.com^
 ||bitcast-d.bitgravity.com^
 ||stats.bitgravity.com^
+||bitcast-a.v1.iad1.bitgravity.com^
 ||dii2.bitiba.be^
 ||dii2.bitiba.ch^
 ||dii2.bitiba.co.uk^
@@ -31477,13 +31478,13 @@
 ||affiliate.gameladen.com^
 ||gameleads.ru^
 ||gamelights.ru^
-||201205igp.gameloft.com^
 ||578756.gameloft.com^
 ||igp06.gameloft.com^
 ||igpiphone.gameloft.com^
 ||ingameads.gameloft.com^
 ||ingameads2.gameloft.com^
 ||ingamesads.gameloft.com^
+||201205igp.gameloft.com^
 ||html5.gamemonetize.com^
 ||api.gameofwhales.com^
 ||sp.gameomatic.fr^
@@ -36380,6 +36381,7 @@
 ||hookupbucks.com^
 ||click.hookupinyourcity.com^
 ||adserver1.hookyouup.com^
+||hooliganmedia.com^
 ||hooligapps.com^
 ||hoolyfy.com^
 ||hoood.info^
@@ -36984,6 +36986,7 @@
 ||huiyef.cn^
 ||awsfjlalsf.huiyigou111.com^
 ||huiyutz.cn^
+||huizai.top^
 ||huizeyoupin.com^
 ||mc.hujiang.com^
 ||track.hujiang.com^
@@ -40159,6 +40162,7 @@
 ||ixmlusc.cn^
 ||ixnow.xyz^
 ||ixnp.com^
+||ixnrmco.com^
 ||go.ixon.cloud^
 ||ixpub.net^
 ||ixqfughrynmfh.com^
@@ -52245,8 +52249,8 @@
 ||ad-tech.nbcuni.com^
 ||mps.nbcuni.com^
 ||oimg.nbcuni.com^
-||osimg.nbcuni.com^
 ||pix.nbcuni.com^
+||osimg.nbcuni.com^
 ||www3.nbcuni.com^
 ||banners.nbcupromotes.com^
 ||lpbhnv.nbcwashington.com^
@@ -82814,10 +82818,10 @@
 ||metrics.worldmarket.com^
 ||smetrics.worldmarket.com^
 ||tracking.worldmedia.net^
-||content.worldnow.com^
-||kake.images.worldnow.com^
 ||wtnj.worldnow.com^
 ||wtsdc.worldnow.com^
+||content.worldnow.com^
+||kake.images.worldnow.com^
 ||s.worldofmacros.net^
 ||worldofrest.com.ua^
 ||cpm.worldoftanks.com^
