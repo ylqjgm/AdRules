@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220515212125
+#VER=20220515223803
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93628
+#TOTAL_LINES=93630
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -30352,6 +30352,7 @@ payload:
   - '+.fa.fpt.shop'
   - '+.fptad.com'
   - '+.ads-cdn.fptplay.net'
+  - '+.fpvdxd5.com'
   - '+.fpyacdna.com'
   - '+.fqab5xq7qlgt.info'
   - '+.fqceyqo.com'
@@ -78596,6 +78597,7 @@ payload:
   - '+.stat.uuu9.com'
   - '+.dota2.uuu9.com'
   - '+.uuwhg.com'
+  - '+.uuwn7ho.cn'
   - '+.uux79.com'
   - '+.uuxnwoevyb.com'
   - '+.uuybnrimdyg.com'
