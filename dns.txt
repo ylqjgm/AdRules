@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: iqiEWFhiQh+eaWsyg8zmJw
+! Checksum: XqgKh/urefURQCY2+IVDaw
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
-! Version: 2022-05-15 07:25:24（北京时间） 
-! Total count: 89951
+! Version: 2022-05-15 09:31:22（北京时间） 
+! Total count: 89955
 *.91ivr.
 *.91wan.
 *.99g99.
@@ -272,6 +272,7 @@
 @@||package.wallpaper.cdn.pandora.xiaomi.com.lan^
 @@||pan.quark.cn^
 @@||paste.in^
+@@||qpic.cn^
 @@||qq-web.cdn-go.cn^
 @@||quark.sm.cn^
 @@||qun.qq.com^
@@ -24622,6 +24623,7 @@
 ||dexpredict.com^
 ||dexuanyu.top^
 ||dexun.lzjzyjh.com^
+||deya.ink^
 ||deyidesign.com^
 ||dezfu.com^
 ||df-srv.de^
@@ -45119,6 +45121,7 @@
 ||lantocha.ru^
 ||lantuyj.com^
 ||lanxiangji.com^
+||lanyue.ink^
 ||lanzar.publicidadweb.com^
 ||lanzuankeji.cn^
 ||laobaigushi.com^
@@ -77085,6 +77088,7 @@
 ||tn34lkn.com^
 ||tnarzc.com^
 ||tnative.ru^
+||tnc3-aliec2.snssdk.com^
 ||tnc3-alisc1.snssdk.com^
 ||tnc3-bjlgy.snssdk.^
 ||tnc3-bjlgy.snssdk.com^

@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220515072509
+#VER=20220515093104
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93620
+#TOTAL_LINES=93622
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -22951,6 +22951,7 @@ payload:
   - '+.dexpredict.com'
   - '+.connect.dexterchaney.com'
   - '+.dexuanyu.top'
+  - '+.deya.ink'
   - '+.deyidesign.com'
   - '+.dezfu.com'
   - '+.df-srv.de'
@@ -44405,6 +44406,7 @@ payload:
   - '+.lantuyj.com'
   - '+.rrznha.lanvin-en-bleu.com'
   - '+.lanxiangji.com'
+  - '+.lanyue.ink'
   - '+.glores2.lanzoui.com'
   - '+.sanme2.lanzoui.com'
   - '+.lanzuankeji.cn'
