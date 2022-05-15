@@ -1,10 +1,16 @@
 ! Homepage: https://kbsml.com
 ! Title: adg-kall
 ! Description: Adg-kall collected on the network and I have written some rules
-! Version: 1.0.7.3
-! TimeUpdated: 2022-05-09T22:09
+! Version: 1.0.7.5
+! TimeUpdated: 2022-05-15T18:43
 ! Expires: 30 days
 !
+||api-ks.wtzw.com/api/*/reader-adv^
+||qm-dig.wtzw.com/bad-ad/dig^
+||ty2808.com/res/w/js/bdshow.js^
+||z.grescw.com/site/lg_fhvp/d_yo.js^
+grescw.com$$div[id='advsex']
+||dsp-x.jd.com/adx^
 wanwang.aliyun.com##.domain-parking
 freestresser.to$$script[tag-content="ads"]
 ||cyber-hub.pw/advertising.php^
@@ -1588,6 +1594,11 @@ baike.baidu.com$$div[id="J_yitiao_container"]
 ||baike.baidu.com^$replace=/(adManager|imageAd|floatAd)/null/
 baike.baidu.com$$div[id="J-floatAd"]
 ||baike.baidu.com/api/wapui^
+zhidao.baidu.com##.cms-slide, .cms-slide-lazy, .mod-noshadow
+zhidao.baidu.com$$div[id="wgt-ad-right-fixed"]
+zhidao.baidu.com^$replace=/ads_|ec_ads|addAdsCk/null/
+zhidao.baidu.com$$script[tag-content="ads_"]
+zhidao.baidu.com###knowledge-answer
 zhidao.baidu.com$$script[id="t:question-answer-adyx-tmpl"]
 zhidao.baidu.com$$div[class="wgt-brand-btm-ad"]
 zhidao.baidu.com$$div[class="wgt-business-marketing"]

@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220515182931
+#VER=20220515200954
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93601
+#TOTAL_LINES=93607
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -43653,6 +43653,7 @@ payload:
   - '+.pixiu.shangshufang.ksosoft.com'
   - '+.uid.ksosoft.com'
   - '+.js.a.kspkg.com'
+  - '+.xc.ksqfwxu.cn'
   - '+.ksqjlijauf.top'
   - '+.ksrsy.com'
   - '+.jdgtgb.ksta.de'
@@ -51017,6 +51018,7 @@ payload:
   - '+.mpzw.com'
   - '+.mqcwr.cn'
   - '+.mqgpo.com'
+  - '+.mqhzdl.com'
   - '+.mqies.com'
   - '+.mqjcdno.com'
   - '+.mql5.com'
@@ -52340,6 +52342,7 @@ payload:
   - '+.nbojiajiao.bid'
   - '+.nbolame.ru'
   - '+.nbpyfog.cn'
+  - '+.99e333.nbrlzy.com'
   - '+.nbrtrack.com'
   - '+.nbsave.xyz'
   - '+.nbslx.mobi'
@@ -65933,6 +65936,7 @@ payload:
   - '+.sbc31.com'
   - '+.sbc7wfnaakau.com'
   - '+.sbcpower.com'
+  - '+.pn.sbdebcz.cn'
   - '+.sbdtds.com'
   - '+.sbenx.com'
   - '+.gictjj.sbermarket.ru'
@@ -86850,6 +86854,7 @@ payload:
   - '+.zfw.me'
   - '+.analytics.zg-api.com'
   - '+.e.zg-api.com'
+  - '+.yh.zg-zxzx.net'
   - '+.zg40c.cn'
   - '+.zgbbtjt.com'
   - '+.f.zgbmw.com.cn'
@@ -93235,6 +93240,7 @@ payload:
   - '+.zouphail.com'
   - '+.zoupsudy.com'
   - '+.zoutubephaid.com'
+  - '+.7c4432.zouxinmall.com'
   - '+.zouxinyan.xyz'
   - '+.zowary.com'
   - '+.zowinvn.vip'

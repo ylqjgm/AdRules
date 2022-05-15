@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: EErwARUXl8d3tHpPfeJCMw
+! Checksum: gIr4ptkr+4iIcvAvumz/kg
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
-! Version: 2022-05-15 18:29:45（北京时间） 
-! Total count: 89936
+! Version: 2022-05-15 20:10:10（北京时间） 
+! Total count: 89942
 *.91ivr.
 *.91wan.
 *.99g99.
@@ -2886,6 +2886,7 @@
 ||7c060ad96a.com^
 ||7c0616849b.com^
 ||7c1e55606540.com^
+||7c4432.zouxinmall.com^
 ||7ca78m3csgbrid7ge.com^
 ||7caidai.xyz^
 ||7car.com.cn^
@@ -3431,6 +3432,7 @@
 ||99dc6ef64c.com^
 ||99ddd.com^
 ||99dqw.com^
+||99e333.nbrlzy.com^
 ||99e83e3024.com^
 ||99hg.wang^
 ||99js.rxys.com^
@@ -52750,6 +52752,7 @@
 ||mqesfg.bpm-power.com^
 ||mqgpo.com^
 ||mqhaxf.keds.com^
+||mqhzdl.com^
 ||mqies.com^
 ||mqjcdno.com^
 ||mqjpkx.lulli-sur-la-toile.com^
@@ -59747,6 +59750,7 @@
 ||pmzer.com^
 ||pn.birjkhm.cn^
 ||pn.qijpaih.cn^
+||pn.sbdebcz.cn^
 ||pn.zxsnllo.cn^
 ||pnads.com^
 ||pncloudfl.com^
@@ -86437,6 +86441,7 @@
 ||xc.ejboayh.cn^
 ||xc.gdt.qq.com^
 ||xc.hubeijieshikj.cn^
+||xc.ksqfwxu.cn^
 ||xc.macd.cn^
 ||xc.nhpwwd.cn^
 ||xc.nimaxrv.cn^
@@ -87806,6 +87811,7 @@
 ||ygyzx.cn^
 ||ygzkedoxwhqlzp.com^
 ||yh.jialingmm.net^
+||yh.zg-zxzx.net^
 ||yh21kk.com^
 ||yh300.vip^
 ||yh6u.dealeusedevoyages.com^
