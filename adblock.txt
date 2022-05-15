@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 5mxYZCAqZeNCA5pYzStyrg
+! Checksum: FvfzoKTObe7YufAN72eFMA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-15 20:26:52（北京时间） 
-! Total count: 91366
+! Version: 2022-05-15 20:27:58（北京时间） 
+! Total count: 91375
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -6488,6 +6488,7 @@
 ##[onclick^='window.open("https://www.zxucii.com:']
 ##[ontouchstart='this.click();'][href^='https://wd.haoyundm.com']
 ##[poster^="https://yun.lhqykq.cn/shandong/"],[poster^='https://yun.fayscb.cn/shandong/']
+##[poster^='https://i.opiwb.com:']
 ##[poster^='https://img.hylmxing.com:']
 ##[rel='nofollow'][href*='com:'][target='_blank']
 ##[src*='.gif'][width='99%'][height='118'][style='border:0;']
@@ -37990,7 +37991,6 @@ ntm.gov.tw#@#.ad-left
 ntp.msn.cn##recommended-sites
 ntp.msn.com#@#[style*="background-image:"]
 ntpcb.com##img[width="1195"]
-ntrol
 ntunhs.edu.tw,ntust.edu.tw,sjsmitaa.org#@#.module-ads
 nude-gals.com##a[href^="go.php?"]
 nudeclap.com##.style75
@@ -45545,6 +45545,7 @@ zznews.cn##.ad:not([style])
 ||0ka.com^$third-party
 ||0kkbb.com/js/i.js
 ||0lb.com/data/attachment/album/
+||0m483y7.cn^
 ||0mr.cc^
 ||0myksyhuuz.cn^
 ||0o0.ooo/2017/01/13/58787d42bbad6.jpg
@@ -46230,6 +46231,7 @@ zznews.cn##.ad:not([style])
 ||2fe913d83a.com^
 ||2fzb.com/config/adv.js
 ||2g2h.com^
+||2g9x9uf.cn^
 ||2gb8fnh.cn^
 ||2gis.ru/_/log
 ||2gis.ru/_/metrics
@@ -47190,6 +47192,7 @@ zznews.cn##.ad:not([style])
 ||7hor9gul4s.com^
 ||7host.ru/tr/*?r=$third-party
 ||7iouh9y.cn^
+||7jkzmbd.cn^
 ||7junshi.com/con/ad
 ||7junshi.com/static/red-envelopes.js
 ||7k7k.com/api/position/
@@ -47209,6 +47212,7 @@ zznews.cn##.ad:not([style])
 ||7mx.eider.com^
 ||7o2o.com^$third-party
 ||7q1z79gxsi.global.ssl.fastly.net^
+||7r227ut.cn^
 ||7scs.com/Public/img/list-
 ||7t955.com^$third-party
 ||7times.top^
@@ -56593,6 +56597,7 @@ zznews.cn##.ad:not([style])
 ||cvt1.sibnet.ru^
 ||cvtr.io^$third-party
 ||cw.guominziben.com^
+||cwc494e.cn^
 ||cwejnszakvvvu.com^
 ||cwhsmgs1.cn^
 ||cwmlm.com^
@@ -57950,6 +57955,7 @@ zznews.cn##.ad:not([style])
 ||diyijjj.com/data/content
 ||dizhonghaihotel.com^
 ||dj-updates.com^
+||dj09j5u.cn^
 ||dj0ts1x.cn^
 ||dj155.com/gg/
 ||dj930.cn^
@@ -62989,6 +62995,7 @@ zznews.cn##.ad:not([style])
 ||h353.ncadvertiser.com^
 ||h41s.com^
 ||h45pmx1.cn^
+||h4b0srs.cn^
 ||h4k5.com^$third-party
 ||h4kdxs.com^
 ||h5.miyushu.com^
@@ -67080,6 +67087,7 @@ zznews.cn##.ad:not([style])
 ||kayak.com/k/redirect/tracking?
 ||kazigua.top^
 ||kb-render.alicdn.com/html/*.html
+||kb8ixcm.cn^
 ||kbb.com/partner/$third-party
 ||kbdjxvnyapyr.com^
 ||kbkilog.cn^
@@ -85872,6 +85880,7 @@ zznews.cn##.ad:not([style])
 ||ujiasm.com^
 ||ujljbwnr.com^
 ||ujvpma.infinitytools.com^
+||uk529u0.cn^
 ||ukcomparends.pro^
 ||ukgfxw.satofull.jp^
 ||ukhkcxmzesi.com^
