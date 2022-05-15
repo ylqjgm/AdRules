@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220515093349
+#VER=20220515100435
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93622
+#TOTAL_LINES=93623
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -34502,6 +34502,7 @@ payload:
   - '+.habyc.com'
   - '+.campaign.hach.com.cn'
   - '+.hackelevensol.com'
+  - '+.hackeraa.xyz'
   - '+.metrics.hackerrank.com'
   - '+.mxsvjc.hackers.ac'
   - '+.ligxyv.hackers.co.kr'

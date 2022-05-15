@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220515093348
+#VER=20220515100434
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93622
+#TOTAL_LINES=93623
 DOMAIN-SUFFIX,cda.0-shiny.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
 DOMAIN-SUFFIX,c.0.0.0.0.cn
@@ -34499,6 +34499,7 @@ DOMAIN-SUFFIX,habtcng.cn
 DOMAIN-SUFFIX,habyc.com
 DOMAIN-SUFFIX,campaign.hach.com.cn
 DOMAIN-SUFFIX,hackelevensol.com
+DOMAIN-SUFFIX,hackeraa.xyz
 DOMAIN-SUFFIX,metrics.hackerrank.com
 DOMAIN-SUFFIX,mxsvjc.hackers.ac
 DOMAIN-SUFFIX,ligxyv.hackers.co.kr
