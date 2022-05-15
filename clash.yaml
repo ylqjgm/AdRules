@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220515140118
+#VER=20220515140801
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93636
+#TOTAL_LINES=93644
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -8711,6 +8711,7 @@ payload:
   - '+.dialog.anderson-negele.com'
   - '+.andersondiamonds.com'
   - '+.a9d8e7b6i5s.andgino.jp'
+  - '+.andhub.jp'
   - '+.andibringto.biz'
   - '+.andinterpers.com'
   - '+.mesiniklan.andipublisher.com'
@@ -20759,7 +20760,7 @@ payload:
   - '+.counter.cropvid.com'
   - '+.croresh.com'
   - '+.crorop.com'
-  - '+.ad3.cross-a.net'
+  - '+.cross-a.net'
   - '+.dealersuccess.cross-sell.com'
   - '+.cross-system.com'
   - '+.crossboardmobile.com'
@@ -20944,7 +20945,7 @@ payload:
   - '+.csjwawe.top'
   - '+.csk.ru'
   - '+.cslgcomputer.club'
-  - '+.kmt.cslpf.cn'
+  - '+.cslpf.cn'
   - '+.metrics.csmonitor.com'
   - '+.smetrics.csmonitor.com'
   - '+.csnem.ru'
@@ -25024,6 +25025,7 @@ payload:
   - '+.dy8nb.com'
   - '+.xeeptq.dyatkovo.ru'
   - '+.dycej.com'
+  - '+.dycwt.cn'
   - '+.dycxkj.cn'
   - '+.dydab.com'
   - '+.dydd.xyz'
@@ -34411,6 +34413,7 @@ payload:
   - '+.gzqmcd.com'
   - '+.gzqswl.cn'
   - '+.gzqudou.com'
+  - '+.gzqvd.cn'
   - '+.gzrljx.cn'
   - '+.gzsanxiaomingshi.cn'
   - '+.gzts188.com'
@@ -53233,6 +53236,7 @@ payload:
   - '+.nfkos.com'
   - '+.nfkq8jy5db0b.com'
   - '+.trk.nfl-online-streams.live'
+  - '+.nflks.cn'
   - '+.nflxafyh.com'
   - '+.nflxafyh.top'
   - '+.metrics.nfm.com'
@@ -53265,6 +53269,7 @@ payload:
   - '+.analytics.ngfiles.com'
   - '+.nggdwfz.cn'
   - '+.nghcxtmsbqcmpv.com'
+  - '+.nghdp.cn'
   - '+.ads.nghenhinvietnam.vn'
   - '+.ngholishingsm.info'
   - '+.ngjquyzjgcrupz.com'
@@ -53301,6 +53306,7 @@ payload:
   - '+.smetrics.nhhealthyfamilies.com'
   - '+.adsgo.nhipcaudautu.vn'
   - '+.log.nhipcaudautu.vn'
+  - '+.nhjsw.cn'
   - '+.mtcs.nhk-ondemand.jp'
   - '+.bc.nhk.jp'
   - '+.oms.nhllive.com'
@@ -58081,6 +58087,7 @@ payload:
   - '+.ads.pfl.ua'
   - '+.pflexads.com'
   - '+.pflhnpu.cn'
+  - '+.pflrv.cn'
   - '+.passport.pfn.bz'
   - '+.stats.cdn.pfn.bz'
   - '+.anglerfish.pfolios.net'
@@ -76483,6 +76490,7 @@ payload:
   - '+.trs.cn'
   - '+.t.trsbf.com'
   - '+.go.trsfamily.com'
+  - '+.trslw.cn'
   - '+.trstplse.com'
   - '+.istatistik.trthaber.com'
   - '+.trtjigpsscmv9epe10.com'

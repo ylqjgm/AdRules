@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: XPlbXKUDFLl6gLip9TzSPw
+! Checksum: 6sTQBr51/Fcp7xhKS6u6tQ
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-15 14:01:32（北京时间） 
-! Total count: 91319
+! Version: 2022-05-15 14:08:17（北京时间） 
+! Total count: 91327
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -56420,6 +56420,7 @@ zznews.cn##.ad:not([style])
 ||csjs.ltd^
 ||csjwawe.top^
 ||cslgcomputer.club^
+||cslpf.cn^
 ||csp-collector.appspot.com^
 ||csp-reporting.cloudflare.com^
 ||csp.archant.co.uk^
@@ -58594,6 +58595,7 @@ zznews.cn##.ad:not([style])
 ||dybee.tv/gg
 ||dybee.tv^*.php
 ||dybz44.com/js/html
+||dycwt.cn^
 ||dycxkj.cn^
 ||dydab.com^
 ||dydd.xyz^
@@ -62933,6 +62935,7 @@ zznews.cn##.ad:not([style])
 ||gznwn.com^
 ||gzqswl.cn^
 ||gzqudou.com^
+||gzqvd.cn^
 ||gzts188.com^
 ||gzwl.xyz^
 ||gzwxdq.cn^
@@ -72339,6 +72342,7 @@ zznews.cn##.ad:not([style])
 ||nextinpact.com/image/*=.jpg
 ||nextstat.com^$third-party
 ||nexx.cloud/play/beacon.
+||nflks.cn^
 ||nflshop.com/api/track
 ||nfmovies.com/pic/tu/*_863x59.
 ||nfmovies.com/pic/tu/*_banner
@@ -72363,6 +72367,7 @@ zznews.cn##.ad:not([style])
 ||ngc1.nsm-corp.com^
 ||ngceq.cn^
 ||nggdwfz.cn^
+||nghdp.cn^
 ||ngjquyzjgcrupz.com^
 ||ngmco.net^$third-party
 ||ngogmbe.cn^
@@ -72372,6 +72377,7 @@ zznews.cn##.ad:not([style])
 ||ngueja.2ememain.be^
 ||nh738.cn^
 ||nhfpdc.cn^
+||nhjsw.cn^
 ||nhk.jp^*/bc.gif?
 ||nhk.or.jp^*/bc.js
 ||nhm32.site^
@@ -74290,6 +74296,7 @@ zznews.cn##.ad:not([style])
 ||pfiparts.com^
 ||pfizer.com.tw^$subdocument
 ||pflhnpu.cn^
+||pflrv.cn^
 ||pfp.sina.com.cn/
 ||pfp.sina.com.cn^$script,subdocument
 ||pfp.sina.net/ea/ad/
@@ -85290,6 +85297,7 @@ zznews.cn##.ad:not([style])
 ||trrsf.com.br/metrics/
 ||trrsf.com/metrics/
 ||trs.cn^$third-party
+||trslw.cn^
 ||trstplse.com^$third-party
 ||trtjigpsscmv9epe10.com^
 ||trtl.ws^$third-party
