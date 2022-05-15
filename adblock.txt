@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: cJKqfQXE9IrExQPGElWbrg
+! Checksum: XPlbXKUDFLl6gLip9TzSPw
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-15 13:47:39（北京时间） 
-! Total count: 91312
+! Version: 2022-05-15 14:01:32（北京时间） 
+! Total count: 91319
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -58438,6 +58438,7 @@ zznews.cn##.ad:not([style])
 ||dtrk.slimcdn.com^
 ||dtscout.com^
 ||dtsedge.com^
+||dtsxn.cn^
 ||dttrk.com^
 ||dtv5loup63fac.cloudfront.net^
 ||dtxngr.com^$third-party
@@ -62171,6 +62172,7 @@ zznews.cn##.ad:not([style])
 ||gnncc.cc^
 ||gnnzuo.ormatek.com^
 ||gnpge.com^$third-party
+||gnqxd.cn^
 ||gnshwf.room-park.ru^
 ||go-mpulse.net^
 ||go-top.xyz^
@@ -62696,6 +62698,7 @@ zznews.cn##.ad:not([style])
 ||gsjdzx.com^$third-party
 ||gsjzlssws.com^
 ||gsmatch.edm.globalsources.com^
+||gsnlc.cn^
 ||gsp1.baidu.com^
 ||gsqweb.cn^
 ||gssdsj.com^
@@ -62874,6 +62877,7 @@ zznews.cn##.ad:not([style])
 ||gwylm.com^
 ||gwyvvjj.cn^
 ||gx.idg.se^
+||gxbnp.cn^
 ||gxdianhua.com^
 ||gxe.husky.sogou.com^
 ||gxejgs.com^
@@ -68963,6 +68967,7 @@ zznews.cn##.ad:not([style])
 ||lpipua.kcar.com^
 ||lpjgr.top^
 ||lpjxzs.com^
+||lpmzt.cn^
 ||lpokqm.zapa.fr^
 ||lporirxe.com^$third-party
 ||lppwnue.cn^
@@ -83833,6 +83838,7 @@ zznews.cn##.ad:not([style])
 ||tndiltm.cn^
 ||tngmn.com^
 ||tngmn.com^$third-party
+||tnjvz.cn^
 ||tnpads.xyz^
 ||tnqmayfhdr.com^
 ||tns-counter.ru^$third-party
@@ -84103,6 +84109,7 @@ zznews.cn##.ad:not([style])
 ||tq121.com.cn/j/ad/
 ||tqlkg.com^
 ||tqlyjz.cn^
+||tqmcj.cn^
 ||tqmibkqlwqdysi.com^
 ||tqpay.top^
 ||tqvacq.intrend.it^
