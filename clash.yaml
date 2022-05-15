@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220515100435
+#VER=20220515115128
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93623
+#TOTAL_LINES=93625
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -82697,6 +82697,7 @@ payload:
   - '+.phpadsnew.wn.com'
   - '+.top.wn.com'
   - '+.wn052ucd.online'
+  - '+.wn68din.cn'
   - '+.scrooge.wnbc.com'
   - '+.wnbeiskivkkmpy.xyz'
   - '+.wnbfw.com'
@@ -93363,6 +93364,7 @@ payload:
   - '+.ztidu.com'
   - '+.ztrack.net'
   - '+.ztrynpo.cn'
+  - '+.kry.ztshg.cn'
   - '+.ztsrv.com'
   - '+.ztvx8.com'
   - '+.ztvzfq.com'

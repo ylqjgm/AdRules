@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 9kHiemRzAhgfr3bkxIE8Wg
+! Checksum: 4431TS/w16N1Y/GOm5EyOA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-15 10:04:53（北京时间） 
-! Total count: 91377
+! Version: 2022-05-15 11:51:43（北京时间） 
+! Total count: 91374
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -7045,6 +7045,7 @@
 ##a[target="_blank"] > img[height="60px"][src*=".c-ctrip.com"][src$=".gif"]
 ##a[target="_blank"] > img[height="60px"][src*=".lenovo.com"][src$=".png"]
 ##a[target="_blank"] > img[height="60px"][src*=".meituan.net"][src$=".gif"]
+##a[target="_blank"] > img[height="60px"][src*=".tripcdn.com"][src$=".gif"]
 ##a[target="_blank"] > img[height="60px"][src*="qlogo.cn"][src$=".png"]
 ##a[target="_blank"] > img[src*=".bitautoimg.com/"][src$=".gif"]
 ##aa[href^="https://itubego.com/video-downloader/?affid="]
@@ -7165,8 +7166,8 @@
 ##div[onclick^="window.location.href"][onclick*=".haoyundm.com"]
 ##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 ##div[style=" max-width:965px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:973px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style=" max-width:975px;  margin:0 auto;"] > a > img[height="60px"]
-##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="border-radius:8px;background-color:#005737;padding:6px;"]
 ##div[style="box-sizing:border-box;padding:20px 16px;border-radius:8px;width:90%;margin:0 auto;"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
@@ -18282,11 +18283,6 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 1024pb.com##.t[style="margin-top:8px"]
 1024pb.com,2cycomic.com,yemancomic.com##body > a
 1024pb.com,99syy1.com##div[class^="ps_"]
-1024pl.com###header > center
-1024pl.com##.leftd
-1024pl.com##.t[style="margin-top:8px"]
-1024pl.com,2cycomic.com,yemancomic.com##body > a
-1024pl.com,99syy1.com##div[class^="ps_"]
 104.com.tw###aidma-job
 104.com.tw###aidma_128
 104.com.tw###aidma_588
@@ -38539,7 +38535,7 @@ pcstore.com.tw##.priority1
 pcstore.com.tw##.priority_ad
 pcstore.com.tw##div[class^="ad388zone"]
 pcworks.cn##.md-show
-pcworks.cn##.xintheme-ad
+pcworks.cn,vdianying.cc##.xintheme-ad
 pcworld.com##.coupons
 pcworld.hu##.box.ad
 pcworld.hu##div[class^="ad ad-article-"]
@@ -43097,7 +43093,6 @@ vcdn2.space##+js(window.open-defuser)
 vcomic.net##+js(set-constant, canRunAds, true)
 vcrypt.net##+js(remove-attr, onclick, .btncontinue)
 vdianying.cc##.swiper-wrapper
-vdianying.cc##.xintheme-ad
 vdianying.cc##.xintheme-gg
 vdianying.cc##div[style^="display:block !important;"]
 vdisk.weibo.com###ads_layer
@@ -46441,7 +46436,6 @@ zznews.cn##.ad:not([style])
 ||360buyimg.com/jdf/1.0.0/unit/log/
 ||360buyimg.com/jzt/temp/js/
 ||360buyimg.com^$domain=1024pb.com|chdbits.co|gw54.com|qianggou5.com|xgw5.com
-||360buyimg.com^$domain=1024pl.com|chdbits.co|gw54.com|qianggou5.com|xgw5.com
 ||360doc.com/js/index7/mask_index_yc.js
 ||360doc.com/js/showarticle.js
 ||360doc.com^*.html?t=
@@ -50100,7 +50094,6 @@ zznews.cn##.ad:not([style])
 ||alicdn.com/tps/*-950-90.
 ||alicdn.com/tps/i3/T19NaCFKFaXXckTCTS-300-100.jpg
 ||alicdn.com^$domain=1024pb.com|11papapa.com|1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|acglover.me|aotu101.com|c7cc.cc|ccxx99.com|dytt.com|haicao32.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|qyl00.com|qyl222.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|viidii.info|wenkuxiazai.com|xiaomingming.org|xingzhiyin44.com|yuese46.com|yzz12.com
-||alicdn.com^$domain=1024pl.com|11papapa.com|1avlang.com|2334n.com|51dll.com|52kpop.com|5xx44.com|5xx77.com|63ef.com|69t41.com|7mav2.com|99a21.com|acglover.me|aotu101.com|c7cc.cc|ccxx99.com|dytt.com|haicao32.com|hanfan.cc|jb51.net|jitapu.com|junying.com|jvhao.com|lady3.xyz|magnet2048.com|qingmanyong.com|qyl00.com|qyl222.com|spqi.xyz|supfree.net|that2.info|thztv.cc|ttww22.com|viidii.info|wenkuxiazai.com|xiaomingming.org|xingzhiyin44.com|yuese46.com|yzz12.com
 ||alicdn.com^$domain=28th.cc
 ||alicdn.com^$domain=2c2.website|2p8.space|adultgao.com|caopop.com|caoporn.com|caouoo.com|caox.cc|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vwan.xyz|xhao1.com
 ||alicdn.com^$domain=99a67.com|99re.com
@@ -57651,6 +57644,7 @@ zznews.cn##.ad:not([style])
 ||dextersolutions.actonservice.com^
 ||dexuanyu.top^
 ||dexun.lzjzyjh.com^
+||deya.ink^
 ||deyangs.com/img/
 ||deyidesign.com^
 ||df-srv.de^$third-party
@@ -59967,6 +59961,7 @@ zznews.cn##.ad:not([style])
 ||etk.locusrobotics.com^
 ||etoland.co.kr/img/banner/
 ||etongxs.com/mb/meng/
+||etonline.com/modules/contrib/ctd_cvp/js/prebid-ads.js$script,~third-party
 ||etoro.com/tradesmonitor/
 ||etp-prod.com^$third-party
 ||etrack.ext.arubainstanton.com^
@@ -60718,6 +60713,7 @@ zznews.cn##.ad:not([style])
 ||fgbgtt.cian.ru^
 ||fgfgnbmeieorr910.com^
 ||fglrgt.ruggable.com^
+||fgn.nphqw.cn^
 ||fgo22.info^$third-party
 ||fguyrnvobmh.com^
 ||fh21.com.cn/js/passport/createQuickMenu.js
@@ -63030,6 +63026,7 @@ zznews.cn##.ad:not([style])
 ||habkjav.cn^
 ||habtcng.cn^
 ||habyc.com^
+||hackeraa.xyz^
 ||hackhome.com/js/*top.js
 ||hackhome.com/js/bhref.js
 ||hackhome.com/js/dright.js
@@ -67508,6 +67505,7 @@ zznews.cn##.ad:not([style])
 ||krxd.net^
 ||krxd.net^$domain=focus.de
 ||kry.jknrwe.cn^
+||kry.ztshg.cn^
 ||ks.js.cn*/yytf/$object,script
 ||ks.walkq.com^
 ||ks.yhz18.com^
@@ -67797,6 +67795,7 @@ zznews.cn##.ad:not([style])
 ||lanternpossibly.com^
 ||lantuyj.com^
 ||lanyes.org/content/templates/lanye2015/images/hb_banner.png
+||lanyue.ink^
 ||lanzuankeji.cn^
 ||laobaigushi.com^
 ||laobei.top^
@@ -75894,12 +75893,10 @@ zznews.cn##.ad:not([style])
 ||qhimg.com/static/*/common/seed.js
 ||qhimg.com/static/5dcd236fc857be9c,5b391c33a0748022.js
 ||qhimg.com^$domain=1024pb.com|hero3g.com
-||qhimg.com^$domain=1024pl.com|hero3g.com
 ||qhimgs1.com/t029762bc960d5104ef.jpg
 ||qhl.bealge.sogou.com^
 ||qhlmb.com^
 ||qhmsg.com^$domain=1024pb.com
-||qhmsg.com^$domain=1024pl.com
 ||qhnews.com/tupian/
 ||qhnwj.com^
 ||qhonzpl.cn^
@@ -84117,7 +84114,6 @@ zznews.cn##.ad:not([style])
 ||toutiao.xn--fiqs8s^
 ||toutiaoimg.com/origin/$image,domain=mgtv1.net|agemys.com|acgndmku.com|subaibaiys.com
 ||toutiaoimg.com^$domain=1024pb.com
-||toutiaoimg.com^$domain=1024pl.com
 ||toutiaoyule.com/n/dspshow.
 ||touzi110.mobi^
 ||tovery.net^$third-party
@@ -88279,6 +88275,7 @@ zznews.cn##.ad:not([style])
 ||www.chnmoney.com/dfile/$script,image
 ||www.chnmoney.com/skin/$script
 ||www.chrs-mln-krs.com^
+||www.chunaisese12.com^
 ||www.claiks.com^
 ||www.cloud-9751.com^
 ||www.clue6load.com^

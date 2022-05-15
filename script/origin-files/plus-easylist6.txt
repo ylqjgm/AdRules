@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205140321
+! Version: 202205150217
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41478
+! Lenth = 41492
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6197,6 +6197,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 ://tracking.*/tr.js
 ://tru.am^$third-party
 ://utm.$domain=~utm.akindi.com|~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.md|~utm.pansa.pl|~utm.pharos360.com|~utoronto.ca
+://wa.*/s?
 ;type=eligibleimpression;
 ;type=pixel;
 =comscoreAdobeDpvCall&
@@ -6581,6 +6582,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
 @@||bt.com^*/touchclarity/homepage/omtr_tc.js
 @@||btloader.com/tag?$domain=programme-tv.net
+@@||btloader.com/tag?h=prismamedia-com&upapi=true$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||btstatic.com/tag.js$domain=oralb.de
 @@||buffaloshop.de^*/webtrekk.js
 @@||buffalowildwings.com^*/google-analytics.js
@@ -7511,6 +7513,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=managertoday.com.tw
 @@||googletagmanager.com/gtm.js$domain=mangaseek.net
 @@||googletagmanager.com/gtm.js$domain=matsukiyo.co.jp
+@@||googletagmanager.com/gtm.js$domain=maxisciences.com|gentside.*|ohmymag.*
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.com.tr
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.de
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.nl
@@ -7805,6 +7808,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||jolie.de/sites/default/files/google_tag/google_tag_manager/google_tag.script.js
 @@||js-agent.newrelic.com/nr-*.min.js$domain=copy.com
 @@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
+@@||js-sec.indexww.com^$script,domain=maxisciences.com|gentside.*|ohmymag.*
 @@||js.agkn.com/prod/v0/tag.js$domain=netd.com
 @@||js.appboycdn.com/web-sdk/*/appboy.min.js$domain=equinox.com
 @@||js.appboycdn.com/web-sdk/*/appboy.min.js$domain=learning.edx.org
@@ -8233,6 +8237,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ponominalu.ru/cart$document
 @@||popeater.com/traffic/?$script,domain=popeater.com
 @@||portalbici.es/lib/angulartics-google-analytics/dist/angulartics-ga.min.js
+@@||postclickmarketing.com^$domain=adtspecials.com|befinanciallyfit.com|cursodemedicina.com.br|demandmetric.com|hootsuite.com|semipresencial.com.br|systemsprotect.com
 @@||postex.com/api/ping?$~third-party
 @@||postnord.no/api/tracking/$~third-party
 @@||pp-serve.newsinc.com^*/unitsdata.js?$domain=timesfreepress.com
@@ -8244,6 +8249,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||puch-ersatzteile.at^*/google-analytics.min.js
 @@||push2check.com/stats.php
 @@||pv.sohu.com/cityjson$domain=bulletin.cebpubservice.com
+@@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
 @@||px-cdn.net/api/v2/collector/ocaptcha$xmlhttprequest
 @@||q-examiner.online/api/Ping?
 @@||quantcast.com/wp-content/themes/quantcast/$domain=quantcast.com
@@ -8292,6 +8298,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||reutersmedia.net/resources_v*/js/rcom-scroll-tracker.js$domain=reuters.com
 @@||revsci.net/*/pcx.js?csid=$script,domain=video.foxnews.com|video.foxbusiness.com
 @@||rfksrv.com/rfk/js/*/init.js$script,domain=riteaid.com
+@@||rollbar.com^*/rollbar.min.js$domain=rollingstone.com|variety.com|wwd.com
 @@||rollingstone.de/resources/js/webtrekk.js
 @@||rover.ebay.com/ar/1/75997/4?mpt=*&size=300x250&adid=$image,domain=millionenklick.web.de
 @@||rscdn.cxense.com/cx-test.js$domain=wsj.com
@@ -18667,6 +18674,7 @@ znak.com##.relap
 ||esomniture.com^$third-party
 ||espn.hb-api.omtrdc.net^
 ||espn.hb.omtrdc.net^
+||esputnik.com^$third-party
 ||esqjac.costakreuzfahrten.de^
 ||esqxrp.bonprix-fl.be^
 ||essdhn.makuake.com^
@@ -29510,6 +29518,8 @@ znak.com##.relap
 ||rapidzebra.io^
 ||raresummer.com^$third-party
 ||ras.reise.s.idealo.de/visit|
+||rasin.tech/heatmap-
+||rasin.tech/scroll-logs/
 ||raspnd.quadratec.com^
 ||rat.gimlet.io^
 ||rat.rakuten.co.jp^
@@ -35572,6 +35582,7 @@ znak.com##.relap
 ||stopphoulplay.com^$third-party
 ||storage.data-vp.com/vp/t.js
 ||storage.googleapis.com/afs-prod/tags
+||storage.googleapis.com/rasin/*/hm.js
 ||storage.syncmedia.io/libs/sm_capture_
 ||store.nike.com/cms/analytics-store-desktop.js
 ||storeconfig.mistat.intl.xiaomi.com^
@@ -37912,7 +37923,6 @@ znak.com##.relap
 ||tracker.digitalcamp.co.kr^
 ||tracker.downdetector.com^
 ||tracker.durasite.net^
-||tracker.esputnik.com^
 ||tracker.euroweb.net^
 ||tracker.financialcontent.com^
 ||tracker.giftd.ru^$third-party
@@ -39743,8 +39753,12 @@ znak.com##.relap
 ||wa.and.co.uk^
 ||wa.bol.com^
 ||wa.devolksbank.nl^
+||wa.gmx.
 ||wa.gmx.ch^
+||wa.gmx.co.uk^
 ||wa.gmx.net/gmxde/gmxde/s?$image
+||wa.gmx.net^
+||wa.mail.com^
 ||wa.metro.co.uk^
 ||wa.ncr.com^
 ||wa.personalcreations.com^

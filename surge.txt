@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220515100434
+#VER=20220515115127
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93623
+#TOTAL_LINES=93625
 DOMAIN-SUFFIX,cda.0-shiny.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
 DOMAIN-SUFFIX,c.0.0.0.0.cn
@@ -82694,6 +82694,7 @@ DOMAIN-SUFFIX,wmzona.com
 DOMAIN-SUFFIX,phpadsnew.wn.com
 DOMAIN-SUFFIX,top.wn.com
 DOMAIN-SUFFIX,wn052ucd.online
+DOMAIN-SUFFIX,wn68din.cn
 DOMAIN-SUFFIX,scrooge.wnbc.com
 DOMAIN-SUFFIX,wnbeiskivkkmpy.xyz
 DOMAIN-SUFFIX,wnbfw.com
@@ -93360,6 +93361,7 @@ DOMAIN-SUFFIX,zthhhbb.cn
 DOMAIN-SUFFIX,ztidu.com
 DOMAIN-SUFFIX,ztrack.net
 DOMAIN-SUFFIX,ztrynpo.cn
+DOMAIN-SUFFIX,kry.ztshg.cn
 DOMAIN-SUFFIX,ztsrv.com
 DOMAIN-SUFFIX,ztvx8.com
 DOMAIN-SUFFIX,ztvzfq.com
