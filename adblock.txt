@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: FvfzoKTObe7YufAN72eFMA
+! Checksum: vFwJmAnW2vBXNc6pHSOPqA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-15 20:27:58（北京时间） 
-! Total count: 91375
+! Version: 2022-05-15 21:11:19（北京时间） 
+! Total count: 91388
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -6480,6 +6480,7 @@
 ##[onclick="window.open('/statics/js/hth112.html')"]
 ##[onclick="window.open('/statics/js/hth906.html')"]
 ##[onclick="window.open('https://docs.qq.com/doc/DZEpZc2pOaFdXa0tD');"]
+##[onclick='gourl()'][src^='/images/bfq/']
 ##[onclick='window.open(this.url)']
 ##[onclick^="window.location.href = 'http://wd.haoyundm.com"]
 ##[onclick^="window.location.href"][onclick*=".bcebos."]
@@ -53372,6 +53373,7 @@ zznews.cn##.ad:not([style])
 ||botdetector.ru^$third-party
 ||botize.com^$third-party
 ||botman.ninja^$third-party
+||botonmetaverse.com^
 ||botscanner.com^$third-party
 ||botsforger.com.cn^
 ||botsvisit.com^$third-party
@@ -58378,6 +58380,7 @@ zznews.cn##.ad:not([style])
 ||dreamcounter.de^$third-party
 ||dreamfull.cn^
 ||dreamhost.com/*.cgi?$image,third-party
+||dreamlikeverse.com^
 ||dreamrecord.cn^
 ||dreamsky.xin^
 ||dreamware.com.cn^
@@ -59835,6 +59838,7 @@ zznews.cn##.ad:not([style])
 ||ergeapp.com^$third-party
 ||ericgown.no^$removeparam=ggkey
 ||eriniquep.club^
+||erjiyouhuiquan.com^
 ||erkesi.cn^
 ||erkui.tech^
 ||erna.xyz^
@@ -61474,6 +61478,7 @@ zznews.cn##.ad:not([style])
 ||fxtiumvhfucrkp.com^
 ||fxwseotmavbde.com^
 ||fxxgw.com^$third-party
+||fxxrllt.com^
 ||fxxz.com/skin/know/all.js
 ||fxyg168.com^
 ||fxyjmp.top^
@@ -61784,6 +61789,7 @@ zznews.cn##.ad:not([style])
 ||gdxxb.com^$third-party
 ||gdyjs.com^
 ||gdzmqquwkuzw.com^
+||gdzshoes.com^
 ||gdzxsoft.cn^
 ||gear5.me^$third-party
 ||gearbest.$removeparam=lkid
@@ -63260,6 +63266,7 @@ zznews.cn##.ad:not([style])
 ||hbzhurong.cn^
 ||hbzjht.com^
 ||hbzjht.com^$third-party
+||hbzshoes.com^
 ||hc360.com/images/14826/289x90.jpg
 ||hc360.com/js/*hezuo.js
 ||hc360.com/js/build/source/widgets/flowbao/flowbao.js
@@ -65903,6 +65910,7 @@ zznews.cn##.ad:not([style])
 ||ixiunv.com^$third-party
 ||ixljluojcit.com^
 ||ixmlusc.cn^
+||ixnrmco.com^
 ||ixqfughrynmfh.com^
 ||ixsgoy.getpenta.com^
 ||ixspublic.com^$third-party
@@ -66084,6 +66092,7 @@ zznews.cn##.ad:not([style])
 ||jcaik.com^
 ||jcavis.com^$script,xmlhttprequest
 ||jcboloni.cn^
+||jcde.site^
 ||jcdf99.com/hzz/scripts/new
 ||jcdixdh.cn^
 ||jcelyj.com^
@@ -68633,6 +68642,7 @@ zznews.cn##.ad:not([style])
 ||ll.gxsky.com^
 ||ll.hudong.com^
 ||ll38.com^
+||llaxl.com^
 ||llesisnxrg.com^
 ||llguandongyan.com^
 ||llhhbb.top^
@@ -70555,6 +70565,7 @@ zznews.cn##.ad:not([style])
 ||metal-bitcoin.com/libs/check.js$script
 ||metalyzer.com^$third-party
 ||metartmoney.com^$third-party
+||metauniverse88.com^
 ||meteor.today/ad/
 ||meteorsolutions.com^$third-party
 ||meter.bref.sh^
@@ -90729,6 +90740,8 @@ zznews.cn##.ad:not([style])
 ||zgchaye123.com^
 ||zgcqxjzny.cn^
 ||zgctig.cn^
+||zgdshoes.com^
+||zgfshoes.com^
 ||zgfushi.mobi^
 ||zghowanhgcxbpf.com^
 ||zgjjkk.com^
