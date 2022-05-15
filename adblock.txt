@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: lZAPYePFYq5Jpb5+WTLd2Q
+! Checksum: iB4/I0B6VLJAh8rp1RhMZA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-15 20:10:10（北京时间） 
-! Total count: 91362
+! Version: 2022-05-15 20:13:17（北京时间） 
+! Total count: 91363
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -61427,6 +61427,7 @@ zznews.cn##.ad:not([style])
 ||fuzzyweather.com^
 ||fv.u1n6ok.cn^
 ||fv99.com^
+||fvedio.kuwo.cn^$app=cn.kuwo.player
 ||fvhbful.cn^
 ||fvxgpnlvxo.com^
 ||fw-ad.jp^$third-party
@@ -70921,7 +70922,7 @@ zznews.cn##.ad:not([style])
 ||mgtw.xyz^
 ||mgvrst.mi-shop.com^
 ||mgwcn.com^
-||mgxhtj.kuwo.cn/mgxh.s^$app=cn.kuwo.player
+||mgxhtj.kuwo.cn/mgxh.s*$app=cn.kuwo.player
 ||mgygdeofh.com^
 ||mgz.com.ua/counter.php?
 ||mgzjin.cn^$third-party
@@ -71283,7 +71284,7 @@ zznews.cn##.ad:not([style])
 ||mobcrummymow.com^
 ||mobee.xyz^$third-party
 ||mobfox.com/ad_sdk.js
-||mobi.kuwo.cn/mobi.s^app=cn.kuwo.player
+||mobi.kuwo.cn/mobi.s*$app=cn.kuwo.player
 ||mobile.sina.cn/public/files/image/600x150_
 ||mobile.sina.cn/public/files/image/620x300_
 ||mobileadspopup.com^
@@ -72558,7 +72559,7 @@ zznews.cn##.ad:not([style])
 ||nmlysc.wang^
 ||nmmgp.cn^
 ||nmo1.orpi.com^
-||nmobi.kuwo.cn/mobi.s^app=cn.kuwo.player
+||nmobi.kuwo.cn/mobi.s*$app=cn.kuwo.player
 ||nmpcdn.com^
 ||nmqbg.com^
 ||nmqdnykj.com^
