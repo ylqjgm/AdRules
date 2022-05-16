@@ -90,7 +90,7 @@ hosts=(
   "https://adaway.org/hosts.txt"
 #  "https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hosts_light.txt"
   "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
-  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardDNS.txt"
+#  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardDNS.txt"
 #  "https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardTracking.txt"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/EasyPrivacy3rdParty.txt"
