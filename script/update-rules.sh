@@ -70,8 +70,8 @@ dns=(
   "https://filters.adtidy.org/windows/filters/224.txt" #adg中文过滤器
   "https://easylist.to/easylist/fanboy-annoyance.txt"
   "https://filters.adtidy.org/windows/filters/2.txt" #adg基础过滤器
-  "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/gh-pages/Filters/filter.txt"
-  "https://abp.oisd.nl/basic/"
+#  "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/gh-pages/Filters/filter.txt"
+#  "https://abp.oisd.nl/basic/"
   "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
   "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
   "https://easylist.to/easylist/easyprivacy.txt"
@@ -88,7 +88,7 @@ dns=(
 
 hosts=(
   "https://adaway.org/hosts.txt"
-  "https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hosts_light.txt"
+#  "https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hosts_light.txt"
   "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardDNS.txt"
 #  "https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts"
