@@ -88,8 +88,8 @@ jobs:
           echo 'tmp/' > .gitignore
           git config --local user.name "hacamer"
           git config --local user.email "hcamer145@gmail.com"
-          git branch -D main
           git branch -m main
+          #git branch -D main
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
           git remote add origin "https://${{ secrets.CODING_ACCOUNT }}:${{ secrets.CODING_PASSWORD }}@e.coding.net/cats-team/adguard/AdRules.git"
