@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: zsiDDiRTX/db59e5B2v+Ww
+! Checksum: AdVC6SAODJ3CwldEMkA8nQ
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-16 00:53:40（北京时间） 
-! Total count: 91402
+! Version: 2022-05-16 09:48:52（北京时间） 
+! Total count: 91407
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -61152,6 +61152,7 @@ zznews.cn##.ad:not([style])
 ||fprnt.com^$third-party
 ||fpt.microsoft.com^
 ||fpt.shop/fa_tracking.js
+||fpvdxd5.com^
 ||fpwtsp.xxxlutz.de^
 ||fqigyr.xyz^
 ||fqjinyinhua.shop^
@@ -67636,6 +67637,7 @@ zznews.cn##.ad:not([style])
 ||kxd56.com/qq.js
 ||kxd56.com/tg.gif
 ||kxji.com^$third-party
+||kxla.xyz^
 ||kxmusic.cn/tc/js/script.js
 ||kxmusic.top/tc/js/script.js
 ||kxrxh.com^
@@ -82558,6 +82560,7 @@ zznews.cn##.ad:not([style])
 ||swinity.com^$third-party
 ||swiss-counter.com^$third-party
 ||swjrzk.cn^
+||swml.xyz^
 ||swnptn.cn^
 ||swoole.com/_images/kundian
 ||swoole.com/_images/w7.jpg
@@ -86254,6 +86257,7 @@ zznews.cn##.ad:not([style])
 ||uuu9.com/yoyo_
 ||uuu9.tieba.com^$subdocument
 ||uuwhg.com^
+||uuwn7ho.cn^
 ||uux79.com^$third-party
 ||uuxnwoevyb.com^$third-party
 ||uuxs.net^$subdocument
@@ -89875,6 +89879,7 @@ zznews.cn##.ad:not([style])
 ||yh6u.dealeusedevoyages.com^
 ||yhaizy.cn^
 ||yhbdzh.farmasiint.com^
+||yhbsk.cn^
 ||yhdm.io/bar/
 ||yhdm.so/bar/
 ||yhdtns.com^

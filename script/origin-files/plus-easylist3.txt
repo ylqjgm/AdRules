@@ -4714,14 +4714,13 @@ cinedetodo.*##[id*="yellow"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/4430
 megaup.net##+js(acis, Math, break;case)
-megaup.net##+js(nano-sib, display())
 @@||megaup.net^$ghide
 ! ||megaup.net/imageads/$image,1p,redirect-rule=noopframe
 *$frame,redirect-rule=noopframe,domain=megaup.net
 megaup.net##+js(ra, href|target, a[href^="https://tm-offers.gamingadult.com/"])
 @@||megaup.net/*.gif$image,1p
 ! megaup.net##[src]:not([alt]):style(width: 10.2% !important)
-megaup.net##.metaRedirectWrapperBottomAds > div > a > img:style(filter: opacity(0) !important;)
+megaup.net##.metaRedirectWrapperBottomAds > div > a > img:style(opacity: 0.001 !important;)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1850
 aquipelis.*##+js(aopw, smrtSB)
@@ -6378,7 +6377,7 @@ naughtymachinima.com##.col-md-8 > a[href][target="_blank"]
 ||chaturbate.com^$frame,domain=naughtymachinima.com
 
 ! https://github.com/uBlockOrigin/uAssets/issues/10336
-uploadbank.com##+js(aost, Math, /(?=^(?!.*(api|jquery|inlineScript)))/)
+uploadbank.com##+js(aost, Math, /(?=^(?!.*(api|jquery|inlineScript|form|Progress)))/)
 uploadbank.com###container > div[style="width:970px; height:200px;"]
 uploadbank.com##+js(set, console.clear, noopFunc)
 uploadbank.com##+js(aeld, , break;case $.)
@@ -15906,7 +15905,7 @@ bluemediafiles.com##+js(nano-sib, i--)
 bluemediafiles.com##+js(set, Time_Start, 0)
 @@||bluemediafiles.com^$ghide
 *$image,redirect-rule=32x32.png,domain=bluemediafiles.com
-bluemediafiles.com##[id^="ads-"]:style(height: 1px !important; visibility: collapse !important)
+bluemediafiles.com##[id^="ads-"]:style(height: 10px !important; visibility: collapse !important)
 ||bluemediafiles.com/sw.js
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/pywx7p/ad_block_detected_httpssports24stream/
