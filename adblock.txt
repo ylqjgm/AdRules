@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: JFjhQT6itWo9V5EVaMnkuw
+! Checksum: z7o2n0vkJ8qQRnGwdXd79A
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-17 00:41:21（北京时间） 
-! Total count: 91392
+! Version: 2022-05-17 01:03:58（北京时间） 
+! Total count: 91393
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -29720,7 +29720,7 @@ delfi.lt##body > #header-top-banner + [class]:not(div):not(iframe):not(span):not
 delfi.lt##div[itemprop="articleBody"] > div[style="float:left;margin: 0 25px 25px 0;"]
 delfi.lt#$##header-top-banner.container { position: absolute!important; left: -3000px!important; }
 delfi.lt#$#.delfi-ads-block { position: absolute!important; left: -3000px!important; }
-delfi.lt#$#abort-on-property-read __dabd
+delfi.lt#$#abort-on-property-read _dlf.ab
 delfi.lt#@#.banner
 delfi.lt#@#.revolut-juosta
 delfi.lv##+js(set-constant, Adform, emptyObj)
@@ -52173,6 +52173,7 @@ zznews.cn##.ad:not([style])
 ||banner-cfnetwork.cdn.hinet.net^
 ||banner.mob.hr^
 ||banneradsday.com^
+||bannerboo.com^$third-party
 ||bannerbridge.net^$third-party
 ||bannerflow.com^$third-party
 ||banners.myads.ge^
