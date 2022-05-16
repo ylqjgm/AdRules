@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205150217
+! Version: 202205160243
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41492
+! Lenth = 41493
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -6574,7 +6574,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||britishtelecom.112.2o7.net^$domain=bt.com
 @@||brm-core-0.brsrvr.com/api/*/core$domain=dollargeneral.com
 @@||brm-core-0.brsrvr.com/api/*/core/?account_id=$domain=m.toysrus.com
-@@||browser.sentry-cdn.com^$domain=dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk
+@@||browser.sentry-cdn.com^$domain=dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|timesprime.com
 @@||browser.sentry-cdn.com^$domain=marshmallow-qa.com
 @@||browser.sentry-cdn.com^$script,domain=podcasty.seznam.cz
 @@||browser.sentry-cdn.com^$script,domain=vivareal.com.br
@@ -6609,6 +6609,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||canadiantire.ca^*/analytics.sitecatalyst.js
 @@||care2.com/assets/scripts/cookies/care2/NitroCookies.js
 @@||carsensor.net/usedcar/modules/clicklog_top_lp_revo.php$xmlhttprequest
+@@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||catalogue.jbhifi.com.au^*/static/analytics.js$script,~third-party
 @@||cbsimg.net/js/cbsi/dw.js$domain=cbssports.com
 @@||cbsinteractive.com^*/lib/tracking/comscore/$script
@@ -16192,9 +16193,9 @@ znak.com##.relap
 ||cryptomine.pro^$third-party
 ||cryptonoter.com^$third-party
 ||cs*.mp3bars.com^
+||cs.*/pixeljs|
 ||cs.analytics.lego.com^
 ||cs.coopeservidores.fi.cr^
-||cs.digitalbox.ru/pixeljs
 ||cs.hot.net.il^
 ||cs.nakanohito.jp^$third-party
 ||cs.nexttv.co.il^
