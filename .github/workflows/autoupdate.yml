@@ -88,6 +88,7 @@ jobs:
           echo 'tmp/' > .gitignore
           git config --local user.name "hacamer"
           git config --local user.email "hcamer145@gmail.com"
+          git branch -D main
           git branch -m main
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
