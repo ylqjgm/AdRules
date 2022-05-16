@@ -16,8 +16,7 @@
 ||coolapk.com/v6/main/indexV8?$replace=/\,\{.*?"entityType": "card"\,"entityTemplate":"apkImageCard".*?\}\,\{"id"/,{"id"/
 !去除评论区下某广告
 ||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
-!5.14引入的恶臭标题栏广告
-!||api2.coolapk.com/v6/main/indexV8^$replace=/\{"entityType":"card"\,"entityTemplate":"imageCarouselCard_1.*?\}\,\{/{/
+
 
 ! 腾讯的广点通(优量汇)和字节跳动的穿山甲广告
 ||access*.tpns.tencent.com^
