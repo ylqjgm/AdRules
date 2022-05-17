@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202205160243
+! Version: 202205170240
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26421
+! Lenth = 26439
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -981,6 +981,7 @@
 ##a[href*=".qtj5.com/"]
 ##a[href*=".quankan.tv"]
 ##a[href*=".rookiego.com"]
+##a[href*=".rrrmrm.com/"]
 ##a[href*=".sandebg.com/"]
 ##a[href*=".sjzbqnxx.com/"]
 ##a[href*=".ssmh"][href*="?u="]
@@ -1223,7 +1224,7 @@
 ##div[onclick*="?i_code="]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[onclick^="window.location.href"][onclick*=".haoyundm.com"]
-##div[style=" max-width:973px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:965px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="border-radius:8px;background-color:#005737;padding:6px;"]
 ##div[style="box-sizing:border-box;padding:20px 16px;border-radius:8px;width:90%;margin:0 auto;"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
@@ -4072,6 +4073,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||btsax.info^$generichide
 @@||buyad.bi-xenon.cn^
 @@||bytedance.com/ttwid/union/register/
+@@||bytegoofy.com/ad/$domain=jinritemai.com
 @@||c.mipcdn.com^$domain=77dushu.com|biqugesc.com|prpcoin.com
 @@||c0.ifengimg.com/iis/iis_$domain=rjno1.com
 @@||camerabay.tv/ads/entry/camerabay/fullbk/bg.jpg
@@ -12315,6 +12317,7 @@ zznews.cn##.ad:not([style])
 ||23wm.cc^
 ||241hs.com/js/jquery.js
 ||2481e.com^$popup
+||249999.xyz^*.gif
 ||24cmm.com:8888/js
 ||24kwx.cc^$csp=script-src 'self' * 'unsafe-inline'
 ||2500sz.com/site/
@@ -13815,6 +13818,7 @@ zznews.cn##.ad:not([style])
 ||aiggkj.cn^
 ||aigzk.com^
 ||aihu.me^
+||aihuihui.xyz^
 ||aijiamao.top^
 ||aijielang.cn^
 ||aikan6.com^
@@ -14300,6 +14304,7 @@ zznews.cn##.ad:not([style])
 ||aysccnn.cn^
 ||ayuki.ink^
 ||ayun.ltd^
+||ayunzhizuo.ltd^
 ||ayxz.com/images/$script
 ||ayxz.com/images/enkj_small.gif
 ||azhibo.*/media/aimg/*.gif
@@ -15318,6 +15323,7 @@ zznews.cn##.ad:not([style])
 ||cfyao.club^
 ||cfzhushou.com^*/King_Chance_Layer.js
 ||cgfdjz.net/xia.js
+||cggf.xyz^
 ||cgiale.com^
 ||cgown.com^*/peiyinquan
 ||cgskqg.com^
@@ -15840,6 +15846,7 @@ zznews.cn##.ad:not([style])
 ||cuhzsx.xyz^
 ||cuilongsp.cn^
 ||cuit.shop^
+||cul.xunjiu.online^
 ||cuoss.com^
 ||cvsheil.com^
 ||cwhsmgs1.cn^
@@ -16904,6 +16911,7 @@ zznews.cn##.ad:not([style])
 ||feitian001.com^$third-party
 ||feizailin.com^
 ||feizl.com/images/smdd/
+||fenai.top^
 ||fenfa.biz^
 ||fengbuy.com/recommend-new.
 ||fengchedaomall.cn^
@@ -19021,6 +19029,7 @@ zznews.cn##.ad:not([style])
 ||jiasule.com/static/js/http_error.js
 ||jiatu.co^
 ||jiawen88.com^$third-party
+||jiaxue.xyz^
 ||jiayi2019.top^
 ||jiayiss.com^
 ||jiayu.net/comiis_ad/
@@ -19476,6 +19485,7 @@ zznews.cn##.ad:not([style])
 ||k99.cc^$third-party
 ||ka5188.com^
 ||kaafu.cn^
+||kadkaxjfeh.com^
 ||kagdf.com^
 ||kaiguangdou.com^
 ||kaipuyun.cn/count/
@@ -20113,6 +20123,7 @@ zznews.cn##.ad:not([style])
 ||ll.gxsky.com^
 ||ll.hudong.com^
 ||ll38.com^
+||llaxl.com^
 ||llguandongyan.com^
 ||llhhbb.top^
 ||llii.club^
@@ -20481,6 +20492,7 @@ zznews.cn##.ad:not([style])
 ||maoxilucai.cn^
 ||maoyumao.net^
 ||map.baidu.com^$domain=laosiji.com
+||mapping.fun^
 ||mapxiongan.cn^
 ||maqiang520.online^
 ||marchtools.cn^
@@ -20717,6 +20729,7 @@ zznews.cn##.ad:not([style])
 ||mm88m.top^
 ||mmfusheng.com^
 ||mmhhjt.com^
+||mmhwxofnea.com^
 ||mmlala.com^
 ||mmonly.cc/js/mmonlyAPP.js
 ||mmoqgsl.cn^
@@ -21089,6 +21102,7 @@ zznews.cn##.ad:not([style])
 ||niubixxx.com/seo/
 ||niugupan.com/js/tj.js
 ||niuguwang.net.cn^
+||niuhe.xyz^
 ||niulai0323166.space^
 ||niutaizong.cn^
 ||niuxgame77.com^
@@ -21448,6 +21462,7 @@ zznews.cn##.ad:not([style])
 ||pansoso.com^*pss.
 ||panwenjun.top^
 ||panyh123456.cn^
+||paohao.com^
 ||paopaoche.net/public/bd/article_inc.js
 ||paopaoche.net/skins/count.js
 ||paopic.com/imguang/
@@ -22812,6 +22827,7 @@ zznews.cn##.ad:not([style])
 ||sincetrade.com^
 ||singledog.fun^
 ||singlove.com/qq/qq.js
+||sinimb.top^
 ||sinolub.com/index.php?m=poster&
 ||sinolub.com/uploadfile/201*.swf
 ||sinotealife.cn^
@@ -24194,6 +24210,7 @@ zznews.cn##.ad:not([style])
 ||vrmynha.cn^
 ||vrrzmvb.cn^
 ||vrtrdvx.cn^
+||vrzsw.com^
 ||vs1.exo01.xyz^$image,third-party
 ||vsddtr.cn^
 ||vsheying.top^
@@ -25654,6 +25671,7 @@ zznews.cn##.ad:not([style])
 ||ys.muhoujiemi.com^
 ||ys2000.cdn.bcebos.com^
 ||ys2727.xyz^
+||ys9mw1u.cn^
 ||ysclub.top^
 ||ysfc360.cn^
 ||ysgsq.cn^
