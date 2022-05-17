@@ -88,7 +88,8 @@ jobs:
           echo 'tmp/' > .gitignore
           git config --local user.name "hacamer"
           git config --local user.email "hcamer145@gmail.com"
-          git fetch --unshallow
+          #git fetch --unshallow
+          git pull origin main
           git branch -D main
           git branch -m main
           git add --all
