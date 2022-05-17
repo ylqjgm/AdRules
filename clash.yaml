@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220517064744
+#VER=20220517095633
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=90064
+#TOTAL_LINES=90066
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -29343,6 +29343,7 @@ payload:
   - '+.ads2.femmefab.nl'
   - '+.stats.femtobill.com'
   - '+.femvxitrquzretxzdq.info'
+  - '+.fenai.top'
   - '+.fenbengpan.cn'
   - '+.fenbo.cn'
   - '+.fendhaunteddelay.com'
@@ -34987,7 +34988,6 @@ payload:
   - '+.h104.cc'
   - '+.h12-media.com'
   - '+.lines-metric.h16.ru'
-  - '+.zzznews.ruines-metric.h16.ru'
   - '+.drrt.h18.ru'
   - '+.h21.ru'
   - '+.h2aek6rv0ard.com'
@@ -48426,6 +48426,7 @@ payload:
   - '+.mapmyuser.com'
   - '+.protection.mapolice.com'
   - '+.data.mapp.com'
+  - '+.mapping.fun'
   - '+.dimensions.mappy.com'
   - '+.log.mappy.net'
   - '+.mapqueat.com'
@@ -72897,6 +72898,7 @@ payload:
   - '+.smetrics.sympany.ch'
   - '+.adtag.sympatico.ca'
   - '+.symphoneupcom.site'
+  - '+.cockpit.symplr.de'
   - '+.sympna.com'
   - '+.symrkwcn76.cn'
   - '+.synacast.com'
