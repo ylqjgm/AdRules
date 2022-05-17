@@ -95,7 +95,7 @@ jobs:
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"          
           git branch -D main
-          git branch -m main
+          #git branch -m main
           git branch main
           git push -u -f origin main
       - name: Push Message
