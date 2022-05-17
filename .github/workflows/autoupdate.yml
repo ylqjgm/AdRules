@@ -97,7 +97,7 @@ jobs:
           git branch -D main
           #git branch -m main
           git branch main
-          git push -f origin main
+          git push -u origin main
       - name: Push Message
         continue-on-error: true
         run: |
