@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: J1PGTPfYbUmUU4LSJ934ow
+! Checksum: hw0S63SCpyVJnENrNH6L6A
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-17 09:56:49（北京时间） 
-! Total count: 91465
+! Version: 2022-05-17 10:07:03（北京时间） 
+! Total count: 91468
 ###ADCENTER
 ###ADSLOT_1
 ###ADTOP
@@ -6488,6 +6488,7 @@
 ##[src='/pic/0001.gif']
 ##[src='/pic/111.jpeg'][style='width: 100%;']
 ##[src='https://new.163.com/xf.ts']
+##[src='https://pnm.hpvitycz.cn/00.jpg']
 ##[src^="https://763667.com/"][src*=".gif"],[src^="https://763667.com/"][width="100%"],[onclick^="tj('menu','text'"]
 ##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
 ##[src^='/static/'][onclick='openurl()'][lazyload][importance='low']
@@ -37774,6 +37775,7 @@ nfuwow.com##.crightbtad
 nfuwow.com##.midbgdbox
 nfuwow.com##a[href*="myyj.net"]
 nfxhd.com##a[href*=".fa510.com"]
+ng.mizuhogroup.com^
 nhaccuatui.com##div[class^="adv_"]
 nhentai.net##+js(set-constant, _n_app.popunder, null)
 nhentai.net##+js(window.open-defuser)
@@ -81308,6 +81310,7 @@ zznews.cn##.ad:not([style])
 ||ssl.o.webmd.com^
 ||ssl.sc.amc.devk.de^
 ||ssl.trace.zhiziyun.com^
+||ssl.yiniyiwo.org^
 ||ssl.zy3dku.cn^$third-party
 ||sslanalytics.sixt.com^
 ||sslproxy.dk^*/analytics.js

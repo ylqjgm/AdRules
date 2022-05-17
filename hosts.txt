@@ -1,12 +1,12 @@
 # Title: AdRules Hosts List
-# Checksum: 2nXCB4gpLSBnQI5Q/9t6tg
+# Checksum: MKkL9kxkEcKUs9cAlLL9Jg
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 8 Hours
 # 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
 #
-# Version: 2022-05-17 09:56:49（北京时间） 
-# Total count: 115227
+# Version: 2022-05-17 10:07:03（北京时间） 
+# Total count: 115229
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0-132.net.daraz.com
 0.0.0.0 0-158.net.daraz.com
@@ -92452,6 +92452,7 @@
 0.0.0.0 ssl.test.net.zooplus.fr
 0.0.0.0 ssl.trace.zhiziyun.com
 0.0.0.0 ssl.v3.net.zooplus.fr
+0.0.0.0 ssl.yiniyiwo.org
 0.0.0.0 ssl.zoomanalytics.co
 0.0.0.0 ssl.zy3dku.cn
 0.0.0.0 ssl2anyone3.com
@@ -115233,4 +115234,5 @@
 0.0.0.0 zzz.pissrip.net
 0.0.0.0 zzz7.52896368.com
 0.0.0.0 zzznews.ru
+0.0.0.0 zzznews.rus.smartstream.tv
 0.0.0.0 zzzzz4.52896368.com
