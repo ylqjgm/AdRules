@@ -9,6 +9,7 @@
 
 return array(
     /**start**/
+    'mbdp02.bdstatic.com' => 0, //百度视频
     'vdn.vzuu.com' => 0, //知乎视频
     'data.vod.itc.cn' => 0, //搜狐视频
     'lens.zhihu.com' => 0, // 知乎网页视频
