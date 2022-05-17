@@ -65,6 +65,9 @@
 ||aliexpress.*^$removeparam=gatewayAdapt
 ||aliexpress.*^$removeparam=pdp_pi
 ||alishop*.ru^
+||all-best-prize-202*.com^
+||amanda.*.com^
+||amanda.*.net^
 ||amaze*.snssdk.com^
 ||amazon.*^$removeparam=channel
 ||amazon.*^$removeparam=maas
@@ -104,6 +107,8 @@
 ||bdlm*.hc360.com^
 ||bdlm*.hc360.com^
 ||beacons*.gvt3.com^
+||best-prizes-202*.com^
+||best202*-games-web1.com^
 ||bi-eventtracker-*.amazonaws.com^
 ||bj*.9669.cn^
 ||block.s*block.com^
@@ -115,6 +120,7 @@
 ||bms*.adjarabet.com^
 ||bms*.adjarabet.com^$third-party
 ||bms*.adjarabet.com^$third-party
+||briana.*.com^
 ||c*hit.zerkalo.io^
 ||cas.*.criteo.com^
 ||cas.*.criteo.com^
@@ -144,6 +150,8 @@
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.freecounter.ovh^
 ||cs*.mp3bars.com^
+||csgogf*.xyz^
+||csgogift*.xyz^
 ||d*.ruiwen.com^
 ||d*.ruiwen.com^
 ||d*.wanzhuang.com^
@@ -153,6 +161,8 @@
 ||datacollect*.abtasty.com^$third-party
 ||datacollector-*.dt.hicloud.com^
 ||device-metrics-*.amazon.com^
+||discord*.gift^$all,~discord.gift
+||discord*.gifts^
 ||dm*.ppzuowen.com^
 ||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
@@ -160,9 +170,11 @@
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
 ||dn*.ixinwei.com^
+||dotagift*.xyz^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
 ||eclog*-*.cafe24.com^
+||emily.*.net^
 ||eum*.instana.io^
 ||event*.hk01.com^
 ||events*.cre.ma^
@@ -219,9 +231,12 @@
 ||itc.*^prod=ad&
 ||ja*.gamersky.com^
 ||ja*.gamersky.com^
+||jessica.*.net^
 ||jfsdiwmnbsk*.top^
 ||js*.abolezi.com^
 ||js*.abolezi.com^
+||katie.*.com^
+||katie.*.net^
 ||lic*.ultraedit.com^
 ||lidl.*^$removeparam=flyx
 ||lively-collect-elb-*.amazonaws.com^
@@ -264,10 +279,14 @@
 ||minitds-*.info^
 ||mkto-*.com^$third-party
 ||mobileanalytics.*.amazonaws.com^
+||nitro*.gift^
+||nitro*.gifts^
 ||orbit*.lun.ua^
 ||ox-d.*^auid=
 ||ox-d.*^auid=
 ||p*-ad-sign.byteimg.com^
+||pamela.*.com^
+||pamela.*.net^
 ||parkdomainreal*.site^
 ||pijama.*.elasticbeanstalk.com^
 ||pijama.*.elasticbeanstalk.com^
@@ -280,6 +299,8 @@
 ||po*.877zw.com^
 ||polaris*-normal-lq.zijieapi.com^
 ||production-adserver-*.amazonaws.com^
+||pubggf*.xyz^
+||pubggift*.xyz^
 ||putrr*.com^
 ||putrr*.com^$third-party
 ||putrr*.com^$third-party
@@ -307,6 +328,10 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||same*.stockstar.com^
+||sarah.*.com^
+||sarah.*.net^
+||secure-0*.ddnss.ch^
+||secure-access-*.gate23.xyz^
 ||seed-*.nimiq-network.com^$third-party
 ||seed-*.nimiq.com^$third-party
 ||seed-*.nimiq.network^$third-party
@@ -345,6 +370,7 @@
 ||tracking*.euroads.fi^$third-party
 ||tracking.*.miui.com^
 ||transit*.wslog.chinanetcenter.com^
+||trc.*.co^
 ||trk*.vidible.tv^
 ||tw*.netcore.co.in^
 ||u*.takru.com^
