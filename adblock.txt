@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 56SYM19HsA5j+dYTo/n9FA
+! Checksum: ypran2PFelnT1OU5sI0+mQ
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-18 00:51:37（北京时间） 
-! Total count: 91524
+! Version: 2022-05-18 00:55:28（北京时间） 
+! Total count: 91547
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -46002,6 +46002,7 @@ zznews.cn##.ad:not([style])
 ||1abzar.ir/abzar/tools/stat/
 ||1buu1.penyouw.com^
 ||1bva.societegenerale.fr^
+||1c2e32f165.com^
 ||1ctc.sfr.fr^
 ||1d1a.com^
 ||1d354c1645.com^
@@ -46097,6 +46098,7 @@ zznews.cn##.ad:not([style])
 ||211xd.com/js
 ||212.95.32.75^$third-party,domain=~ipcounter.de.ip
 ||213.232.113.250^
+||21550edfab.com^
 ||216.172.154.226^
 ||216.18.176.4/logger/
 ||217hs.com/js/jquery.js
@@ -51470,6 +51472,7 @@ zznews.cn##.ad:not([style])
 ||atmasroofy.com
 ||atmib.com^
 ||atmnjcinews.pro^
+||atmyeducat.xyz^
 ||atom-data.io/session/latest/track.html?$third-party
 ||atom-log.3.cn^
 ||atomex.net^
@@ -56405,6 +56408,8 @@ zznews.cn##.ad:not([style])
 ||creativesumo.com^
 ||creativesumo.com^$third-party
 ||creator.zmags.com^
+||credentialdeploycable.com^
+||credentialdeploycable.com^$popup
 ||credible.com/sdk.js$third-party
 ||cresfpho2ntesepapillo3.com^
 ||crestfallenwall.com^
@@ -57034,6 +57039,7 @@ zznews.cn##.ad:not([style])
 ||d3q33rbmdkxzj.cloudfront.net^
 ||d3q7vxy7usqoub.cloudfront.net^
 ||d3qfdthu9f51gu.cloudfront.net^
+||d3qinhqny4thfo.cloudfront.net^
 ||d3qxef4rp70elm.cloudfront.net/m.js
 ||d3qxwzhswv93jk.cloudfront.net^
 ||d3qztsm17pgxue.cloudfront.net^
@@ -57333,6 +57339,7 @@ zznews.cn##.ad:not([style])
 ||datismelysee.com^
 ||datum.appfleet.com^
 ||datvantage.com^$third-party
+||daughtersanything.com^
 ||daugus.com^
 ||daumcdn.net^*/awsa.js
 ||daurifek.net^
@@ -57869,6 +57876,7 @@ zznews.cn##.ad:not([style])
 ||dilidili.wang/uploads/allimg/171227/1_1520203421.png
 ||dimensionhatefulstricken.com^
 ||dimensions.mappy.com^
+||dimensionuptown.com^
 ||dimessing-parker.com^
 ||dimestore.com^$third-party
 ||dimml.io^$third-party
@@ -58127,6 +58135,7 @@ zznews.cn##.ad:not([style])
 ||dm530.net/js/ne10/
 ||dm530.net/js/newjs/
 ||dm530.net/pic/fgr/*.js
+||dmaaxglcr.com^
 ||dmanalytics1.com^$third-party
 ||dmcdn.net/behavior/
 ||dmclick.cn^$third-party
@@ -59293,6 +59302,8 @@ zznews.cn##.ad:not([style])
 ||eiecaw.com^$script,xmlhttprequest
 ||eiipskos.com^
 ||eirenefv.com^
+||eiteribesshaints.com^
+||eiteribesshaints.com^$popup
 ||eiv.baidu.com/
 ||eiv.baidu.com^
 ||eivbjsegbino.com^
@@ -60647,6 +60658,7 @@ zznews.cn##.ad:not([style])
 ||fearfulfish.com^
 ||fearlessfaucet.com^
 ||featassuage.com^
+||featassuage.com^$popup
 ||feathr.co^$third-party
 ||febao.xyz^
 ||febusiness.carte-gr.total.fr^
@@ -60691,6 +60703,7 @@ zznews.cn##.ad:not([style])
 ||fejla.com^
 ||felix.data.tm-awx.com^
 ||felonlosel.com^
+||femindexkilog.xyz^
 ||fenai.top^
 ||fenfa.biz^
 ||feng.kauomod.cn^
@@ -67458,6 +67471,7 @@ zznews.cn##.ad:not([style])
 ||knk95.cn^
 ||knkkpmtdesg.com^
 ||knneqqbgxeot.top^
+||knonoi.com^
 ||knorex.com^$third-party
 ||knotkettle.com^
 ||knottysticks.com^
@@ -67966,6 +67980,7 @@ zznews.cn##.ad:not([style])
 ||ldqbuy.sport-express.ru^
 ||ldsage.top^
 ||lduhtrp.net^
+||ldvnyduhpfgytls.com^
 ||le.com/op/
 ||le123.cn^$third-party
 ||le258.cn^
@@ -69194,6 +69209,7 @@ zznews.cn##.ad:not([style])
 ||lugansk-info.ru^$third-party
 ||lujingyu.fun^
 ||lulaoye.1111.grfx-blog.top^
+||lulepy.com^
 ||lulus.com/px/client/main.min.js
 ||lumaktoys.com^
 ||lumatag.co.uk^$third-party
@@ -73478,6 +73494,7 @@ zznews.cn##.ad:not([style])
 ||ophan.theguardian.com^
 ||opingexamplyt.info^
 ||opinionsurprise.com^
+||opinionthroughambition.com^
 ||opiwb.com^
 ||opoew.top^
 ||opolicycrea.xyz^
@@ -79284,6 +79301,7 @@ zznews.cn##.ad:not([style])
 ||slaunch.shopcanopy.com^
 ||slave.kbjfree.com^
 ||slaysweater.com^
+||slbnougeva.com^
 ||sledujserialy.io/theme/json/episode.ad.etarget.php?adlink=
 ||sleepcartoon.com^
 ||sleepzn.com^
@@ -81031,6 +81049,7 @@ zznews.cn##.ad:not([style])
 ||spiffymachine.com^$third-party
 ||spikscabrin.com^
 ||spinnaker-js.com^
+||spirab.com^
 ||spirebaboon.com^
 ||spirliesalse.com^
 ||spittsprevi.club^
@@ -81398,6 +81417,7 @@ zznews.cn##.ad:not([style])
 ||sstats.tena.us^
 ||sstats.uascrubs.com^
 ||ssvttlmmsrbhv.com^
+||sswqanwnxdmz.com^
 ||ssy7.destinia.com.ua^
 ||ssyy881.com/zz/
 ||ssznrs.com^
@@ -83226,6 +83246,7 @@ zznews.cn##.ad:not([style])
 ||tbtlokvohyx.com^
 ||tbxprvf.cn^
 ||tbxwekyl.com^
+||tbzolpdnvkcb.com^
 ||tc2.hometogo.net^
 ||tc600.com^
 ||tcactivity.net^$third-party
@@ -83609,6 +83630,7 @@ zznews.cn##.ad:not([style])
 ||thewhizproducts.com^$third-party
 ||thewindowsclub.com^*/skip-links.min.js
 ||thewise.com^$third-party
+||thickshortwage.com^
 ||thickticket.com^
 ||thicktrucks.com^
 ||thidrump.net^
@@ -86360,6 +86382,7 @@ zznews.cn##.ad:not([style])
 ||utoyoufio.fun^
 ||utrack.hexun.com^
 ||utraff.com^$third-party
+||utrosy.com^
 ||uts.auction.co.kr^
 ||uttclimber.com^
 ||uttermosthobbies.com^
