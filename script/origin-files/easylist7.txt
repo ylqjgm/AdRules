@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202205170240
+! Version: 202205180221
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26439
+! Lenth = 26454
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -275,6 +275,7 @@
 ###right_up_float_ad
 ###rightad2
 ###rip[href*=".taobao.com"]
+###rm-float3
 ###search > a[href="/top1.html"]
 ###sign-ad
 ###sitefocus.focus
@@ -774,6 +775,7 @@
 ##.textadlist
 ##.theme_custom_slidebox-ad-below
 ##.themepark_advertisement
+##.title > .gg
 ##.tm3all2h4b
 ##.tmall_ad_container
 ##.tooltip > #tp
@@ -1224,6 +1226,7 @@
 ##div[onclick*="?i_code="]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[onclick^="window.location.href"][onclick*=".haoyundm.com"]
+##div[style=" max-width:965px;  margin:0 auto;"] > a > img[height="120px"]
 ##div[style=" max-width:965px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="border-radius:8px;background-color:#005737;padding:6px;"]
 ##div[style="box-sizing:border-box;padding:20px 16px;border-radius:8px;width:90%;margin:0 auto;"]
@@ -12973,6 +12976,7 @@ zznews.cn##.ad:not([style])
 ||66zhuang.com/public_2017/js/count-gou.js
 ||6728812.com^
 ||6756240.com^
+||675ujh.site^
 ||6789.com/media/images/jiao.swf
 ||6789.net^$third-party
 ||678pan.com/TC/
@@ -15565,6 +15569,7 @@ zznews.cn##.ad:not([style])
 ||cloudflare.com/ajax/libs/jquery.blockUI/$domain=wantgoo.com
 ||cloudfront-666.kxcdn.com/v4.js
 ||cloudpsvn.com^
+||cloudroad.shop^
 ||cloudzhuge.cn^
 ||cls.cn/v2/web/ad?
 ||clscsbcj.com^$third-party
@@ -16280,6 +16285,7 @@ zznews.cn##.ad:not([style])
 ||dm530.net/pic/fgr/*.js
 ||dmfhqzo.cn^
 ||dmfjeu.xyz^
+||dmgjwy.xyz^
 ||dmm.aizhan.com^
 ||dmpsj.cn^
 ||dmr.cnhoney.com^
@@ -17579,6 +17585,7 @@ zznews.cn##.ad:not([style])
 ||guji.store^
 ||guli21.com/PNEW/
 ||guli21.com/js/ggdm
+||guliangli.online^
 ||gumgo.cn^$third-party
 ||gunmi.cn^$third-party
 ||guntang.me^
@@ -18539,6 +18546,7 @@ zznews.cn##.ad:not([style])
 ||ikafan.com/upload/image/iqiyi_
 ||ikaka.com/globalad/
 ||ikcdhqh.cn^
+||ikjocef.cn^
 ||iklda.cn^
 ||iknight.xyz^
 ||ikuailian.com^$third-party
@@ -21759,6 +21767,7 @@ zznews.cn##.ad:not([style])
 ||puma.com^$popup,domain=hupu.com
 ||pupudy.com/images/wxrj.gif
 ||puqer.cn^
+||purchathough.com^
 ||push.zhanzhang.baidu.com/push.js
 ||putaoys.com/static/js/acb1.js
 ||putonghua520.com/skins/10ym/3jin.gif
@@ -24722,6 +24731,7 @@ zznews.cn##.ad:not([style])
 ||wyafelk.cn^
 ||wydong.top^
 ||wyhzzy.com^
+||wylqafraq7.com^
 ||wyovhzs.cn^
 ||wysmq.cn^
 ||wytsoft.xyz^
@@ -24836,6 +24846,7 @@ zznews.cn##.ad:not([style])
 ||xglryxd.cn^
 ||xgo.com.cn/pv.js
 ||xgsnjl.com^
+||xgsx.club^
 ||xgxq518.com^
 ||xgzdys.com^
 ||xhbqczl.com^
@@ -25300,6 +25311,7 @@ zznews.cn##.ad:not([style])
 ||yanu.qiniudn.com/*x60.
 ||yanu.qiniudn.com/270300.jpg
 ||yanyanbiji.com^
+||yanzunyang.top^
 ||yaodaipeishi.cn^
 ||yaofaweb.xyz^
 ||yaohq.com^
@@ -25753,6 +25765,7 @@ zznews.cn##.ad:not([style])
 ||yunfanlm.com^$third-party
 ||yunfeiyang.club^
 ||yunfile.com/ex/pop/
+||yungetongxun.xyz^
 ||yunl1.com^
 ||yunmowu.com^
 ||yunpifu.cn^
@@ -25842,12 +25855,14 @@ zznews.cn##.ad:not([style])
 ||yytcdn.com/swf/plugins_new.xml?$domain=yinyuetai.com
 ||yytcdn.com/user/bugles/*_*x*.jpg
 ||yywz123.com/file/A*.js
+||yyxrm.com^
 ||yyy6999.com^
 ||yyys.shop^
 ||yyzs.net/js/Float_
 ||yyzs.net/js/flyers_
 ||yzaosite.com^
 ||yzbqz.com^
+||yzc35326.top^
 ||yzdh44.com/js/
 ||yzftqx.cn^
 ||yzh360.com^

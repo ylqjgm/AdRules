@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205170240
+! Version: 202205180221
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 42103
+! Lenth = 42160
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1672,6 +1672,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /aws-analytics.js
 /awstats.js
 /awstats_misc_tracker
+/awstats_misc_tracker.js
 /azion-pulse.js
 /aztrack.
 /aztracker.
@@ -2042,6 +2043,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /click.php?c=
 /click/impression?
 /click?mode=*&action=
+/click?track=
 /clickAnalyse.
 /clickLogger?
 /clickTrackingAjaxController?
@@ -4333,6 +4335,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /ppms.js
 /pqt.email/o/*$image
 /pr.php?
+/prebid/ad.gif?
 /preparecookies?callback=$domain=~mirapodo.de|~mytoys.de|~yomonda.de
 /prepixel?
 /presslabs.js$script,~third-party
@@ -5043,6 +5046,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /stats/track.asp?
 /stats/tracker.js
 /stats/tracking.
+/stats/transp.bmp
 /stats/visitors
 /stats/welcome.php?
 /stats/xmsg_
@@ -6199,7 +6203,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 ://tracking.*/tr.js
 ://tru.am^$third-party
 ://utm.$domain=~utm.akindi.com|~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.md|~utm.pansa.pl|~utm.pharos360.com|~utoronto.ca
-://wa.*/s?
+://wa.*/s?$image
 ;type=eligibleimpression;
 ;type=pixel;
 =comscoreAdobeDpvCall&
@@ -7447,6 +7451,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=cabinet.planetakino.ua
 @@||googletagmanager.com/gtm.js$domain=cacharel.com.tr
 @@||googletagmanager.com/gtm.js$domain=capital.fr
+@@||googletagmanager.com/gtm.js$domain=casa.it|eprice.it|euronics.it|iphoneitalia.com|la7.it|savethechildren.it|unieuro.it
 @@||googletagmanager.com/gtm.js$domain=ccleaner.com
 @@||googletagmanager.com/gtm.js$domain=cdek.ru
 @@||googletagmanager.com/gtm.js$domain=chainreactioncycles.com
@@ -7469,7 +7474,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=elderscrollsonline.com
 @@||googletagmanager.com/gtm.js$domain=eldorado.com.ua
 @@||googletagmanager.com/gtm.js$domain=elnuevodia.com
-@@||googletagmanager.com/gtm.js$domain=eprice.it|euronics.it|iphoneitalia.com|la7.it|raiplayradio.it|savethechildren.it|unieuro.it
 @@||googletagmanager.com/gtm.js$domain=filgoal.com
 @@||googletagmanager.com/gtm.js$domain=flo.com.tr
 @@||googletagmanager.com/gtm.js$domain=flyingv.cc
@@ -8679,7 +8683,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||torrentsafe.com/fingerprint2.min.js
 @@||toyota.com/recall/static/js/custom/facebookPixel.js$~third-party
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|voici.fr
-@@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it|ubibanca.com
+@@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it
 @@||track.atom-data.io/report$domain=russian.rt.com
 @@||track.atom-data.io/|$xmlhttprequest,domain=globes.co.il
 @@||track.ksta.de/cre-*/tracking/call.js
@@ -8727,7 +8731,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||twitter.com/oct.js$domain=jp.square-enix.com
 @@||twowheeler.policybazaar.com/js/googleanalytics.js
 @@||uaprom.net/image/blank.gif?$image
-@@||ubibanca.com^*/TrackingService.js
 @@||ucoz.net/cgi/uutils.fcg?$script,third-party
 @@||udottraffic.utah.gov/javascripts/Piwik.js
 @@||uefa.com/inc/js/core/projects/statistics/statistics.js?$script
@@ -14436,6 +14439,7 @@ znak.com##.relap
 ||cccpmo.com^$third-party
 ||ccexperimentsstatic.oracleoutsourcing.com^
 ||ccgateway.net^$third-party
+||ccm19.de^
 ||ccma.hb-api.omtrdc.net^
 ||ccma.hb.omtrdc.net^
 ||ccmd.coveredca.com^
@@ -22163,6 +22167,7 @@ znak.com##.relap
 ||insights.radiometer.com^
 ||insights.sitesearch360.com^
 ||insights.sport1.de^
+||insigit.com^
 ||insigit.com^$third-party
 ||insitemetrics.com^$third-party
 ||insitez.blob.core.windows.net^
@@ -23894,7 +23899,6 @@ znak.com##.relap
 ||logs.datadoghq.com^$third-party
 ||logs.datadoghq.eu^
 ||logs.datadoghq.eu^$domain=~app.datadoghq.eu
-||logs.eu-west-1.amazonaws.com^
 ||logs.gaaana.com^
 ||logs.gaana.com^
 ||logs.ggweb.nl^
@@ -24822,6 +24826,7 @@ znak.com##.relap
 ||marketshot.com^$third-party
 ||marketshot.fr^$third-party
 ||marktest.pt^$third-party
+||marktjagd.de/proxy/trackings/
 ||marktplaats.net/cnt/
 ||marktplaats.net/identity/mid.js
 ||marktplaats.nl/add_counter_image.
@@ -28480,6 +28485,7 @@ znak.com##.relap
 ||piwik.pro^$third-party
 ||piwik.pro^$third-party,domain=~clearcode.cc|~clearcode.pl|~piwikpro.de
 ||pix.airbusgroup.com^
+||pix.boursorama.com^
 ||pix.eads.com^
 ||pix.gfycat.com^
 ||pix.hyj.mobi^
@@ -29603,6 +29609,7 @@ znak.com##.relap
 ||r.my.com^
 ||r.popin.cc/log.gif
 ||r.popin.cc^
+||r.razer.com^
 ||r.rbc.ru^
 ||r.remarketingpixel.com^$third-party
 ||r.sax.sina.com.cn^
@@ -31778,6 +31785,7 @@ znak.com##.relap
 ||shoelace.com^$third-party
 ||shofonline.org/javashofnet/ti.js
 ||shonretimus.com^$third-party
+||shoop.de/mgtrx/
 ||shop.iwantclips.com^
 ||shopback.net^$third-party
 ||shopbreakfast.com^
@@ -35991,6 +35999,7 @@ znak.com##.relap
 ||stream.shuzilm.cn/report
 ||streamads.com/view?
 ||streambeam.io^$third-party
+||streamlare.com/api/video/stats/
 ||streamlava.cc/stats^
 ||streamsend.com^$third-party
 ||streamstats.prd.dlive.tv^
@@ -36082,6 +36091,7 @@ znak.com##.relap
 ||successfulscent.com^$third-party
 ||successfultogether.co.uk^$third-party
 ||successtorynm.carte-gr.total.fr^
+||suche.web.de/click
 ||suchmaschinen-ranking-hits.de^$third-party
 ||sucmetrics.hypovereinsbank.de^
 ||sucmetrics.unicredit.it^
@@ -36617,7 +36627,6 @@ znak.com##.relap
 ||t.usctrojans.com^
 ||t.veranstaltungsticket-bahn.de^
 ||t.villanova.com^
-||t.vimeo.com^
 ||t.voyages-sncf.com^
 ||t.wayfair.ca^
 ||t.wayfair.co.uk^
@@ -38209,6 +38218,21 @@ znak.com##.relap
 ||track.nzz.ch^
 ||track.oasis.magictavern.com^
 ||track.omgpl.com^
+||track.opentable.ae^
+||track.opentable.ca^
+||track.opentable.co.th^
+||track.opentable.co.uk^
+||track.opentable.com.au^
+||track.opentable.com.mx^
+||track.opentable.com^
+||track.opentable.de^
+||track.opentable.es^
+||track.opentable.hk^
+||track.opentable.ie^
+||track.opentable.it^
+||track.opentable.jp^
+||track.opentable.nl^
+||track.opentable.sg^
 ||track.peavoidud.com^
 ||track.pexi.nl^
 ||track.pingstart.com^
@@ -38384,6 +38408,7 @@ znak.com##.relap
 ||tracker.shopclues.com^
 ||tracker.softcube.com^
 ||tracker.softcube.com^$third-party
+||tracker.ssl0d.com^
 ||tracker.stats.in.th^$third-party
 ||tracker.stileo.it^
 ||tracker.swedish.org^
@@ -38455,6 +38480,7 @@ znak.com##.relap
 ||tracking.ancestry.com^
 ||tracking.apac.business.samsung.com^
 ||tracking.arabiancentres.com^
+||tracking.asialadies.de^
 ||tracking.atea.fi^
 ||tracking.athlon.com^
 ||tracking.atreemo.com^
@@ -38466,6 +38492,8 @@ znak.com##.relap
 ||tracking.aupairinamerica.com^
 ||tracking.autoscout24.com^
 ||tracking.averydennison.com^
+||tracking.avladies.de^
+||tracking.badeladies.de^
 ||tracking.badgeville.com^$third-party
 ||tracking.bankofalbuquerque.com^
 ||tracking.bankofoklahoma.com^
@@ -38476,7 +38504,9 @@ znak.com##.relap
 ||tracking.battleon.com^
 ||tracking.bd4travel.com^
 ||tracking.bdi-services.de^
+||tracking.behaarteladies.de^
 ||tracking.bettingexpert.com^
+||tracking.bizarrladies.de^
 ||tracking.blackboard.com^
 ||tracking.blog.hibu.com^
 ||tracking.bloomberg.com^
@@ -38496,6 +38526,7 @@ znak.com##.relap
 ||tracking.bradyid.com^
 ||tracking.brandmentions.com^
 ||tracking.build.com^
+||tracking.busenladies.de^
 ||tracking.business.comcast.com^
 ||tracking.businessdirect.bt.com^
 ||tracking.buygoods.com^
@@ -38526,11 +38557,14 @@ znak.com##.relap
 ||tracking.customerly.io^
 ||tracking.dataloen.dk^
 ||tracking.deluxe-marketing.com^
+||tracking.deutscheladies.de^
 ||tracking.dev2.pepsicopartners.com^
+||tracking.devoteladies.de^
 ||tracking.dfinsolutions.com^
 ||tracking.diginetica.net^$third-party
 ||tracking.directservices.it^
 ||tracking.direxion.com^
+||tracking.dominanteladies.de^
 ||tracking.donnemagazine.it^$script
 ||tracking.drivercenter.eu^
 ||tracking.drreddys.com^
@@ -38550,11 +38584,14 @@ znak.com##.relap
 ||tracking.engineering.cloud.seek.com.au^
 ||tracking.epicgames.com^
 ||tracking.epsilon.com^
+||tracking.erfahreneladies.de^
+||tracking.escorts24.de^
 ||tracking.europe.business.samsung.com^
 ||tracking.eurosport.com^
 ||tracking.evanta.com^
 ||tracking.events.adp.com^
 ||tracking.evergy.com^
+||tracking.exklusivladies.de^
 ||tracking.experiencescottsdale.com^
 ||tracking.fanbridge.com^
 ||tracking.faucet.com^
@@ -38564,6 +38601,7 @@ znak.com##.relap
 ||tracking.feedperfect.com^
 ||tracking.finanzen.net^
 ||tracking.fits.me^$third-party
+||tracking.fkk24.de^
 ||tracking.flukecal.com^
 ||tracking.foodblog.it^$script
 ||tracking.fr.adp.com^
@@ -38588,6 +38626,7 @@ znak.com##.relap
 ||tracking.graduateschool.edu^
 ||tracking.granular.ag^
 ||tracking.graphly.io^
+||tracking.grosseladies.de^
 ||tracking.gruppo.mps.it^
 ||tracking.guidehouse.com^
 ||tracking.gvm.com.tw^
@@ -38601,6 +38640,7 @@ znak.com##.relap
 ||tracking.hi-pi.com^
 ||tracking.hibu.com^
 ||tracking.hivecloud.net^
+||tracking.hobbyladies.de^
 ||tracking.hotel.check24.de^
 ||tracking.hsn.com^
 ||tracking.hurlmedia.design^
@@ -38625,6 +38665,7 @@ znak.com##.relap
 ||tracking.janssenmedicalcloud.fr^
 ||tracking.janssenmedicalcloud.ru^
 ||tracking.jotform.com^
+||tracking.jungeladies.de^
 ||tracking.kdata.fr^
 ||tracking.kegerator.com^
 ||tracking.keywee.co^
@@ -38634,10 +38675,12 @@ znak.com##.relap
 ||tracking.krone.at^
 ||tracking.kubota.ca^
 ||tracking.kurier.at^
+||tracking.kussladies.de^
 ||tracking.kyobo.co.kr^
 ||tracking.ladies.de^
 ||tracking.laivideo.com^
 ||tracking.laredoute.fr^
+||tracking.latinaladies.de^
 ||tracking.lead-plus.jp^
 ||tracking.leadingauthorities.com^
 ||tracking.leadlander.com^
@@ -38669,6 +38712,7 @@ znak.com##.relap
 ||tracking.mammemagazine.it^$script
 ||tracking.markethero.io^
 ||tracking.marketing.frequentis.com^
+||tracking.massierendeladies.de^
 ||tracking.mathworks.com^
 ||tracking.max-stg.co.il^
 ||tracking.max.co.il^
@@ -38679,6 +38723,7 @@ znak.com##.relap
 ||tracking.miui.com^
 ||tracking.mizuhogroup.com^
 ||tracking.mkt-email.samsungsds.com^
+||tracking.mollyladies.de^
 ||tracking.moneyam.com^
 ||tracking.monsido.com^
 ||tracking.motorimagazine.it^$script
@@ -38701,7 +38746,9 @@ znak.com##.relap
 ||tracking.nokai.jp^
 ||tracking.notizie.it^$script
 ||tracking.novem.pl^
+||tracking.nsladies.de^
 ||tracking.nw.de^
+||tracking.nymphomaneladies.de^
 ||tracking.oceaneering.com^
 ||tracking.oe24.at^
 ||tracking.offerteshopping.it^$script
@@ -38720,6 +38767,8 @@ znak.com##.relap
 ||tracking.online.wisc.edu^
 ||tracking.opentable.com^
 ||tracking.oppd.com^
+||tracking.orientladies.de^
+||tracking.osteuropaladies.de^
 ||tracking.oui.sncf^
 ||tracking.pacharge.com^
 ||tracking.parte.com^$third-party
@@ -38732,6 +38781,7 @@ znak.com##.relap
 ||tracking.petrelocation.com^
 ||tracking.pgi.com^
 ||tracking.pharmanewsintel.com^
+||tracking.piercingladies.de^
 ||tracking.pinflix.com/static/smt.js
 ||tracking.pirelli.com^
 ||tracking.pixelfederation.com^
@@ -38757,6 +38807,7 @@ znak.com##.relap
 ||tracking.quillion.com^
 ||tracking.quisma.com^
 ||tracking.rapidape.com^
+||tracking.rasierteladies.de^
 ||tracking.rce.veeseo.com^$third-party
 ||tracking.realtor.com^
 ||tracking.redbutton.de^
@@ -38777,6 +38828,7 @@ znak.com##.relap
 ||tracking.sailpoint.com^
 ||tracking.scenepass.com^
 ||tracking.schneider.com^
+||tracking.schokoladies.de^
 ||tracking.scoresandodds.com^
 ||tracking.seakeeper.com^
 ||tracking.searchmarketing.com^
@@ -38832,6 +38884,7 @@ znak.com##.relap
 ||tracking.swogo.net^
 ||tracking.synthasite.net^
 ||tracking.target2sell.com^
+||tracking.tattooladies.de^
 ||tracking.tchibo.ch^
 ||tracking.tchibo.com.tr^
 ||tracking.tchibo.cz^
@@ -38852,6 +38905,7 @@ znak.com##.relap
 ||tracking.trnox.com^
 ||tracking.trovaprezzi.it^
 ||tracking.trutv.com^
+||tracking.tsladies.de^
 ||tracking.tuobenessere.it^$script
 ||tracking.uk.adp.com^
 ||tracking.ukwm.co.uk^
@@ -38896,6 +38950,8 @@ znak.com##.relap
 ||tracking.yealink.com.cn^
 ||tracking.yealink.com^
 ||tracking.yourfilehost.com^
+||tracking.zaertlicheladies.de^
+||tracking.zierlicheladies.de^
 ||tracking02.adweb.co.kr^$third-party
 ||tracking1.brandmentions.com^
 ||tracking1.questdiagnostics.com^
@@ -40449,6 +40505,7 @@ znak.com##.relap
 ||web.care.wakemed.org^
 ||web.collisionservices.com^
 ||web.comunicazioni.iol.it^
+||web.de/monitoring/
 ||web.diebayerische.de^
 ||web.e.aldermore.co.uk^
 ||web.email.farrow-ball.com^

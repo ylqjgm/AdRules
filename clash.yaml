@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220518094606
+#VER=20220518162746
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=92822
+#TOTAL_LINES=92834
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -2781,6 +2781,7 @@ payload:
   - '+.6711.com'
   - '+.6728812.com'
   - '+.6756240.com'
+  - '+.675ujh.site'
   - '+.6788787.com'
   - '+.bd1-china.6789.com'
   - '+.6789.net'
@@ -24826,6 +24827,7 @@ payload:
   - '+.dkuiefdtuwnfo.com'
   - '+.dkujqutm.com'
   - '+.dkujqutm.xyz'
+  - '+.dkvuey.xyz'
   - '+.dkwtfnnebkmlf.xyz'
   - '+.dl-provider.com'
   - '+.dl-rms.com'
@@ -25834,6 +25836,7 @@ payload:
   - '+.dspmulti.com'
   - '+.dspultra.com'
   - '+.dspunion.com'
+  - '+.dspxxy.com'
   - '+.rcqtck.dsquared2.com'
   - '+.dsqzk.cn'
   - '+.dsrjpcjgb.xyz'
@@ -34551,6 +34554,7 @@ payload:
   - '+.gnfvwfo.cn'
   - '+.gng5.cn'
   - '+.gnmbd.top'
+  - '+.gnn01wl.cn'
   - '+.gnncc.cc'
   - '+.gnnmuebles.com'
   - '+.gnoyvsielusbi.xyz'
@@ -35857,6 +35861,7 @@ payload:
   - '+.keoofp.gulfnews.com'
   - '+.go.gulfprintpack.com'
   - '+.marketing.gulfshores.com'
+  - '+.guliangli.online'
   - '+.gulliblecamp.com'
   - '+.gullibleguitar.com'
   - '+.mb.gulongbbs.com'
@@ -36492,6 +36497,7 @@ payload:
   - '+.happycastle.me'
   - '+.metrics.happycolor.app'
   - '+.go.happyfox.com'
+  - '+.happyhs.club'
   - '+.happylifebab.com'
   - '+.happynb.com'
   - '+.ad.happynest.vn'
@@ -51652,6 +51658,7 @@ payload:
   - '+.micghiga2n7ahjnnsar0fbor.com'
   - '+.michael31lin.com'
   - '+.info.michaelfoods.com'
+  - '+.michaelianice.com'
   - '+.smetrics.michaeljfox.org'
   - '+.cobra.michaelkoper.com'
   - '+.smetrics.michaelkors.ca'
@@ -52195,6 +52202,7 @@ payload:
   - '+.trading.assistant.miui.com'
   - '+.xlmc.sec.miui.com'
   - '+.m.miupp.com'
+  - '+.miuprints.com'
   - '+.miva.com'
   - '+.mivaria.com'
   - '+.mix1traff.ru'
@@ -63767,6 +63775,7 @@ payload:
   - '+.purchasesuggestion.com'
   - '+.smetrics.purchasingpower.com'
   - '+.refer.purchasingpower.com'
+  - '+.purchathough.com'
   - '+.purdewee.net'
   - '+.go.purdueengineeringonline.com'
   - '+.t.purduesports.com'
@@ -88085,7 +88094,7 @@ payload:
   - '+.xunchn.com'
   - '+.xunfan.net'
   - '+.xunhuaji.cn'
-  - '+.cul.xunjiu.online'
+  - '+.xunjiu.online'
   - '+.xunlaile.com'
   - '+.adsp.xunlei.com'
   - '+.advertpay-vip-ssl.xunlei.com'
@@ -88478,6 +88487,7 @@ payload:
   - '+.yanyanbiji.com'
   - '+.js.yanyue.cn'
   - '+.js.yanyue.net'
+  - '+.yanzunyang.top'
   - '+.yaodaipeishi.cn'
   - '+.yaodianzhineng.cn'
   - '+.yaofaweb.xyz'
@@ -89573,6 +89583,7 @@ payload:
   - '+.yr29r.cn'
   - '+.yr9n47004g.com'
   - '+.yrals.com'
+  - '+.yrbfol5.cn'
   - '+.yrdrtzmsmt.com'
   - '+.yrehdfer.com'
   - '+.clownfish.yrgo.se'
@@ -89923,6 +89934,7 @@ payload:
   - '+.yyslate.com'
   - '+.yystzl.cn'
   - '+.yysvzaodorhv.com'
+  - '+.yyxrm.com'
   - '+.q1.yyxwzx.com'
   - '+.yyy6999.com'
   - '+.yyylg.cn'

@@ -1,8 +1,8 @@
-! Checksum: eh/CAkmVcXciwx/oDdX8CA
+! Checksum: qZKmRPkVIHhTd3ciwquSrA
 ! Title: AdGuard Chinese filter
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.0.55.76
-! TimeUpdated: 2022-05-18T00:30:56+00:00
+! Version: 2.0.55.81
+! TimeUpdated: 2022-05-18T07:31:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2321,6 +2321,7 @@ nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
 !--------------- EasyList China rules --------------------------------------!
 !---------------------------------------------------------------------------!
 -*-*-*-*.panda^$script,third-party
+/fourapi/api/data/money?date=$xmlhttprequest
 -1688-wp-media/ads/
 -880-80-4.jpg
 -90mh-gg.
@@ -2998,7 +2999,7 @@ nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
 ://*:*/jscode/*.js$script,third-party
 ://*:*/oklist/vars.js
 ://*:*/s.php?id=$script,third-party
-://bttzyw*/Runtime/js/psData.
+://btt*/Runtime/js/psData.
 ://ssh.*:10443/$third-party
 :1010/openV5.js
 :10443/*/*!$third-party
@@ -3271,6 +3272,7 @@ ubmcmm.baidustatic.com
 ###table1[width="812"][height="50"]
 ###table1[width="812"][height="60"]
 ###tanx-con-1
+##script + a[href="/hth.html"][target="_blank"]
 ###tanx-fold-main
 ###taotaole
 ###td_tpc > .ads
@@ -3999,6 +4001,8 @@ ubmcmm.baidustatic.com
 .8ox.cn
 ||00-gov.cn^
 ||000123456789.site^
+||yanzunyang.top^
+||xunjiu.online^
 ||0024aaaa.com^
 ||008844.cc^
 ||00xvppy.cn^
@@ -19685,6 +19689,14 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||yyxrm.com^
+||guliangli.online^
+||purchathough.com^
+||675ujh.site^
+||lvxingzhe.store^
+||dkvuey.xyz^
+||yrbfol5.cn^
+||gnn01wl.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
