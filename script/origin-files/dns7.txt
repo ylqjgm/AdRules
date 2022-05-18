@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205171532
+! Version: 202205181424
 ! Title: EasyPrivacy
-! Last modified: 17 May 2022 15:32 UTC
+! Last modified: 18 May 2022 14:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -26158,11 +26158,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||estadonline.publiguias.cl^
 ||g.siliconweek.es^
 ||geo.emol.cl^
+||gruporeforma.com/clickGrupoReforma.js
 ||hits.antena3.com^
 ||mercadolibre.com/tracks^
 ||pixel.europapress.net^
 ||rvv.emol.com^
-||stats.gruporeforma.com^
 ||statsmp2.emol.com^
 ||t-pan.triodos.com^
 ||t13.cl/hit/
@@ -26550,7 +26550,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||moengage.com/webpush/$script,domain=olx.com.lb
 @@||mozu.com^*/analytics.js$script,domain=acehardware.com
 @@||mozu.com^*/monetate.js$script,domain=acehardware.com
-@@||mparticle.com/js/v2/*/mparticle.js$script,domain=cnbc.com
+@@||mparticle.com/js/v2/*/mparticle.js$script,domain=bk.com|cnbc.com
 @@||mpsnare.iesnare.com/general5/wdp.js$domain=usbank.com
 @@||mpsnare.iesnare.com/snare.js$domain=citi.com|citibank.com|enmasse.com|equifax.ca|login.skype.com|vitacost.com
 @@||mpsnare.iesnare.com/wu/snare.js$domain=westernunion.com
@@ -26830,6 +26830,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.at|finanzen.net|freenet-funk.de|idealo.at|idealo.de|radiorur.de|saturn.at|sport1.de|vox.de
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=tvnow.de
+@@||jobmorgen.de/Scripts/ApiTracking.js$~third-party
 @@||kameleoon.com/geolocation.gif$domain=welt.de
 @@||kameleoon.com/ip.gif$domain=welt.de
 @@||kameleoon.eu/ip.gif$domain=welt.de
