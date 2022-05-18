@@ -85,6 +85,7 @@ jobs:
         run: |
           rm -rf .git/
           git init
+          git gc --aggressive
           #echo 'tmp/' > .gitignore
           git config --local user.name "hacamer"
           git config --local user.email "hcamer145@gmail.com"
