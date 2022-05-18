@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220519003455
+#VER=20220519013737
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=91481
+#TOTAL_LINES=91484
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -9652,6 +9652,7 @@ payload:
   - '+.tr.email.archiexpo.com'
   - '+.archifaktura.hu'
   - '+.archigate.it'
+  - '+.archipelagobelongings.com'
   - '+.archipelagopuppy.com'
   - '+.archipelagowiped.com'
   - '+.daynkw.architecturaldepot.com'
@@ -50772,6 +50773,7 @@ payload:
   - '+.miakalyn.pw'
   - '+.mialbj6.com'
   - '+.miam4.cn'
+  - '+.r.miamano.com'
   - '+.app.miamihurricanes.com'
   - '+.t.miamihurricanes.com'
   - '+.crayfish.miamilo.com'
@@ -80196,6 +80198,7 @@ payload:
   - '+.metrics.upcload.com'
   - '+.upcpi.com'
   - '+.upcum.com'
+  - '+.update-ready.com'
   - '+.updateapps.net'
   - '+.updateongoingdiving.com'
   - '+.get.updater.com'
