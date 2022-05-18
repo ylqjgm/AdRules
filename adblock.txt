@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: p+TtfmZy/XyS6Xcs62uFzw
+! Checksum: ue6/7qn8Zu7ALlrPJo4ktw
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-18 23:06:37（北京时间） 
-! Total count: 91607
+! Version: 2022-05-19 00:35:10（北京时间） 
+! Total count: 91609
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -23746,6 +23746,8 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||online.americanexpress.com/myca/statementimage/$document
 @@||online.bcs.ru^*/piwik.bcs.js$script
 @@||online.cosmosbank.in^$document
+@@||online.mps-gba.de/praeludium/ams.js?$domain=auto-motor-und-sport.de
+@@||online.mps-gba.de/praeludium_src/fix_addons/noJump.js$domain=auto-motor-und-sport.de
 @@||online.tivo.com/assets/tve/common/js/vendor/jsnlog/$script,~third-party
 @@||online.unionpay.com/ads/$script
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
@@ -34970,6 +34972,7 @@ jrj.com.cn##.jrj-ad
 jrj.com.cn##.piboxtwo
 jrj.com.cn##.wbyy
 jrzj.com##a[href^="http"]:not([href*=".jrzj."]) > img[src^="https://img."]
+js(abort-current-script, Array.prototype.shift, /adblock|_0x/)
 js0573.com###adv1
 js0573.com###adv2
 js0573.com###gotopl
@@ -81958,7 +81961,6 @@ zznews.cn##.ad:not([style])
 ||stats.glyphs.fyi^
 ||stats.goldsguide.com^
 ||stats.graphql-api.com^
-||stats.gruporeforma.com^
 ||stats.gslc.utah.edu^
 ||stats.guersanguillaume.com^
 ||stats.hanmaker.com^
