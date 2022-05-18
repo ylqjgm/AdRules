@@ -22,7 +22,7 @@
 
 
 - English description For [ReadME](/README_EN.md)
-- **注意：本项目规则具有一定的误杀请思考再三再使用**
+- **注意：本项目规则具有一定的误杀 请思考再三再使用**
 - 并且本项目部分规则引入由本团队添加的黑白名单 
 - 具体请看↓
 - [Thrid Part Rules](/mod/rules)
@@ -106,13 +106,17 @@ AdRules (For AdGuard)的全量版，一般来说订阅AdRules AdBlock Full List�
 
 **提交范围**
 
-- 漏拦截的广告
-- 误杀的网站
+- **漏拦截的广告**
+- **误杀的网站**
+- **上游规则夹带的私货**
+
+PS: **某些 `私货/误杀` 我们可能只会添加到`Allowlist`，而并不会在`规则`中移除，请悉知**
 
 ### **Coding地址：[链接](https://cats-team.coding.net/public/adguard/AdRules/git/files)**
 ## 特别鸣谢
-* [@Cats-team](https://github.com/Cats-Team)
+* [@Cats-Team](https://github.com/Cats-Team)
 * [@DoingDog](https://github.com/DoingDog) 
+* [@asky88](https://github.com/asky88)
 * [@杏梢](https://github.com/hacamer)
 * 以及提交Issue的各位朋友
 
@@ -125,7 +129,7 @@ AdRules (For AdGuard)的全量版，一般来说订阅AdRules AdBlock Full List�
 [![Stargazers over time](https://starchart.cc/Cats-Team/AdRules.svg)](https://starchart.cc/Cats-Team/AdRules)
 
 ## 题外话
-**如果你对本项目有任何意见，欢迎提issue提出各种建议或批评**
+**如果你对本项目有任何意见，欢迎在issue提出各种建议或批评**
 
 **如果您不喜欢本项目
 可寻找其他替代品**
@@ -136,8 +140,9 @@ AdRules (For AdGuard)的全量版，一般来说订阅AdRules AdBlock Full List�
 **AdGuard Chinese filter** :  https://filters.adtidy.org/windows/filters/224.txt  
 **乘风广告规则**： https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt  
 **AdGuard DNS Filter** :  https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/gh-pages/Filters/filter.txt  
+**OISD Blocklist Full** ： https://abp.oisd.nl/
 
 </details>
 
-如果你需要極致去廣告，你可以看看這個項目  
+如果你需要极致去广告，你可以看看这个项目  
 https://github.com/DoingDog/XXKiller
