@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220519081445
+#VER=20220519093106
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=91787
+#TOTAL_LINES=91790
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -4523,6 +4523,7 @@ payload:
   - '+.acq.io'
   - '+.acquasystem.es'
   - '+.acquatee.com'
+  - '+.acquawes.xyz'
   - '+.lift.acquia.com'
   - '+.acquireattention.com'
   - '+.acquiredescendthumb.com'
@@ -53479,6 +53480,7 @@ payload:
   - '+.myntelligence.com'
   - '+.touch.myntra.com'
   - '+.mynunu.net'
+  - '+.mynwct.xyz'
   - '+.smetrics.myoccu.org'
   - '+.myoffers.bid'
   - '+.myoffers.co.uk'
@@ -81040,6 +81042,7 @@ payload:
   - '+.v3cdn.net'
   - '+.ads.v3exchange.com'
   - '+.heavenmedia.v3g4s.com'
+  - '+.v3hu9iu.cn'
   - '+.v3iy0h.cn'
   - '+.v3qdrfxuyzwb.com'
   - '+.v44i.cn'
