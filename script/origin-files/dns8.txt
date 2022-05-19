@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mBbFDM2XQqZSGdPXaxQtTA
+! Checksum: 2b01U4UolDHCwRV1YMU7Ig
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202205191133
-! Last modified: 2022-05-19 11:33 UTC
+! Version: 202205191633
+! Last modified: 2022-05-19 16:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30772,6 +30772,7 @@ _800x80_
 ##[name^="google_ads_iframe"]
 ##[onclick^="location.href='http://www.reimageplus.com"]
 ##a-ad
+##a[href*=".flndmyiove.net/"]
 ##a[href*=".incontro-veloce.com/"]
 ##a[href*=".medgoodfood.com/"]
 ##a[href*=".zlink9.com/"]
@@ -34432,6 +34433,7 @@ tf2r.com#@#.adverts
 ||bgtgag.com^
 ||bh3.net^
 ||bhcumsc.com^
+||bhlcimjcpvkxn.com^
 ||bhwcfwjz.com^
 ||biasedrepercussion.com^
 ||bibagloty.com^
@@ -37481,6 +37483,7 @@ tf2r.com#@#.adverts
 ||exrtbsrv.com^
 ||exteet.com^
 ||extend.tv^
+||extendedcocktailchapel.com^
 ||extendedmoreimposter.com^
 ||exterminatetooth.com^
 ||extoso.com^
@@ -38113,7 +38116,7 @@ tf2r.com#@#.adverts
 ||fusionads.net^
 ||fusoidactuate.com^
 ||fusulaeganch.com^
-||futiledrugstore.com^ 
+||futiledrugstore.com^
 ||futiry.com^
 ||futsoksu.com^
 ||future-hawk-content.co.uk^
@@ -40826,6 +40829,7 @@ tf2r.com#@#.adverts
 ||localsnaughty.com^
 ||locatedunderwear.com^
 ||locationsreverenceaid.com^
+||lockercpa.pl^
 ||lockerdomecdn.com^
 ||lockersatelic.cam^
 ||locketamoral.com^
@@ -44336,6 +44340,7 @@ tf2r.com#@#.adverts
 ||rdcqbyienb.com^
 ||rddywd.com^
 ||rdgfnqakk.com^
+||rdnujveafugqnz.com^
 ||rdowulajr.xyz^
 ||rdrceting.com^
 ||rdrtrk.com^
@@ -45311,6 +45316,7 @@ tf2r.com#@#.adverts
 ||sewingfibber.com^
 ||sexiststurdygather.com^
 ||sexmoney.com^
+||sexpieasure.com^
 ||sextubeweb.com^
 ||seyevjpcjkcnka.com^
 ||sf9yvla26s5t.com^
@@ -47631,6 +47637,7 @@ tf2r.com#@#.adverts
 ||vipcpms.com^
 ||vipersengoue.com^
 ||viperydeer.com^
+||viphpnpidxppnu.com^
 ||vipicmou.net^
 ||viqxlggexukmnjf.com^
 ||viqyxamy.xyz^
@@ -51304,6 +51311,7 @@ tf2r.com#@#.adverts
 ||furstraitsbrowse.com^$popup
 ||fuse-cloud.com^$popup
 ||fusttds.xyz^$popup
+||futiledrugstore.com^$popup
 ||fvenxjtzuaxu.com^$popup
 ||fwbntw.com^$popup
 ||gallonranchwhining.com^$popup
@@ -51706,6 +51714,7 @@ tf2r.com#@#.adverts
 ||netund.com^$popup
 ||network.nutaku.net^$popup
 ||never2date.com^$popup
+||never2never.com^$popup
 ||newdmn.icu^$popup
 ||newjulads.com^$popup
 ||news19.biz^$popup
@@ -52065,6 +52074,7 @@ tf2r.com#@#.adverts
 ||senzapudore.it^$popup,third-party
 ||serving-sys.com^$popup
 ||sewingfibber.com^$popup
+||sexpieasure.com^$popup
 ||shaexowi.com^$popup
 ||shalleda.com^$popup
 ||shanozoje.com^$popup
@@ -56217,6 +56227,7 @@ opendocument.xml.org,trucknetuk.com###sidebarright
 inoreader.com###sinner_container
 webkinznewz.ganzworld.com###site-description
 2oceansvibe.com###skin
+namemc.com###skin_wrapper
 lambgoat.com###skinoverlay
 dafont.com###sky
 dailymail.co.uk###sky-right
@@ -58612,6 +58623,7 @@ earlygame.com##a[rel*="sponsored"]
 mcrypto.club,themoviesflix.io##a[rel="noopener"]
 unsplash.com##a[rel^="sponsored"][target="_blank"]
 limetorrents.pro##a[title*="An‌on‌ymous Download"]
+hqq.tv##a[title="Free money easy"]
 facebook.com,facebookcorewwwi.onion##article[data-ft*="\"ei\":\""]
 greatist.com##aside
 goal.com##aside[class^="layouts_asideContentCommercial_"]
@@ -59149,7 +59161,7 @@ tripadvisor.com#?#.cAWGu:-abp-has(a:-abp-contains(Similar Sponsored Properties))
 1337x.to#?#a:-abp-contains(/Your IP Address is|Your IP Addres‌s is/)
 1337x.to#?#a:-abp-contains(/An‌on‌ymous Download|A‌non‌ymous Download/)
 3dmodelshare.org#?#.homeadv > span:-abp-contains(Advertisement)
-outlook.live.com#?##OwaContainer:-abp-has(div.fbAdLink)
+outlook.live.com#?#div:-abp-has(> div > div.fbAdLink)
 mylivewallpapers.com#?#.posts > div.posts:-abp-has(.adsbygoogle)
 bbc.com#?##sticky-mpu:-abp-has(.dotcom-ad-inner)
 cults3d.com#?#div.grid-cell:-abp-contains(/AD •/i)
@@ -64240,7 +64252,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /pphlogger.
 /ppms.js
 /pr.php?
-/prebid/ad.gif?
 /preparecookies?callback=$domain=~mirapodo.de|~mytoys.de|~yomonda.de
 /prepixel?
 /presslabs.js$script,~third-party
