@@ -9,6 +9,10 @@
 
 return array(
     /**start**/
+    's.click.tmall.com' => 0, //    淘宝优惠
+    'uland.taobao.com' => 0, // 天猫优惠
+    '2345.cn' => 0,     // 2345主页
+    'jifen.2345.com' => 0, //      2345积分
     'mbdp02.bdstatic.com' => 0, //百度视频
     'vdn.vzuu.com' => 0, //知乎视频
     'data.vod.itc.cn' => 0, //搜狐视频
