@@ -1,5 +1,5 @@
 #TITLE=AdRules
-#VER=20220519080958
+#VER=20220519081445
 #URL=https://github.com/Cats-Team/AdRules
 #TOTAL_LINES=91787
 
@@ -23755,6 +23755,7 @@ payload:
   - '+.track.msadcenter.dgt.com'
   - '+.dgtauto.com'
   - '+.dgvnudoa.xyz'
+  - '+.dgxlm.xyz'
   - '+.dgxzwj.com'
   - '+.d.dgzj.com'
   - '+.dh2xbuwg.com'
@@ -67182,7 +67183,6 @@ payload:
   - '+.rushonuco.com'
   - '+.rushwei.ltd'
   - '+.rusinsonatas.cam'
-  - '+.zzznews.ruskid.com'
   - '+.pr.rusmed.ru'
   - '+.rot.rusoul.ru'
   - '+.cookies.engage.russellinvestments.com'
