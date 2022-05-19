@@ -1,8 +1,8 @@
-! Checksum: NChgEw1piw72l4HawYCdwA
+! Checksum: eTYRFn0oJVjUNk+z7vToDA
 ! Title: AdGuard Chinese filter
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.0.55.90
-! TimeUpdated: 2022-05-19T01:30:55+00:00
+! Version: 2.0.55.94
+! TimeUpdated: 2022-05-19T06:31:02+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -2322,6 +2322,8 @@ nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
 !--------------- EasyList China rules --------------------------------------!
 !---------------------------------------------------------------------------!
 -*-*-*-*.panda^$script,third-party
+/Runtime/Js/pc_top.js
+/Runtime/Js/guding_top.js
 -1688-wp-media/ads/
 -880-80-4.jpg
 -90mh-gg.
@@ -3714,7 +3716,8 @@ ubmcmm.baidustatic.com
 ##div[onclick*=".leyu"]
 ##div[onclick*="?i_code="]
 ##div[style=" max-width:965px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:965px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:970px;  margin:0 auto;"] > a > img[height="60px"]
+##a[target="_blank"] > img[height="120px"][src*="qlogo.cn"][src$=".png"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
@@ -4002,6 +4005,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 .8ox.cn
 ||eylqbeu.cn^
+||19719197.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -11762,6 +11766,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||u3c3.cc^*.png
 szxx.com.cn###A0
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -19708,6 +19713,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||xpizjd4.cn^
 ||v3hu9iu.cn^
 ||mynwct.xyz^
+||yjsituation.com^
+||n8kt7gf.cn^
+||lgl.ink^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
