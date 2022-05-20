@@ -9,6 +9,7 @@
 
 return array(
     /**start**/
+    'msdk.qq.com' => 0, //王者登陆
     's.click.tmall.com' => 0, //    淘宝优惠
     'uland.taobao.com' => 0, // 天猫优惠
     '2345.cn' => 0,     // 2345主页
