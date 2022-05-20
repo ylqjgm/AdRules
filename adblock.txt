@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 3G9BdEISV/SVp8yBC1XwRA
+! Checksum: X64tM6nLuMlinezva5r4Bw
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-20 22:36:03（北京时间） 
-! Total count: 91349
+! Version: 2022-05-21 00:32:54（北京时间） 
+! Total count: 91351
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -35246,7 +35246,7 @@ keywin.org##.pindaolist
 khabaronline.ir##section.box.ads
 khaberni.com##div[class$="-banners"]
 khaosod.co.th##.ads_position_wrapper
-khophimhd.net,downloadsachmienphi.com,truyen2u.net#$#abort-current-inline-script JSON.parse atob
+khophimhd.net,downloadsachmienphi.com,truyen2u.net,tvhay.top#$#abort-current-inline-script JSON.parse atob
 kick4ss.com##.land-content .alert-warning
 kick4ss.com##.landing-HEADER .noti-1
 kick4ss.com##a[href^="https://vpn-offers.info/"]
@@ -42517,6 +42517,7 @@ trustpilot.com##.ad-block
 truyenaudiocv.net##+js(set-constant, adblockDetect, noopFunc)
 truyentranhaudio.online#$#body { overflow: visible!important; }
 truyentranhlh.net###lh-ads
+truyentranhtuan.com#$#abort-current-inline-script $ btpop
 trxfaucet.xyz,ethereumfaucet.xyz,bchfaucet.xyz,dashfaucet.xyz,dogfaucet.xyz,ltcfaucet.xyz,digibytefaucet.xyz,bytecoinfaucet.xyz,monerofaucet.xyz,zcashfaucet.xyz,ripplefaucety.xyz,peercoinfaucet.xyz,liskfaucet.xyz,etherclassic.xyz,potcoinfaucet.xyz,wavesfaucet.xyz,neofaucet.xyz,stratisfaucet.xyz##+js(set-constant, show_ads_gr8_lite, true)
 ts.cn##.tsggding
 tsdm.live###ts_sidebar_base
@@ -43153,6 +43154,7 @@ vdianying.cc##.swiper-wrapper
 vdianying.cc##.xintheme-gg
 vdianying.cc##div[style^="display:block !important;"]
 vdisk.weibo.com###ads_layer
+vebotv.vip#$#abort-current-inline-script $ vb-pr-box
 vecdn.pw##.overlay_video
 vedantu.com##.banner-text
 vegaschina.cn
