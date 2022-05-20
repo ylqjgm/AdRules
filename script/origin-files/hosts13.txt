@@ -1,7 +1,7 @@
 # EasyPrivacy
 #
 # Converted from - https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# Last converted - Thu, 19 May 2022 23:33:02 +0000
+# Last converted - Fri, 20 May 2022 07:31:23 +0000
 #
 
 0.0.0.0 2022welcome.com
@@ -352,6 +352,7 @@
 0.0.0.0 agentanalytics.com
 0.0.0.0 agentinteractive.com
 0.0.0.0 agilecrm.com
+0.0.0.0 agilesrv.com
 0.0.0.0 agilone.com
 0.0.0.0 agrvt.com
 0.0.0.0 aidata.io
@@ -404,7 +405,6 @@
 0.0.0.0 answerscloud.com
 0.0.0.0 anti-cheat.info
 0.0.0.0 antiblock.info
-0.0.0.0 antillephone.com
 0.0.0.0 anura.io
 0.0.0.0 anytrack.io
 0.0.0.0 apexstats.com
@@ -2908,6 +2908,7 @@
 0.0.0.0 push-ad.com
 0.0.0.0 push-free.com
 0.0.0.0 push-house.net
+0.0.0.0 push7.jp
 0.0.0.0 pushalert.co
 0.0.0.0 pushbird.com
 0.0.0.0 pushbullet.com
@@ -4964,6 +4965,7 @@
 0.0.0.0 analyticsip.net
 0.0.0.0 ar-x.site
 0.0.0.0 aspservice.jp
+0.0.0.0 beanscattering.jp
 0.0.0.0 bigmining.com
 0.0.0.0 blogranking.net
 0.0.0.0 catsys.jp
@@ -5701,6 +5703,7 @@
 0.0.0.0 event-api.contactatonce.com
 0.0.0.0 event-api.rdstation.com.br
 0.0.0.0 event-listener.air.tv
+0.0.0.0 event-stream.spot.im
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.getblue.io
 0.0.0.0 event.instiengage.com
@@ -5747,6 +5750,7 @@
 0.0.0.0 fkrkkmxsqeb5bj9r.s3.amazonaws.com
 0.0.0.0 fl.a.ki
 0.0.0.0 flashstats.libsyn.com
+0.0.0.0 flixgvid.flix360.io
 0.0.0.0 fog.pixual.co
 0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 fp-cdn.azureedge.net
@@ -6531,6 +6535,7 @@
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 ddrvjrfwnij7n.cloudfront.net
+0.0.0.0 de5v6rb80m4j1.cloudfront.net
 0.0.0.0 di2xwvxz1jrvu.cloudfront.net
 0.0.0.0 dkupaw9ae63a8.cloudfront.net
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
@@ -6576,8 +6581,10 @@
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
 0.0.0.0 vwonwkaqvq-a.global.ssl.fastly.net
+0.0.0.0 antillephone.com
 0.0.0.0 beyondsecurity.com
 0.0.0.0 cyveillance.com
+0.0.0.0 geotrust.com
 0.0.0.0 howsmyssl.com
 0.0.0.0 medals.bizrate.com
 0.0.0.0 nsg.symantec.com

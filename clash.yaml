@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220520095425
+#VER=20220520162846
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=91218
+#TOTAL_LINES=91225
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -7243,6 +7243,7 @@ payload:
   - '+.metrics.agilent.com'
   - '+.seahorseinfo.agilent.com'
   - '+.tracking-explore.agilent.com'
+  - '+.agilesrv.com'
   - '+.agilityprocessing.net'
   - '+.agillic.eu'
   - '+.smetrics.agillink.com'
@@ -11733,6 +11734,7 @@ payload:
   - '+.bangabdicate.com'
   - '+.banganet.com'
   - '+.bangbang521.com'
+  - '+.bangbangle.online'
   - '+.adsgen.bangbros.com'
   - '+.adsrv.bangbros.com'
   - '+.metrics.bangbros.com'
@@ -12437,6 +12439,7 @@ payload:
   - '+.beamingworked.com'
   - '+.beampulse.com'
   - '+.qzxfnv.beams.co.jp'
+  - '+.beanscattering.jp'
   - '+.beanstalkdata.com'
   - '+.beanstock.com'
   - '+.bearad.com'
@@ -20567,6 +20570,7 @@ payload:
   - '+.coquine-dispo.com'
   - '+.cor8ni3shwerex.com'
   - '+.go.coral.org'
+  - '+.coralls.com'
   - '+.coralogix.com'
   - '+.corateencountry.pro'
   - '+.smetrics.corazon.cl'
@@ -21807,6 +21811,7 @@ payload:
   - '+.cxmob.net'
   - '+.cxmolk.com'
   - '+.cxmygp.xyz'
+  - '+.cxnroh6u.xyz'
   - '+.live.cxo.name'
   - '+.live.ec2.cxo.name'
   - '+.cmp.cxo.pl'
@@ -22830,6 +22835,7 @@ payload:
   - '+.ddskyuu.com'
   - '+.s.ddstu.com'
   - '+.u.ddvip.com'
+  - '+.ddwant.cn'
   - '+.dm1.ddwk8.cn'
   - '+.ddwt.am'
   - '+.ddxmgy.com'
@@ -32974,6 +32980,7 @@ payload:
   - '+.securetags.geotecnologias.com'
   - '+.geotmt.com'
   - '+.geotraff.com'
+  - '+.geotrust.com'
   - '+.geovideo.name'
   - '+.geovisite.com'
   - '+.geovisite.ovh'
@@ -43957,7 +43964,6 @@ payload:
   - '+.killtarget.biz'
   - '+.killtarget.com'
   - '+.killtarget.pro'
-  - '+.killtee.com'
   - '+.kilo6alga.com'
   - '+.kilocythera.com'
   - '+.kilomansa.com'
@@ -53818,7 +53824,6 @@ payload:
   - '+.kv.stat.nearme.com.cn'
   - '+.sdk.stat.foreign.nearme.com.cn'
   - '+.stat.browser.nearme.com.cn'
-  - '+.nearmetshirt.com'
   - '+.go.nearpod.com'
   - '+.zumfrt.nearwear.co.kr'
   - '+.neatstats.com'
@@ -84546,6 +84551,7 @@ payload:
   - '+.wlmarketing.com'
   - '+.wlmhdk.cn'
   - '+.wlnrofikppw.xyz'
+  - '+.wlr8yw8.cn'
   - '+.tracking.wlscripts.net'
   - '+.wlshotel.cn'
   - '+.wltqfaeeiexixp.com'
@@ -89244,6 +89250,7 @@ payload:
   - '+.hype.zlipa.com'
   - '+.zllhtz.cn'
   - '+.zllnb.top'
+  - '+.zllqoxidate.com'
   - '+.zln44.cn'
   - '+.zlne800.com'
   - '+.zlnmzc.top'

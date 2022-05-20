@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: ZGP0WZasgEYRYDHnz9LiEA
+! Checksum: 2i9pzR8TTNcEg6V/fvjypQ
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-05-20 09:54:39（北京时间） 
-! Total count: 18293
+! Version: 2022-05-20 16:29:01（北京时间） 
+! Total count: 18292
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -647,7 +647,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orglytown.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgustom-vars.
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -2643,6 +2643,7 @@
 @@||atm.acecounter.com/ac.js?tid=$domain=agabangmall.com
 @@||atm.youku.com/cast/getFlvUrl.
 @@||atozmath.com/Scripts/advertisement.js
+@@||atozmath.com^$cookie
 @@||atozmath.com^$generichide
 @@||atptour.com/assets/atpwt/scripts/util/googleAnalytics.js$~third-party
 @@||atresplayer.com^$ghide
@@ -5199,8 +5200,6 @@
 @@||dcdirtylaundry.com/cdn-cgi/challenge-platform/$~third-party
 @@||dcdirtylaundry.com^$ghide
 @@||dcinfos.abtasty.com/geolocAndWeather.php^$domain=tf1.fr
-@@||dcinside.co.kr/viewimage.php^$stealth
-@@||dcinside.co.kr/viewmovie.php^$stealth
 @@||dcinside.com$cookie=_ga
 @@||dcms.1688.com^
 @@||dco.smartclip.net/?plc=$domain=spiele.rtl.de
@@ -7768,7 +7767,6 @@
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
 @@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=aena.es
 @@||googletagmanager.com/gtm.js$domain=amd.com
@@ -10354,6 +10352,7 @@
 @@||livefyre.com/site_media/images/auth/$image
 @@||livefyre.com/wjs/v1.0/javascripts/CommentCount.js$domain=mlb.com
 @@||livehindustan.com/*ad$script
+@@||liveindex.org/wp-content/plugins/imedia-basic/*.js
 @@||liveinincheon.tistory.com^$generichide
 @@||liveinternet.ru/code$generichide,genericblock,domain=liveinternet.ru
 @@||livejasmin.com/en/promotion/get?noRedirect=*&streamType=$domain=pt.protoawe.com

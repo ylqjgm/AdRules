@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205190254
+! Version: 202205200254
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 42122
+! Lenth = 42153
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2153,6 +2153,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /cnt.aspx?*rnd=
 /cnt.cgi?
 /cnt.js
+/cnt.php?id=
 /cnt.php?rf=
 /cnt/cnt.php?
 /cnt/start.php?
@@ -4334,7 +4335,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /ppms.js
 /pqt.email/o/*$image
 /pr.php?
-/prebid/ad.gif?
 /preparecookies?callback=$domain=~mirapodo.de|~mytoys.de|~yomonda.de
 /prepixel?
 /presslabs.js$script,~third-party
@@ -4644,6 +4644,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /scmetrics.*/b/ss/*
 /screencount?vcid=
 /scribd_events?
+/script.js|$~third-party,domain=beaumontenterprise.com|chron.com|ctinsider.com|ctpost.com|darientimes.com|expressnews.com|fairfieldcitizenonline.com|fuelfix.com|greenwichtime.com|hearstmediact.com|hearstmediatx.com|houstonchronicle.com|lmtonline.com|middletownpress.com|milfordmirror.com|mrt.com|myplainview.com|mysanantonio.com|ncadvertiser.com|newmilfordspectrum.com|newstimes.com|nhregister.com|ourmidland.com|registercitizen.com|seattlepi.com|sfchronicle.com|sfgate.com|sheltonherald.com|stamfordadvocate.com|thehour.com|theintelligencer.com|theridgefieldpress.com|timesunion.com|trumbulltimes.com|westport-news.com|wiltonbulletin.com|yourconroenews.com
 /script/analytics.
 /script/analytics/*
 /script/ga.js
@@ -6718,6 +6719,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdn.segment.com/v1/projects/
 @@||cdn.segmentify.com/*/segmentify.css$domain=migros.com.tr
 @@||cdn.segmentify.com/*/segmentify.js$domain=gittigidiyor.com
+@@||cdn.segmentify.com/*/segmentify.js$domain=gratis.com
 @@||cdn.segmentify.com/*/segmentify.js$domain=migros.com.tr
 @@||cdn.segmentify.com/account-js/segmentify_flo.js$domain=flo.com.tr
 @@||cdn.segmentify.com^$domain=pttavm.com
@@ -7424,7 +7426,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js^$domain=timparty.tim.it
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=amd.com
 @@||googletagmanager.com/gtm.js$domain=anond.hatelabo.jp
@@ -9161,6 +9163,7 @@ news.mynavi.jp##.articleList-attention
 news.webike.net###custom_html-5
 newslab.ru##.r-recommend
 newslab.ru##.sharing
+nikkansports.com##div[id^="cx_"]
 nlab.itmedia.co.jp##div[id^="logly-"] + div.h10px.colBoxClear
 nnmclub.ro,nnm-club.t0r.xyz,nnm-club-me.appspot.com,nnm-club.lib,nnm-club.me,nnmclub.to#@#img[width="88"][height="31"]
 notonthehighstreet.com#%#//scriptlet('set-constant', 'window.DD_RUM.init', 'noopFunc')
@@ -11303,6 +11306,7 @@ znak.com##.relap
 ||agexpo.americanexpress.com^
 ||aghtag.tech^$third-party
 ||agilecrm.com^$third-party
+||agilesrv.com^$third-party
 ||agility.cartoonnetwork.com^
 ||agility.citizensbank.com^
 ||agility.cnn.com^
@@ -12710,6 +12714,7 @@ znak.com##.relap
 ||archswimming.com^
 ||archswimming.com^$third-party
 ||arclk.net/trax?
+||arcpublishing.com/beacon
 ||arcpublishing.com/i.png
 ||arcpublishing.com^*/datapoint/save
 ||arcticamber.com^
@@ -13825,6 +13830,7 @@ znak.com##.relap
 ||botdetector.ru^$third-party
 ||botize.com^$third-party
 ||botman.ninja^$third-party
+||botndm.nl^*/init.min.js
 ||botscanner.com^$third-party
 ||botsvisit.com^$third-party
 ||bounce-ads.de^$third-party
@@ -14158,6 +14164,7 @@ znak.com##.relap
 ||c4dv.copinesdevoyage.com^
 ||c4tracking01.com^$third-party
 ||c4tw.net^$third-party
+||c993.westport-news.com^
 ||ca-fe.pstatic.net/web-mobile/static/naverStatLogger
 ||ca-fe.pstatic.net/web-mobile/static/web-crash-logger
 ||ca-marketing.festo.com^
@@ -14514,6 +14521,7 @@ znak.com##.relap
 ||cdn.resonate.com^$third-party
 ||cdn.retailrocket.*/*/tracking.js
 ||cdn.segment.com/analytics.js
+||cdn.segmentify.com/*/segmentify.js$script,important,redirect=noopjs,domain=gratis.com
 ||cdn.shopify.com/s*/trekkie*.js
 ||cdn.shopify.com/shopifycloud/consent-tracking-api/*/consent-tracking-api.js
 ||cdn.sift.com/s.js
@@ -19114,10 +19122,12 @@ znak.com##.relap
 ||f.zgbmw.com.cn^$third-party
 ||f0nn.oney.fr^
 ||f0tiojboxnc1.bitdomain.biz^
+||f164.sheltonherald.com^
 ||f1tbit.com^
 ||f362.nola.com^
 ||f775.thehour.com^
 ||f7ds.liberation.fr^
+||f857.hearstmediatx.com^
 ||f8phvntohv.tpetry.me^
 ||f92j5.com^$third-party
 ||fabricww.com^$third-party
@@ -19455,13 +19465,14 @@ znak.com##.relap
 ||flipkart.net/*/*/tracker/
 ||flirt4free.com/pixel/
 ||flix360.com/beat?
-||flixcar.com/delivery/
+||flixcar.com/*/tracking/
 ||flixcar.com/gvid
 ||flixcar.com^$third-party
 ||flixcart.com/px/gNtTli3A/init.js
 ||flixcdn.com^*/track.js
 ||flixfacts.co.uk^$third-party
 ||flixfacts.com^$third-party
+||flixgvid.flix360.io^
 ||flixster.com^*/analytics.
 ||flixsyndication.net^$third-party
 ||flockflame.com^$third-party
@@ -19473,6 +19484,7 @@ znak.com##.relap
 ||floodprincipal.com^$third-party
 ||flooranddecor.com/v1HqbVho/init.js
 ||floorforce.actonservice.com^
+||flowerstreatment.com^
 ||floweryoperation.com^
 ||floweryoperation.com^$third-party
 ||fls.doubleclick.net/activityi
@@ -19648,6 +19660,7 @@ znak.com##.relap
 ||fpt.shop/fa_tracking.js
 ||fpvrgm.blackforestdecor.com^
 ||fpwtsp.xxxlutz.de^
+||fpxau.net^
 ||fpxewa.ilmeteo.it^
 ||fq9vy0muyqi3.www.madrigalmaps.com^
 ||fqppgv.cheapoair.com^
@@ -22495,6 +22508,7 @@ znak.com##.relap
 ||j.northbeam.io^
 ||j.uralweb.ru^
 ||j1.ax.xrea.com^
+||j158.hearstmediact.com^
 ||j198.registercitizen.com^
 ||j1kmigrhwjf4.angelacampos.es^
 ||j927.statnews.com^
@@ -22525,6 +22539,7 @@ znak.com##.relap
 ||javhd.com/rstat
 ||javs.actonservice.com^
 ||javvso.newone-shop.com^
+||javynow.com/ajax/access.php
 ||jbezdi.ilsole24ore.com^
 ||jciiix.dogeat.ru^
 ||jclari.idgarages.com^
@@ -23053,6 +23068,7 @@ znak.com##.relap
 ||l2.visiblemeasures.com^$object,third-party
 ||l2k30jsa.theochu.com^
 ||l936.expressnews.com^
+||l997.lmtonline.com^
 ||la-sync.taboola.com^
 ||la7.it/js-live/nielsen1.js
 ||lacentrale.fr/collect
@@ -26308,6 +26324,7 @@ znak.com##.relap
 ||mobileanalytics.*.amazonaws.com^
 ||mobileapptracking.com^
 ||mobilelog.upqzfile.com^
+||mobilelog.ws.pho.to^
 ||mobiletelemetry.ebay.com^
 ||mobtop.az^$third-party
 ||mobtop.com^$third-party
@@ -26999,6 +27016,7 @@ znak.com##.relap
 ||next.rikunabi.com/rnc/contents/pub/common/js/I2A.js
 ||nextclick.pl^$third-party
 ||nextcname.getblueshift.com^
+||nextday.media/static/tags/
 ||nextdoor.com/events/
 ||nextinpact.com/bundles/mtm
 ||nextinpact.com/image/*=.jpg
@@ -27974,6 +27992,7 @@ znak.com##.relap
 ||p2r14.com^
 ||p2trc.emv2.com^$third-party
 ||p30rank.ir^$third-party
+||p593.seattlepi.com^
 ||p8s.oxbowshop.com^
 ||p9jhxqlkmn.miniso.com.gr^
 ||pa-oa.com^$third-party
@@ -29606,6 +29625,7 @@ znak.com##.relap
 ||r3.mail.ru/k?sign=
 ||r42tag.com^
 ||r4nds.absorba.com^
+||r541.houstonchronicle.com^
 ||r7.com/comscore/
 ||r7ls.net^$third-party
 ||ra.rockcontent.com^$third-party
@@ -30503,6 +30523,7 @@ znak.com##.relap
 ||s1.daumcdn.net/svc/original/U03/cssjs/userAgent
 ||s1.subaru.com^
 ||s2.youtube.com^
+||s232.theintelligencer.com^
 ||s24-analytics.com^
 ||s3-analytics-events.easybrain.com^
 ||s3-sa-east-1.amazonaws.com/analytics-gjc/analytics-gjc-min.js
@@ -36626,6 +36647,7 @@ znak.com##.relap
 ||t570.wiltonbulletin.com^
 ||t7baxp1xmw00.boxoffice.adventuretix.com^
 ||t8.mailperformance.com^
+||t810.ctpost.com^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||ta.queit.in^
@@ -39066,6 +39088,7 @@ znak.com##.relap
 ||tredir.go.com^
 ||treefrog.kaffeknappen.no^
 ||treehousei.com^$third-party
+||treg.hearstnp.com^
 ||trekmedia.net^$third-party
 ||tremendousplastic.com^
 ||tremendousplastic.com^$third-party
@@ -39449,6 +39472,7 @@ znak.com##.relap
 ||u-on.eu^$third-party
 ||u.btserve.com^$third-party
 ||u47.pnc.com^
+||u566.chron.com^
 ||u5e.com^$third-party
 ||u652.myplainview.com^
 ||u927.sfgate.com^
@@ -40277,6 +40301,7 @@ znak.com##.relap
 ||w.ahalogy.com/widget/frame?&client=
 ||w.oix.net^$third-party
 ||w.smobile.wotif.com^
+||w020.newmilfordspectrum.com^
 ||w1jesu6.package12.com^$third-party
 ||w3.aktionaersbank.de^
 ||w3.flatex.at^
@@ -40300,6 +40325,7 @@ znak.com##.relap
 ||w88.go.com^
 ||w88.m.espn.go.com^
 ||w88.thelionking.co.uk^
+||w982.middletownpress.com^
 ||wa.and.co.uk^
 ||wa.bol.com^
 ||wa.devolksbank.nl^
@@ -41490,6 +41516,7 @@ znak.com##.relap
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^
 ||x8.cho-chin.com^
+||x822.mrt.com^
 ||x9.shinobi.jp^
 ||xaas3.jp/tracking/$third-party
 ||xacire.annieselke.com^
@@ -41642,7 +41669,9 @@ znak.com##.relap
 ||y-track.com^$third-party
 ||y.ksl.com^
 ||y1.arte.tv^
+||y653.theridgefieldpress.com^
 ||y738.nhregister.com^
+||y752.milfordmirror.com^
 ||y820.darientimes.com^
 ||y8hxgv9m.kobetsu.co.jp^
 ||y900.greenwichtime.com^
@@ -41923,7 +41952,9 @@ znak.com##.relap
 ||z211.yourconroenews.com^
 ||z444o.com^$third-party
 ||z492.ctinsider.com^
+||z590.fairfieldcitizenonline.com^
 ||z680.beaumontenterprise.com^
+||z929.fuelfix.com^
 ||za.zalo.me/v*/brp?fts=
 ||za.zalo.me/v*/w/_zaf.gif
 ||za.zdn.vn^
