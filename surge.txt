@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220521151723
+#VER=20220521152059
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93045
+#TOTAL_LINES=93051
 DOMAIN-SUFFIX,cda.0-shiny.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
 DOMAIN-SUFFIX,c.0.0.0.0.cn
@@ -8742,6 +8742,8 @@ DOMAIN-SUFFIX,imgstat.ameba.jp
 DOMAIN-SUFFIX,ln.ameba.jp
 DOMAIN-SUFFIX,spstaticimg.ameba.jp
 DOMAIN-SUFFIX,sy.amebame.com
+DOMAIN-SUFFIX,log3-misc-lq.amemv.com
+DOMAIN-SUFFIX,log5-misc-lq.amemv.com
 DOMAIN-SUFFIX,amenitypassenger.com
 DOMAIN-SUFFIX,amensh.cn
 DOMAIN-SUFFIX,amerallyluke.club
@@ -42617,6 +42619,7 @@ DOMAIN-SUFFIX,jrad.jd.com
 DOMAIN-SUFFIX,jrclick.jd.com
 DOMAIN-SUFFIX,jzt.jd.com
 DOMAIN-SUFFIX,knicks.jd.com
+DOMAIN-SUFFIX,log.jd.com
 DOMAIN-SUFFIX,mapi.m.jd.com
 DOMAIN-SUFFIX,mars.jd.com
 DOMAIN-SUFFIX,mercury.jd.com
@@ -53450,6 +53453,7 @@ DOMAIN-SUFFIX,mowyappedbibs.com
 DOMAIN-SUFFIX,ad.mox.tv
 DOMAIN-SUFFIX,moxiaoqihuoguo.com
 DOMAIN-SUFFIX,moxiaoyang.top
+DOMAIN-SUFFIX,loggate.moxigame.cn
 DOMAIN-SUFFIX,moynan.com
 DOMAIN-SUFFIX,analytics.moz.com
 DOMAIN-SUFFIX,mozbar.moz.com
@@ -64535,6 +64539,7 @@ DOMAIN-SUFFIX,qianmeiby.com
 DOMAIN-SUFFIX,count.qiannao.com
 DOMAIN-SUFFIX,qiannian.biz
 DOMAIN-SUFFIX,click.qianqian.com
+DOMAIN-SUFFIX,log.jd.com.gslb.qianxun.com
 DOMAIN-SUFFIX,dns.jd.com.gslb.qianxun.com
 DOMAIN-SUFFIX,qianyuntengyue.com
 DOMAIN-SUFFIX,jsb.qianzhan.com
@@ -80824,6 +80829,7 @@ DOMAIN-SUFFIX,ads.uc.cn
 DOMAIN-SUFFIX,adslot.uc.cn
 DOMAIN-SUFFIX,api.mp.uc.cn
 DOMAIN-SUFFIX,api.open.uc.cn
+DOMAIN-SUFFIX,applog-perf.uc.cn
 DOMAIN-SUFFIX,applog.uc.cn
 DOMAIN-SUFFIX,applog.ucdns.uc.cn
 DOMAIN-SUFFIX,applogios.uc.cn

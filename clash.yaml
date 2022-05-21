@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220521151724
+#VER=20220521152100
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93045
+#TOTAL_LINES=93051
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -8745,6 +8745,8 @@ payload:
   - '+.ln.ameba.jp'
   - '+.spstaticimg.ameba.jp'
   - '+.sy.amebame.com'
+  - '+.log3-misc-lq.amemv.com'
+  - '+.log5-misc-lq.amemv.com'
   - '+.amenitypassenger.com'
   - '+.amensh.cn'
   - '+.amerallyluke.club'
@@ -42620,6 +42622,7 @@ payload:
   - '+.jrclick.jd.com'
   - '+.jzt.jd.com'
   - '+.knicks.jd.com'
+  - '+.log.jd.com'
   - '+.mapi.m.jd.com'
   - '+.mars.jd.com'
   - '+.mercury.jd.com'
@@ -53453,6 +53456,7 @@ payload:
   - '+.ad.mox.tv'
   - '+.moxiaoqihuoguo.com'
   - '+.moxiaoyang.top'
+  - '+.loggate.moxigame.cn'
   - '+.moynan.com'
   - '+.analytics.moz.com'
   - '+.mozbar.moz.com'
@@ -64538,6 +64542,7 @@ payload:
   - '+.count.qiannao.com'
   - '+.qiannian.biz'
   - '+.click.qianqian.com'
+  - '+.log.jd.com.gslb.qianxun.com'
   - '+.dns.jd.com.gslb.qianxun.com'
   - '+.qianyuntengyue.com'
   - '+.jsb.qianzhan.com'
@@ -80827,6 +80832,7 @@ payload:
   - '+.adslot.uc.cn'
   - '+.api.mp.uc.cn'
   - '+.api.open.uc.cn'
+  - '+.applog-perf.uc.cn'
   - '+.applog.uc.cn'
   - '+.applog.ucdns.uc.cn'
   - '+.applogios.uc.cn'

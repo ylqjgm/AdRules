@@ -1,12 +1,12 @@
 # Title: AdRules Hosts List
-# Checksum: DtecVgwgO1mG0ykPCe0sJw
+# Checksum: FSAp8HjorFUKButUA1oOXg
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 8 Hours
 # 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
 #
-# Version: 2022-05-21 15:17:42（北京时间） 
-# Total count: 120884
+# Version: 2022-05-21 15:21:19（北京时间） 
+# Total count: 120890
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0-132.net.daraz.com
 0.0.0.0 0-158.net.daraz.com
@@ -17977,6 +17977,7 @@
 0.0.0.0 applink.mob.com
 0.0.0.0 appload.ingest.crittercism.com
 0.0.0.0 apploading.mobi
+0.0.0.0 applog-perf.uc.cn
 0.0.0.0 applog.camera360.com
 0.0.0.0 applog.mobike.com
 0.0.0.0 applog.musical.ly
@@ -62399,6 +62400,8 @@
 0.0.0.0 log.invodo.com
 0.0.0.0 log.ireader.com
 0.0.0.0 log.isnssdk.com
+0.0.0.0 log.jd.com
+0.0.0.0 log.jd.com.gslb.qianxun.com
 0.0.0.0 log.kaayun.com
 0.0.0.0 log.kajicam.com
 0.0.0.0 log.kaka.me
@@ -62563,12 +62566,14 @@
 0.0.0.0 log2.ru
 0.0.0.0 log2.sina.cn
 0.0.0.0 log22.makeshop.co.kr
+0.0.0.0 log3-misc-lq.amemv.com
 0.0.0.0 log3-normal-hl.toutiaoapi.com
 0.0.0.0 log3-normal-lq.toutiaoapi.com
 0.0.0.0 log3.adsplay.net
 0.0.0.0 log3.optimizely.com
 0.0.0.0 log4.adsplay.net
 0.0.0.0 log4x.nixcdn.com
+0.0.0.0 log5-misc-lq.amemv.com
 0.0.0.0 log57.top
 0.0.0.0 log7.adsplay.xyz
 0.0.0.0 loga.hit-parade.com
@@ -62623,6 +62628,7 @@
 0.0.0.0 logevt.pubfinity.com
 0.0.0.0 logg.kiwi.com
 0.0.0.0 logg4u.cnnd.vn
+0.0.0.0 loggate.moxigame.cn
 0.0.0.0 logger.adthor.com
 0.0.0.0 logger.adthrive.com
 0.0.0.0 logger.applovefrom.com

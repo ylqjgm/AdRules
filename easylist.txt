@@ -1,5 +1,5 @@
 ! Title: AdRules for AdGuard
-! Version: 20220521071724935696972
+! Version: 20220521072100947520999
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Total lines: 00000
 ||cda.0-shiny.com^
@@ -42567,6 +42567,7 @@
 ||jrclick.jd.com^
 ||jzt.jd.com^
 ||knicks.jd.com^
+||log.jd.com^
 ||mapi.m.jd.com^
 ||mars.jd.com^
 ||mercury.jd.com^
@@ -53389,6 +53390,7 @@
 ||ad.mox.tv^
 ||moxiaoqihuoguo.com^
 ||moxiaoyang.top^
+||loggate.moxigame.cn^
 ||moynan.com^
 ||analytics.moz.com^
 ||mozbar.moz.com^
@@ -64456,6 +64458,7 @@
 ||count.qiannao.com^
 ||qiannian.biz^
 ||click.qianqian.com^
+||log.jd.com.gslb.qianxun.com^
 ||dns.jd.com.gslb.qianxun.com^
 ||qianyuntengyue.com^
 ||jsb.qianzhan.com^
@@ -80723,6 +80726,7 @@
 ||adslot.uc.cn^
 ||api.mp.uc.cn^
 ||api.open.uc.cn^
+||applog-perf.uc.cn^
 ||applog.uc.cn^
 ||applog.ucdns.uc.cn^
 ||applogios.uc.cn^

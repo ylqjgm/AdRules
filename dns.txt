@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 6BD5t1N1ixGoAkO44QfukA
+! Checksum: DdAueI7vRB8KyIu5msWkBQ
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
-! Version: 2022-05-21 15:17:42（北京时间） 
-! Total count: 92243
+! Version: 2022-05-21 15:21:19（北京时间） 
+! Total count: 92249
 *.91ivr.
 *.91wan.
 *.99g99.
@@ -12480,6 +12480,7 @@
 ||applift.com^
 ||applink.getbambu.com^
 ||apploading.mobi^
+||applog-perf.uc.cn^
 ||applog.camera360.com^
 ||applog.mobike.com^
 ||applog.musical.ly^
@@ -47740,6 +47741,8 @@
 ||log.infonet.vn^
 ||log.invodo.com^
 ||log.ireader.com^
+||log.jd.com.gslb.qianxun.com^
+||log.jd.com^
 ||log.kaayun.com^
 ||log.kajicam.com^
 ||log.kaka.me^
@@ -47877,9 +47880,11 @@
 ||log2.ru^
 ||log2.sina.cn^
 ||log22.makeshop.co.kr^
+||log3-misc-lq.amemv.com^
 ||log3-normal-hl.toutiaoapi.com^
 ||log3-normal-lq.toutiaoapi.com^
 ||log4x.nixcdn.com^
+||log5-misc-lq.amemv.com^
 ||log57.top^
 ||log6.reader.qq.com^
 ||logagent-wf.centurygame.com^
@@ -47901,6 +47906,7 @@
 ||logevt.pubfinity.com^
 ||logg.kiwi.com^
 ||logg4u.cnnd.vn^
+||loggate.moxigame.cn^
 ||logger.applovefrom.com^
 ||logger.baofeng.com^
 ||logger.bzu.kr^
