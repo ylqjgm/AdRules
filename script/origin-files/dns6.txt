@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: EXebA+ZAfOnvNVj5i68stQ
-! Version: 202205210116
+! Checksum: V/voWOhrkDyum5W/RtJ4Jg
+! Version: 202205210706
 ! Title: EasyPrivacy
-! Last modified: 21 May 2022 01:16 UTC
+! Last modified: 21 May 2022 07:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4271,7 +4271,6 @@
 /tagmgmt/bootstrap.
 /tagomnitureengine.js
 /tags/angular-
-/tags?org_id=
 /tags?session_id=
 /TagSvc/*
 /tagx.js
@@ -14723,6 +14722,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cbsimg.net/js/cbsi/dw.js
 ||cc-api-data.adobe.io^
 ||centerblog.net/stats.js
+||channel.io^*/events
 ||chatroll.com/t.gif
 ||cheezburger.com/api/visitor
 ||cl.canva.com^
@@ -27398,8 +27398,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 !
 !---------- Anti-Adblock ----------
 !
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
-||elderlytown.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org.com^
 ||elephantqueue.com^
 ||emptyescort.com^
 ||enchantedjudge.com^
@@ -32711,6 +32710,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||cbsimg.net/js/cbsi/dw.js
 ||cc-api-data.adobe.io^
 ||centerblog.net/stats.js
+||channel.io^*/events
 ||chatroll.com/t.gif
 ||cheezburger.com/api/visitor
 ||cl.canva.com^

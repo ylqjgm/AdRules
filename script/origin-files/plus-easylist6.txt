@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205200254
+! Version: 202205210232
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 42153
+! Lenth = 42163
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1381,7 +1381,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /analytics.google.js
 /analytics.html?
 /analytics.init.js
-/analytics.js$domain=freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de
+/analytics.js$domain=freexcafe.com|rusvideos.tv|nakubani.ru|lun.com|songsara.net|newsmax.com|bolgehastanesi.com|ewtc.de|newsdig.tbs.co.jp
 /analytics.js.gz
 /analytics.js/v1/*
 /analytics.js?
@@ -4400,6 +4400,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /pv?place=
 /pv?token=
 /pv?u=$image
+/pv_beacon.gif?
 /pv_count.
 /pv_web.gif
 /pvcount.
@@ -6329,7 +6330,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|atresplayer.com|backcountry.com|bt.com|cadenaser.com|churchofjesuschrist.org|dollargeneral.com|kroger.com|personal.natwest.com|telus.com|verizon.com
+@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|dollargeneral.com|kroger.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|foodnetwork.com|telus.com|verizon.com
@@ -7489,6 +7490,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=glamusha.ru
 @@||googletagmanager.com/gtm.js$domain=gratis.com
 @@||googletagmanager.com/gtm.js$domain=gumtree.com
+@@||googletagmanager.com/gtm.js$domain=harveynorman.co.nz|harveynorman.com.au
 @@||googletagmanager.com/gtm.js$domain=highsnobiety.com
 @@||googletagmanager.com/gtm.js$domain=hipolink.net
 @@||googletagmanager.com/gtm.js$domain=hub.docker.com
@@ -7972,10 +7974,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||media.bnd.com/mistats/finalizestats.js
 @@||media.bnd.com/mistats/micb.js
 @@||media.bnd.com/mistats/products/escenic_s_code.js
-@@||media.flixcar.com/*cdn/$domain=shop.samsung.com
-@@||media.flixcar.com/delivery/$domain=shop.samsung.com
-@@||media.flixfacts.com/js/loader.js$domain=hansapost.ee
-@@||media.flixfacts.com/js/loader.js$domain=shop.samsung.com
 @@||media.ft.com/j/optimost-$domain=ft.com
 @@||media.kaspersky.com/tracking/omniture/s_code_single_suite.js
 @@||media.sosh.fr/includes/wtbase.js
@@ -9161,6 +9159,7 @@ news.biglobe.ne.jp##div[style="min-height: 610px"]
 news.mynavi.jp##.articleList-along
 news.mynavi.jp##.articleList-attention
 news.webike.net###custom_html-5
+newsdig.tbs.co.jp#?#.l-contents-wrap > div[v-scope^="Recommend"]:upward(1)
 newslab.ru##.r-recommend
 newslab.ru##.sharing
 nikkansports.com##div[id^="cx_"]
@@ -13410,6 +13409,7 @@ znak.com##.relap
 ||beamincrease.com^
 ||beamincrease.com^$third-party
 ||beampulse.com^$third-party
+||beanscattering.jp^$third-party
 ||beanstalkdata.com^$third-party
 ||beanstalkmarketing.actonservice.com^
 ||beanstock.com^$third-party
@@ -15392,6 +15392,7 @@ znak.com##.relap
 ||collector.cint.com^
 ||collector.clareity.net^
 ||collector.contentexchange.me^$third-party
+||collector.doordash.com^
 ||collector.getyourguide.com^
 ||collector.getyourguide.com^$third-party
 ||collector.githubapp.com^
@@ -16961,6 +16962,7 @@ znak.com##.relap
 ||de.secure.sonosite.com^
 ||de01.rayjump.com^
 ||de17a.com^$third-party
+||de5v6rb80m4j1.cloudfront.net^
 ||deadpantruck.com^
 ||deadpantruck.com^$third-party
 ||deafeningdock.com^
@@ -18908,6 +18910,7 @@ znak.com##.relap
 ||events.genndi.com/tracker
 ||events.georgiancollege.ca^
 ||events.gogoair.com^
+||events.iap.unity3d.com^
 ||events.ifunny.co^
 ||events.il.fi^
 ||events.ingatlan.com^
@@ -19467,11 +19470,9 @@ znak.com##.relap
 ||flix360.com/beat?
 ||flixcar.com/*/tracking/
 ||flixcar.com/gvid
-||flixcar.com^$third-party
 ||flixcart.com/px/gNtTli3A/init.js
 ||flixcdn.com^*/track.js
 ||flixfacts.co.uk^$third-party
-||flixfacts.com^$third-party
 ||flixgvid.flix360.io^
 ||flixster.com^*/analytics.
 ||flixsyndication.net^$third-party
@@ -20153,6 +20154,7 @@ znak.com##.relap
 ||geosvc.globalmailer.com^$third-party
 ||geotargetly-1a441.appspot.com^$third-party
 ||geotargetly.co^$third-party
+||geotrust.com^$third-party
 ||geovisite.ovh^$third-party
 ||gerbil.buf.build^
 ||gerbil.lespetitsbots.com^
@@ -20594,6 +20596,7 @@ znak.com##.relap
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=evofone.com
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=filmzie.com
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=game8.jp
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=harveynorman.co.nz|harveynorman.com.au
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=infoq.com,important
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=learning.edx.org
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=lodgecastiron.com
@@ -22973,6 +22976,7 @@ znak.com##.relap
 ||kqzyfj.com^$third-party
 ||kr.phorm.com^$third-party
 ||kraken.com/analytics
+||kraken.com/js/sift.min.js
 ||kraken.rambler.ru^$third-party
 ||krone.at/hps/data/test/md_track.php
 ||kropka.onet.pl^
@@ -26377,6 +26381,7 @@ znak.com##.relap
 ||moneycontrol.com/news/services/get_comscore_pageview/
 ||mongoose.thechocolatelife.com^
 ||mongoosemetrics.com^$third-party
+||monipla.com/launch.js
 ||monitis.com^$third-party
 ||monitor-targeting-failures.sqrt-5041.de^
 ||monitor.azure.com^
@@ -29285,6 +29290,7 @@ znak.com##.relap
 ||push.soft-com.biz/api/ui/metrics
 ||push2check.com^$third-party
 ||push4site.com^$third-party
+||push7.jp^$third-party
 ||pushalert.co^$third-party
 ||pushauction.com^$third-party
 ||pushbird.com^$third-party
@@ -31580,6 +31586,7 @@ znak.com##.relap
 ||sellpoint.net^$third-party
 ||sellpoints.com^$third-party
 ||sellsy.com^$third-party,domain=~sellsy.fr
+||selphiu.com^
 ||selvi.viessmann.com.tr^
 ||sem.triboomedia.it^
 ||semantic-finder.com^$third-party
@@ -35358,6 +35365,7 @@ znak.com##.relap
 ||stats.femtobill.com^
 ||stats.ff.ht^
 ||stats.ficbook.net^
+||stats.fifthstarlabs.io^
 ||stats.filewatch.net^
 ||stats.firedrive.com^
 ||stats.fittkaumaass.de^
@@ -38007,6 +38015,7 @@ znak.com##.relap
 ||tr.urfk06y.espmp-nifr.net^
 ||tr.urfk07s.espmp-nifr.net^
 ||tr.ville.bordeaux.fr^
+||tr.vitals.co^
 ||tr.voixduclient.harmonie-mutuelle.fr^
 ||tr.votrealarme.securitasdirect.fr^
 ||tr.vous.hellobank.fr^
@@ -41958,6 +41967,7 @@ znak.com##.relap
 ||za.zalo.me/v*/brp?fts=
 ||za.zalo.me/v*/w/_zaf.gif
 ||za.zdn.vn^
+||za.zingnews.vn^
 ||zaawds.farmae.it^
 ||zaehler.tv^$third-party
 ||zagrabiti.viessmann.hr^
