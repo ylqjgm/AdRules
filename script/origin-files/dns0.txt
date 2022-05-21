@@ -1,8 +1,8 @@
-! Checksum: VTcbyaNz5VB7RFCk5YNp2A
+! Checksum: 6oYE+QSA1CB+w7/nk8u0yA
 ! Title: AdGuard Chinese filter
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.0.56.11
-! TimeUpdated: 2022-05-21T05:30:55+00:00
+! Version: 2.0.56.14
+! TimeUpdated: 2022-05-21T15:30:55+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -4006,6 +4006,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 .8ox.cn
 ||00-gov.cn^
+||cherryblossoms.top^
 ||000123456789.site^
 ||0024aaaa.com^
 ||008844.cc^
@@ -11779,6 +11780,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 szxx.com.cn###A0
+jrlt2.com###hd + .wp
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -19568,7 +19570,7 @@ smjb.net##div[style*="height: 50%"]
 ||boluoxs.com/js/digu.js
 ||bookrb.com/images/jtt
 ||bxwxorg.com/ui/vue/element.
-||clewxc.com/xd2/
+||clewxc.com/xd3/
 ||d3iih5w7xp5hdg.cloudfront.net^
 ||dabizi.net/images/pcad.png
 ||dobiez.com/statics/wap_v1/js/qwd.
@@ -19729,6 +19731,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||dwrz5az.cn^
 ||xhl161.com^
 ||haodewl.cn^
+||sxqyuming.xyz^
+||wmpyuyj.cn^
+||bjbdlt.com.cn^
+||papzp.com^
+||ifaeqvt.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]

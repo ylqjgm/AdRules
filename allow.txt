@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: KYW6u+iScVSuF0/ZGtNsGA
+! Checksum: MdLfQBrBbjLl8zeoE3b2Vw
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-05-21 16:27:58（北京时间） 
-! Total count: 18290
+! Version: 2022-05-22 00:30:59（北京时间） 
+! Total count: 18292
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -647,7 +647,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgrs.com^
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -5029,6 +5029,7 @@
 @@||czajnikowy.com.pl/wp-content/plugins/creare-eu-cookie-law-banner/js/eu-cookie-law.js
 @@||cztv.com/player/*.swf?ad=
 @@||d-cache.microad.jp/js/td_iw_access.js$domain=watch.impress.co.jp
+@@||d-card.jp/st/common/js/googleTagManager.js
 @@||d.emn0.com/v1/$script,domain=stltoday.com
 @@||d.getpocket.com^
 @@||d.ibtimes.co.uk/imasdk/ads.js^
@@ -11954,6 +11955,7 @@
 @@||online.bfgruppe.de^$extension
 @@||online.cosmosbank.in^$document
 @@||online.mps-gba.de/praeludium/ams.js?$domain=auto-motor-und-sport.de
+@@||online.mps-gba.de/praeludium/caravAFW.js?$domain=caravaning.de
 @@||online.mps-gba.de/praeludium_src/fix_addons/noJump.js$domain=auto-motor-und-sport.de
 @@||online.shellfcu.org^$extension
 @@||online.shellfcu.org^$stealth
