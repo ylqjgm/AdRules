@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fB0ecSzRTsnMCYyg9IdZ5w
+! Checksum: 21kWkPvjSi3I//YVjgbL0A
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202205201533
-! Last modified: 2022-05-20 15:33 UTC
+! Version: 202205210033
+! Last modified: 2022-05-21 00:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -54498,7 +54498,7 @@ tf2r.com#@#.adverts
 ||clarksvilleonline.com/cols/
 ||click.livedoor.com^
 ||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.br|amazon.com.mx|amazon.com.tr|amazon.de|amazon.eg|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.nl|amazon.pl|amazon.sa|amazon.se|amazon.sg
-||cloudfront.net^$script,domain=titantv.com
+||cloudfront.net^$domain=titantv.com
 ||cloudfront.net^*/sponsors/$domain=pbs.org
 ||cnn.com/ad/
 ||codelist.cc/bluehostbanner.jpg
@@ -55649,6 +55649,7 @@ fanlesstech.com###HTML4 > .widget-content
 fanlesstech.com###HTML5 > .widget-content
 fanlesstech.com###HTML6 > .widget-content
 linkfang.org###LinkFang_Horizontal
+titantv.com###MGUWDYBBSFMR
 techadvisor.com###OzAUZW
 physicsandmathstutor.com###PMT_PDF_Top
 physicsandmathstutor.com###PMT_Top
@@ -57323,6 +57324,7 @@ lyricsmode.com##.header-block
 worldpress.org##.header-bnr
 autental.com##.header-grid-items
 realestate.com.au##.header-leaderboard
+forex-gold.net##.header-mnm
 times.co.zm##.header-pub
 newtimes.co.rw##.header-top
 androidcentral.com,crackberry.com,imore.com,technobuffalo.com,thrifter.com,windowscentral.com##.header-top-alert-bar
@@ -59206,6 +59208,7 @@ google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="mouseover:pane."]:-abp-has(span.jHLihd)
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.azyBPe:-abp-has(span.jHLihd) + div
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.azyBPe:-abp-has(span.jHLihd)
+google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.sbsb_c:-abp-has(span.jHLihd)
 guru99.com#?#.content2:-abp-has(div[id^="div-gpt-ad"])
 guru99.com#?#.moduletable:-abp-has(div[id^="div-gpt-ad"])
 haveibeenpwned.com##.actionsBar:-abp-has(.why1Password)
@@ -59920,9 +59923,10 @@ pornhub.com##[href^="https://weedmaps.com"]
 sexhimmel.com##[href^="https://www.amarotic.com/"]
 porngames.club##[href^="https://www.porngames.club/friends/out.php"]
 koreanstreamer.xyz##[href^="https://www.saltycams.com"]
+youporn.com##[src*="Blob"]
 youporn.com##[src*="bloB:"]
 tube8.com,tube8.es,tube8.fr##[src*="bloB:https://www.tube8."]
-youjizz.com,youporn.com,youporngay.com##[src*="blob:"]
+youjizz.com,youporngay.com##[src*="blob:"]
 pornhub.com,pornhubthbh7ap3u.onion,redtube.com,tube8.com,tube8.es,tube8.fr##[src^="bLob:"]
 hentaigasm.com##[src^="https://add2home.files.wordpress.com/"]
 analpornpix.com##[src^="https://analpornpix.com/t/153"]
@@ -87105,7 +87109,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||9cdn.net^*/js/tracking/$script,domain=nine.com.au
 @@||accounts.nintendo.com/account/js/pages/$script,~third-party
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|atresplayer.com|backcountry.com|bt.com|cadenaser.com|churchofjesuschrist.org|dollargeneral.com|kroger.com|personal.natwest.com|telus.com|verizon.com
+@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|dollargeneral.com|kroger.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|foodnetwork.com|telus.com|verizon.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
@@ -107298,6 +107302,7 @@ _subscribers_newsletters/
 ##.show-all-sharetool
 ##.show-share
 ##.show-share-count
+##.showShareMore
 ##.show_facebook_widget
 ##.show_social
 ##.showing-shares
@@ -133372,6 +133377,7 @@ dieselworldmag.com##.text-22
 pjmedia.com##.thm-piano-bottom
 pjmedia.com,townhall.com##.thm-piano-eop
 thenextweb.com##.tnw-ad-wrapper
+truthout.org##.to4-donate-trigger
 redstate.com##.tp-container-inner
 dailystar.co.uk,derbytelegraph.co.uk,walesonline.co.uk##.vf-conversation-starter
 vigilantcitizen.com##.vigil-after-article
@@ -142802,7 +142808,9 @@ del.icio.us,soundcloud.com#@#.sharePanel
 facebook.com#@#.shareText
 nytimes.com#@#.shareTools
 nytimes.com#@#.shareToolsItem
-rambler.ru#@#.share__list
+marianne.net#@#.share__item
+marianne.net#@#.share__link
+marianne.net,rambler.ru#@#.share__list
 webmd.com#@#.share_bar
 vk.com#@#.share_bottom
 joyreactor.cc#@#.share_buttons
@@ -143009,10 +143017,10 @@ pinterest.com#@#a[href^="https://pinterest.com/pin/create/"]
 twitter.com#@#a[href^="https://twitter.com/home/?status="]
 twitter.com#@#a[href^="https://twitter.com/intent/follow?"]
 twitter.com#@#a[href^="https://twitter.com/intent/tweet/"]
-forbes.com,fxhome.com,pewinternet.org,windscribe.com,yellosoft.us#@#a[href^="https://twitter.com/intent/tweet?"]
+forbes.com,fxhome.com,marianne.net,pewinternet.org,windscribe.com,yellosoft.us#@#a[href^="https://twitter.com/intent/tweet?"]
 vk.com,vkontakte.ru#@#a[href^="https://vk.com/share.php?"]
 facebook.com#@#a[href^="https://www.facebook.com/dialog/feed?"]
-freshfile.pl,fxhome.com#@#a[href^="https://www.facebook.com/sharer/sharer.php"]
+freshfile.pl,fxhome.com,marianne.net#@#a[href^="https://www.facebook.com/sharer/sharer.php"]
 linkedin.com#@#a[href^="https://www.linkedin.com/cws/share?"]
 reddit.com#@#a[href^="https://www.reddit.com/submit?"]
 stumbleupon.com#@#a[href^="https://www.stumbleupon.com/submit?"]
