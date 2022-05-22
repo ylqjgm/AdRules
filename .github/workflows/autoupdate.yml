@@ -91,9 +91,9 @@ jobs:
           git config --local user.email "hcamer145@gmail.com"
           git remote add origin "https://${{ secrets.CODING_ACCOUNT }}:${{ secrets.CODING_PASSWORD }}@e.coding.net/cats-team/adguard/AdRules.git"
           #git fetch --unshallow
-          #git branch -m main
+          git branch -m main
           #git pull origin main
-          #git add --all
+          git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"       -a
           git checkout --orphan new_branch
           git add -A
