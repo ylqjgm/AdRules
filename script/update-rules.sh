@@ -110,6 +110,7 @@ hosts=(
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/fanboy-annoyance.txt"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardMobileSpyware.txt"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardMobileAds.txt"
+  "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/sha_ad_hosts"
 #"https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/rules-hosts.txt"
 #  "https://blocklistproject.github.io/Lists/basic.txt"
