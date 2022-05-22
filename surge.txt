@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220522123358
+#VER=20220522125817
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93132
+#TOTAL_LINES=93133
 DOMAIN-SUFFIX,cda.0-shiny.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
 DOMAIN-SUFFIX,c.0.0.0.0.cn
@@ -51928,6 +51928,7 @@ DOMAIN-SUFFIX,mignished-sility.com
 DOMAIN-SUFFIX,mignoops.net
 DOMAIN-SUFFIX,chatpush.miguvideo.com
 DOMAIN-SUFFIX,crystalapp.miguvideo.com
+DOMAIN-SUFFIX,ggxwb.miguvideo.com
 DOMAIN-SUFFIX,v.miguvideo.com
 DOMAIN-SUFFIX,ggx01.miguvideo.com
 DOMAIN-SUFFIX,ggx02.miguvideo.com

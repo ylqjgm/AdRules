@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220522123400
+#VER=20220522125818
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93132
+#TOTAL_LINES=93133
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -51931,6 +51931,7 @@ payload:
   - '+.mignoops.net'
   - '+.chatpush.miguvideo.com'
   - '+.crystalapp.miguvideo.com'
+  - '+.ggxwb.miguvideo.com'
   - '+.v.miguvideo.com'
   - '+.ggx01.miguvideo.com'
   - '+.ggx02.miguvideo.com'
