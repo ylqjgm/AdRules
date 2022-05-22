@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205210232
+! Version: 202205220255
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 42163
+! Lenth = 42171
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2946,7 +2946,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /gen204/*
 /gen204?
 /gen_204?$image,other,ping,script
-/generate_204$image,other,ping,script
+/generate_204
 /generictracking.
 /geo-ip-detect?
 /geo-location/v1
@@ -4556,6 +4556,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /rlvt-track/*
 /rm.gif?
 /rmntracking.
+/rntracking.
 /roiTrax.
 /roi_tracker.
 /roiengine.
@@ -5144,7 +5145,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /tagmgmt/bootstrap.
 /tagomnitureengine.js
 /tags/angular-
-/tags?org_id=
 /tags?session_id=
 /tagx.js
 /tailtarget.js
@@ -6885,6 +6885,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cxense.com/cx.js$domain=tarzanweb.jp
 @@||cxense.com/cx.js$script,domain=tv-tokyo.co.jp
 @@||cxense.com^$domain=ikea.com
+@@||d-card.jp/st/common/js/googleTagManager.js
 @@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
 @@||d1igp3oop3iho5.cloudfront.net^*/zaius.js$script,domain=subscriptions.management
 @@||d1km2unb2600pw.cloudfront.net/assets/tracking-history-popup-$script,domain=collectplus.yodel.co.uk
@@ -8140,7 +8141,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||online.a1.by/l/v/track.php?event=$domain=a1.by
 @@||online.bcs.ru^*/piwik.bcs.js$script
 @@||online.mps-gba.de/praeludium/ams.js?$domain=auto-motor-und-sport.de
-@@||online.mps-gba.de/praeludium_src/fix_addons/noJump.js$domain=auto-motor-und-sport.de
+@@||online.mps-gba.de/praeludium/caravAFW.js?$domain=caravaning.de
 @@||online.tivo.com/assets/tve/common/js/vendor/jsnlog/$script,~third-party
 @@||onlinebanking.usbank.com/TUX/public/libs/adobe/appmeasurement.js$script,~third-party
 @@||ooyala.com/3rdparty/comscore_$domain=livetvcafe.net
@@ -13915,6 +13916,7 @@ znak.com##.relap
 ||breathebuds.com^
 ||brhxtc.dxl.com^
 ||brickworks.viessmann.sg^
+||bridge-ashiato.appspot.com/beacon/
 ||bridgevine.com^$third-party
 ||briefbears.com^
 ||briefbears.com^$third-party
@@ -14636,6 +14638,7 @@ znak.com##.relap
 ||changehealthcareoperationsllc.hb.omtrdc.net^
 ||channel-analysis-js.gmw.cn^$third-party
 ||channel.informaengage.com^
+||channel.io^*/events
 ||channel.sovereigncomms.co.nz^
 ||channelblender.actonservice.com^
 ||channelcamp.com^
@@ -15395,6 +15398,7 @@ znak.com##.relap
 ||collector.doordash.com^
 ||collector.getyourguide.com^
 ||collector.getyourguide.com^$third-party
+||collector.github.com^
 ||collector.githubapp.com^
 ||collector.hamsterix.
 ||collector.ksax.com^
@@ -16463,6 +16467,7 @@ znak.com##.relap
 ||d1miwkthq39xj8.cloudfront.net^$third-party
 ||d1n00d49gkbray.cloudfront.net^
 ||d1nh2vjpqpfnin.cloudfront.net^
+||d1q7pknmpq2wkm.cloudfront.net/js/my.fanplayr.com/
 ||d1qpxk1wfeh8v1.cloudfront.net^
 ||d1r27qvpjiaqj3.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
@@ -16856,6 +16861,7 @@ znak.com##.relap
 ||dba.dk/ajax/tracking
 ||dbastatic.dk/Content_uex/scripts/tracking
 ||dbex-tracker-v2.driveback.ru^
+||dbfocus.jp^$third-party
 ||dbhbgz.suitableshop.nl^
 ||dbpbyh.americanas.com.br^
 ||dbv0r7a702yve.cloudfront.net^
@@ -19185,6 +19191,7 @@ znak.com##.relap
 ||fahmta.flashbak.com^
 ||faibl.org^$third-party
 ||faintflag.com^
+||fairdatacenter.de^
 ||fairfax.com.au/js/track/
 ||fairfaxmedia.sharedcount.com^$third-party
 ||faktor.io^$third-party
@@ -28412,7 +28419,7 @@ znak.com##.relap
 ||pigeon.sushi.com^
 ||pigspie.com^
 ||pigspie.com^$third-party
-||pijper.io^
+||pijper.io/visits/
 ||pikabu.ru/ajax/save_stories_stat.php
 ||pikzor.com^$third-party
 ||pimpmypr.de^$third-party
@@ -37213,6 +37220,7 @@ znak.com##.relap
 ||tim.hb-api.omtrdc.net^
 ||tim.hb.omtrdc.net^
 ||tim.nextinpact.com^
+||timber.sendtonews.com^
 ||time.is/img/nod.png
 ||time4shopping.com.ua/api/api.php/stat
 ||timeslog.indiatimes.com^
