@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220522125818
+#VER=20220522162633
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93133
+#TOTAL_LINES=93135
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -84300,6 +84300,7 @@ payload:
   - '+.1.vsimg.com'
   - '+.vsjxqhfkccx.xyz'
   - '+.vskoedps.com'
+  - '+.vsmyhky.cn'
   - '+.vsnoon.com'
   - '+.vst1ev.com'
   - '+.vst1mid.com'
@@ -90764,6 +90765,7 @@ payload:
   - '+.zhangjunying.top'
   - '+.zhangkc.com'
   - '+.zhangkeblog.site'
+  - '+.zhanglibomgmail.online'
   - '+.zhangmingqin.tech'
   - '+.zhangshen.club'
   - '+.zhangshiyuan.com'

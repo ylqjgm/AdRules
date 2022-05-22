@@ -1,12 +1,12 @@
 # Title: AdRules Hosts List
-# Checksum: gbte+qREFprDjocdQMr7DA
+# Checksum: 6lA3n66ODcMfHhSu2EH0mA
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 8 Hours
 # 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
 #
-# Version: 2022-05-22 12:58:34（北京时间） 
-# Total count: 124498
+# Version: 2022-05-22 16:26:47（北京时间） 
+# Total count: 124500
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0-132.net.daraz.com
 0.0.0.0 0-158.net.daraz.com
@@ -113751,6 +113751,7 @@
 0.0.0.0 vslider.admedia.com
 0.0.0.0 vsmeue.promo.skf.com
 0.0.0.0 vsmeus.promo.skf.com
+0.0.0.0 vsmyhky.cn
 0.0.0.0 vsnoon.com
 0.0.0.0 vsohu.admaster.com.cn
 0.0.0.0 vsqyaz.sweetwater.com
@@ -123591,6 +123592,7 @@
 0.0.0.0 zhangjunying.top
 0.0.0.0 zhangkc.com
 0.0.0.0 zhangkeblog.site
+0.0.0.0 zhanglibomgmail.online
 0.0.0.0 zhangmingqin.tech
 0.0.0.0 zhangshen.club
 0.0.0.0 zhangshiyuan.com
