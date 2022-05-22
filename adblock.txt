@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: F0hay8Ev6lmU8gYbqcdzXw
+! Checksum: 4ziQFaNnTmswVxr6m8h1PQ
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-23 00:31:24（北京时间） 
+! Version: 2022-05-23 00:58:52（北京时间） 
 ! Total count: 91356
 ###ADCENTER
 ###ADInterest
@@ -27665,8 +27665,6 @@ bdsmx.tube###und_ban
 bdsmx.tube##.oImef0
 bdsmx.tube##section
 bdsmx.tube,hotmovs.com,javdoe.fun,javtape.site##.right
-bdsmx.tube,inporn.com##.video-info > section
-bdsmx.tube,inporn.com##.video-page__content > div.right
 bdsmx.tube,inporn.com##.video__wrapper > div.wrapper.headline
 bdsmx.tube,inporn.com##.wrapper > article
 bdsmx.tube,inporn.com##section[is-footer-banners]
@@ -34134,6 +34132,8 @@ inoreader.com##.block_article_ad
 inoreader.com##.sinner_inner
 inoreader.com##div[id^="column_ad-"]
 inoreader.com#$##reader_pane.reader_pane_sinner { padding-right: 0!important; }
+inporn.com##.video-info > section
+inporn.com##.video-page__content > div.right
 inporn.com,bdsmx.tube###in_v
 inporn.com,bdsmx.tube##.btn-close
 inquirer.net###billboard_article
