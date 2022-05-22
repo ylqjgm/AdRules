@@ -93,12 +93,18 @@ jobs:
           #git fetch --unshallow
           #git branch -m main
           #git pull origin main
-          git add --all
-          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"          
-          #git branch -D main
+          #git add --all
+          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"       -a
+          git checkout --orphan new_branch
+          git add -A
+          git commit -am 'Add changes'
+          git branch -D main 
           git branch -m main
+          git branch -M main
+          #git branch -D main
+          #git branch -m main
           #git branch main
-          git push -u origin -f main
+          git push -f
       - name: Push Message
         continue-on-error: true
         run: |
