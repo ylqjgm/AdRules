@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ACs7wx2dE3Kerjf73BX4PA
-! Version: 202205230816
+! Checksum: R0fcGYfjcldgQJVN949b7w
+! Version: 202205231126
 ! Title: EasyPrivacy
-! Last modified: 23 May 2022 08:16 UTC
+! Last modified: 23 May 2022 11:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -26858,6 +26858,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=tvnow.de
 @@||jobmorgen.de/Scripts/ApiTracking.js$~third-party
+@@||jobs.pnp.de/Scripts/ApiTracking.js$~third-party
 @@||kameleoon.com/geolocation.gif$domain=welt.de
 @@||kameleoon.com/ip.gif$domain=welt.de
 @@||kameleoon.eu/ip.gif$domain=welt.de
@@ -52279,6 +52280,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=tvnow.de
 @@||jobmorgen.de/Scripts/ApiTracking.js$~third-party
+@@||jobs.pnp.de/Scripts/ApiTracking.js$~third-party
 @@||kameleoon.com/geolocation.gif$domain=welt.de
 @@||kameleoon.com/ip.gif$domain=welt.de
 @@||kameleoon.eu/ip.gif$domain=welt.de
