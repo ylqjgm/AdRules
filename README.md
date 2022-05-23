@@ -31,7 +31,7 @@
 *具体看[Mirror.md](/mirror.md)*
 
 * 此列表规则均适用于内容过滤器
-* DNS过滤器请使用AdRules (For DNS)
+* DNS过滤器请使用AdRules DNS List
 ## 规则总数
 ```
 更新时间: 2022-05-23 19:35:20 （北京时间） 
