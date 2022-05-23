@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220523095403
+#VER=20220523162855
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=92980
+#TOTAL_LINES=92985
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -22586,6 +22586,7 @@ payload:
   - '+.statsadv.dadapro.com'
   - '+.tracy.sadv.dadapro.com'
   - '+.dadawm.cc'
+  - '+.daddychess.online'
   - '+.daddywu.cn'
   - '+.dadedaxue.com'
   - '+.dadhuhram.com'
@@ -32742,6 +32743,7 @@ payload:
   - '+.oms.fxnowcanada.ca'
   - '+.protection.fxpolice.com'
   - '+.fxprime-popular.com'
+  - '+.fxpsyzy.cn'
   - '+.fxsqsng.com'
   - '+.fxstra.com'
   - '+.track.fxstreet.com'
@@ -43094,6 +43096,7 @@ payload:
   - '+.news.jiukang.org'
   - '+.tech.jiukang.org'
   - '+.jiuku.cc'
+  - '+.jiulingdl.cn'
   - '+.jiulx.com'
   - '+.lsdkjfslkdf.jiumai88.com'
   - '+.h5.jiumaster.com'
@@ -64821,6 +64824,7 @@ payload:
   - '+.qwe.qrrgv.space'
   - '+.qrstes.com'
   - '+.qrzlaatf.xyz'
+  - '+.qrzogzy.cn'
   - '+.qs01.cn'
   - '+.qsart.cn'
   - '+.qsbz2011.com'
@@ -68010,6 +68014,7 @@ payload:
   - '+.ru.com'
   - '+.filosvybfimpsv.ru.gg'
   - '+.ru.net'
+  - '+.zzznews.ru1gnyn1v3ak78.com'
   - '+.ru4.com'
   - '+.expert.ruab.ru'
   - '+.ruad.net'

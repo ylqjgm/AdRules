@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: suYPW7TShezVDR9o/jW1jg
+! Checksum: XYi+GsPnwZC3iTP+T2XwQQ
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202205230133
-! Last modified: 2022-05-23 01:33 UTC
+! Version: 202205230733
+! Last modified: 2022-05-23 07:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18472,6 +18472,7 @@ _800x80_
 ##.ad-section-body
 ##.ad-section-one
 ##.ad-section-three
+##.ad-section__skyscraper
 ##.ad-sense
 ##.ad-sense-ad
 ##.ad-sense-ad__panel-header--srp
@@ -56862,6 +56863,8 @@ aiscore.com##.bet365
 republicworld.com##.bg-f0f0f0
 amgreatness.com##.bg-gray-200.mx-auto
 imagetotext.info##.bg-light.mt-2.text-center
+wccftech.com##.bg-square
+wccftech.com##.bg-vertical
 thepostmillennial.com##.bg-yellow-400
 biblegateway.com##.bga
 overclock3d.net##.bglink
@@ -128399,6 +128402,7 @@ m###teaser-newsletter
 ##.ts-newslatter
 ##.ts-newsletter
 ##.tsq_sailthru_newsletter_widget
+##.ttgFooterNewsletterFlyInWrapper
 ##.tve-leads-lightbox
 ##.tve-leads-widget
 ##.type-InsetNewsletterSignup
@@ -140551,6 +140555,7 @@ senninger-metzgerei.at##.data-protection
 komische-oper-berlin.de,theater-essen.de##.dataprotection
 hilzingen.de##.datenschutz
 dosamigos-ibb.de##.dd-cl-window
+durchblick-durch-daten.de##.dialog-container
 spaetzlesuche.de##.dialog-no-close
 dielinke.berlin##.disclaimer
 meinwomo.net##.divb
