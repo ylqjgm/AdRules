@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: FTXZYyxIgH6JM26VCVVrEA
+! Checksum: LTgpUuu0Q+WT8bNfB9wFsA
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-05-23 23:18:46（北京时间） 
-! Total count: 18304
+! Version: 2022-05-24 00:32:42（北京时间） 
+! Total count: 18310
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -649,6 +649,8 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org$third-party
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgactandshare.com^
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -6801,6 +6803,7 @@
 @@||game.weixin.qq.com^
 @@||game24h.vn/js/ads_v*.js?v=$domain=game24h.vn
 @@||game735.com^$generichide
+@@||gamec
 @@||gamecode.win^$generichide
 @@||gamecopyworld.com/*ads.js$script
 @@||gamecopyworld.eu/*ads.js?$script
@@ -8109,6 +8112,7 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=news.tvb.com
 @@||googletagservices.com/tag/js/gpt.js$domain=nfl.com
 @@||googletagservices.com/tag/js/gpt.js$domain=nydailynews.com
+@@||googletagservices.com/tag/js/gpt.js$domain=phileweb.com
 @@||googletagservices.com/tag/js/gpt.js$domain=phonearena.com
 @@||googletagservices.com/tag/js/gpt.js$domain=proximus.be
 @@||googletagservices.com/tag/js/gpt.js$domain=scotsman.com
@@ -12666,6 +12670,7 @@
 @@||passets-cdn.pinterest.com^
 @@||passiontimes.hk^$generichide
 @@||passiontimes.hk^*-ad.php?
+@@||passiontimes.hk^om##.tower
 @@||passport.aliexpress.com^$stealth,domain=aliexpress.ru|aliexpress.com
 @@||passport.yandex.ru^$domain=yandex.ua
 @@||passport.yandex.ru^$stealth
@@ -16067,6 +16072,7 @@
 @@||teqnwy.com^$generichide
 @@||terlizzilive.it/TemplateLive/app/assets/js/prebid-ads.js
 @@||termin.telekom.de/js/cookieController.js
+@@||termsfeed.com/public/cookie-consent/*/cookie-consent.js$domain=rentastar.pt
 @@||terrarium.pl/public/js/showads.js$script
 @@||teslamotorsclub.com/tmc/js/audentio/funbox/advertisement.js
 @@||teslarati.com/wp-content/themes/teslarati-mag/images/facebook_circle.png
