@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205250140
+! Version: 202205250812
 ! Title: EasyPrivacy
-! Last modified: 25 May 2022 01:40 UTC
+! Last modified: 25 May 2022 08:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3684,6 +3684,7 @@
 /restats_
 /resxclsa.
 /resxclsa_
+/resxclsx.js
 /ret_pixels/*
 /retarget_pixel.
 /retargeting-pixels.
@@ -5809,6 +5810,7 @@ _mongo_stats/
 ! *** easylist:easyprivacy/easyprivacy_trackingservers.txt ***
 ! Non-flagged (Generic blocks)
 ||2022welcome.com^
+||31daa5lnq.de^
 ||520886.xyz^
 ||8672.site^
 ||a1webstrategy.com^
@@ -5834,6 +5836,7 @@ _mongo_stats/
 ||bluekai.com^
 ||bonne-terre-data-layer.com^
 ||bounceexchange.com^
+||bqstreamer.com^
 ||briskeagle.io^
 ||briskpelican.io^
 ||brontops.com^
@@ -5917,6 +5920,7 @@ _mongo_stats/
 ||insigit.com^
 ||instantfox.co^
 ||irs01.com^
+||jcpclick.com^
 ||k5a.io^
 ||krxd.net^
 ||ldnlyap.com^
@@ -8519,6 +8523,7 @@ _mongo_stats/
 ||waplog.net^$third-party
 ||waudit.cz^$third-party
 ||waust.at^$third-party
+||wazimo.com^$third-party
 ||wbdx.fr^$third-party
 ||wbtrk.net^$third-party
 ||wc4.net^$image,third-party
@@ -12004,7 +12009,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||evt.collarity.com^$image
 ||evt.houzz.com^
 ||ex.co/content/monetization/legacy-pixels/
-||exacttarget.com^$third-party
+||exacttarget.com^$~subdocument,third-party
 ||excite.ie/?click_in=
 ||exitintel.com/log/$third-party
 ||experience.contextly.com^
@@ -12303,6 +12308,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||keyword.daumdn.com^
 ||kiwari.com^*/impressions.asp?
 ||kiwi.mdldb.net^
+||kiwisizing.com/api/log
 ||kk-resources.com/ks.js
 ||klarnaservices.com/lib.js
 ||klarnaservices.com^$image,third-party
@@ -13151,6 +13157,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
+||tracker.netklix.com^$script
 ||tracker.nitropay.com^
 ||tracker.roitesting.com^
 ||tracker.softcube.com^
@@ -13538,6 +13545,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d3uvwl4wtkgzo1.cloudfront.net^
 ||d4ax0r5detcsu.cloudfront.net^
 ||d6jkenny8w8yo.cloudfront.net^
+||d761erxl2qywg.cloudfront.net^
 ||d81mfvml8p5ml.cloudfront.net^
 ||danv01ao0kdr2.cloudfront.net^
 ||daq0d0aotgq0f.cloudfront.net^
@@ -15171,7 +15179,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||norton.com/service/norton/head?
 ||novelcool.com/files/js/yh_tj.js
 ||nwuoxwthvak3.stoic.ai^
-||nypost.com/blaize/
 ||nysun.com/tracker.js
 ||nyt.com/ads/tpc-check.html$domain=nytimes.com
 ||nytimes.com/svc/nyt/data-layer?
@@ -15423,6 +15430,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spankbang.com^*?type=
 ||spectrum.gettyimages.com^
 ||speed.cloudflare.com/__log
+||sportsmansguide.com/scripts/vendor/at_
 ||squirrel.ethanelientz.com^
 ||squirrel.honeysqueeze.app^
 ||squirrel.malaynahocker.com^
@@ -15583,6 +15591,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||unity3d.com/v1/events
 ||unsplash.com/a/third-party/snow-
 ||unsplash.com/nmetrics
+||untappd.com/profile/impression?
 ||upi.com/story/stat/
 ||ups.com/img/icp.gif
 ||urs.metacritic.com^
@@ -15629,6 +15638,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wikipedia.org/beacon/
 ||windy.com/sedlina/ga/
 ||wolfram.com/common/javascript/wal/
+||wondershare.com/trk
 ||wscdn.com/analytics/
 ||wsj.com/asset/amt.js
 ||wstats.e-wok.tv^

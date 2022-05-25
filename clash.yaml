@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220525095639
+#VER=20220525162906
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=96643
+#TOTAL_LINES=96652
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -1494,6 +1494,7 @@ payload:
   - '+.31911.com'
   - '+.dm1.3199.cn'
   - '+.31d.net'
+  - '+.31daa5lnq.de'
   - '+.31du.wang'
   - '+.31seconds.net'
   - '+.3201556.site'
@@ -2776,6 +2777,7 @@ payload:
   - '+.1.66law.cn'
   - '+.66san.com'
   - '+.66wen.com'
+  - '+.670360.com'
   - '+.6711.com'
   - '+.6728812.com'
   - '+.6756240.com'
@@ -14933,6 +14935,7 @@ payload:
   - '+.bqqsdv73724.cn'
   - '+.bqsjb.cn'
   - '+.bqsm.com.cn'
+  - '+.bqstreamer.com'
   - '+.bqyjrqenfhwc.com'
   - '+.bqzmctxm.com'
   - '+.go.marketing.br-succeed.jp'
@@ -17660,6 +17663,7 @@ payload:
   - '+.charmbean.com'
   - '+.charmeddipware.com'
   - '+.charmflirt.com'
+  - '+.charmsection.com'
   - '+.charmssummitmerriment.com'
   - '+.charpente-ramel.com'
   - '+.chart.dk'
@@ -37588,6 +37592,7 @@ payload:
   - '+.honeygoldfish.com'
   - '+.nljjem.honeys-onlineshop.com'
   - '+.squirrel.honeysqueeze.app'
+  - '+.hongbao456.ink'
   - '+.hongchenzhilu.com'
   - '+.hongdejituan.vip'
   - '+.hongdianshijue.com'
@@ -41883,6 +41888,7 @@ payload:
   - '+.jcon.in'
   - '+.sp.jconline.com'
   - '+.jcount.com'
+  - '+.jcpclick.com'
   - '+.60198956.jcpecb.com'
   - '+.jcqwzssqks.com'
   - '+.smetrics.jcrew.com'
@@ -54859,6 +54865,7 @@ payload:
   - '+.gmufag.ngs.ru'
   - '+.geo.ngtv.io'
   - '+.go.ngtvalves.com'
+  - '+.ngwadzu.cn'
   - '+.ngxdyxhdkx.xyz'
   - '+.adserver.ngz-network.de'
   - '+.nh738.cn'
@@ -58849,6 +58856,7 @@ payload:
   - '+.papayaburbles.com'
   - '+.papayads.net'
   - '+.papayamobile.com'
+  - '+.papbp.com'
   - '+.paperclipservice.com'
   - '+.hoverfly.papercrowns.com'
   - '+.paperfree.cx'
@@ -63400,7 +63408,6 @@ payload:
   - '+.qhnwj.com'
   - '+.qhonzpl.cn'
   - '+.qhqofqeivtno.com'
-  - '+.qhres2.com'
   - '+.qhruisen.cn'
   - '+.news.qhstatic.com'
   - '+.qhuade.com'
@@ -66849,6 +66856,7 @@ payload:
   - '+.rqtrk.eu'
   - '+.rquixwgrwvdcal.xyz'
   - '+.rqusuqakwyejjn.com'
+  - '+.rqwnzbx.cn'
   - '+.rqzmfbxjxfi.com'
   - '+.1.rr95.com'
   - '+.rrcxsehklqft.com'
@@ -67062,6 +67070,7 @@ payload:
   - '+.ruddycast.com'
   - '+.ruddywash.com'
   - '+.rudebuoyscoot.com'
+  - '+.zzznews.ruderfullytumultbizarre.com'
   - '+.ea.rueducommerce.fr'
   - '+.k.rueducommerce.fr'
   - '+.mts-ws.rueducommerce.fr'
@@ -84030,6 +84039,7 @@ payload:
   - '+.adsassets.waze.com'
   - '+.wazensee.net'
   - '+.wazero.online'
+  - '+.wazimo.com'
   - '+.wb77.net'
   - '+.wbanz.com'
   - '+.wbaogaqvrukprx.com'
@@ -85961,7 +85971,6 @@ payload:
   - '+.dl.op.wpscdn.cn'
   - '+.img.auction-ads.wpscdn.cn'
   - '+.img.gou.wpscdn.cn'
-  - '+.mo.res.wpscdn.cn'
   - '+.news.op.wpscdn.cn'
   - '+.analytics.wpsermons.com'
   - '+.tracker.wpserveur.net'

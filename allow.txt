@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: PraMoaCIL/S8gItPuZoJYA
+! Checksum: XI2HlxnQzI2ko7wdT32X0Q
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-05-25 09:56:54（北京时间） 
-! Total count: 18308
+! Version: 2022-05-25 16:29:22（北京时间） 
+! Total count: 18311
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -650,7 +650,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgage.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgIdentification.js
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -11141,6 +11141,7 @@
 @@||mmy.la^*300*250
 @@||mnighthk.net/template/*/ad
 @@||mnighthk.net^$elemhide
+@@||mo.res.wpscdn.cn^
 @@||moat.com/api/entity_report/advertiser/$domain=moat.com
 @@||moat.com/creatives/advertiser/$domain=moat.com
 @@||moatads.com^$script,domain=cwtv.com
@@ -13479,6 +13480,7 @@
 @@||qctimes.com^$ghide
 @@||qhimg.com^*/monitor_analytic.
 @@||qhres.com^*/monitor_analytic.js$domain=mse.360.cn
+@@||qhres2.com^
 @@||qianpanso.cn/other/*.js$domain=cilimao.co|cilimao.one
 @@||qiantucdn.com/static/images/adsbygoogle.js
 @@||qiantucdn.com^$stealth,domain=58pic.com
@@ -13977,6 +13979,7 @@
 @@||rumble.com/embed/*$domain=koreus.com
 @@||rumble.com/embedJS/$script,domain=usawatchdog.com
 @@||rumble.com/j/p/$script,domain=usawatchdog.com
+@@||rumble.com^
 @@||rumcdn.geoedge.be/*/grumi.js$domain=comingsoon.net
 @@||rumormillnews.com/ads.js
 @@||runative-syndicate.com/do2/*$domain=onemanhua.com
