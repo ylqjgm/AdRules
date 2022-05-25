@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: aH8eJ+cDf0M9J9CYeOxBYw
+! Checksum: PraMoaCIL/S8gItPuZoJYA
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-05-25 00:35:05（北京时间） 
-! Total count: 18305
+! Version: 2022-05-25 09:56:54（北京时间） 
+! Total count: 18308
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -650,7 +650,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgsystem.com^$third-party
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgage.com^
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -2987,6 +2987,7 @@
 @@||bicycling.com/*ad$script
 @@||bid.g.doubleclick.net/$object-subrequest,domain=play.tv|playtv.fr
 @@||bidder.criteo.com/cdb$xmlhttprequest,domain=aternos.org
+@@||bigad.me^$domain=bigad.me
 @@||bigappboi.com/captchalocker/js/popup.js.php
 @@||bigappboi.com/cp/js/captcha.js.php
 @@||bigbrothercanada.ca^$ghide
@@ -5153,6 +5154,7 @@
 @@||dashboard.mgid.com^$popup
 @@||dashboard.mgid.com^$~third-party
 @@||dashboard.plex.tv^
+@@||dashboard.streetlib.com/_next/static/chunks/pages/$~third-party
 @@||dashboard.tovarro.com^$~third-party
 @@||dashboard.unity3d.com/services/analytics/$~third-party
 @@||dasolo.me/ads/$image,domain=dasolo.me
@@ -14927,6 +14929,7 @@
 @@||slit.cn/source/plugin/unadblock/*.js
 @@||slkimg.com^*/slacker/util/adobe/s-code.js$domain=slacker.com
 @@||sltrib.com/pb/resources/scripts/utils/ads/ads.js
+@@||smallcaps.com.au/wp-content/plugins/mashshare$domain=smallcaps.com.au
 @@||smallseotool.org^$ghide
 @@||smallseotools.com/ads.png
 @@||smallseotools.com/images/Popup2.png
