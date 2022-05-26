@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dEW/Cvh3eqzkD/6crqJJ0g
+! Checksum: YtuMMlZ5lwggRWNnxuanmw
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202205260733
-! Last modified: 2022-05-26 07:33 UTC
+! Version: 202205261333
+! Last modified: 2022-05-26 13:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18784,6 +18784,7 @@ _800x80_
 ##.ad.addon
 ##.ad.bottom_article_leaderboard
 ##.ad.bottomrect
+##.ad.box
 ##.ad.brandboard
 ##.ad.card
 ##.ad.center
@@ -19425,6 +19426,7 @@ _800x80_
 ##.adTile
 ##.adTileWrap
 ##.adTiler
+##.adTip
 ##.adTitle
 ##.adTitleR
 ##.adTop
@@ -58447,6 +58449,7 @@ sciencedaily.com##.unit1
 sciencedaily.com##.unit2
 gpucheck.com##.unitBox
 pcgamingwiki.com##.upcoming-releases.home-card:first-child
+filepuma.com##.update_software
 letterboxd.com##.upgrade-kicker
 wbur.org##.uw--rectangle
 wbur.org##.uw-label--bottom
@@ -58575,7 +58578,6 @@ ginx.tv##[data-ref]
 washingtonpost.com##[data-sc-c="adslot"]
 trakt.tv##[data-snigel-id]
 woot.com##[data-test-ui^="advertisementLeaderboard"]
-sbofficial.in##[data-testid="linkElement"]
 imdb.com##[data-testid="media-sheet__attr-banner"]
 washingtonpost.com##[data-testid="placeholder-box"]
 gadgetsnow.com##[data-type="mtf"]
@@ -58623,7 +58625,7 @@ howtogeek.com##[href^="http://macpaw.7eer.net/"]
 pooletown.co.uk,tossinggames.com,urbanartassociation.com##[href^="http://redirect.viglink.com"]
 igg-games.com##[href^="http://s2.igg-games.com/"]
 topfiveforex.com##[href^="https://affiliate.iqoption.com/"]
-orschlurch.net,sbofficial.in,tetris.com##[href^="https://amzn.to/"]
+orschlurch.net,tetris.com##[href^="https://amzn.to/"]
 wiki.gg##[href^="https://app.wiki.gg/showcase/"]
 seganerds.com##[href^="https://betway.com/"]
 mc-market.org##[href^="https://bit.ly/"] img
@@ -119837,6 +119839,7 @@ _subscribers_newsletters/
 ##.c-privacy-consent-modal
 ##.c-privacy-module
 ##.c-privacy-notification
+##.c-privacy-protection-banner
 ##.c-rm-cookiebanner
 ##.c-simple-cookie-consent
 ##.c-unique_cookie-attention
