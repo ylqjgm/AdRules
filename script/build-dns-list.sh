@@ -14,6 +14,7 @@ grep -vE '^!' ../dns.txt >> ../easylist.txt
 php ./tools/adguard-extend.php ../easylist.txt
 php ./tools/easylist-extend.php ../dns.txt
 cd ../
+cat./tmp/l.txt >> dns.txt
 hostlist-compiler -c ./script/dns-rules-config.json -o dns-output.txt 
 mv -f dns-output.txt dns.txt
 cd ./script/
