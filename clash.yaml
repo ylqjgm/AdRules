@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220527011722
+#VER=20220527012621
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=98441
+#TOTAL_LINES=98442
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -44036,6 +44036,7 @@ payload:
   - '+.jppolid-track.trackprod.integration.jppol.dk'
   - '+.jpqgxy.com'
   - '+.jpqiiqgydipb.com'
+  - '+.info.neg.co.jpracking24.de'
   - '+.official.jpreturns.com'
   - '+.jpush.cn'
   - '+.jpush.io'
