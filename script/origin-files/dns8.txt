@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: D2mUpG7uKUGJraBhgaNOaw
+! Checksum: inZ0y7nhBz24W8wb+SpQSA
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202205261433
-! Last modified: 2022-05-26 14:33 UTC
+! Version: 202205261533
+! Last modified: 2022-05-26 15:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -25614,6 +25614,7 @@ _800x80_
 ##.header-ad-row
 ##.header-ad-slot
 ##.header-ad-space
+##.header-ad-widget
 ##.header-ad-wrap
 ##.header-ad-wrapper
 ##.header-ad-zone
@@ -30372,6 +30373,7 @@ _800x80_
 ##.widget-ad
 ##.widget-ad-codes
 ##.widget-ad-image
+##.widget-ad-script
 ##.widget-ad-sky
 ##.widget-ad-zone
 ##.widget-ad300x250
@@ -58883,7 +58885,7 @@ usnews.com##div[class^="ad-spacer_"]
 kijiji.ca##div[class^="adChoices-"]
 goodrx.com##div[class^="adContainer"]
 goodrx.com##div[class^="adWrapper-"]
-investing.com,newsday.com##div[class^="ad_"]
+90min.com,investing.com,newsday.com##div[class^="ad_"]
 constative.com##div[class^="ad_placeholder_"]
 ehitavada.com##div[class^="ad_space_"]
 greatandhra.com##div[class^="add"]

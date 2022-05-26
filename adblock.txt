@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: mPgYguTCceyuxkq6qCmffw
+! Checksum: w69wNs6dorjBs/HGvSlEDg
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-26 23:41:30（北京时间） 
-! Total count: 91546
+! Version: 2022-05-26 23:49:49（北京时间） 
+! Total count: 91547
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -35640,6 +35640,7 @@ lawandcrime.com,mediaite.com##.sidebar-hook
 lawenforcementtoday.com##.inside-right-sidebar > aside.FixedWidget__fixed_widget
 lawtv.com.cn##div[style=" width:664px; height:260px;  margin-top:10px;"]
 layui.com##.layui-layer-tips
+lazyload-ad.js
 lazytranslations.com,coursesdaddy.com,arabtimesonline.com##+js(abort-current-script, chp_ads_blocker_detector)
 lb.topphimhd.info#$#override-property-read adsData_ar true
 lbx777.com,lbx777.net##table[width="325"][height="280"]

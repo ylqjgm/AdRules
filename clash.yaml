@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220526234114
+#VER=20220526234932
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=98530
+#TOTAL_LINES=98532
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -41684,7 +41684,6 @@ payload:
   - '+.intacthomicidal.com'
   - '+.intarget.ru'
   - '+.intechads.com'
-  - '+.intechserant.com'
   - '+.integral-marketing.com'
   - '+.tigershark.integratecolumbus.org'
   - '+.marketing.integratedglobal.com'
@@ -45847,6 +45846,7 @@ payload:
   - '+.knc.lv'
   - '+.push.knd.ro'
   - '+.kneadegotisticalrational.com'
+  - '+.kneadface.com'
   - '+.knedow.com'
   - '+.clinic.knee-joint.net'
   - '+.kneeansweras.com'
@@ -49462,6 +49462,7 @@ payload:
   - '+.es.lucanet.com'
   - '+.sg.lucanet.com'
   - '+.uk.lucanet.com'
+  - '+.lucasyyy.ltd'
   - '+.lucatee.com'
   - '+.info.lucca.fr'
   - '+.lucdream.com'
@@ -89307,6 +89308,7 @@ payload:
   - '+.sdk6.ibm.xtify.com'
   - '+.sdk8.ibm.xtify.com'
   - '+.xtime.hk'
+  - '+.xtioiqa.cn'
   - '+.xtmuasvldoiz.com'
   - '+.xtow.xyz'
   - '+.ads.xtra.ca'
