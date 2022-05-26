@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202205251517
+! Version: 202205260152
 ! Title: Fanboy's Annoyance List
-! Last modified: 25 May 2022 15:17 UTC
+! Last modified: 26 May 2022 01:52 UTC
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -9152,6 +9152,7 @@ m###teaser-newsletter
 ###custom-tweet-button
 ###custom_share
 ###customtwitter
+###cv-home-social-bar
 ###cw_tweets_module
 ###cxShareLinks
 ###dailydot-socialbar
@@ -43457,6 +43458,7 @@ beinsports.com##.newsletter-header
 politico.com##.newsletter-header__item + .newsletter-header__item
 usatoday.com##.newsletter-modal
 bloomberg.com,wamu.org##.newsletter-module
+buzzfeednews.com##.newsletter-signup-container_container__LuE0z
 abplive.in##.newsletter_div
 fromthegrapevine.com##.newsletter_modal
 thegazette.com##.newsletter_sign_up_page_breaker
@@ -47029,7 +47031,7 @@ daenischesbettenlager.de###totop
 suedtirolermilch.com###up
 helpster.de###videoFlyin
 mathe24.net###wrapperdiv
-gutefrage.net##.Bigfoot-navigationUp
+finanzfrage.net,gutefrage.net##.Bigfoot-navigationUp
 computerbase.de##.app-install
 drwindows.de##.arrowNav
 suedtirol-it.com##.btn-top
@@ -48151,7 +48153,7 @@ suedtirolnews.it###text-6
 presseportal.de###toolbox_sm
 teltarif.de###ttSBM
 aboutamazon.de##.ActionBar
-gutefrage.net##.Bigfoot-socialLinks
+finanzfrage.net,gutefrage.net##.Bigfoot-socialLinks
 de.rt.com##.GoogleNewsBanner-link
 t-online.de##.Tfb_aktion
 driver.de##.Tlbvipr + .Tlbfkt
@@ -52261,6 +52263,8 @@ correosexpress.com,puzzels.ad.nl,puzzels.bd.nl,puzzels.bndestem.nl,puzzels.deste
 birdpix.nl,nederpix.nl#@#.cookieAccept
 morizon.pl,tweakers.net#@#.cookieBar
 moniteurautomobile.be#@#.cookieBox
+westfalia.de#@#.cookieConsentContent
+westfalia.de#@#.cookieConsentFooter
 birdpix.nl,nederpix.nl,openfiber.it#@#.cookieContainer
 bancacentroemilia.it,hunterdouglas.com,nmsu.edu,paz.de,telecomitalia.it#@#.cookieModal
 tweakers.net#@#.cookieNotice
@@ -52654,7 +52658,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||topschool.pl/wp-content/plugins/CookieInfo/js/CookieInfo.js$script
 @@||trevisoairport.it^*/jquery.divascookies-$script
 @@||uicdn.com^*/consent-management.js$domain=gmx.net|home.1und1.de|web.de
-@@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=immowelt.de|schlager.radio|verivox.de|wetter.com
+@@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=immowelt.de|ran.de|schlager.radio|verivox.de|wetter.com
 @@||vendorlist.consensu.org/vendorlist.json$xmlhttprequest,domain=fanpage.it|telegraph.co.uk|tf1.fr
 @@||vesmir.cz/components/eu_cookie/$script
 @@||vulcangas.com^*/cookie-notice/$script
