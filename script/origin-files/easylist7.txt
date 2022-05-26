@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202205250220
+! Version: 202205260203
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26581
+! Lenth = 26597
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -1233,8 +1233,8 @@
 ##div[onclick*="?i_code="]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[onclick^="window.location.href"][onclick*=".haoyundm.com"]
-##div[style=" max-width:988px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:988px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="border-radius:8px;background-color:#005737;padding:6px;"]
 ##div[style="box-sizing:border-box;padding:20px 16px;border-radius:8px;width:90%;margin:0 auto;"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
@@ -13009,6 +13009,7 @@ zznews.cn##.ad:not([style])
 ||66wz.com/data/attachment/portal/
 ||66wz.com/eap/
 ||66zhuang.com/public_2017/js/count-gou.js
+||670360.com^
 ||6728812.com^
 ||6756240.com^
 ||675ujh.site^
@@ -13209,6 +13210,7 @@ zznews.cn##.ad:not([style])
 ||874547.men^
 ||876porn.com/attachment/
 ||877zw.com/1
+||87fgr4.site^
 ||87mao.com/52
 ||87uq.com^
 ||87uq.com^$third-party
@@ -15066,6 +15068,7 @@ zznews.cn##.ad:not([style])
 ||bt.ktxp.com/iframe/statistics.js
 ||bt1.patexplorer.com^
 ||bt121.net/ats/
+||bt365.club^
 ||bt888bf.com/da.aspx
 ||btbalex.cn^
 ||btbt.tv/dd/
@@ -17734,6 +17737,7 @@ zznews.cn##.ad:not([style])
 ||gzx8670vhome.xyz^
 ||gzxxty168.com^
 ||gzz123.com^
+||gzzcxxzx.com^
 ||gzzkjdam.cn^$third-party
 ||gzzza.com/html/
 ||h01ce.cn^
@@ -17792,6 +17796,7 @@ zznews.cn##.ad:not([style])
 ||haluo518.com^
 ||hami-china.xyz^
 ||handanxinkai.com^
+||handuwl.top^
 ||hangoutairbags.com^
 ||hangzhou.com.cn/extra/flash/hzwarticle300.swf
 ||hanhaiedu.tech^
@@ -18185,6 +18190,7 @@ zznews.cn##.ad:not([style])
 ||holyyjs.xyz^
 ||homchang.site^
 ||homfen.me^
+||hongbao456.ink^
 ||hongchenzhilu.com^
 ||hongdejituan.vip^
 ||hongdianshijue.com^
@@ -19680,6 +19686,7 @@ zznews.cn##.ad:not([style])
 ||key8.com/cache/www/banner_
 ||keyand.xyz^
 ||keydot.net^$third-party
+||keyi.mobi^
 ||keyrun.cn^$third-party
 ||keywin.org/templates/kw_v2/images/youbianad.png
 ||keyyou.net^
@@ -21178,6 +21185,7 @@ zznews.cn##.ad:not([style])
 ||nggdwfz.cn^
 ||ngogmbe.cn^
 ||ngsaang.top^
+||ngwadzu.cn^
 ||nh738.cn^
 ||nhfpdc.cn^
 ||nhm32.site^
@@ -21569,6 +21577,7 @@ zznews.cn##.ad:not([style])
 ||paopaoche.net/skins/count.js
 ||paopic.com/imguang/
 ||papa9394.com^$third-party
+||papbp.com^
 ||paperfree.cx^
 ||papzp.com^
 ||paqpq.com^
@@ -22440,6 +22449,7 @@ zznews.cn##.ad:not([style])
 ||rqgsf.com^
 ||rqjhhg.cn^
 ||rqkgcd.xyz^
+||rqwnzbx.cn^
 ||rr.pochengweiyuan.com^$third-party
 ||rrgapzw.cn^
 ||rrjc.com/home/seo/ad/
@@ -23306,6 +23316,7 @@ zznews.cn##.ad:not([style])
 ||supfree.net/top.gif
 ||supfree.net/xxx/
 ||supfree.net^$xmlhttprequest
+||suqiguoji.wang^
 ||surls.cn^
 ||suukcn.com^
 ||svcwvx.cn^
@@ -23457,6 +23468,7 @@ zznews.cn##.ad:not([style])
 ||tahui.club^
 ||tahuixin.club^
 ||taidi.net.cn^
+||taihuajiao.vip^
 ||taijuba.com/js/*_
 ||taijuba.com/js/tj
 ||taijuwang.com/template/alifun/js/unFavui.
@@ -24013,6 +24025,7 @@ zznews.cn##.ad:not([style])
 ||u5fsqf.com^
 ||u5wzi0h.cn^
 ||u88.cn^$third-party
+||u8hexo5v.com^
 ||u98l6o.online^
 ||u98ql6o.top^
 ||uadsaa.com^
@@ -24520,6 +24533,7 @@ zznews.cn##.ad:not([style])
 ||weike87.com/images/*1
 ||weikefanli.com^
 ||weikeys.com/js/zt.js
+||weilaa.xyz^
 ||weilekangnet.com:59188/wz/dingpiao_
 ||weilekangnet.com:59188/wz/vod_shang.js
 ||weilekangnet.com:59188/wz/wz.js
@@ -25356,6 +25370,7 @@ zznews.cn##.ad:not([style])
 ||xyj321.com/static/xyj/js/foot_slide_bar_
 ||xyj321.com/static/zx/js/zx-con-jsq_
 ||xylmdm.top^
+||xypksuk.cn^
 ||xytom.com^
 ||xywgbms.top^
 ||xywy.com/gk?a=
@@ -26439,6 +26454,7 @@ zznews.cn##.ad:not([style])
 ||zswph.com^
 ||zsyk91.cn^
 ||zsyk91.cn^$third-party
+||zszcxxzx.com^
 ||zt.chuanke.com/?mod=
 ||zt2088.com^
 ||zt5.com/statics/img/

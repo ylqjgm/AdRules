@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: KyPnEucz5q57/KgW8QQv9w
+! Checksum: b2ahsAVB1LyCju7UThZ7kQ
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-05-26 10:02:20（北京时间） 
-! Total count: 18315
+! Version: 2022-05-26 16:32:29（北京时间） 
+! Total count: 18319
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -650,7 +650,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgrf.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgIdentification.js
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -4117,6 +4117,7 @@
 @@||cdn61.zvooq.com/track/stream^$stealth
 @@||cdnads.com^$image,subdocument,domain=bitzfree.com
 @@||cdnapponline.com/*/iframe?$stealth
+@@||cdnb.4strokemedia.com^$domain=video.corriere.it
 @@||cdnb.4strokemedia.com^$domain=video.gazzetta.it
 @@||cdnbigdata.azureedge.net/scripts/fingerprint2.min.js$domain=news.abs-cbn.com
 @@||cdnbrm.com/images/*/TouchClarity/images/
@@ -6277,6 +6278,7 @@
 @@||febbit.com^$generichide
 @@||fedex.com/apps/fedextrack$generichide
 @@||fedex.com/apps/myprofile/$generichide
+@@||feed.4strokemedia.com^$domain=video.corriere.it
 @@||feed.4strokemedia.com^$domain=video.gazzetta.it
 @@||feed.adrelayer.com^|
 @@||feed.mix.sina.com.cn^
@@ -9074,6 +9076,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=umterps.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=uptostream.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.capital.it
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.corriere.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.deejay.it
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.foxnews.com|video.foxbusiness.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.gazzetta.it
@@ -9082,7 +9085,6 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.udn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=video.ufreegames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=videonuz.ensonhaber.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=videostar.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=videotarget.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=videoxseries.xyz|scenelife.org|piratulhd.com|hqq.tv|newhost.me|czxxx.org|waaw.tv
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=vidyome.com
@@ -17650,6 +17652,7 @@
 @@||widget.pico.tools/widget_frame.html$domain=escapistmagazine.com
 @@||widget.sharecash.org/jsclick.php$script
 @@||widget.spoods.io/loader.js$script,domain=winfuture.de
+@@||widget.trustpilot.com/bootstrap/$script,domain=amartfurniture.com.au|exodus.co.uk|imyfone.com
 @@||widget.trustpilot.com/bootstrap/$script,domain=exodus.co.uk|imyfone.com
 @@||widget.trustpilot.com/bootstrap/*/tp.widget.bootstrap.min.js$domain=mathem.se
 @@||widget.weibo.com^
@@ -17828,6 +17831,7 @@
 @@||wup-7b4df495.santander.cl^|
 @@||wup.imtt.qq.com^
 @@||wupfile.com^$ghide
+@@||wurfl.io/wurfl.js$domain=athabascau.ca
 @@||wurfl.io/wurfl.js$domain=smooth.com.au|craftsman.com|spray.se
 @@||wuv.de/var/wuv/storage/images/media/bilder/$image,domain=wuv.de
 @@||wuxiaworld.com/images/pw/pw_header
