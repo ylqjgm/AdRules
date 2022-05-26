@@ -19,4 +19,4 @@ mv -f dns-output.txt dns.txt
 cd ./script/
 
 cat ../tmp/dns998* >>../dns.txt
-cat .././mod/rules/*-rules.txt |grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort|uniq >> ../dns.txt
+cat .././mod/rules/*-rules.txt ./o*/dns99999.txt |grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort|uniq >> ../dns.txt
