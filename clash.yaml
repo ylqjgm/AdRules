@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220527003406
+#VER=20220527011722
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=98440
+#TOTAL_LINES=98441
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -88622,6 +88622,7 @@ payload:
   - '+.sec-cdn.static.xiaomi.net'
   - '+.xiaomianao666.top'
   - '+.xiaomifood.cn'
+  - '+.xiaomilw.top'
   - '+.xiaonengdou.vip'
   - '+.xiaoniu166.wang'
   - '+.lraa.xiaoniutui.com'
