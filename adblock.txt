@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 0z8GzledVlm46ZthD7azjA
+! Checksum: mPgYguTCceyuxkq6qCmffw
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-26 22:30:41（北京时间） 
-! Total count: 91543
+! Version: 2022-05-26 23:41:30（北京时间） 
+! Total count: 91546
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -1172,6 +1172,7 @@
 ###dfp-middle
 ###dfp-mtf
 ###dfp-rectangle1
+###dfp-ros-res-header_container
 ###dfp-tlb
 ###dfp-top-banner
 ###dfp-wallpaper-wrapper
@@ -4641,6 +4642,7 @@
 ##.header-ad-holder
 ##.header-ad-slot
 ##.header-ad-space
+##.header-ad-widget
 ##.header-ad-wrap
 ##.header-ad-wrapper
 ##.header-adcode
@@ -6136,6 +6138,7 @@
 ##.widget--ad
 ##.widget-ad
 ##.widget-ad-image
+##.widget-ad-script
 ##.widget-ads
 ##.widget-adsense
 ##.widget-adv
@@ -19631,6 +19634,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 90bifen.com###live > table[cellspacing="0"][cellpadding="0"]
 90bifen.com##div[id^="ShowTopAds_"]
 90bifen.com##td[bgcolor="#FFFEE0"][height="22"]
+90min.com,investing.com,newsday.com##div[class^="ad_"]
 90oo.com###right > div[style^="height:60px; width:750px;"]
 90oo.com##.mtswp_scbar_ad
 90oo.com##a[href^="http"]:not([href*=".90oo."]) > img[src*="/tp/"]
@@ -34272,7 +34276,6 @@ investing.com##div[class^="AdBillboard_"]
 investing.com##div[class^="outbrain_outbrain-wrapper_"]
 investing.com#?#.wrapper div > div.OUTBRAIN:upward(1)
 investing.com,esportsearnings.com##div[class^="ad_"]
-investing.com,newsday.com##div[class^="ad_"]
 investopedia.com##.partnerlinks
 inwestycje.pl###show-message
 iobit.com##[class^="itop"]

@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220526223024
+#VER=20220526234112
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=98529
+#TOTAL_LINES=98530
 DOMAIN-SUFFIX,cda.0-shiny.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
 DOMAIN-SUFFIX,c.0.0.0.0.cn
@@ -41681,6 +41681,7 @@ DOMAIN-SUFFIX,smetrics.intact.ca
 DOMAIN-SUFFIX,intacthomicidal.com
 DOMAIN-SUFFIX,intarget.ru
 DOMAIN-SUFFIX,intechads.com
+DOMAIN-SUFFIX,intechserant.com
 DOMAIN-SUFFIX,integral-marketing.com
 DOMAIN-SUFFIX,tigershark.integratecolumbus.org
 DOMAIN-SUFFIX,marketing.integratedglobal.com

@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220526223026
+#VER=20220526234114
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=98529
+#TOTAL_LINES=98530
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -41684,6 +41684,7 @@ payload:
   - '+.intacthomicidal.com'
   - '+.intarget.ru'
   - '+.intechads.com'
+  - '+.intechserant.com'
   - '+.integral-marketing.com'
   - '+.tigershark.integratecolumbus.org'
   - '+.marketing.integratedglobal.com'
