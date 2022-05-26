@@ -9,8 +9,6 @@ dead_hosts=(
   "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt"
   "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
   "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist"
-  "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/blacklist/master/whitelisted.list"
-  "https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list"
   "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
 )
 for i in "${!dead_hosts[@]}"
@@ -31,9 +29,9 @@ cat dead-hosts*.txt | grep -v -E "^(#|\!)" \
  | sort | sed 's/[ ]//g'|sort \
  | uniq >base-dead-hosts.txt
 
-cat easylist*.txt dns* *rule*| grep -E "^\|\|[^\*\^]+?\^$" | sort | uniq >base-src-easylist.txt
+cat easylist*.txt dns* *rule*| grep -E "^\|\|[^\*\^]+?\^" | sort | uniq >base-src-easylist.txt
 cat easylist*.txt dns* *rule*| grep -E "^\|\|?([^\^=\/:]+)?\*([^\^=\/:]+)?\^" | sort | uniq >wildcard-src-easylist.txt
-cat easylist*.txt dns* *rule*| grep -E "^@@\|\|?[^\^=\/:]+?\^([^\/=\*]+)?$" | sort | uniq >whiterule-src-easylist.txt
+cat easylist*.txt dns* *rule*| grep -E "^@@\|\|?[^\^=\/:]+?\^([^\/=\*]+)?" | sort | uniq >whiterule-src-easylist.txt
 
 cd ../
 bash ./build-dns-list.sh
