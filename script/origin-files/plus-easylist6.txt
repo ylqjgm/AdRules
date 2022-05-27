@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205260203
+! Version: 202205270223
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41600
+! Lenth = 41607
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -33,6 +33,7 @@ $cookie=/^CaosGtag_ga/
 $cookie=/^KRTBCOOKIE_/
 $cookie=/^_chartbeat/
 $cookie=/^_dc_gtm_UA-/
+$cookie=/^_ga_/
 $cookie=/^_gac_/
 $cookie=/^_gat_/
 $cookie=/^_gat_tracker\d+/
@@ -1315,6 +1316,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /altpracenje.js
 /altpwk.js
 /alvenda_remarketing_
+/alweb.rfk.
 /amazon-affiliate-
 /amdhfp/a.do?param$image
 /amdhfp/t.do?id$image
@@ -3310,7 +3312,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /informb_stat.
 /informerStat?
 /init_cookie.php?
-/initjs.rfk.
 /inject.js?key=$script
 /inline-pixel.js
 /inpl.measure.
@@ -6435,6 +6436,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||analysys.cn^$domain=analysys.cn
 @@||analytics-static.ugc.bazaarvoice.com/prod/$script,domain=hisense.co.uk
 @@||analytics.amplitude.com^$~third-party
+@@||analytics.analytics-egain.com/onetag/$script,domain=boohoo.com
 @@||analytics.atomiconline.com/services/jquery.js
 @@||analytics.cervell.io/api/collect/connect$domain=cildimveben.com
 @@||analytics.cervell.io/api/product/getProduct/$domain=cildimveben.com
@@ -8887,7 +8889,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||whirlpool.tt.omtrdc.net/m2/whirlpool/mbox/json?mbox=$domain=kitchenaid.com
 @@||whoson.com/include.js$domain=oneplus.net|hotelchocolat.com
 @@||widget.myrentacar.me^$script,subdocument
-@@||widget.trustpilot.com/bootstrap/$script,domain=exodus.co.uk|imyfone.com
+@@||widget.trustpilot.com/bootstrap/$script,domain=amartfurniture.com.au|exodus.co.uk|imyfone.com
 @@||widgets.outbrain.com^*/comScore/comScore.htm
 @@||widgets.spklw.com/v1/$xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||widgets.sprinklecontent.com/v2/$script,xmlhttprequest,domain=como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi
@@ -9049,6 +9051,7 @@ armyrecognition.com##a[href^="http://cqcounter.com/"]
 artmoney.ru##a[href^="http://top.list.ru/"]
 artmoney.ru##a[href^="http://www.one.ru"]
 artmoney.ru##noindex > a
+athabascau.ca#%#//scriptlet("set-constant", "WURFL", "emptyObj")
 audiobb.com##.sidebar > #custom_html-4
 automesseweb.jp#?##_popIn_ranking:upward(.code_php_in_widget)
 b.kyodo.co.jp##.banner-area-entry + h3.category-title
@@ -11607,6 +11610,7 @@ znak.com##.relap
 ||altin.in/ajax.asp?i=adblock
 ||altopd.com^
 ||altpool.pro^$third-party
+||altruja.de^$third-party
 ||alvenda.com^$third-party
 ||alwayscare.starmountlife.com^
 ||alxc.addlv.smt.docomo.ne.jp^
@@ -16853,6 +16857,7 @@ znak.com##.relap
 ||data.mainpost.de^
 ||data.mapp.com^
 ||data.mediaworld.it^
+||data.mimikama.at^
 ||data.minute.ly^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
@@ -20547,6 +20552,7 @@ znak.com##.relap
 ||go.unitusccu.com^
 ||go.visma.com^
 ||go.wtcmachinery.com^
+||go.xhamster.com/eye.gif
 ||go.zendesk.com^
 ||go.zic.co.nz^
 ||go2.mathworks.com^
@@ -22206,7 +22212,7 @@ znak.com##.relap
 ||infranken.de/_fWS/json/Statistic
 ||infranken.de/fileadmin/scripts/tracking
 ||infusionsoft.app/app/webTracking/
-||infusionsoft.com/app/webTracking/getTrackingCode?
+||infusionsoft.com/app/webTracking/getTrackingCode
 ||infusionsoft.com^*/getTrackingCode?
 ||ing.com.tr/assets/scripts/dataroid.websdk-
 ||ingage.tech^$third-party
@@ -30212,6 +30218,7 @@ znak.com##.relap
 ||roi-pro.com^$third-party
 ||roi-rocket.net^$third-party
 ||roia.biz^$third-party
+||roirevolution.com^$third-party
 ||roiservice.com^$third-party
 ||roispy.com^$third-party
 ||roistat.com^$third-party
