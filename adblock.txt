@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: ZMpP5hzjI7VjfNdwL89vuQ
+! Checksum: pmwX35tM7QQkSqNBeWJVhw
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-27 01:52:29（北京时间） 
-! Total count: 91572
+! Version: 2022-05-27 09:56:49（北京时间） 
+! Total count: 91581
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -7635,7 +7635,6 @@ $removeparam=_hsmi
 $removeparam=_hsmi,domain=deeplearning.ai
 $removeparam=_kx
 $removeparam=_nc_cat
-$removeparam=_nc_sid
 $removeparam=_nc_vts_prog
 $removeparam=_openstat
 $removeparam=_rdr
@@ -8683,6 +8682,7 @@ $removeparam=s_kwcid
 $removeparam=sacat
 $removeparam=sample,domain=arms-retcode.aliyuncs.com
 $removeparam=sampling,domain=arms-retcode.aliyuncs.com
+$removeparam=sap-outbound-id
 $removeparam=sb_referer_host
 $removeparam=sc,domain=bing.*
 $removeparam=sc,domain=bing.com|qvc.com|startpage.com
@@ -12038,6 +12038,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /altpracenje.js
 /altpwk.js
 /alvenda_remarketing_
+/alweb.rfk.
 /amazon-affiliate-
 /amazon-apstag.
 /amdhfp/a.do?param$image
@@ -20847,6 +20848,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||analytics-static.ugc.bazaarvoice.com/prod/$script,domain=hisense.co.uk
 @@||analytics.163.com/ntes.js$domain=3g.163.com
 @@||analytics.amplitude.com^$~third-party
+@@||analytics.analytics-egain.com/onetag/$script,domain=boohoo.com
 @@||analytics.edgekey.net/config/$xmlhttprequest,domain=nhk.or.jp
 @@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=br.de
 @@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=nhk.or.jp
@@ -32590,6 +32592,7 @@ google.*###search div[jscontroller][jsaction] > div[class] > div[jscontroller] d
 google.*##.cu-container
 google.*##.uEierd
 google.*##div[data-attrid="kc:/local:promotions"]
+google.*##div[jscontroller="wuEeed"]
 google.*#?##kp-wp-tab-overview > div[data-hveid]:has(> div[jsname] div[class*="__wholepage-card"] > div > div[class] div[class] > a[href^="/aclk?"])
 google.*#?##kp-wp-tab-overview > div[data-hveid]:has(> div[jsname] div[class*="__wholepage-card"] > div > div[class] div[class] > a[href^="https://www.googleadservices.com/pagead/"])
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
@@ -42002,6 +42005,7 @@ thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write a
 thegay.com##+js(abort-on-property-read, GameLacker)
 thegay.com##+js(abort-on-property-read, adver.popunder.neverblock)
 thegay.com##.wrapper + section
+thegay.com#?#.underplayer__info > div:has( > div#und_ban)
 theglobeandmail.com##.container-with-ad
 theguardian.com##.fc-slice__item--mpu-candidate
 theguardian.com##.js-adblock-sticky
@@ -44368,6 +44372,7 @@ xh127.com###isubpi
 xh127.com###pzlhdd
 xh127.com###teinka
 xhaiwai.com##.baoru
+xhamster.com##+js(set-constant, history.replaceState, noopFunc)
 xhamster.com##.player-container > div[class*="-"]:not([class*="player"])
 xhamster.com##.sponsorBottom
 xhamster.com##.wit-sponsor-banner
@@ -45582,6 +45587,7 @@ zznews.cn##.ad:not([style])
 ||*.amazonaws.com/js/adblock.min.js$script,domain=motorsport-total.com
 ||*.cloudfront.net^$script,domain=solidfiles.com|userscloud.com|uplod.it|hulkload.com
 ||*.com/*b8121.js^$script,domain=mult34.com
+||*.doppiocdn.com/hls/*/master/*.m3u8$domain=xhamster.com
 ||*.kameleoon.eu^$domain=20minutes.fr|20min.fr
 ||*/ad/$redirect=noopmp3-0.1s,domain=huaren.tv
 ||*/ad/$rewrite=abp-resource:blank-mp3,domain=huaren.tv
@@ -60550,6 +60556,7 @@ zznews.cn##.ad:not([style])
 ||fabricww.com^$third-party
 ||fabuye.vip/zhuanfa/
 ||fac.fanucamerica.com^
+||facebook.*^$document,removeparam=hoisted_section_header_type
 ||facebook.com*/impression.php
 ||facebook.com*/impression.php$domain=autobild.de|focus.de|kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de|tellows.de|transfermarkt.de
 ||facebook.com/*/instream/vast.xml?*&pageurl=http*.4gtv.tv$script,xmlhttprequest,other,redirect=noopvast-2.0
@@ -62525,6 +62532,7 @@ zznews.cn##.ad:not([style])
 ||go.unitusccu.com^
 ||go.visma.com^
 ||go.wtcmachinery.com^
+||go.xhamster.com/api/models/vast
 ||go.xhamster.com/api/models?$domain=xhamster.com
 ||go.xxxiijmp.com^
 ||go.zendesk.com^
@@ -77378,6 +77386,7 @@ zznews.cn##.ad:not([style])
 ||roi-rocket.net^$third-party
 ||roia.biz^$third-party
 ||roilsnadirink.com^
+||roirevolution.com^$third-party
 ||roiservice.com^$third-party
 ||roispy.com^$third-party
 ||roistat.com^$third-party

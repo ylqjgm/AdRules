@@ -181,6 +181,7 @@
 ||events-*.op.hicloud.com^
 ||events-api*.outfit7.com^
 ||f-log-*.grammarly.io^
+||facebook.*^$document,removeparam=hoisted_section_header_type
 ||fanpingbi*.gaokao.com^
 ||fanpingbi*.gaokao.com^
 ||flurry.agentportal-*.yahoodns.net^

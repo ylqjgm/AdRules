@@ -1,15 +1,15 @@
 [Adblock Plus 3.0]
-! Checksum: mP+zAayS7v20S+U6bEdbNg
+! Checksum: LugIu6POXo8lXOnTN4dp/Q
 ! Title: My AdFilters（for PC）
 ! Expires: 2 hours
-! Version: 202205270139
-! Last Modified: 2022年05月27日 01:39
+! Version: 202205270728
+! Last Modified: 2022年05月27日 07:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
-! Total count: 72856
+! Total count: 72861
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -26712,6 +26712,7 @@ google.*###search div[jscontroller][jsaction] > div[class] > div[jscontroller] d
 google.*##.cu-container
 google.*##.uEierd
 google.*##div[data-attrid="kc:/local:promotions"]
+google.*##div[jscontroller="wuEeed"]
 google.*#?##kp-wp-tab-overview > div[data-hveid]:has(> div[jsname] div[class*="__wholepage-card"] > div > div[class] div[class] > a[href^="/aclk?"])
 google.*#?##kp-wp-tab-overview > div[data-hveid]:has(> div[jsname] div[class*="__wholepage-card"] > div > div[class] div[class] > a[href^="https://www.googleadservices.com/pagead/"])
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
@@ -33844,6 +33845,7 @@ thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write a
 thegay.com##+js(abort-on-property-read, GameLacker)
 thegay.com##+js(abort-on-property-read, adver.popunder.neverblock)
 thegay.com##.wrapper + section
+thegay.com#?#.underplayer__info > div:has( > div#und_ban)
 theglobeandmail.com##.container-with-ad
 theguardian.com##.fc-slice__item--mpu-candidate
 theguardian.com##.js-adblock-sticky
@@ -35694,6 +35696,7 @@ xgroovy.com##.headP
 xgroovy.com,xxxshake.com,jizzberry.com##.in.is_desktop
 xgw5.com,gw54.com#?#li:-abp-has(>.ads)
 xhaiwai.com##.baoru
+xhamster.com##+js(set-constant, history.replaceState, noopFunc)
 xhamster.com##.player-container > div[class*="-"]:not([class*="player"])
 xhamster.com##.sponsorBottom
 xhamster.com##.wit-sponsor-banner
@@ -36440,6 +36443,7 @@ zzbaike.com###topnav
 ||*.amazonaws.com/js/adblock.min.js$script,domain=motorsport-total.com
 ||*.cloudfront.net^$script,domain=solidfiles.com|userscloud.com|uplod.it|hulkload.com
 ||*.com/*b8121.js^$script,domain=mult34.com
+||*.doppiocdn.com/hls/*/master/*.m3u8$domain=xhamster.com
 ||*.kameleoon.eu^$domain=20minutes.fr|20min.fr
 ||*^sdtfrom=^$media,redirect=noop-0.1s.mp3,domain=qq.com
 ||0.0.0.1^
@@ -49757,6 +49761,7 @@ zzbaike.com###topnav
 ||go.unitusccu.com^
 ||go.visma.com^
 ||go.wtcmachinery.com^
+||go.xhamster.com/api/models/vast
 ||go.xhamster.com/api/models?$domain=xhamster.com
 ||go.xxxiijmp.com^
 ||go.zendesk.com^
