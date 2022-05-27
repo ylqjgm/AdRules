@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 2u7ukLOzk3y5d48l76de/Q
+! Checksum: NPEmyXG1T/BOSw+ScMqPbA
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 8 Hours
 ! Description: 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyListChina、EasyList、oisd Basic、Adaway等并补充了一些规则
-! Version: 2022-05-27 16:29:57（北京时间） 
-! Total count: 97520
+! Version: 2022-05-27 23:52:31（北京时间） 
+! Total count: 97547
 *.91ivr.
 *.91wan.
 *.99g99.
@@ -806,6 +806,7 @@
 ||0234408.cn^
 ||023hysj.com^
 ||024chaoren.cn^
+||025613.com^
 ||025suyu.com^
 ||0265331.com^
 ||027whht.com^
@@ -3108,6 +3109,7 @@
 ||63voy9ciyi14.com^
 ||64.net.zooplus.com^
 ||641198810fae7.com^
+||643108e7617ef.cdn.sohucs.com^
 ||643226.com^
 ||6438905.com^
 ||644446.com^
@@ -3471,6 +3473,7 @@
 ||7b6l2j.cn^
 ||7ba13f3e.parked.academiadecontables.com^
 ||7baa2e17f3.com^
+||7box.vip^
 ||7bpeople.com^
 ||7bwan.com^
 ||7c0210y.cn^
@@ -7314,7 +7317,6 @@
 ||adm.beimg.com^
 ||adm.cloud.cnfol.com^
 ||adm.funshion.com^
-||adm.leju.com^
 ||adm.leju.sina.com.cn^
 ||adm.myzaker.com^
 ||adm.phunusuckhoe.vn^
@@ -9094,10 +9096,12 @@
 ||adsence.sogou.com^
 ||adsend.de^
 ||adsense.
+||adsense.com^
 ||adsense.html5.qq.com^
 ||adsensecamp.com^
 ||adsensecustomsearchads.com^
 ||adsensedetective.com^
+||adsenseformobileapps.com^
 ||adsenseguard.com^
 ||adsensor.org^
 ||adsentiz.ru^
@@ -9361,11 +9365,8 @@
 ||adservi.com^
 ||adservice.
 ||adservice.com^
-||adservice.google.co.za^
 ||adservice.google.com.au^
-||adservice.google.com.mt^
 ||adservice.google.com^
-||adservice.google.cz^
 ||adservice.sigmob.cn^
 ||adservice.tohsoft.com^
 ||adservicemedia.dk^
@@ -9640,6 +9641,7 @@
 ||adstrategy.biz.weibo.com^
 ||adstream.cardboardfish.com^
 ||adstripe.net^
+||adstudio-assets.scdn.co^
 ||adstudio.cloud^
 ||adstuna.com^
 ||adstune.com^
@@ -9939,7 +9941,6 @@
 ||adv.pilseta24.lv^
 ||adv.r7.com^
 ||adv.s8bbs.com^
-||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
 ||adv.starozagorci.com^
 ||adv.strategy.it^
@@ -10071,6 +10072,8 @@
 ||advertisement.glb.qnniu.com^
 ||advertisementafterthought.com^
 ||advertisemisuseequipment.com^
+||advertisercommunity.com^
+||advertiserscommunity.com^
 ||advertiseru.net^
 ||advertiserurl.com^
 ||advertiseserve.com^
@@ -10251,8 +10254,11 @@
 ||adwo.com^
 ||adwods.com^
 ||adwolf.ru^
+||adwords-community.com^
+||adwords.com^
 ||adwords.net.zooplus.fr^
 ||adwordsecommerce.com.br^
+||adwordsexpress.com^
 ||adwordsmarket.com^
 ||adworkmedia.com^
 ||adworkmedia.net^
@@ -13315,6 +13321,7 @@
 ||apicssdk.onemt.co^
 ||apidocsarketing.net.zooplus.fr^
 ||apiecelee.com^
+||apilog-web.acfun.cn^
 ||apilog.app.acfun.cn^
 ||apinas.nct.vn^
 ||apio.ink^
@@ -14179,7 +14186,6 @@
 ||ask-coder.com^
 ||ask-gps.ru^
 ||ask.legalsolutions.thomsonreuters.info^
-||ask.log.kuyun.com^
 ||ask.webatall.com^
 ||askallalb.club^
 ||askara.super.site^
@@ -22365,6 +22371,7 @@
 ||clickscapture.com^
 ||clickscloud.net^
 ||clicksen.se^
+||clickserver.googleads.com^
 ||clickserver.libero.it^
 ||clicksgate.com^
 ||clicksgear.com^
@@ -23694,7 +23701,6 @@
 ||config.claspws.tv^
 ||config.emb-api.com^
 ||config.getmyip.com^
-||config.kuyun.com^
 ||config.mobilegamestats.com^
 ||config.safedk.com^
 ||config.unityads.unitychina.cn^
@@ -26836,6 +26842,7 @@
 ||dd.mangofortune.net^
 ||dd1.diymianmo.com^
 ||dd3d.xyz^
+||dd713.bj.bcebos.com^
 ||dd77535fba.3901da0f4a.com^
 ||dd7bet.me^
 ||ddajztoum.com^
@@ -27703,6 +27710,7 @@
 ||diapertypesdeference.com^
 ||diaplanu.com^
 ||diaryeavesdropdecipher.com^
+||dias2o0.cn^
 ||diasciaplatly.com^
 ||diaspora-news.com^
 ||diazepam.ourtablets.com^
@@ -28628,6 +28636,7 @@
 ||dodostats.com^
 ||dodsonimaging.com^
 ||doflygonan.com^
+||dofohuwha.pro^
 ||dofsg.cn^
 ||dog.christinamoore.us^
 ||dog.diversityinjobs.com^
@@ -29878,6 +29887,7 @@
 ||e860045edaecd.com^
 ||e89.friendfinder.com^
 ||e8a0cb51c6.com^
+||e8aeb8bbdbbd7.cdn.sohucs.com^
 ||e8c8af7a7c.com^
 ||e92k49.com^
 ||e9377f.com^
@@ -30330,7 +30340,6 @@
 ||eclogicmeows.com^
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
-||ecmc.bdimg.com^
 ||ecmjckvcqiceia.xyz^
 ||ecmk.figurekaitori.net^
 ||ecn-analytics-nssl.emc.com^
@@ -34756,6 +34765,7 @@
 ||fpa-cdn.decrypt.co^
 ||fpa-events.decrypt.co^
 ||fpaux.net^
+||fpavx.net^
 ||fpaxu.net^
 ||fpb.sohu.com^
 ||fpb1.apple886.com^
@@ -38985,6 +38995,7 @@
 ||google-pagerank.net^
 ||google-rank.org^
 ||google-shopping.sapoapps.vn^
+||googleadapis.com^
 ||googleads.g.doubleclick.net.iberostar.com^
 ||googleadservices.
 ||googleadsl.com^
@@ -39010,6 +39021,7 @@
 ||googlesyndication.com
 ||googlesyndication.com^
 ||googletakes.com^
+||googletraveladservices.com^
 ||googlevendorcontent.net.zooplus.com^
 ||googlevideoads.com^
 ||googlew.com^
@@ -42484,6 +42496,8 @@
 ||hyzhongchuang.com^
 ||hz-sllace.com^
 ||hz.miercn.com^
+||hz.pre.tbusergw.taobao.net^
+||hz.tbusergw.taobao.net^
 ||hzaibi.com^
 ||hzbrcajp.cn^
 ||hzbxm.com^
@@ -43109,6 +43123,7 @@
 ||ijquery11.com^
 ||ijrah.top^
 ||ijsclub-de-volharding.nl^
+||ijsks.com^
 ||ijspro-code.com^
 ||ijsprocode.com^
 ||ijsxk.com^
@@ -46589,6 +46604,7 @@
 ||jmypodeqqf.com^
 ||jn1biifafz.cn^
 ||jn69.work^
+||jnbd43jh.world^
 ||jnbd43jh.xyz^
 ||jnborycvjjk.com^
 ||jnbvckgophfkop.com^
@@ -48764,6 +48780,7 @@
 ||kux5.raileurope.com^
 ||kuxinqi.com^
 ||kuyhaa-mee.com^
+||kuyun.com^
 ||kuzalooza.com^
 ||kuzexinxi.com^
 ||kuzeyinyeri.site^
@@ -49179,6 +49196,7 @@
 ||lapatiya.info^
 ||lapeduzis.org^
 ||lapiden.com^
+||lapin.ithome.com^
 ||lapkhy.aventon.com^
 ||lapp460.net.zooplus.com^
 ||lappepnow.com^
@@ -49625,6 +49643,7 @@
 ||lejia.biz^
 ||lejieti.com^
 ||lejlb.com^
+||leju.com^
 ||lejuliang.com^
 ||lejuyoujia2019.com^
 ||lekartrenes.com^
@@ -50917,6 +50936,7 @@
 ||log-live.direct.ly^
 ||log-marketing.jp^
 ||log-player.arte.tv^
+||log-sdk.gifshow.com^
 ||log-sdk.ksapisrv.com^
 ||log-stats.weathercn.com^
 ||log-tb.sgsnssdk.com^
@@ -51221,7 +51241,6 @@
 ||logo-net.co.uk^
 ||logoduoduo.com^
 ||logoestulles.com^
-||logonext.tv.kuyun.com^
 ||logoshejishi.com^
 ||logotiips.com^
 ||logperf.vnexpress.net^
@@ -56227,6 +56246,7 @@
 ||mirvso.boggi.com^
 ||mis.g.mi.com^
 ||misc.api.snaptube.app^
+||misc.in.duokanbox.com^
 ||misc.wcd.qq.com^
 ||misc1bulk.com^
 ||miscellaneouspiledrely.com^
@@ -56242,6 +56262,7 @@
 ||missionarymargaret.com^
 ||missiondues.com^
 ||missiontestamentinterfering.com^
+||misslinkvocation.com^
 ||misslk.com^
 ||misspelldefine.com^
 ||misspellgameastound.com^
@@ -57416,7 +57437,6 @@
 ||msg.video.ptqy.gitv.tv^
 ||msg.video.qiyi.com^
 ||msg.zybang.com^
-||msg1.video.qiyi.com^
 ||msg2.video.ptqy.gitv.tv^
 ||msg2.video.qiyi.com^
 ||msga.ptqy.gitv.tv^
@@ -62272,6 +62292,7 @@
 ||ovgads.ovguide.com^
 ||ovgzbnjj.com^
 ||ovibospeseta.com^
+||ovinspecutions.com^
 ||ovintic.ru^
 ||oviparaatalan.com^
 ||ovk.xceler8.io^
@@ -66865,6 +66886,7 @@
 ||ptongouh.net^
 ||ptookaih.net^
 ||ptoosteg.com^
+||ptorykida.com^
 ||ptouat.wahoofitness.com^
 ||ptoulsey.com^
 ||ptoumsid.net^
@@ -69806,6 +69828,7 @@
 ||reshin.de^
 ||residebroadly.com^
 ||residelikingminister.com^
+||residenceseeingstanding.com^
 ||residentialsize.com^
 ||resign-man.com^
 ||resile.net.zooplus.com^
@@ -71379,6 +71402,7 @@
 ||s.maxrozen.com^
 ||s.megaclick.com^
 ||s.mississauga.com^
+||s.miwifi.com^
 ||s.mt145.com^
 ||s.musicradio.com^
 ||s.muskokaregion.com^
@@ -71433,7 +71457,6 @@
 ||s.tpctrust.com^
 ||s.tuoitre.vn^
 ||s.uc627.com^
-||s.union.360.cn^
 ||s.update.fbsbx.com^
 ||s.usenix.org^
 ||s.viites.com^
@@ -73480,7 +73503,6 @@
 ||service.kingoapp.com^
 ||service.mail.net.zooplus.fr^
 ||service.sbpayment.jp^
-||service.urchin.com^
 ||service001.adtech.fr^
 ||service001.adtech.us^
 ||service002.adtech.fr^
@@ -73653,6 +73675,7 @@
 ||sfilm.com^
 ||sfippa.com^
 ||sfixretarum.com^
+||sfjmj.com^
 ||sfjviolrukaysn.xyz^
 ||sfl-fe-tos.pglstatp-toutiao.com^
 ||sfloushi.com^
@@ -77924,7 +77947,6 @@
 ||srbijacafe.org^
 ||srbnxr.blair.com^
 ||src.duanxin520.com^
-||src.leju.com^
 ||src.zf313.com^
 ||src1.minibai.com^
 ||srch.bar^
@@ -78949,7 +78971,6 @@
 ||static8.freebitco.in^
 ||static8.pmadx.com^
 ||staticad.thethao247.vn^
-||staticadm.leju.com^
 ||staticads.btopenworld.com^
 ||staticb.mydirtyhobby.com^
 ||staticiv.com^
@@ -81919,6 +81940,7 @@
 ||taopianzy.com^
 ||taopiaopiao.shop^
 ||taoput.com^
+||taoquan365.net^
 ||taorun.com^
 ||taose06.com^
 ||taosha.cc^
@@ -87826,6 +87848,7 @@
 ||unblockedapi.com^
 ||unblockedtpb.pw^
 ||unblockia.com^
+||unblocksit.es^
 ||unblocktheship.org^
 ||unbodypestis.com^
 ||unbuttondeferinstalment.com^
@@ -87867,6 +87890,7 @@
 ||understandablejoggleawakened.com^
 ||understandablerequirechoke.com^
 ||understandingharmoniousillegal.com^
+||understandintimidate.com^
 ||understatementcrystal.com^
 ||understoodadjoiningarab.com^
 ||underthfeove.one^
@@ -87939,6 +87963,7 @@
 ||unioch.com^
 ||union-wifi.com^
 ||union.
+||union.360.cn^
 ||union.baidu.cn^
 ||union.china.com.cn^
 ||union.dbba.cn^
@@ -88270,6 +88295,7 @@
 ||urbanproxy.eu^
 ||urbharat.xyz^
 ||urchin.5173.com^
+||urchin.com^
 ||urchin.estadao.com.br^
 ||urchinflare.com^
 ||urchrevening.info^
@@ -95995,6 +96021,7 @@
 ||ytunion.com^
 ||ytuxrqbxf.com^
 ||ytybl.com^
+||ytyug.com^
 ||yu.ac.kr^
 ||yu0123456.com^
 ||yu6v3nhnsl.com^

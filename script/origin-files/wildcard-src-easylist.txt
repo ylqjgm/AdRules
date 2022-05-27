@@ -41,7 +41,9 @@
 ||ad*.mac-torrent-download.net^
 ||ad*.nexage.com^
 ||ad*.tmgrup.com.tr^
+||ad.api.*.youku.com^
 ||adash*.m.taobao.com^
+||adash*.ut.taobao.com^
 ||adcounter*.uptolike.ru^
 ||adi*.cnool.net^
 ||adi*.cnool.net^
@@ -59,8 +61,11 @@
 ||ads*.dfiles.ru^
 ||adserver*.euroweeklynews.com^
 ||adserver.*.yahoodns.net^
+||adservice.google.*^
 ||adstore-*.file.myqcloud.com^
 ||adstore-index-*.file.myqcloud.com^
+||adsview*.qq.com^
+||adv.sec*.miui.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||aff*.kolektiva.net^
 ||aliexpress.*^$removeparam=gatewayAdapt
@@ -93,6 +98,7 @@
 ||assoc-amazon.*^e/ir?t=$image
 ||at*.doubanio.com^
 ||at*.doubanio.com^
+||atanx*.alicdn.com^
 ||ax.*.ifeng.com^
 ||ax.*.ifeng.com^
 ||banner*.kinogo.by^
@@ -157,6 +163,7 @@
 ||d*.wanzhuang.com^
 ||d*.xinshipu.com^
 ||d*.xinshipu.com^
+||das.*.youku.com^
 ||datacollect*.abtasty.com^
 ||datacollect*.abtasty.com^$third-party
 ||datacollector-*.dt.hicloud.com^
@@ -174,6 +181,7 @@
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
 ||dw-informer-*.newsru.com^
 ||eclog*-*.cafe24.com^
+||ecm*.bdimg.com^
 ||emily.*.net^
 ||eum*.instana.io^
 ||event*.hk01.com^
@@ -281,6 +289,7 @@
 ||minitds-*.info^
 ||mkto-*.com^$third-party
 ||mobileanalytics.*.amazonaws.com^
+||msg*.video.qiyi.com^
 ||nitro*.gift^
 ||nitro*.gifts^
 ||orbit*.lun.ua^
@@ -357,6 +366,7 @@
 ||stats*.videonow.ru^
 ||stats-*.p2pnow.ru^
 ||stats2.*.fdnames.com^
+||store.*.api.3g.youku.com^
 ||subnewss*.net^
 ||suite*.linximpulse.net^
 ||t*.zcvh.net^

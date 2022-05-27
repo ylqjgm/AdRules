@@ -1,5 +1,5 @@
 ! Title: AdRules for AdGuard
-! Version: 20220527082938858973071
+! Version: 20220527155212510382766
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Total lines: 00000
 ||cda.0-shiny.com^
@@ -92,6 +92,7 @@
 ||0234408.cn^
 ||023hysj.com^
 ||024chaoren.cn^
+||025613.com^
 ||025suyu.com^
 ||0265331.com^
 ||img.0279.net^
@@ -1660,7 +1661,7 @@
 ||qurl.f.360.cn^
 ||s.360.cn^
 ||s.so.360.cn^
-||s.union.360.cn^
+||union.360.cn^
 ||sdk.look.360.cn^
 ||show.look.360.cn^
 ||soft.data.weather.360.cn^
@@ -3172,6 +3173,7 @@
 ||7b532401e9.com^
 ||7b6l2j.cn^
 ||7baa2e17f3.com^
+||7box.vip^
 ||7bpeople.com^
 ||7bwan.com^
 ||7c0210y.cn^
@@ -4622,6 +4624,7 @@
 ||acexedge.com^
 ||acezsoftware.com^
 ||acf-webmaster.net^
+||apilog-web.acfun.cn^
 ||apilog.app.acfun.cn^
 ||jscode.acg68.com^
 ||acgbase.com^
@@ -6186,9 +6189,11 @@
 ||adsemirate.com^
 ||adsemo.com^
 ||adsend.de^
+||adsense.com^
 ||adsensecamp.com^
 ||adsensecustomsearchads.com^
 ||adsensedetective.com^
+||adsenseformobileapps.com^
 ||adsenseguard.com^
 ||adsensor.org^
 ||adsentiz.ru^
@@ -6912,6 +6917,8 @@
 ||advertisement-nhatanh.com^
 ||advertisementafterthought.com^
 ||advertisemisuseequipment.com^
+||advertisercommunity.com^
+||advertiserscommunity.com^
 ||advertiseru.net^
 ||advertiserurl.com^
 ||advertiseserve.com^
@@ -7061,7 +7068,10 @@
 ||adwods.com^
 ||adwolf.ru^
 ||data.adwombat.com^
+||adwords-community.com^
+||adwords.com^
 ||adwordsecommerce.com.br^
+||adwordsexpress.com^
 ||adwordsmarket.com^
 ||adworkmedia.com^
 ||adworkmedia.net^
@@ -12798,6 +12808,7 @@
 ||aod-video-antusheng.cdn.bcebos.com^
 ||baiducom.bj.bcebos.com^
 ||cms-image.cdn.bcebos.com^
+||dd713.bj.bcebos.com^
 ||fc-feed.cdn.bcebos.com^
 ||game-video.cdn.bcebos.com^
 ||map-mobile-opnimg.cdn.bcebos.com^
@@ -12872,9 +12883,6 @@
 ||trck.bdi-services.de^
 ||bdiae.com^
 ||baikebcs.bdimg.com^
-||ecma.bdimg.com^
-||ecmb.bdimg.com^
-||ecmc.bdimg.com^
 ||pups.bdimg.com^
 ||static.map.bdimg.com^
 ||su.bdimg.com^
@@ -13085,8 +13093,8 @@
 ||beespace.com.ua^
 ||beetraf.ru^
 ||beetrootpsychicgrim.com^
-||jssdk.beetv.net^
 ||wbmwss.beetv.net^
+||jssdk.beetv.net^
 ||beevakum.net^
 ||beevalt.com^
 ||banners.beevpn.com^
@@ -24700,6 +24708,7 @@
 ||adbmetrics.diariovasco.com^
 ||sadbmetrics.diariovasco.com^
 ||diaryeavesdropdecipher.com^
+||dias2o0.cn^
 ||diasciaplatly.com^
 ||diaspora-news.com^
 ||dibaiweiai.com^
@@ -25584,6 +25593,7 @@
 ||cat.doebankdesigns.com^
 ||ufz.doesxyz.com^
 ||doflygonan.com^
+||dofohuwha.pro^
 ||dofsg.cn^
 ||ads.dofunapps.com^
 ||sdk.dofunapps.com^
@@ -26435,13 +26445,13 @@
 ||img.dubyc.com^
 ||ducina.com^
 ||marketing.duckbrand.com^
+||grub-wa-saya.duckdns.org^
 ||cfcd.duckdns.org^
 ||cfceu.duckdns.org^
 ||cfcs1.duckdns.org^
-||grub-wa-saya.duckdns.org^
+||freshzz00.duckdns.org^
 ||jhondi33.duckdns.org^
 ||webwidgetz.duckdns.org^
-||freshzz00.duckdns.org^
 ||duckswillsmoochyou.com^
 ||ducmissy.com^
 ||ducubchooa.com^
@@ -26523,6 +26533,7 @@
 ||picture.duokan.com^
 ||controller.duokanbox.com^
 ||fm.duokanbox.com^
+||misc.in.duokanbox.com^
 ||stat.duokanbox.com^
 ||v2.fm.n.duokanbox.com^
 ||go.duolingo.com^
@@ -27108,6 +27119,7 @@
 ||bdstatic.eastmoney.com^
 ||bduserlog.eastmoney.com^
 ||bdwblog.eastmoney.com^
+||cmsjs.eastmoney.com^
 ||cp2.eastmoney.com^
 ||emdcadvertise.eastmoney.com^
 ||emdcadvise.eastmoney.com^
@@ -27115,7 +27127,6 @@
 ||nhtradecfg.eastmoney.com^
 ||same.eastmoney.com^
 ||zqhd.eastmoney.com^
-||cmsjs.eastmoney.com^
 ||emetrics.eastwestbank.com^
 ||smetrics.eastwestbank.com^
 ||easy-ads.com^
@@ -32334,6 +32345,7 @@
 ||communications.foyston.com^
 ||fozzytournaments.fun^
 ||fpaux.net^
+||fpavx.net^
 ||fpaxu.net^
 ||fpbnmoise.com^
 ||www2.comunicacions.fpc.es^
@@ -34584,6 +34596,7 @@
 ||stats-messages.gifs.com^
 ||stats.gifs.com^
 ||gdfp.gifshow.com^
+||log-sdk.gifshow.com^
 ||gift-discord.xyz^
 ||gift2pair.com^
 ||giftcardbouns.com^
@@ -35524,9 +35537,8 @@
 ||google-docs.org^
 ||google-pagerank.net^
 ||google-rank.org^
-||adservice.google.co.za^
-||adservice.google.com.mt^
-||adservice.google.cz^
+||googleadapis.com^
+||clickserver.googleads.com^
 ||googleadsl.com^
 ||googleadsserving.cn^
 ||googlealiyun.cn^
@@ -35566,6 +35578,7 @@
 ||googletagmanager.com^
 ||googletagservices.com^
 ||googletakes.com^
+||googletraveladservices.com^
 ||googlevideoads.com^
 ||googlew.com^
 ||googlexbaidu.top^
@@ -37872,17 +37885,17 @@
 ||gdpr-service.herokuapp.com^
 ||hn-button.herokuapp.com^
 ||ilyonanalytics.herokuapp.com^
-||jqcdn01.herokuapp.com^
-||jqcdn03.herokuapp.com^
-||jqcdn2.herokuapp.com^
 ||onespot-tracking.herokuapp.com^
 ||powr-counter.herokuapp.com^
 ||statt-collect.herokuapp.com^
 ||sworkitads.herokuapp.com^
-||sxcdn1.herokuapp.com^
-||sxcdn5.herokuapp.com^
 ||user-agent-tracker.herokuapp.com^
 ||wootric-eligibility.herokuapp.com^
+||jqcdn01.herokuapp.com^
+||jqcdn03.herokuapp.com^
+||jqcdn2.herokuapp.com^
+||sxcdn1.herokuapp.com^
+||sxcdn5.herokuapp.com^
 ||wpcdn1.herokuapp.com^
 ||analytics.yopify.com.herokudns.com^
 ||api.wootric.com.herokudns.com^
@@ -40675,6 +40688,7 @@
 ||ijquery11.com^
 ||ijrah.top^
 ||ijsclub-de-volharding.nl^
+||ijsks.com^
 ||ijspro-code.com^
 ||ijsprocode.com^
 ||ijsxk.com^
@@ -42659,6 +42673,7 @@
 ||itheatmora.com^
 ||itheatmoran.com^
 ||ithinkthereforeiam.net^
+||lapin.ithome.com^
 ||itadapi.ithome.com.tw^
 ||elk.itiden.se^
 ||a.itiexue.net^
@@ -43926,6 +43941,7 @@
 ||jmypodeqqf.com^
 ||jn1biifafz.cn^
 ||jn69.work^
+||jnbd43jh.world^
 ||jnbd43jh.xyz^
 ||jnborycvjjk.com^
 ||jnbvckgophfkop.com^
@@ -46707,9 +46723,7 @@
 ||kuwoyy.com^
 ||kuxinqi.com^
 ||kuyhaa-mee.com^
-||ask.log.kuyun.com^
-||config.kuyun.com^
-||logonext.tv.kuyun.com^
+||kuyun.com^
 ||kuzalooza.com^
 ||kuzexinxi.com^
 ||kuzeyinyeri.site^
@@ -47709,9 +47723,7 @@
 ||lejia.biz^
 ||lejieti.com^
 ||lejlb.com^
-||adm.leju.com^
-||src.leju.com^
-||staticadm.leju.com^
+||leju.com^
 ||lejuliang.com^
 ||lejuyoujia2019.com^
 ||info.lek.com^
@@ -52849,6 +52861,7 @@
 ||missiontestamentinterfering.com^
 ||go.missionwealth.com^
 ||s.mississauga.com^
+||misslinkvocation.com^
 ||misslk.com^
 ||qgssfa.missme.com^
 ||misspelldefine.com^
@@ -52921,8 +52934,6 @@
 ||miucart.com^
 ||gg.miued.com^
 ||activity.browser.intl.miui.com^
-||adv.sec.intl.miui.com^
-||adv.sec.miui.com^
 ||api.brs.intl.miui.com^
 ||api.newsfeed.intl.miui.com^
 ||api.xk.miui.com^
@@ -52955,6 +52966,7 @@
 ||m.miupp.com^
 ||miuprints.com^
 ||miva.com^
+||s.miwifi.com^
 ||mix1traff.ru^
 ||mixadvert.com^
 ||mixandfun.com^
@@ -54799,8 +54811,8 @@
 ||icons.mydrivers.com^
 ||site.connect.mydrreddys.com^
 ||bauersagtnein.myeffect.net^
-||carry.myeffect.net^
 ||gobba.myeffect.net^
+||carry.myeffect.net^
 ||myeffecto.com^
 ||web.myempro.com^
 ||api.myendpoint.io^
@@ -59953,6 +59965,7 @@
 ||analytics.ovh.com^
 ||ns38541.ovh.net^
 ||ovibospeseta.com^
+||ovinspecutions.com^
 ||ovintic.ru^
 ||oviparaatalan.com^
 ||ovkwiz.xyz^
@@ -63505,8 +63518,8 @@
 ||pr-update.biz^
 ||pr00001.com^
 ||pr0gram.org^
-||escobar.pr0gramm.com^
 ||miner.pr0gramm.com^
+||escobar.pr0gramm.com^
 ||www-tb7c.pr0gramm.com^
 ||pr0pgutf0hp089.com^
 ||pr33.cn^
@@ -64563,6 +64576,7 @@
 ||ptongouh.net^
 ||ptookaih.net^
 ||ptoosteg.com^
+||ptorykida.com^
 ||ptoulsey.com^
 ||ptoumsid.net^
 ||ptoushoa.com^
@@ -65515,8 +65529,6 @@
 ||afp.qiyi.com^
 ||api.cupid.qiyi.com^
 ||meta.video.qiyi.com^
-||msg1.video.qiyi.com^
-||msg2.video.qiyi.com^
 ||uestat.video.qiyi.com^
 ||qiyijiazhuangshi.com^
 ||mall0.qiyipic.com^
@@ -67641,6 +67653,7 @@
 ||reshin.de^
 ||residebroadly.com^
 ||residelikingminister.com^
+||residenceseeingstanding.com^
 ||residentialsize.com^
 ||resign-man.com^
 ||i.resilio.com^
@@ -70019,6 +70032,7 @@
 ||scblqvoiypcoy.top^
 ||lmgvur.scbt.com^
 ||ostrich.scd-rv.com.au^
+||adstudio-assets.scdn.co^
 ||scdng.com^
 ||smetrics.sce.com^
 ||scegli-vinci.it^
@@ -71185,6 +71199,7 @@
 ||sfippa.com^
 ||tracking.sfitrucks.com^
 ||sfixretarum.com^
+||sfjmj.com^
 ||sfjviolrukaysn.xyz^
 ||sfloushi.com^
 ||sflywdvzyh.com^
@@ -73503,6 +73518,8 @@
 ||click.hd.sohu.com.cn^
 ||pb.hd.sohu.com.cn^
 ||sohu999.com^
+||643108e7617ef.cdn.sohucs.com^
+||e8aeb8bbdbbd7.cdn.sohucs.com^
 ||sohulink.cc^
 ||soidc.com^
 ||secure.soil5hear.com^
@@ -77095,6 +77112,8 @@
 ||tao123.com^
 ||taobaly.cn^
 ||a6.taobanapp.com^
+||hz.pre.tbusergw.taobao.net^
+||hz.tbusergw.taobao.net^
 ||taobaoad.com^
 ||taobaoaliyun.cn^
 ||taobaobo5.com^
@@ -77124,6 +77143,7 @@
 ||taopianzy.com^
 ||taopiaopiao.shop^
 ||taoput.com^
+||taoquan365.net^
 ||taorun.com^
 ||taose06.com^
 ||taosha.cc^
@@ -82387,6 +82407,7 @@
 ||unblockedapi.com^
 ||unblockedtpb.pw^
 ||unblockia.com^
+||unblocksit.es^
 ||unblocktheship.org^
 ||unbodypestis.com^
 ||t.unbounce.com^
@@ -82451,6 +82472,7 @@
 ||understandablejoggleawakened.com^
 ||understandablerequirechoke.com^
 ||understandingharmoniousillegal.com^
+||understandintimidate.com^
 ||leopard.understandit.se^
 ||understatementcrystal.com^
 ||understoodadjoiningarab.com^
@@ -82936,7 +82958,7 @@
 ||urbanproxy.eu^
 ||drfoou.urbanstore.cz^
 ||urbharat.xyz^
-||service.urchin.com^
+||urchin.com^
 ||urchinflare.com^
 ||urchrevening.info^
 ||urdmorgytjnbn.xyz^
@@ -91170,6 +91192,7 @@
 ||ytuxrqbxf.com^
 ||smetrics.ytv.com^
 ||ytybl.com^
+||ytyug.com^
 ||yu.ac.kr^
 ||yu0123456.com^
 ||yu6v3nhnsl.com^

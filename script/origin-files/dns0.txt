@@ -1,8 +1,8 @@
-! Checksum: pTrq/Nhz0BmQkwbCIYu8GA
+! Checksum: 9aQoO7ltj499AaO/xJxyZw
 ! Title: AdGuard Chinese filter
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.0.56.62
-! TimeUpdated: 2022-05-27T06:30:54+00:00
+! Version: 2.0.56.69
+! TimeUpdated: 2022-05-27T15:30:55+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -85,6 +85,7 @@
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||xn--2ss830adjbqy7h.xn--fiqs8s^
 ||mobixc.vnfjsus.xyz^
 ||cul.xunjiu.online^
 ||tp4sul.jwzd.com.cn^
@@ -2175,6 +2176,8 @@ iyf.tv##vg-player.ng-star-inserted > vg-pause-ads + div.caption.show > .inner
 ! Bad:  @@||example.org^$stealth (should be in AdGuard Base - whitelist_stealth.txt)
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/119386
+hipertextual.com#@#.ad-above-footer
 ! gamersglobal.de - broken main page
 gamersglobal.de#@#.gg-box
 ! https://github.com/AdguardTeam/AdguardFilters/issues/115152
@@ -2569,7 +2572,7 @@ nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
 /assets/banners/600x100/*
 /assets/t_j/tongji.js
 /attachment/freeaddon_banner/*
-/attachments/ad/*
+/attachments/ad/*$domain=~edushida.com
 /avple-images/ad.
 /avple-images/ad_
 /avshow_cn1.gif
@@ -3730,8 +3733,8 @@ ubmcmm.baidustatic.com
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".leyu"]
 ##div[onclick*="?i_code="]
-##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:975px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:975px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
@@ -4017,6 +4020,11 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/ayx700.com/"]
 ##img[onclick*="/c7.net/"]
 .8ox.cn
+||jnbd43jh.world^
+||taoquan365.net^
+||xn--2ss830adjbqy7h.xn--fiqs8s^
+||sfjmj.com^
+||ytyug.com^
 ||wuyicom.top^
 ||ygfjy.top^
 ||00-gov.cn^
@@ -19777,6 +19785,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zwmkfoo.cn^
 ||meetsocialmeta.com^
 ||nxl791.com^
+||ijsks.com^
+||dias2o0.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]

@@ -1198,6 +1198,7 @@ mind42.com###content.sidebar2:style(margin-right: 0 !important;)
 ||zdnet.com/*recommendation/
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5352
+*$popunder,domain=xhamster.*
 xhamster13.*##+js(nowoif)
 fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##+js(acis, Array.prototype.indexOf, popunder)
 xhamster.*,xhamster1.*,xhamster5.*,xhamster7.*##+js(aeld, , pop)
@@ -1594,7 +1595,6 @@ fmovies.*###gift-top
 ||iamcdn.net/players/ads.watch.min.js$script,domain=playhydrax.com,important
 ||iamcdn.net/players/playera.dmins.js$script,domain=playhydrax.com
 ||iamcdn.net/players/player*.*mins.js$script,domain=hydracdn.*|nazarickol.com|freeplayervideo.com|player-cdn.com
-||iamcdn.net/players/playhydraxs.min.js$script,domain=nazarickol.com|freeplayervideo.com|player-cdn.com
 hydracdn.*##+js(acis, String.fromCharCode, /btoa|break/)
 hydracdn.*,hydrax.net,playhydrax.com##+js(aopr, AaDetector)
 hydracdn.*,hydrax.net,playhydrax.com##+js(nostif, debugger)
@@ -5598,7 +5598,7 @@ cbc.ca##.ad-container
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2320
 *$xhr,redirect-rule=nooptext,domain=freemcserver.net
-||freemcserver.net/script/bootstrap.
+||freemcserver.net/onyx/orion.
 
 ! popups http://assia.tv/live/betsport/?lang=rs
 ! https://github.com/AdguardTeam/AdguardFilters/issues/116307
