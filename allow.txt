@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: tMPNPYfYL+ll2FIEhbq7Og
+! Checksum: xMciQaW/RQZK2HwxWJj69Q
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-05-28 16:29:38（北京时间） 
-! Total count: 19487
+! Version: 2022-05-28 23:38:15（北京时间） 
+! Total count: 19491
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -652,7 +652,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgy.svc/*
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgbeacon.*/UA-
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -12485,6 +12485,7 @@
 @@||odb.outbrain.com^$domain=nypost.com
 @@||odc.officeapps.live.com/odc/$elemhide,jsinject,extension
 @@||odcdn.com^*/cm.js
+@@||odin.re.taobao.com^
 @@||odkrywamyzakryte.com/wp-content/plugins/bwp-minify/min/?f=wp-content/plugins/
 @@||odl.one/oc-content/plugins/deductor/advertisement.js
 @@||odnoklassniki.ru/get$stealth
@@ -13033,6 +13034,7 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=supreme-gamers.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sydroid.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=syriancivilwarmap.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tamrieltradecentre.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=tapetus.pl
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=taufiqhdyt.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=telephoneannuaire.fr
@@ -15015,6 +15017,7 @@
 @@||sawlive.tv^$script,1p
 @@||sax.sina.com.cn/video/$script
 @@||sax.sina.com.cn/video/newimpress?
+@@||sax.sina.com.cn^
 @@||saysidewalk.com^$script,xmlhttprequest
 @@||sb.scorecardresearch.com/*/plugins/streamsense_plugin_theplatform.js$domain=cbc.ca
 @@||sb.scorecardresearch.com/beacon.js$domain=animalplanet.com
@@ -17833,6 +17836,7 @@
 @@||ujinbi.com/UpLoadFile/guanggao/
 @@||ukbride.co.uk/css/*/adverts.css
 @@||ukrposhta.ua/js/tracking.js
+@@||uland.taobao.com^
 @@||ulifestyle.com.hk/store/prod/iskypost/res/js/dfp-
 @@||ulogin.ru/auth.php
 @@||ulogin.ru/fill.php

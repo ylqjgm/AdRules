@@ -273,8 +273,6 @@ westword.com##.AirBillboardInlineContentresponsive
 
 ! https://github.com/gorhill/uBlock/issues/949
 ! https://github.com/uBlockOrigin/uAssets/issues/6541#issuecomment-1012435405
-autobild.de##+js(no-fetch-if, damoh.autobild.de)
-computerbild.de##+js(no-fetch-if, damoh.computerbild.de)
 ||s3.amazonaws.com/homad-global-configs.schneevonmorgen.com/hd-main.js$script,domain=autobild.de|cinema.de|computerbild.de|cdnapi.kaltura.com|focus.de|spieleaffe.de|sueddeutsche.de,redirect=hd-main.js
 ||svonm.com/hd-main.js$script,redirect=hd-main.js,domain=cinema.de|cdnapi.kaltura.com
 ||computerbild.de/assets/homad/*$xhr,redirect=nooptext,domain=computerbild.de
@@ -549,17 +547,21 @@ nmac.to##.adsbygoogle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/3573
 userscloud.com##+js(acis, parseInt, break;case $.)
+userscloud.com##+js(acis, Math, XMLHttpRequest)
 userscloud.com##^script:has-text(FingerprintJS)
 @@||userscloud.com^$ghide
 userscloud.com##+js(aeld, /contextmenu|keydown/)
 userscloud.com##+js(set, console.clear, trueFunc)
 ||userscloud.com/js/de.min.js$script,1p
-||rchamrevolu.xyz^
-||dechauffersnough.xyz^
 ||awsimiledarent.xyz^
+||consideunde.xyz^
+||dinterperson.xyz^
+||d1nubxdgom3wqt.cloudfront.net^
+||dechauffersnough.xyz^
 ||jvplujckotxbvl.xyz^
 ||kuhaswuwaiting.xyz^
 ||mnsuseumco.xyz^
+||rchamrevolu.xyz^
 
 ! https://github.com/uBlockOrigin/uAssets/issues/108
 wetteronline.*##+js(aopr, __eiPb)
@@ -731,7 +733,6 @@ criminalcasetools.com##+js(nobab)
 ! https://github.com/uBlockOrigin/uBlock-issues/issues/630
 ! https://github.com/uBlockOrigin/uAssets/issues/6002
 golem.de##+js(acis, showAds)
-golem.de##+js(no-fetch-if, damoh.golem.de)
 golem.de##+js(nostif, adBlockerDetected)
 golem.de##+js(nostif, show)
 ||video.golem.de/*/scripts/radiant/homad$xhr,redirect=nooptext,domain=golem.de
@@ -1209,9 +1210,6 @@ fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster1
 fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##.clipstore-bottom
 fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##.xplayer-banner
 fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##.wio-d
-fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##.wio-y
-fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##.wio-ybanner-container
-fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##.wio-ypremium-overlay
 fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##.thumb-list__look-like-item
 fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##.player-container > div[class*="-"]:not([class*="player"])
 fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##div[class*="cams-widget"]
@@ -1235,8 +1233,6 @@ xhamster.*,xhamster11.*##.wio-cbanner-container
 ||bmbsgo.com^$3p
 ! https://github.com/uBlockOrigin/uAssets/issues/10431#issuecomment-974815141
 fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##+js(set, window.wio-dpopunder.includeFilter, '')
-fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##+js(set, window.wio-xpopunder.includeFilter, '')
-fullxh.com,hamsterix.*,megaxh.com,unlockxh4.com,xhamster.*,xhamster1.*,xhamster10.*,xhamster11.*,xhamster12.*,xhamster13.*,xhamster14.*,xhamster15.*,xhamster16.*,xhamster17.*,xhamster18.*,xhamster19.*,xhamster2.*,xhamster3.*,xhamster4.*,xhamster46.com,xhamster5.*,xhamster7.*,xhamster8.*,xhplanet1.com,xhtab2.com,xhwebsite.com,xhwide1.com##+js(set, window.wio-ypopunder.includeFilter, '')
 ! https://github.com/uBlockOrigin/uAssets/issues/9799
 ! https://github.com/AdguardTeam/AdguardFilters/issues/102311
 xhwide1.com##.wio-xspl-adshare
@@ -5014,7 +5010,7 @@ crazyshit.com##+js(acis, jQuery, document.cookie)
 ||crazyshit.com/aff/$frame
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1982
-strikeout.*##+js(aeld, , break;case $.)
+strikeout.*##+js(acis, parseInt, break;case $.)
 strikeout.*##+js(nowoif, |)
 strikeout.*##.position-absolute:style(opacity: 0 !important;)
 strikeout.*##.d-none.d-lg-block.col-lg-3
@@ -5090,8 +5086,6 @@ btc-echo.de##.elementor-row:has-text([Anzeige])
 ||amazonaws.com/homad-global-configs.schneevonmorgen.com/global_config.json$xhr,redirect=nooptext,domain=fitforfun.de|golem.de|n-tv.de|wetter.de
 ||amazonaws.com/homad-global-configs-eu-fra.schneevonmorgen.com/global_config.json$xhr,redirect=nooptext,domain=desired.de
 !#endif
-desired.de##+js(no-fetch-if, damoh.desired.de)
-fitforfun.de##+js(no-fetch-if, damoh.fitforfun.de)
 n-tv.de##+js(set, Object.prototype.adReinsertion, noopFunc)
 brigitte.de,stern.de##+js(set, Object.prototype.disableAds, true)
 wetter.de##+js(no-xhr-if, homad-global-configs)
@@ -11153,7 +11147,7 @@ loverscum.com##+js(nostif, nextFunction, 250)
 @@||loverscum.com^$ghide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/10420
-atomohd.net##+js(acis, parseInt, break;case $.)
+atomohd.*##+js(acis, parseInt, break;case $.)
 atomixhq.*,pctfenix.*,pctnew.*##^script:has-text(break;case $.)
 pctfenix.*,pctnew.*##+js(acis, I833)
 atomixhq.*,pctfenix.*,pctnew.*##+js(aeld, , break;case $.)
@@ -16474,7 +16468,6 @@ gmx.*,web.de##+js(aeld, timeupdate)
 !#if env_firefox
 @@||akamaiedge.net^$media,domain=gmx.at|gmx.ch|gmx.net|web.de
 !#endif
-giga.de##+js(no-fetch-if, damoh)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/6545
 tv2.no##+js(json-prune, enabled, testhide)
@@ -18889,6 +18882,7 @@ atdhe.*###bannerInCenter
 @@||scaleya.com^$ghide
 
 ! https://github.com/uBlockOrigin/uAssets/issues/10166
+files.im##+js(acis, decodeURI, decodeURIComponent)
 files.im##+js(aopr, absda)
 files.im##+js(nowoif)
 files.im##+js(acis, parseInt, break;case $.)
