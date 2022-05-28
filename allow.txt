@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: 5XhtBmw+YZnjnVbD1705Lw
+! Checksum: tMPNPYfYL+ll2FIEhbq7Og
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-05-28 09:51:03（北京时间） 
-! Total count: 19490
+! Version: 2022-05-28 16:29:38（北京时间） 
+! Total count: 19487
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -652,7 +652,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgirt.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgy.svc/*
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -15495,7 +15495,6 @@
 @@||serialwale.com^$generichide
 @@||serialy.bombuj.tv^$ghide
 @@||series-d.com^$ghide
-@@||seriesclubs.com/wp-content/plugins/better-adsmanager/includes/libs/better-framework/assets/fonts/$font
 @@||seriesynovelas.online^$ghide
 @@||seriesytv.tv^$ghide
 @@||seriousdeals.net/intermission/loadTargetUrl$xmlhttprequest
@@ -15960,7 +15959,6 @@
 @@||softpedia-static.com/images/*-Google-plus-$image,domain=softpedia.com
 @@||software-on.com/*/advertising.js$script,1p
 @@||software-on.com/wp-content/plugins/angwp2/assets/dev/js/advertising.js
-@@||software-on.com/wp-content/plugins/better-adsmanager/js/advertising.min.js
 @@||software-on.com^$generichide
 @@||software-on.com^$ghide
 @@||softwarebrother.com^$generichide
@@ -18935,7 +18933,6 @@
 @@||wowescape.com^$ghide
 @@||wowsai.com/data/files/ad/
 @@||woxikon.de^$ghide
-@@||wp-content.hackintosh.computer/plugins/better-adsmanager/js/advertising.min.js$domain=hackintosh.computer
 @@||wp.com/_static/*/gaAddons.js
 @@||wp.com/animetrick.com/wp-content/uploads/$image,domain=animetrick.com
 @@||wp.com/jaiminisbox.com/reader/content/$image,domain=kissmanga.com

@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205270223
+! Version: 202205280219
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41607
+! Lenth = 41620
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2622,7 +2622,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /email_open_log_
 /embed-log.js
 /emimp/*$image
-/emirates.com\/.*\/[A-Za-z0-9]{4,}$/$domain=emirates.com
+/emirates\.com\/([A-Za-z0-9]+\/){4,}[A-Za-z0-9]{4,}$/$domain=emirates.com
 /emos2-$script
 /emos2.js$~xmlhttprequest
 /empty-1px-gif;
@@ -4722,6 +4722,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /sdctag.
 /sdctag1.js
 /sdctag2.js
+/sdk/impressions
 /sdp-tagcollector.
 /sdxp1/dru4/meta?_hc=
 /search-cookie.aspx?$image
@@ -6518,6 +6519,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.nyda.pro^$websocket
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.taboola.com^$domain=samsung.com|thestartmagazine.com
+@@||apikey.wrld3d.com/generate_204/$xmlhttprequest,domain=maps.wrld3d.com
 @@||app-sjf.marketo.com^$domain=live.altium.com
 @@||app.clarity.so^$~third-party
 @@||appapi.inspsearchapi.com^$domain=search.pch.com
@@ -7454,6 +7456,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com
 @@||googletagmanager.com/gtag/js$script,domain=radiosarajevo.ba
 @@||googletagmanager.com/gtag/js$script,domain=timparty.tim.it
+@@||googletagmanager.com/gtag/js$script,domain=toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=xl-bygg.no
 @@||googletagmanager.com/gtag/js?id=$domain=autofaucet.dutchycorp.space
 @@||googletagmanager.com/gtag/js?id=$domain=chainreactioncycles.com
@@ -7473,6 +7476,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=argeweb.nl
 @@||googletagmanager.com/gtm.js$domain=ask.com
 @@||googletagmanager.com/gtm.js$domain=askona.ru
+@@||googletagmanager.com/gtm.js$domain=beleuchtung.de
 @@||googletagmanager.com/gtm.js$domain=benesse-style-care.co.jp
 @@||googletagmanager.com/gtm.js$domain=besplatka.ua
 @@||googletagmanager.com/gtm.js$domain=besplatka.ua|cdek.ru|glamusha.ru|rustih.ru|sportmaster.ru|teddyfood.com
@@ -9171,6 +9175,7 @@ link.gmapp*.net$image
 list-manage.com/track$image
 lurkmo.re,lurkmore.to###p-counters
 luxhard.com#?##sidebar-primary > .widget-container:has(a[href^="https://metrika.yandex.ru/stat/"])
+m.card-gorilla.com,pindirectshop.com,dongbanmall.com#%#//scriptlet("set-constant", "kakaoPixel", "undefined")
 m.crank-in.net#?#div[id^="_popIn_trend_ranking"]:upward(1)
 m.lenta.ru##.b-footer_counters
 m24.ru##.b-counters > ul
@@ -13633,6 +13638,7 @@ znak.com##.relap
 ||bidsimulator.com^$third-party
 ||bidswitch.net^
 ||bidswitch.net^$third-party
+||bigbrain.me^$third-party
 ||bigcattracks.com^$third-party
 ||bigdata.aspiresys.com^
 ||bigdata.riamedia.com.ua^$third-party
@@ -19733,6 +19739,7 @@ znak.com##.relap
 ||fpa-events.parse.ly^
 ||fpa-events.slate.com^
 ||fpaux.net^
+||fpavx.net^
 ||fpaxu.net^
 ||fpb8.esce.fr^
 ||fpc.acponline.org^
@@ -21088,6 +21095,7 @@ znak.com##.relap
 ||hearstmags.com^*/hdm-lib_hearstuser_proxy.html$third-party
 ||heartbeats.prd.data.s.joyn.de^
 ||hearthorn.com^$third-party
+||heatmap.emma.tools^
 ||heatmap.it^$third-party
 ||heatmap.services^$third-party
 ||heavyplayground.com^
@@ -28132,6 +28140,7 @@ znak.com##.relap
 ||pan.baidu.com/pcloud/counter/refreshcount?
 ||pan.baidu.com/recent/report?
 ||pan.render.com^
+||panda.kasika.io^$third-party
 ||panda.moritz-petersen.de^
 ||pandanetwork.club/le/in.php^$third-party
 ||pandg.tapad.com^
@@ -31794,6 +31803,7 @@ znak.com##.relap
 ||shrinktheweb.com^$third-party
 ||shroughtened.com^$third-party
 ||shtptt.cupshe.com^
+||shtrack.kingsoft.jp^
 ||shufoo.net/log/
 ||shutseashore.com^
 ||shutseashore.com^$third-party
@@ -34808,6 +34818,7 @@ znak.com##.relap
 ||static.yandex.net/browser-updater/stripe/script.js
 ||static1.dmcdn.net/js/cpe/cpeEvent.min.js
 ||static1.dmcdn.net/js/cpe/cpeEventTracking.min.js
+||static1.dmcdn.net/playerv5/dmp.pes_pip_tracking.*.js
 ||staticiv.com^$third-party
 ||statics.itc.cn^*/spm.js$script,domain=sohu.com
 ||staticsfs.host^$third-party
@@ -37718,6 +37729,7 @@ znak.com##.relap
 ||track-re01.com^$third-party
 ||track-server-100.com^$third-party
 ||track-srv.vietnamnet.vn^
+||track-visit.monday.com^
 ||track-web.net^$third-party
 ||track.*.roku.com^
 ||track.91app.io^
@@ -39478,6 +39490,7 @@ znak.com##.relap
 ||venturify.at/pixel/
 ||venusgloria.com^
 ||venusgloria.com^$third-party
+||venusrevival.com^
 ||veoci.actonservice.com^
 ||veoxa.com/get_trackingcode.
 ||vepxl1.net^$third-party
