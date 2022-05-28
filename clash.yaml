@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220528003401
+#VER=20220528095042
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=98503
+#TOTAL_LINES=98511
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -24536,6 +24536,7 @@ payload:
   - '+.dh54wf.xyz'
   - '+.dh956.com'
   - '+.dhads.net'
+  - '+.dhaheihfgiijeahhgcc.ru'
   - '+.dhaof.com'
   - '+.dhappeasesem.site'
   - '+.dhb8psqhvz9a.com'
@@ -32811,6 +32812,7 @@ payload:
   - '+.fsyc.xyz'
   - '+.image.fsyule.net'
   - '+.fsyzcs.com'
+  - '+.fszcxxzx.com'
   - '+.fszhxd.com'
   - '+.fsznrodyocq.com'
   - '+.ft76531.com'
@@ -43576,6 +43578,7 @@ payload:
   - '+.jinshagt222.com'
   - '+.jinshanju.com'
   - '+.jinshasi.cn'
+  - '+.jinshengkeji.vip'
   - '+.jinshenglong.cn'
   - '+.jinshzx.com'
   - '+.321.jintang114.org'
@@ -44944,6 +44947,7 @@ payload:
   - '+.kaseine.info'
   - '+.kasheglesy.pro'
   - '+.info.kashiwabara.co.jp'
+  - '+.panda.kasika.io'
   - '+.counter.kaspersky.com'
   - '+.tr1.kaspersky.com'
   - '+.tr2.kaspersky.com'
@@ -45173,8 +45177,8 @@ payload:
   - '+.go.kendrixmedia.jp'
   - '+.kenduktur.com'
   - '+.kenfeeask.com'
-  - '+.jsstore.kenh14.vn'
   - '+.s.kenh14.vn'
+  - '+.jsstore.kenh14.vn'
   - '+.kenizg.com'
   - '+.a8clk.kenkoukazoku.co.jp'
   - '+.whitefish.kenku.fm'
@@ -45540,6 +45544,7 @@ payload:
   - '+.cloudservice24.kingsoft-office-service.com'
   - '+.rating6.kingsoft-office-service.com'
   - '+.cloudservice22.kingsoft-office-service.com'
+  - '+.shtrack.kingsoft.jp'
   - '+.kingspalmhomes.com'
   - '+.apac.kingston.com'
   - '+.advisers.kingstonsmith.co.uk'
@@ -50079,6 +50084,7 @@ payload:
   - '+.madisonlogic.com'
   - '+.info.madisonrealtycapital.com'
   - '+.madkudu.com'
+  - '+.madlineg.com'
   - '+.madmini.com'
   - '+.madnet.ru'
   - '+.data.madovergames.com'
@@ -63169,6 +63175,7 @@ payload:
   - '+.pourtougal.fr'
   - '+.qontent.pouvideo.cc'
   - '+.tontent.pouvideo.cc'
+  - '+.pouyao.com'
   - '+.povapeba.xyz'
   - '+.b.povarenok.ru'
   - '+.engage.poverty-action.org'
@@ -67775,6 +67782,7 @@ payload:
   - '+.info.rfsworld.com'
   - '+.rftqvbgisqke.com'
   - '+.marketing.rfxcel.com'
+  - '+.rfypebzjtm.online'
   - '+.rfyqtv2.com'
   - '+.rg-be.ru'
   - '+.rgadvert.com'
