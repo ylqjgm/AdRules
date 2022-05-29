@@ -530,8 +530,18 @@ facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.eg
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##div[id^=hyperfeed_story_id_]:has(span[data-ft="{\"tn\":\"j\"}"])
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##.pagelet-group .pagelet:has(a:has-text(/Sponsored|Create ad|Crear un anuncio|Publicidad/))
 
+! mail.yahoo.com stuff
 ! This removes blank space the right-hand side
 mail.yahoo.com###shellcontent:style(right: 0px !important;)
+! https://github.com/gorhill/uBlock/issues/2712
+mail.yahoo.com##iframe[src*="yimg.com/rq/darla/"]
+! https://github.com/jspenguin2017/uBlockProtector/issues/889
+mail.yahoo.com##div[aria-describedby="adblock-upsell-description"]
+! https://github.com/uBlockOrigin/uAssets/issues/8038
+mail.yahoo.com##.ab_C.I_Zjpytw:has-text(blocker)
+mail.yahoo.com##div#modal-outer[aria-labelledby="adblock-unblock-cue"]
+! https://github.com/uBlockOrigin/uAssets/issues/13439
+mail.yahoo.com##[data-test-id="video-container"]
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=31322&start=30
 ndtv.com###ndtv-myModal
@@ -1241,9 +1251,6 @@ xhwide1.com##^script:has-text(popunder)
 !#endif
 ||go.mgdjmp.com^$3p
 
-! https://github.com/gorhill/uBlock/issues/2712
-mail.yahoo.com##iframe[src*="yimg.com/rq/darla/"]
-
 ! https://twitter.com/v_josel/status/877137961615273985
 elmundo.es##.Bloque-anuncios-shadow
 elmundo.es##.Bloque-anuncios
@@ -1876,14 +1883,14 @@ citethisforme.com##.ads_top_middle
 
 ! https://github.com/uBlockOrigin/uAssets/issues/764
 ! https://github.com/uBlockOrigin/uAssets/issues/11102
-apkmirror.com##.gooWidget:style(width:1px!important;height:1px!important;min-width:1px!important;min-height:1px)
+apkmirror.com##.gooWidget:remove()
 apkmirror.com#@#.gooWidget
 
 apkmirror.com##+js(aost, document.querySelector, /(?=(stackDepth:3\s|stackDepth:2\s|stackDepth:4\s))(?=^(?!.*(Object|HTMLInputElement|https|Search|HTMLDocument)))/)
 apkmirror.com##+js(acis, document.querySelectorAll, style.width="100%")
 
 apkmirror.com##.downloadCountdown
-apkmirror.com##.ains
+apkmirror.com##.ains:remove()
 apkmirror.com##.OUTBRAIN
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=38653
@@ -5326,9 +5333,6 @@ itv.com##+js(nowoif)
 ||toots-a.akamaihd.net/priority/*$media,redirect=noopmp4-1s,domain=itv.com
 itv.com##.stage__upsell-button
 itv.com##.seek-bar__ad
-
-! https://github.com/jspenguin2017/uBlockProtector/issues/889
-mail.yahoo.com##div[aria-describedby="adblock-upsell-description"]
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2198
 ! https://github.com/uBlockOrigin/uAssets/issues/2198#issuecomment-478436892
