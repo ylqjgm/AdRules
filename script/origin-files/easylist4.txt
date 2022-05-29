@@ -1,15 +1,15 @@
 [Adblock Plus 3.0]
-! Checksum: r32Xg1PvctcF2yJ303H6ag
+! Checksum: 88kR8x02XmgERh8EYSF8nA
 ! Title: My AdFilters（for PC）
 ! Expires: 2 hours
-! Version: 202205282334
-! Last Modified: 2022年05月28日 23:34
+! Version: 202205290732
+! Last Modified: 2022年05月29日 07:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
-! Total count: 74102
+! Total count: 74104
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -18800,7 +18800,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googleoptimize.com/optimize.js$script,domain=wallapop.com
 @@||googlesyndication.com/simgad/$image,domain=pccomponentes.com
 @@||googletagmanager.com/gtag/js$script,domain=dholic.co.jp
-@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com
+@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=radiosarajevo.ba
 @@||googletagmanager.com/gtag/js$script,domain=timparty.tim.it
 @@||googletagmanager.com/gtag/js$script,domain=xl-bygg.no
@@ -27063,6 +27063,7 @@ fmovies.app##+js(no-setTimeout-if, et(e)
 fmovies.ps,movies2watch.tv,moviesjoy.to,myflixer.to,myflixertv.to###gift-middle
 fmovies.to,vizcloud.*,mcloud.to,vizcloud2.*,vidstreamz.online###player-wrapper > #player ~ div[style^="position: absolute;"]
 fmovies.to,vizcloud.*,mcloud.to,vizcloud2.*,vidstreamz.online##+js(remove-attr, data-ad-img|data-ad-target, #player-wrapper)
+fmovies2.cx,modsfire.com,atomohd.*,ouo.press,yugen.to,pelisplus2.io,movies7.to,buffstreams.*,apkmody.io,mycima.cloud,couchtuner.show,kimoitv.com,gdtot.*,cuevanahd.net,anavidz.com,2embed.ru,armagedomfilmes.top,movieskafanda.xyz,seriesgratis.biz,streamingcommunity.*,askflix.org,s.to,atomixhq.*,anitube.*,ymovies.to,manhuascan.*,dembed1.com,file4go.net,file4go.com,hothit.me,daddylive.eu,sflix.to,animesanka.*,cima4u.*,shrink.*,divicast.com,manhwa68.com,filma24.*,mp3yeni.org,upload-4ever.com,futebolplayhd.com,witanime.com,filmeseries.top,futemax.gratis,thetodaypost.com,hentaizm.fun,hitmovies4u.com,embedflix.net,moviesjoy.*,animespank.com,hhdmovies.*,short.katflys.com,hindilinks4u.*,topflix.*,flixtor.gg,tutele.sx,upvid.*,mangas-raw.com,bbb.fm,clipconverter.cc,megafilmeshd20.pro,watchseries.*,animesonline.cz,superflix.*,fembed.cloud,vizer.vip,kick4ss.com,jpscan-vf.com,rawkuma.com,pobreflix.top,losmovies.*,123movieshub.*,seriesflix.top,gogoanime.fi,intereseducation.com,vizer.re,123movies-official.site,querofilmehd.*,gogoanime.gg,animixplay.to,dood.*,anime4up.*,multicanais.tv,watchmovie.*,myflixer.*,pahe.li,filmyzilla.autos,megafilmeseseriesonline.com##+js(abort-current-script, document.createElement, break;case)
 fmoviesto.cc##+js(abort-on-property-read, Object.prototype.initBrowserSession)
 fmoviesto.cc##+js(json-prune, *, bannerId)
 fmoviesto.cc##+js(json-prune, ads)
@@ -27242,6 +27243,7 @@ freebusinessapps.net##div[data-ad-slot]
 freecodecamp.cn,freecodecamp.one#@#.btn-social
 freecodezilla.net,surfsees.com##+js(addEventListener-defuser, DOMContentLoaded, adsbygoogle.js)
 freecomiconline.me,lordmanga.com,mangahentai.me,manytoon.com,readfreecomics.com##.c-top-sidebar
+freeconvert.com##.ads-in-page
 freecourselab.com##.adsbygoogle
 freecoursesite.com##+js(no-setTimeout-if, ()=>this.display())
 freecoursesite.com##.adsbygoogle
@@ -31057,7 +31059,6 @@ moddedguru.com##+js(remove-class, advertise, body.advertise)
 moddedguru.com#@#.advertise
 moddingzone.in##+js(no-fetch-if, pagead2.googlesyndication.com)
 modelhorseblab.com#@#.ad_global_header
-modsfire.com,atomohd.*,ouo.press,yugen.to,pelisplus2.io,movies7.to,buffstreams.*,apkmody.io,mycima.cloud,couchtuner.show,kimoitv.com,gdtot.*,cuevanahd.net,anavidz.com,2embed.ru,armagedomfilmes.top,movieskafanda.xyz,seriesgratis.biz,streamingcommunity.*,askflix.org,s.to,atomixhq.*,anitube.*,ymovies.to,manhuascan.*,dembed1.com,file4go.net,file4go.com,hothit.me,daddylive.eu,sflix.to,animesanka.*,cima4u.*,shrink.*,divicast.com,manhwa68.com,filma24.*,mp3yeni.org,upload-4ever.com,futebolplayhd.com,witanime.com,filmeseries.top,futemax.gratis,thetodaypost.com,hentaizm.fun,hitmovies4u.com,embedflix.net,moviesjoy.*,animespank.com,hhdmovies.*,short.katflys.com,hindilinks4u.*,topflix.*,flixtor.gg,tutele.sx,upvid.*,mangas-raw.com,bbb.fm,clipconverter.cc,megafilmeshd20.pro,watchseries.*,animesonline.cz,superflix.*,fembed.cloud,vizer.vip,kick4ss.com,jpscan-vf.com,rawkuma.com,pobreflix.top,losmovies.*,123movieshub.*,seriesflix.top,gogoanime.fi,intereseducation.com,vizer.re,123movies-official.site,querofilmehd.*,gogoanime.gg,animixplay.to,dood.*,anime4up.*,multicanais.tv,watchmovie.*,myflixer.*,pahe.li,filmyzilla.autos,megafilmeseseriesonline.com##+js(abort-current-script, document.createElement, break;case)
 modthesims.info###browse-content > div > small
 modthesims.info###pagenavigation > div > small
 moe.best###rcm_sidebar
@@ -34794,8 +34795,6 @@ taming.io###di-ai-left
 tampermonkey.net##.ad-changelog-block
 tampermonkey.net##[src^="data:image"]
 tampermonkey.net##a[rel="external noopener nofollow"] > img[src^="data:image/"]
-tamrieltradecentre.com##+js(no-fetch-if, doubleclick.net)
-tamrieltradecentre.com#$#.adsbygoogle { height: 1px !important; width: 1px !important; }
 tamrieltradecentre.com#@#.adsbygoogle
 tangdoucdn.com#@#.video-ad
 tanx.com
@@ -59915,6 +59914,7 @@ zzbaike.com###topnav
 ||pan.baidu.com/rest/*/adx?$image
 ||pan.render.com^
 ||panchaxumbilic.com^
+||panda.kasika.io^
 ||pandasloveforlife.com^
 ||pandlewombier.com^
 ||panel-cn.com^
@@ -67970,6 +67970,7 @@ zzbaike.com###topnav
 ||telemetrics.klaviyo.com^
 ||telemetry.adobe.io^
 ||telemetry.api.playstation.com^
+||telemetry.firez.one^
 ||telemetry.jivosite.com^
 ||telemetry.phenixrts.com^
 ||telemetry.reembed.com^
@@ -71018,6 +71019,7 @@ zzbaike.com###topnav
 ||vkkdkvydwrwr.com^
 ||vknalqcnfxu.com^
 ||vkprime.com/player*/vast.js
+||vkrfnahvlk.com^
 ||vkspeed.com/player*/vast.js
 ||vlion.cn^$third-party
 ||vliplatform.com^$third-party

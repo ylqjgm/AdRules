@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UxAnjCgBmjkxTizRL0WeNQ
+! Checksum: +PVeP09qBarHfe3wQl1mwg
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202205281533
-! Last modified: 2022-05-28 15:33 UTC
+! Version: 202205290133
+! Last modified: 2022-05-29 01:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18145,6 +18145,7 @@ _800x80_
 ##.ad-img
 ##.ad-img300X250
 ##.ad-in-300x250
+##.ad-in-artilce
 ##.ad-in-content
 ##.ad-in-content-300
 ##.ad-in-post
@@ -37255,6 +37256,7 @@ tf2r.com#@#.adverts
 ||ejoonsoo.net^
 ||ejurzsax.com^
 ||ekansovi.com^
+||ekareqif.xyz^
 ||ekexsztsgm.com^
 ||ekfottltamc.com^
 ||ekmas.com^
@@ -37645,6 +37647,7 @@ tf2r.com#@#.adverts
 ||ezeraf.com^
 ||ezexfzek.com^
 ||ezhefg9gbhgh10.com^
+||ezijyfiq.xyz^
 ||ezojs.com^
 ||ezpayments.org^
 ||ezrvmxshalr.com^
@@ -38092,7 +38095,6 @@ tf2r.com#@#.adverts
 ||forepresently.com^
 ||forex-affiliate.net^
 ||forexplmdb.com^
-||forexprostools.com^
 ||forexyard.com^
 ||forflygonom.com^
 ||forfrogadiertor.com^
@@ -40801,6 +40803,7 @@ tf2r.com#@#.adverts
 ||legalevaluate.com^
 ||legalledgtjuj.club^
 ||legcatastrophetransmitted.com^
+||legcgjldeka.com^
 ||legendfrecklessfreckless.com^
 ||legime.com^
 ||leginsi2leopard1oviy1hf.com^
@@ -43119,6 +43122,7 @@ tf2r.com#@#.adverts
 ||paginx.com^
 ||pagne4cham4hrobl.com^
 ||paht.tech^
+||pahthf.tech^
 ||pahtwt.tech^
 ||pahtzh.tech^
 ||paid.outbrain.com^
@@ -50051,6 +50055,7 @@ tf2r.com#@#.adverts
 ||focusde.info^$third-party
 ||foremedia.net^$third-party
 ||forex-affiliate.com^$third-party
+||forexprostools.com^$third-party
 ||freegamespub.com^$third-party
 ||freerotator.com^$third-party
 ||friendlyduck.com^$third-party
@@ -55184,6 +55189,7 @@ tf2r.com#@#.adverts
 ||x.castanet.net^
 ||xbox-hq.com/html/images/banners/
 ||xinhuanet.com/s?
+||xtb.com^$third-party,domain=cool-etv.net
 ||yahoo.com/sdarla/
 ||yellowpages.com.lb/uploaded/banners/
 ||yimg.com/rq/darla/$domain=yahoo.com
@@ -55598,6 +55604,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id​|adblockstreamtap
 ||badjojo.com/d5
 ||bangbros-free.com/i2/
 ||banners.cams.com^
+||bdsmstreak.com/vast
 ||bdsmx.tube/ps/37pg3s.js
 ||bellesa.co/api/rest/v1/campaigns?
 ||between-legs.com/banners2/
@@ -57190,7 +57197,7 @@ download.cnet.com##.c-pageFrontDoor_adWrapper
 download.cnet.com##.c-pageProductDetail-sidebarAd
 download.cnet.com##.c-pageProductDetail_productAlternativeAd
 globalnews.ca##.c-stickyRail
-mangarockteam.com##.c-top-second-sidebar
+mangarockteam.com,nitroscans.com##.c-top-second-sidebar
 freecomiconline.me,lordmanga.com,mangahentai.me,manytoon.com,readfreecomics.com##.c-top-sidebar
 softarchive.is##.c-un-link
 mangareader.net##.c10
@@ -58140,7 +58147,6 @@ qrobe.it##.qad
 revolution935.com##.qt-sponsor
 modernghana.com##.quikr_banner
 surfline.com##.quiver-google-dfp
-abetterrouteplanner.com##.r-145dblm.r-nc4a30
 tgstat.com##.r1-aors
 decoist.com##.r300
 periscopepost.com##.r72890
@@ -60844,6 +60850,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ebaykorea.com/ADS/$image,domain=gmarket.co.kr
 @@||fatimalife.com.br/api/v1/ad/$~third-party
 @@||filmon.com/ad/affiliateimages/banner-250x350.png
+@@||forexprostools.com^$subdocument,domain=fx-rashinban.com
 @@||freeride.se/img/admarket/$~third-party
 @@||friends.ponta.jp/app/assets/images/$~third-party
 @@||fwmrm.net/ad/g/$script,domain=viafree.se
@@ -74621,6 +74628,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d36upaw912d02q.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
 ||d3bj8nkfly20uo.cloudfront.net^
+||d3bo67muzbfgtl.cloudfront.net^
 ||d3cgm8py10hi0z.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
 ||d3hb14vkzrxvla.cloudfront.net/health-check
@@ -75383,6 +75391,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||moshimo.com^*/impression?
 ||omt.shinobi.jp^
 ||otoshiana.com/ufo/
+||panda.kasika.io^
 ||pia.jp/akam/$script
 ||pia.jp/images/pt.gif$image
 ||popin.cc/td_js_
@@ -76608,6 +76617,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ted.dailymail.co.uk^
 ||telemetry.adobe.io^
 ||telemetry.api.playstation.com^
+||telemetry.firez.one^
 ||telemetry.tradingview.com^
 ||tellerreport.com/react/pixel
 ||terabox.com/abdr?
@@ -87643,7 +87653,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/analytics.js$domain=beinsports.com|brooklinen.com|healthrangerstore.com|jackbox.tv|k2radio.com|koel.com|kowb1290.com|stressless.com|tracking.narvar.com|westernunion.com
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googleoptimize.com/optimize.js$script,domain=inquirer.com|tentree.ca
-@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com
+@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
 @@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
@@ -117668,6 +117678,7 @@ _subscribers_newsletters/
 ###pasek_ciasteczka
 ###pasek_komunikat_cookie
 ###pastilla-cookie
+###pax-cookies-message-container
 ###pb-cookies-policy-banner
 ###pbAcceptCookies
 ###pb_cookie_message
@@ -117870,6 +117881,7 @@ _subscribers_newsletters/
 ###ppCookies
 ###pp_cookie
 ###pp_cookielaw
+###ppa-cookies
 ###ppms_cm_bar_overlay
 ###ppms_cm_popup_overlay
 ###praivacy-cookie-notice
@@ -136866,6 +136878,7 @@ devonlive.com##.pwa-prompt
 sdrplugins.com##.px_-h-auto.px_-z-index-10000
 decrypt.co##.py-3.max-w-full
 picarto.tv##.qHsVk
+abetterrouteplanner.com##.r-145dblm.r-nc4a30
 support.sia.tech##.r-l13dpy
 niceareas.co.uk##.rayAlertBox
 blacklimba.com##.recommendation-modal__backdrop
@@ -138530,6 +138543,7 @@ capital.ro,evz.ro##.newsletter
 bucataras.ro##.nl-content
 libertatea.ro##.nl-ntf-wrapper
 bucataras.ro##.sidebar-nl
+kudika.ro##.subscribers-area
 ! Russian
 championat.com###subscription_block
 aif.ru###subscription_item_widget
