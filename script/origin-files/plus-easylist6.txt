@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205280219
+! Version: 202205290344
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41620
+! Lenth = 41629
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7076,6 +7076,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||events-collector.spot.im/api/$xmlhttprequest
 @@||events-collector.spot.im/api/$xmlhttprequest,other,domain=rt.com
 @@||events.jianshu.io^*/sa.gif
+@@||events.raceresult.com^$~third-party,xmlhttprequest
 @@||everestjs.net/static/st.js$domain=ford.com
 @@||evernote.com^$domain=pioclpoplcdbaefihamjohnefbikjilc
 @@||evernote.com^*/google-analytics-util.js
@@ -7453,7 +7454,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js$domain=srek.net
 @@||googletagmanager.com/gtag/js$domain=xl-bygg.no
 @@||googletagmanager.com/gtag/js$script,domain=dholic.co.jp
-@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com
+@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=radiosarajevo.ba
 @@||googletagmanager.com/gtag/js$script,domain=timparty.tim.it
 @@||googletagmanager.com/gtag/js$script,domain=toptal.com
@@ -9436,6 +9437,7 @@ znak.com##.relap
 ||220-volt.ru^$cookie=advref
 ||220-volt.ru^$cookie=advref_first
 ||220-volt.ru^$cookie=telemetryToken
+||2222.ro^$third-party
 ||247-inc.com^$third-party
 ||247-inc.net^$third-party
 ||247ilabs.com^$third-party
@@ -16672,6 +16674,7 @@ znak.com##.relap
 ||d3alqb8vzo7fun.cloudfront.net^
 ||d3avqv6zaxegeu.cloudfront.net^
 ||d3bj8nkfly20uo.cloudfront.net^
+||d3bo67muzbfgtl.cloudfront.net^
 ||d3c3cq33003psk.cloudfront.net^
 ||d3cgm8py10hi0z.cloudfront.net^
 ||d3cxv97fi8q177.cloudfront.net^
@@ -20514,6 +20517,7 @@ znak.com##.relap
 ||go.marfeel.com^
 ||go.matthewsautomation.com^
 ||go.matthewsmarking.com^
+||go.mgdjmp.com/eye.gif
 ||go.mitchell1.com^
 ||go.mktgcampaigns.com^
 ||go.morningstar.com.au^
@@ -20559,7 +20563,7 @@ znak.com##.relap
 ||go.unitusccu.com^
 ||go.visma.com^
 ||go.wtcmachinery.com^
-||go.xhamster.com/eye.gif
+||go.xhamster*.*/eye.gif
 ||go.zendesk.com^
 ||go.zic.co.nz^
 ||go2.mathworks.com^
@@ -28140,6 +28144,7 @@ znak.com##.relap
 ||pan.baidu.com/pcloud/counter/refreshcount?
 ||pan.baidu.com/recent/report?
 ||pan.render.com^
+||panda.kasika.io^
 ||panda.kasika.io^$third-party
 ||panda.moritz-petersen.de^
 ||pandanetwork.club/le/in.php^$third-party
@@ -31143,6 +31148,7 @@ znak.com##.relap
 ||sdc2.credit-suisse.com^
 ||sdcs.felissimo.co.jp^
 ||sddan.com^$third-party
+||sdiapi.com/reporter/
 ||sdjthl.tvguide.dk^
 ||sdk-api-v1.singular.net^
 ||sdk-api.yozio.com/?os
@@ -36448,6 +36454,7 @@ znak.com##.relap
 ||tapad.com^$third-party
 ||tapdb.com^$third-party
 ||tapdb.net^$third-party
+||tapestry.tapad.com^
 ||tapfiliate.com^$third-party
 ||tapir.analyse.org^
 ||tapjoy.com^$third-party
@@ -36640,6 +36647,7 @@ znak.com##.relap
 ||telemetry.art19.com^
 ||telemetry.battle.net^
 ||telemetry.chrobinson.com^
+||telemetry.firez.one^
 ||telemetry.goodlifefitness.com^
 ||telemetry.jivosite.com^
 ||telemetry.malwarebytes.com^
@@ -38901,6 +38909,7 @@ znak.com##.relap
 ||trust.titanhq.com^
 ||trust.zone/api_ip_info.php?$third-party
 ||trustaffs.com/api_ip_info.php?
+||trustarc.com/cap?
 ||trustarc.com/log?
 ||trustarc.mgr.consensu.org/get?
 ||trustcommander.net/iab-tcfapi/

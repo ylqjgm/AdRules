@@ -63,6 +63,7 @@
 @@||1plus1.ua^$stealth,domain=1plus1.ua
 @@||1sapp.com^
 @@||1trackapp.com^$stealth,xmlhttprequest,domain=1track.ru
+@@||1trackapp.com^$stealth,xmlhttprequest,domain=1track.ru
 @@||2doc.nl^*/vpro-analytics/Analytics.js$xmlhttprequest
 @@||2o-my.com^$generichide
 @@||2shorte.com^$generichide
@@ -2194,6 +2195,7 @@
 @@||evanescentedge.com^$script,xmlhttprequest
 @@||evbstatic.com^*/cookie_header.js
 @@||eveningtimes.co.uk^$generichide
+@@||events.raceresult.com^$~third-party,xmlhttprequest
 @@||evisaforms.state.gov^$extension
 @@||evisaforms.state.gov^$stealth
 @@||evisaforms.state.gov^$stealth
