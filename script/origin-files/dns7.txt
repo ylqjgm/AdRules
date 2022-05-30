@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205290930
+! Version: 202205300141
 ! Title: EasyPrivacy
-! Last modified: 29 May 2022 09:30 UTC
+! Last modified: 30 May 2022 01:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -983,6 +983,7 @@
 /beacon/page?
 /beacon/perf
 /beacon/portal-lite?
+/beacon/receive
 /beacon/stats
 /beacon/timing?
 /beacon/track/*
@@ -8217,6 +8218,7 @@ _mongo_stats/
 ||stroeerdigitalmedia.de^$third-party
 ||strossle.it^$third-party
 ||strs.jp^$third-party
+||studiostack.com^$third-party
 ||sub2tech.com^$third-party
 ||submitnet.net^$third-party
 ||successfultogether.co.uk^$third-party
@@ -9191,6 +9193,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beastbeef.com^
 ||beautifulhobbies.com^
 ||bedsberry.com^
+||beginnerpancake.com^
 ||begintrain.com^
 ||beneficialbeef.com^
 ||benthose.com^

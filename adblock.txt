@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: FWqWuZdg9Ayx69mEUmgONQ
+! Checksum: XAKRRZAemqiKkjpdMB32cA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-05-30 00:31:19（北京时间） 
-! Total count: 92806
+! Version: 2022-05-30 10:01:55（北京时间） 
+! Total count: 92817
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -7715,6 +7715,7 @@ $removeparam=adg_id
 $removeparam=adgroup_id
 $removeparam=adgroupid
 $removeparam=adgrpid
+$removeparam=adid,domain=nikkei.co.jp
 $removeparam=adid,domain=nikkei.com
 $removeparam=adj_adgroup
 $removeparam=adj_campaign
@@ -9078,7 +9079,6 @@ $websocket,domain=pornhub.com|pornhubthbh7ap3u.onion|redtube.com|redtube.com.br|
 $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.com|povw1deo.com|powvideo.net|sleeptimer.org|sorteosrd.com|streambeam.io|szukajka.tv
 $~frame,removeparam=aff
 $~image,removeparam=itok
-$~xmlhttprequest,removeparam=/^adid=/i,domain=~finn.no|~willhaben.at|~kijiji.ca
 $~xmlhttprequest,removeparam=/^refsrc=/i
 $~xmlhttprequest,removeparam=LID
 $~xmlhttprequest,removeparam=mbid
@@ -12635,6 +12635,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /beacon/page?
 /beacon/perf
 /beacon/portal-lite?
+/beacon/receive
 /beacon/stats
 /beacon/timing?
 /beacon/track/*
@@ -16428,6 +16429,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /script/nasu.js$third-party
 /script/nbsu.js$third-party
 /script/ncsu.js$third-party
+/script/ndsu.js$third-party
 /script/nrsu.js$third-party
 /script/pixel.js
 /script/su.js$script,third-party
@@ -33784,6 +33786,7 @@ google.*##div[data-attrid="kc:/local:promotions"]
 google.*##div[jscontroller="wuEeed"]
 google.*#?##kp-wp-tab-overview > div[data-hveid]:has(> div[jsname] div[class*="__wholepage-card"] > div > div[class] div[class] > a[href^="/aclk?"])
 google.*#?##kp-wp-tab-overview > div[data-hveid]:has(> div[jsname] div[class*="__wholepage-card"] > div > div[class] div[class] > a[href^="https://www.googleadservices.com/pagead/"])
+google.*#@#a[href^="https://go.xxxjmp.com"]
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###tads[aria-label]
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk###tadsb[aria-label]
@@ -35167,6 +35170,9 @@ illink.net,turkish123.com,lookmovie.ag##+js(abort-on-property-write, zfgproxyhtt
 ilm.ee##.rekl
 ilmessaggero.it###outbrain
 ilmeteo.it##+js(set-constant, google_jobrunner, noopFunc)
+ilmeteo.it#$##banner-mnz-topleft { height: 100px !important; }
+ilmeteo.it#$#body div.fc-ab-root:not(#style_important) { display: none !important; }
+ilmeteo.it#$#body { overflow: visible !important; }
 ilovephd.com##+js(set-constant, adsbygoogle.loaded, true)
 ilpuntotecnico.com#@#.an-advert-banner
 ilpuntotecnico.com#@#.an-sponsored
@@ -41019,6 +41025,8 @@ racingtv.com##.layout__promotion
 racingtv.com,twitter.com,wral.com##.promotion
 radarbox.com##.remove-pub
 radio-new-zealand.co.nz,fmradiofree.com,canli-radyo-dinle.com,emisoras-puertorico.com,emisorascolombianas.co,internetradio-horen.de,internetradio-schweiz.ch,mytuner-radio.com,radio-ao-vivo.com,radio-australia.org,radio-belgie.be,radio-canada-online.com,radio-danmark.dk,radio-dominicana.com,radio-ecuador.org,radio-en-ligne.fr,radio-en-vivo.mx,radio-espana.es,radio-hk.com,radio-hrvatska.com,radio-italiane.it,radio-korea.com,radio-maroc.org,radio-nederland.nl,radio-norge.org,radio-osterreich.at,radio-philippines.com,radio-polska.pl,radio-singapore.com,radio-south-africa.co.za,radio-suomi.com,radio-sveriges.se,radio-thai.com,radio-ua.com,radio-uk.co.uk,radioindia.in,radioindonesia.org,radiojapan.org,radiomalaysia.org,radios-argentinas.org,radios-bolivia.com,radios-chilenas.com,radios-guatemala.com,radios-online.pt,radios-uruguay.com,radios-venezuela.com,radiosdelperu.pe,radiotaiwan.tw###team_ad
+radio.*#?##content-wrapper #home-top-stations ~ div[class] div[id^="RAD_NET_D_"]:upward(3)
+radio.*#?##headerTopBar ~ div[class]:not([id]):has(> div[class] > div[class] > div[id^="RAD_NET"])
 radio.net,notebookcheck-hu.com,notebookcheck.com,notebookcheck.net,notebookcheck.org,notebookcheck.biz,notebookcheck.it,notebookcheck.nl,notebookcheck.info,notebookcheck-tr.com,notebookcheck.se,notebookcheck-ru.com##+js(abort-on-property-read, Object.prototype.autoRecov)
 radio.yandex.by,radio.yandex.kz,radio.yandex.ru##.notify
 radionatale.com,radionorthpole.com,radiosantaclaus.com,radioamericalatina.com,radioitalianmusic.com,radioitaliacanada.com,miamibeachradio.com,radiosymphony.com,radiocountrylive.com,radioitalylive.com,radiolovelive.com,radionylive.com,radiorockon.com##+js(set-constant, adp, false)
@@ -51589,6 +51597,7 @@ zznews.cn##.ad:not([style])
 ||altervista.org/js_tags/contatore.js
 ||altervista.org/stats/
 ||altervista.org^*/tb_hits_
+||althef.com^
 ||altitude-arena.com^
 ||altopd.com^
 ||altowriestwispy.com^
@@ -53970,6 +53979,7 @@ zznews.cn##.ad:not([style])
 ||beforeitsnews.com/img/banner
 ||befuglago.live^
 ||beginnerdole.com^
+||beginnerpancake.com^
 ||begintrain.com^
 ||begun.ru^$third-party
 ||behalfplead.com^
@@ -83664,6 +83674,7 @@ zznews.cn##.ad:not([style])
 ||sttdsrewciiqq.com^
 ||stubhub.com/bfx/api/logging
 ||studiocustomers.com^$popup
+||studiostack.com^$third-party
 ||studocu.com/27m703Hm/init.js
 ||studytest.icu^
 ||stulip.org/static/js/header.js
