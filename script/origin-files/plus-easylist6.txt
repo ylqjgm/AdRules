@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205290344
+! Version: 202205300320
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41629
+! Lenth = 41632
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1791,6 +1791,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /beacon/page?
 /beacon/perf
 /beacon/portal-lite?
+/beacon/receive
 /beacon/stats
 /beacon/timing?
 /beacon/track/*
@@ -13519,6 +13520,7 @@ znak.com##.relap
 ||beencounter.com^$third-party
 ||bees.beesbeesbeesbees.com^
 ||beget.com/p$image,third-party
+||beginnerpancake.com^
 ||begintrain.com^
 ||beha.ksmobile.com^
 ||behave.noen.at^
@@ -35726,6 +35728,7 @@ znak.com##.relap
 ||stt.nimbusweb.me^
 ||stts.sgab-srfp.ch^
 ||stubhub.com/bfx/api/logging
+||studiostack.com^$third-party
 ||studocu.com/27m703Hm/init.js
 ||study.jcu.edu.au^
 ||study.vu.edu.au^
