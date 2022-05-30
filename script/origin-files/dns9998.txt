@@ -1,10 +1,15 @@
 ! Homepage: https://kbsml.com
 ! Title: adg-kall
 ! Description: Adg-kall collected on the network and I have written some rules
-! Version: 1.0.7.7
-! TimeUpdated: 2022-05-29T21:41
+! Version: 1.0.8.0
+! TimeUpdated: 2022-05-30T23:35
 ! Expires: 30 days
 !
+||aedns.weixin.qq.com^
+||aedns.weixin.qq.com/cgi-bin/default/getdns^
+wapi.cn$$script[tag-content="member_left"]
+wapi.cn##.carousel-inner
+wapi.cn##[href="https://www.wapi.cn/ip_offline.html"]
 ||p*-ad-sign.byteimg.com^
 ||mon*-misc-lf.toutiaoapi.com/monitor/appmonitor/*/settings^
 ||log*-normal-lq.toutiaoapi.com^
