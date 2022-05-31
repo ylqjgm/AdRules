@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xzekb+H+IwFZGvJt488n8w
+! Checksum: UVprOz5tWwAgwDC1C8e47A
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202205310733
-! Last modified: 2022-05-31 07:33 UTC
+! Version: 202205310933
+! Last modified: 2022-05-31 09:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -62176,7 +62176,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /bc/clk?
 /bcbot-nomin.js
 /bcn.gif?
-/bcn?
 /bcsensor.js
 /bctrackers/*
 /bdanalytics.
@@ -144191,7 +144190,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||files.bbci.co.uk^*/cookie-banner/$script,domain=bbc.co.uk
 @@||gamersgate.com/js/cookieconsent.js$script,~third-party
 @@||gazetabilgoraj.pl/wp-content/plugins/uk-cookie-consent/
-@@||gdpr-wrapper.privacymanager.io/gdpr/$script,domain=dailybuzz.nl|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|profil.at|rtvnoord.nl|verkeerplaza.nl|vesti.bg|weeronline.nl
+@@||gdpr-wrapper.privacymanager.io/gdpr/$script,xmlhttprequest,domain=dailybuzz.nl|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|profil.at|rtvnoord.nl|verkeerplaza.nl|vesti.bg|weeronline.nl
 @@||gdpr.privacymanager.io^$script,domain=dailybuzz.nl|diepresse.com|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl
 @@||geolocation.onetrust.com/cookieconsentpub/$xmlhttprequest,domain=~cbsnews.com|~cnbc.com|~gamespot.com|~metacritic.com
 @@||gizmochina.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js$~third-party
