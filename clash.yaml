@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220531234348
+#VER=20220531235511
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=96205
+#TOTAL_LINES=96206
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -62394,6 +62394,7 @@ payload:
   - '+.pdpsouthafrica.org'
   - '+.pdqgywt.cn'
   - '+.pdrfvumww.com'
+  - '+.pdrtcgfx.cn'
   - '+.pds-midea.com'
   - '+.pdsjycm.com'
   - '+.pdss.xyz'

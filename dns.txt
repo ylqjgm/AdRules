@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 4XihrWpiBxWL+uqty7lbOw
+! Checksum: Lp58PnvLSYsfaM6PfsFpuQ
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 8 Hours
 ! Description: 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyListChina、EasyList、oisd Basic、Adaway等并补充了一些规则
-! Version: 2022-05-31 23:44:07（北京时间） 
-! Total count: 96492
+! Version: 2022-05-31 23:55:31（北京时间） 
+! Total count: 96493
 *.91ivr.
 *.91wan.
 *.99g99.
@@ -62835,6 +62835,7 @@
 ||pdpsouthafrica.org^
 ||pdqgywt.cn^
 ||pdrfvumww.com^
+||pdrtcgfx.cn^
 ||pds-midea.com^
 ||pdsgaj.piquadro.com^
 ||pdsjycm.com^

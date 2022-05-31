@@ -2477,6 +2477,7 @@
 @@||fumblingform.com^$script,xmlhttprequest
 @@||fumblingselection.com^$script,xmlhttprequest
 @@||functionalcrown.com^$script,xmlhttprequest
+@@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument! AakList (Anti-Adblock Killer)
 @@||fundingchoicesmessages.google.com^$stealth,domain=stooq.pl|stooq.com
 @@||fundingchoicesmessages.google.com^$stealth,domain=stooq.pl|stooq.com
 @@||fundingchoicesmessages.google.com^$stealth,script,domain=player.addradio.de
@@ -6484,7 +6485,7 @@
 @@||zive.cz^*/advertisment.js
 @@||zjjcxy.cn^*/ad.css?$stylesheet
 @@||zjjcxy.cn^*/ad.css?$stylesheet
-@@||zlp6s.pw^$script,xmlhttprequest! AakList (Anti-Adblock Killer)
+@@||zlp6s.pw^$script,xmlhttprequest
 @@||zmtt.net^$script,domain=luoqiuzw.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 @@||zoey-deutch.us^$generichide
