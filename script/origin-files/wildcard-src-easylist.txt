@@ -63,7 +63,6 @@
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
 ||adstore-*.file.myqcloud.com^
-||adstore-index-*.file.myqcloud.com^
 ||adsview*.qq.com^
 ||adv.sec*.miui.com^
 ||adv0*.msa.cdn.mediaset.net^
@@ -355,6 +354,7 @@
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^$app=com.ruanmei.ithome
 ||sf*-scmcdn-tos.pstatp.com^
+||sf*-ttcdn-tos.pstatp.com^
 ||snowplow-collector-*.amazonaws.com^
 ||sock*-goguardian.pusher.com^
 ||ssh.*.com^*!$script,third-party
@@ -413,3 +413,6 @@
 ||xmh4*.com^
 ||ya*.dwstatic.com^
 ||ya*.dwstatic.com^
+||zhenbu*.com^$replace=/(dlads|getElementsByTagName|9d\.js|byteimg|\d+?\.vip|let\s+?UA|aliyuncs)//i
+||zhenbu*.com^$replace=/(window\.open\(\'http:\/\/789htbet\.vip\'\))//
+||zhenbu*.com^$replace=/qq\.com//

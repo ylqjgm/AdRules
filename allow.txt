@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: E4lxa8WIl1x5VmRl2j9srA
+! Checksum: 6vjV+3uT3a3peScYfFVctg
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-05-31 19:10:15（北京时间） 
-! Total count: 19518
+! Version: 2022-05-31 23:44:07（北京时间） 
+! Total count: 19523
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -259,6 +259,7 @@
 @@/adview_pic_$domain=1090ys8.com|2hanju.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
 @@/adview_pic_$domain=2hanju.com|laimanhua.com|lingjike.com|mahua.com|meiyouad.com|mh160.com|reh.tw|silisili.me|xiaoz.me|ykit.cn|zgpingshu.com
 @@/adview_pic_$domain=doutula.com|fastadmin.net|toolfk.com|xclient.info
+@@/adview_pic_$domain=fydy8.com
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
 @@/aff_c?$removeparam=/^aff_id[0-9]?=/i
@@ -423,6 +424,7 @@
 @@/key=$media,domain=ashemaletube.com
 @@/key=$media,domain=vivud.com
 @@/libs/advertisement.js$domain=catchcoin.pw|xfaucet.net|getfreebit.xyz|amber-dash.cf|getfree.co.in|starbits.io|shahinshort.tk|bagi.co.in|grandfaucet.net|harena.space|myethereumfaucet.com|konstantinova.net|gajiancoin.online|starfaucet.net|bitearns.com|cryptofreebies.info|faucex.tk|trivisna.com|nosl.juezcoin.xyz|earn-cryptolive.000webhostapp.com|earncryptosaj786.com|momofree.website|dogeatm.com|aztecafaucet.space|multifaucet.org|seg-ashort1a-ma.tk|pcmur.es|dogestar.website|tron-faucet.xyz|claimbits.io|i-bits.io|diamondfaucet.space|gobits.io|russiacoin.xyz|starsfaucet.com|lionltcfaucet.xyz|projecto2.xyz|faucet.shorterall.com|yellowfaucet.ovh|faucet.cryptourl.net|wildfaucets.ml|simplyfaucet.xyz|faucet-doge.u7u.pl
+@@/libs/advertisement.js$domain=catchcoin.pw|xfaucet.net|getfreebit.xyz|amber-dash.cf|getfree.co.in|starbits.io|shahinshort.tk|bagi.co.in|grandfaucet.net|harena.space|myethereumfaucet.com|konstantinova.net|gajiancoin.online|starfaucet.net|bitearns.com|cryptofreebies.info|faucex.tk|trivisna.com|nosl.juezcoin.xyz|earn-cryptolive.000webhostapp.com|earncryptosaj786.com|momofree.website|dogeatm.com|aztecafaucet.space|multifaucet.org|seg-ashort1a-ma.tk|pcmur.es|dogestar.website|tron-faucet.xyz|claimbits.io|i-bits.io|diamondfaucet.space|gobits.io|russiacoin.xyz|starsfaucet.com|lionltcfaucet.xyz|projecto2.xyz|faucet.shorterall.com|yellowfaucet.ovh|faucet.cryptourl.net|wildfaucets.ml|simplyfaucet.xyz|faucet-doge.u7u.pl|up-cripto.com
 @@/libs/advertisement1.js$domain=faucet.shorterall.com
 @@/linkshare/*$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
 @@/live/*.$stealth,domain=tutele.sx|futbolfullenvivo.com
@@ -471,6 +473,7 @@
 @@/scripts/ads.js|$script,~third-party,domain=fijitimes.com.fj|fijitimes.com
 @@/scripts/adv.js$domain=securenetsystems.net
 @@/securepubads.$script,other,~third-party,domain=bicycling.com|menshealth.com|prevention.com|rodale.tv|rodalesorganiclife.com|rodalewellness.com|runnersworld.com|womenshealthmag.com
+@@/sensorsdata-$domain=zkh.com
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com
 @@/setCookie?$domain=ctrip.com|ctrip.com.hk|pinyin.cn
 @@/share-sprite-$domain=askubuntu.com|mathoverflow.net|serverfault.com|stackapps.com|stackexchange.com|stackoverflow.com|superuser.com
@@ -652,7 +655,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgitorcountry.svc/*
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org^
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -8140,6 +8143,7 @@
 @@||googlecode.com/hg/icons/$image,domain=enjoyfreeware.org
 @@||googledrive.com$document
 @@||googledrivelinks.com^$ghide
+@@||googleoptimize.com/optimize.js$domain=lcwaikiki.com
 @@||googleoptimize.com/optimize.js$domain=leukerecepten.nl
 @@||googleoptimize.com/optimize.js$domain=tehnomanija.rs
 @@||googleoptimize.com/optimize.js$script,domain=inquirer.com|tentree.ca
@@ -8822,6 +8826,7 @@
 @@||hanjuwang.net^$script,~third-party
 @@||hao123img.com/resource/zt/widget/service/util/clickTrack.
 @@||haohuo.snssdk.com^
+@@||haokoubei.top/dl/rfo_v_f_pc.js
 @@||haokoubei.top/jquery/jquery-1.7.2.min.js
 @@||haoweichi.com/Public/js/ads.js
 @@||happenhistory.com^$script,xmlhttprequest
