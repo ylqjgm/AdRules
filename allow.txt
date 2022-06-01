@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: VBR2tVj2qKjsUtBBPE8lTA
+! Checksum: N6+Cj4Nj5hbA3TPiPsEk6Q
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-01 20:42:42（北京时间） 
-! Total count: 19522
+! Version: 2022-06-01 23:59:32（北京时间） 
+! Total count: 19521
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -655,7 +655,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgzebra.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgird-party
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -2202,7 +2202,6 @@
 @@||animeflv.net/redirector.php^
 @@||animeflv.ru/assets/vast/videojs.ads.min.js
 @@||animeforce.org^$generichide
-@@||animefrenzy.net^$ghide
 @@||animeheaven.eu/*/showads$script
 @@||animeku.org/play*.php?id=$stealth
 @@||animeland.me/pa.js

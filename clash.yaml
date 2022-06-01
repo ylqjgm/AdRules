@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220601204223
+#VER=20220601235909
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=95742
+#TOTAL_LINES=95749
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -17044,6 +17044,7 @@ payload:
   - '+.candlesbymadison.com'
   - '+.count.candou.com'
   - '+.candy-network.com'
+  - '+.canem-auris.com'
   - '+.canesabnormalslacken.com'
   - '+.canesvisabid.com'
   - '+.cangnews.com'
@@ -25545,6 +25546,7 @@ payload:
   - '+.dlexkxqacleb.com'
   - '+.dlfja.gdn'
   - '+.dlfvgndsdfsn.com'
+  - '+.dlhyfl.cn'
   - '+.dlhygj.com'
   - '+.dliketobe.co'
   - '+.ad.dline.com.tr'
@@ -26165,7 +26167,6 @@ payload:
   - '+.club-img.douyucdn.cn'
   - '+.cs-op.douyucdn.cn'
   - '+.dotcounter.douyucdn.cn'
-  - '+.gift.douyucdn.cn'
   - '+.rtbapi.douyucdn.cn'
   - '+.dotcounter.douyutv.com'
   - '+.info.doverpark.org.sg'
@@ -28085,6 +28086,7 @@ payload:
   - '+.ejieban.com'
   - '+.ejin56.com'
   - '+.ejiur.com'
+  - '+.ejjlrijh.com'
   - '+.ejktj.com'
   - '+.ejkwgeanhw.com'
   - '+.ejmovec.ru'
@@ -68260,6 +68262,7 @@ payload:
   - '+.gotpiu.regenbogen.com'
   - '+.content.regencyfamily.com'
   - '+.regentpantcomply.com'
+  - '+.analytics.regex101.com'
   - '+.regflow.com'
   - '+.tag.regieci.com'
   - '+.regiedepub.com'
@@ -68960,6 +68963,7 @@ payload:
   - '+.rezync.com'
   - '+.rf-arch.com'
   - '+.a8clk.rf28.com'
+  - '+.rfauvovecqlmii.com'
   - '+.go.rfcorp.com'
   - '+.rfdoqdtitb.xyz'
   - '+.rfese.com'
@@ -69175,6 +69179,7 @@ payload:
   - '+.rime8lope.com'
   - '+.marketing.rimes.com'
   - '+.riminghoggoofy.com'
+  - '+.rimpirbtmxg.com'
   - '+.rimstipulatedeputy.com'
   - '+.count.rin.ru'
   - '+.rinad.jp'
@@ -73952,6 +73957,7 @@ payload:
   - '+.ifa.slutloadlive.com'
   - '+.sluxur.com'
   - '+.go.slv.cloud'
+  - '+.tr.slvrbullet.com'
   - '+.slvtx.com'
   - '+.slychicks.com'
   - '+.slygzsc.cn'
@@ -87074,6 +87080,7 @@ payload:
   - '+.wangzibo.top'
   - '+.wangzj.top'
   - '+.wanhua6.com'
+  - '+.waniks.com'
   - '+.waninusty.com'
   - '+.qd.wanjuanba.com'
   - '+.dzz.wankeedu.com'
