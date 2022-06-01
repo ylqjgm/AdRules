@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220601101708
+#VER=20220601154741
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=96140
+#TOTAL_LINES=96147
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -6870,6 +6870,7 @@ payload:
   - '+.trk.advancedmanufacturingminneapolis.com'
   - '+.advancedreefaquarium.com'
   - '+.act-on-marketing.advancedsolutionsplm.com'
+  - '+.link.advancedsystemrepairpro.com'
   - '+.www2.advancedtech.com'
   - '+.marketing.advancedtek.com'
   - '+.go.advancedturf.com'
@@ -9367,6 +9368,7 @@ payload:
   - '+.angelas-place.com'
   - '+.angelbetting.com'
   - '+.angeldonationblog.com'
+  - '+.angeler.xyz'
   - '+.angeleswouldnt.com'
   - '+.angelfishstats.com'
   - '+.angelinajoliepics.com'
@@ -36614,6 +36616,7 @@ payload:
   - '+.smetrics.greatsouthernbank.com.au'
   - '+.greatvideos.xyz'
   - '+.greatviews.de'
+  - '+.greatwit.cn'
   - '+.grebanise.pw'
   - '+.grebibablo.com'
   - '+.grecmaru.com'
@@ -39394,6 +39397,7 @@ payload:
   - '+.holdierpriv.club'
   - '+.holdingwager.com'
   - '+.holdmanscyphus.com'
+  - '+.holdonstranger.com'
   - '+.holdstory.com'
   - '+.holecatorange.com'
   - '+.holescontracting.com'
@@ -81202,6 +81206,7 @@ payload:
   - '+.tongbuchi.com'
   - '+.tongdejiayuan.com'
   - '+.tongdianku.com'
+  - '+.tonger.online'
   - '+.tongfanglianhe.com'
   - '+.d.tonghua5.com'
   - '+.tonghuaji.com'
@@ -85222,6 +85227,7 @@ payload:
   - '+.vcaif.com'
   - '+.vcbn65.xyz'
   - '+.script.vccoo.com'
+  - '+.vccyb.ltd'
   - '+.vcdc.com'
   - '+.vcdhtxhfbhx.com'
   - '+.log.vcdn.io'
@@ -88543,6 +88549,7 @@ payload:
   - '+.whazugho.com'
   - '+.whbhsoft.cn'
   - '+.whbinder.com'
+  - '+.whcajsb.com'
   - '+.whcrdz.com'
   - '+.whdafei.com'
   - '+.whdzxabhqsdnlc.com'

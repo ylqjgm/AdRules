@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202205310213
+! Version: 202206010355
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 42276
+! Lenth = 42282
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -37,6 +37,7 @@ $cookie=/^_ga_/
 $cookie=/^_gac_/
 $cookie=/^_gat_/
 $cookie=/^_gat_tracker\d+/
+$cookie=/^_gd/,domain=leichtathletik.de
 $cookie=/^_v__chartbeat/
 $cookie=/^_ym_visorc/
 $cookie=/^adptset_\d+/
@@ -254,6 +255,7 @@ $cookie=statid,domain=wp.pl|money.pl|o2.pl|pudelek.pl|komorkomania.pl|gadzetoman
 $cookie=t_gid
 $cookie=taboola_fp_td_user_id
 $cookie=tb_click_param
+$cookie=tint-anonymous-uid,domain=leichtathletik.de
 $cookie=tqsdk_ssn
 $cookie=tqsdk_visitor
 $cookie=trackThisPage
@@ -1758,7 +1760,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /bc/clk?
 /bcbot-nomin.js
 /bcn.gif?
-/bcn?
 /bcommon/js/trckUtil.min.js$domain=buffed.de|gamesaktuell.de|videogameszone.de|gamezone.de|pcgames.de|pcgameshardware.de
 /bcsensor.js
 /bctrackers/*
@@ -2560,6 +2561,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /dynamictag.
 /dynamicyield/*
 /dynatrace-$~image,domain=~dynatrace.com|~github.com|~github.io
+/dynatrace.$domain=~dynatrace.com|~github.com|~github.io
 /dynimpression?rkey=
 /e.gif?
 /e086ec.aspx?q=l3mkwgak
@@ -6350,6 +6352,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||abc.com/b/ss/$image
 @@||about-australia.com/*/clickheat.js
 @@||acb.com/javascripts/jv_feeder_stats.js
+@@||accounts.intuit.com/fe_logger?$~third-party
 @@||accounts.nintendo.com/account/js/pages/$script,~third-party
 @@||actiris.be/urchin.js
 @@||ad.adriver.ru/cgi-bin/rle.cgi$domain=mgts.ru
@@ -6523,6 +6526,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.taboola.com^$domain=samsung.com|thestartmagazine.com
 @@||app-sjf.marketo.com^$domain=live.altium.com
 @@||app.clarity.so^$~third-party
+@@||app.sushi.com/_next/static/chunks/pages/analytics$~third-party
 @@||appapi.inspsearchapi.com^$domain=search.pch.com
 @@||appboycdn.com^*/appboy.min.js$script,domain=bakkt.com
 @@||apple.com/metrics/ac-analytics/*/scripts/$domain=apple.com
@@ -6757,10 +6761,8 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdn.segment.com/analytics.js^$domain=freshly.com
 @@||cdn.segment.com/next-integrations/integrations/
 @@||cdn.segment.com/v1/projects/
-@@||cdn.segmentify.com/*/segmentify.css$domain=migros.com.tr
 @@||cdn.segmentify.com/*/segmentify.js$domain=gittigidiyor.com
 @@||cdn.segmentify.com/*/segmentify.js$domain=gratis.com
-@@||cdn.segmentify.com/*/segmentify.js$domain=migros.com.tr
 @@||cdn.segmentify.com/account-js/segmentify_flo.js$domain=flo.com.tr
 @@||cdn.segmentify.com^$domain=pttavm.com
 @@||cdn.static.zdbb.net/js/zd-email.min.js$domain=pcmag.com
@@ -7572,7 +7574,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.com.tr
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.de
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.nl
-@@||googletagmanager.com/gtm.js$domain=migros.com.tr
 @@||googletagmanager.com/gtm.js$domain=militaria.pl
 @@||googletagmanager.com/gtm.js$domain=moniteurautomobile.be
 @@||googletagmanager.com/gtm.js$domain=n11.com
@@ -8467,9 +8468,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||segment-data.zqtk.net^$domain=wsj.com
 @@||segmentify.com//*/events/v1.json?apiKey=$domain=flo.com.tr
 @@||segmentify.com//add/events/v*.json?apiKey=$domain=gittigidiyor.com
-@@||segmentify.com//add/events/v*.json?apiKey=$domain=migros.com.tr
 @@||segmentify.com//get/key/v*.json?$domain=gittigidiyor.com
-@@||segmentify.com//get/key/v*.json?$domain=migros.com.tr
 @@||segmentify.com//get/key/v1.json$domain=flo.com.tr
 @@||segundamano.mx^*/tealium.js
 @@||sellpoint.net/smart_button/$script,domain=walmart.com
@@ -9171,6 +9170,7 @@ laprovence.com#%#//scriptlet("set-constant", "refresh_xiti", "noopFunc")
 laprovence.com#%#//scriptlet("set-constant", "xt_click", "noopFunc")
 latino-serialo.tv#?##sidebar-left > div.block[-ext-has="> div.box > h2:contains(Счетчик)"]
 launchbit.com/taz-pixel$image
+lcwaikiki.com#%#//scriptlet("set-constant", "dataLayer", "emptyArr")
 levashove.ru##.footer-four > section#custom_html-5
 life.ru##.read-next
 link.gmapp*.net$image
@@ -16657,6 +16657,7 @@ znak.com##.relap
 ||d24cze5sab2jwg.cloudfront.net^
 ||d24rtvkqjwgutp.cloudfront.net^
 ||d25ezbwokoefx6.cloudfront.net^
+||d26b395fwzu5fz.cloudfront.net/keen-tracking-*.min.js
 ||d276.ourmidland.com^
 ||d27s92d8z1yatv.cloudfront.net/js/jquery.jw.analitycs.js
 ||d28g9g3vb08y70.cloudfront.net^
@@ -17020,6 +17021,7 @@ znak.com##.relap
 ||dbastatic.dk/Content_uex/scripts/tracking
 ||dbex-tracker-v2.driveback.ru^
 ||dbfocus.jp^$third-party
+||dbfukofby5ycr.cloudfront.net^
 ||dbpbyh.americanas.com.br^
 ||dbv0r7a702yve.cloudfront.net^
 ||dbzpek.nike.com^
@@ -21422,6 +21424,7 @@ znak.com##.relap
 ||hokuspokus.tarnkappe.info^
 ||hola.xebel.co^
 ||holder.com.ua^$third-party
+||holdonstranger.com^$third-party
 ||hollowafterthought.com^
 ||hollowafterthought.com^$third-party
 ||hollydeal.club^
@@ -31491,6 +31494,7 @@ znak.com##.relap
 ||seao.business.samsung.com^
 ||search-api.joongna.com/v*/ga/log|
 ||search.aol.com/beacon/
+||search.brave.com/api/feedback$~third-party
 ||search.ch/audit/
 ||search.repository-legacy.net.zooplus.com^
 ||search.tmon.co.kr/api/direct/*/searchstatapi/api/search/count/click/
@@ -31976,6 +31980,7 @@ znak.com##.relap
 ||service.frankwatching.com^
 ||service.geico.com/insite/js/mbox2.js
 ||service.smarthint.co/track/
+||service.trustpid.com^
 ||serviceo.comcast.net^
 ||serviceo.xfinity.com^
 ||serviceos.comcast.net^
@@ -37410,6 +37415,7 @@ znak.com##.relap
 ||timinternet.it/timmobilestatic/img/*.gif?
 ||timinternet.it/timmobilestatic/jsPrivacy/gdl_function_cookie.js
 ||tinb.net^$third-party
+||tintup.com/app/dist/tintAnalyticsProxy-bundle.js
 ||tinyclues.com^$third-party
 ||tinycounter.com^$third-party
 ||tinypass.com^*/track?
