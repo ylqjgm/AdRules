@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UmTmObas0x152XKRDhZY6w
+! Checksum: YSM8+qKIUawuj4oSVfeQbA
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206010833
-! Last modified: 2022-06-01 08:33 UTC
+! Version: 202206011133
+! Last modified: 2022-06-01 11:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -36450,6 +36450,7 @@ tf2r.com#@#.adverts
 ||definitial.com^
 ||defpush.com^
 ||defutohy.pro^
+||defyblackmailrecommended.com^
 ||defyraspypuke.com^
 ||degreenoxious.com^
 ||degrtdqvaansd.com^
@@ -39707,6 +39708,7 @@ tf2r.com#@#.adverts
 ||impertinentitaliangeological.com^
 ||imperturbablechoreinterrogation.com^
 ||imperturbablelosdigging.com^
+||impiabaxile.com^
 ||implacableapproximatereseptivereseptive.com^
 ||implementedinstalled.com^
 ||implementtransmitted.com^
@@ -40780,6 +40782,7 @@ tf2r.com#@#.adverts
 ||lankychaosrun.com^
 ||lanopoon.net^
 ||lanternpossibly.com^
+||laplamed.com^
 ||lapre28rmcat2.com^
 ||lapsefledmayor.com^
 ||lapypushistyye.com^
@@ -42900,6 +42903,7 @@ tf2r.com#@#.adverts
 ||onpluslean.com^
 ||onpsapul.com^
 ||onsandam.biz^
+||onsetknives.com^
 ||onshipsui.xyz^
 ||onstunkyr.com^
 ||ontoonefoldonefold.com^
@@ -48681,6 +48685,7 @@ tf2r.com#@#.adverts
 ||writtenanonymousgum.com^
 ||writtenlistened.com^
 ||writtenorbithalfbaked.com^
+||wrivedipnoi.com^
 ||wrkl.xyz^
 ||wrotal.com^
 ||wroteadministercurve.com^
@@ -62060,7 +62065,6 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /apilog?
 /apis/cpt.php?
 /apis/facebook_conversion
-/apitracking.
 /apixel?
 /app-measurement?
 /app/tracking/*
@@ -88174,8 +88178,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.at|finanzen.net|freenet-funk.de|idealo.at|idealo.de|radiorur.de|saturn.at|sport1.de|vox.de
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=tvnow.de
-@@||jobmorgen.de/Scripts/ApiTracking.js$~third-party
-@@||jobs.pnp.de/Scripts/ApiTracking.js$~third-party
 @@||kameleoon.com/geolocation.gif$domain=welt.de
 @@||kameleoon.com/ip.gif$domain=welt.de
 @@||kameleoon.eu/ip.gif$domain=welt.de
@@ -88197,7 +88199,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||showheroes.com/spot/iframe?pageurl=$script,subdocument,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||spatialbuzz.com/piwik/piwik.js$domain=spatialbuzz.com
 @@||spiegel.de/layout/js/http/netmind-$script
-@@||stellen.donaukurier.de/Scripts/ApiTracking.js?$script,~third-party
 @@||stuttgarter-nachrichten.de/cre-1.0/tracking/call.js?$script,~third-party
 @@||stuttgarter-nachrichten.de/cre-1.0/tracking/tracking.js$script,~third-party
 @@||sunday.de/skin/*/googleanalytics.js$script
@@ -143930,6 +143931,7 @@ svenskhalsokost.se#@#.cookie-accept
 bitburger-braugruppe.de#@#.cookie-age
 boursorama.com,dogedash.com,nuxeo.com,swedbank.se,teacheconomy.de#@#.cookie-banner:not(body):not(html)
 janrain.com,moemax.de,xxxlshop.de#@#.cookie-bar
+slade-legal.co.uk#@#.cookie-bar-visible
 biblioteka.wroc.pl#@#.cookie-btn
 asialadies.de,avladies.de,badeladies.de,behaarteladies.de,bizarrladies.de,busenladies.de,deutscheladies.de,devoteladies.de,dominanteladies.de,erfahreneladies.de,escorts24.de,exklusivladies.de,fkk24.de,grosseladies.de,hobbyladies.de,jungeladies.de,kollegin.de,kussladies.de,ladies.de,latinaladies.de,massierendeladies.de,mollyladies.de,nsladies.de,nymphomaneladies.de,orientladies.de,osteuropaladies.de,piercingladies.de,rasierteladies.de,schokoladies.de,tattooladies.de,tsladies.de,zaertlicheladies.de,zierlicheladies.de#@#.cookie-check:not(body)
 danica.no,danicapension.dk,danskebank.co.uk,danskebank.com,danskebank.dk,danskebank.fi,danskebank.no,danskebank.se,danskeci.com#@#.cookie-consent-banner

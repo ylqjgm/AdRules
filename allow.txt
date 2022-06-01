@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: dqYrMSQfhyoCnWp42fUVSg
+! Checksum: VBR2tVj2qKjsUtBBPE8lTA
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-01 17:07:40（北京时间） 
-! Total count: 19519
+! Version: 2022-06-01 20:42:42（北京时间） 
+! Total count: 19522
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -167,6 +167,7 @@
 @@/ad.sense/ad-m.js$~third-party
 @@/ad/banner.js$script
 @@/ad/banner/_adsense_/_adserver/_adview_.ad.json
+@@/ad/banner/_adsense_/_adserver/_adview_.ad.json$1p
 @@/ad/images/*$domain=37-express.com|vnnox.com
 @@/adBlockDetector.js$~third-party,domain=facepunch.io|biters.io|skyroyale.io|fisp.io
 @@/adLoader.$domain=shejiben.com
@@ -654,7 +655,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgs.ntietz.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgzebra.com^
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -10628,6 +10629,7 @@
 @@||kotaku.com/*/assets/new-client/adManager.*.js$domain=kotaku.com
 @@||kotaku.com/embed/comments$removeparam
 @@||kotaku.com/x-kinja-static/assets/new-client/adManager.$~third-party
+@@||koyi.pub/wp-content/plugins/fuzqing-ad-plus/assets/js/*.js
 @@||kozaczek.pl/js/ads.js$script,domain=kozaczek.pl
 @@||kozreload.eu^$stealth
 @@||kphim.tv/resources/js/fuckadblock.js
@@ -17064,6 +17066,7 @@
 @@||technews.tw^$generichide,badfilter
 @@||technews.wpengine.netdna-cdn.com/wp-content/themes/filehippo/js/socialite.min.js$domain=filehippo.com
 @@||technical-service.net/api?$domain=n-tv.de
+@@||technical-service.net/api?$domain=n-tv.de|vip.de
 @@||technical-service.net^$xmlhttprequest,domain=n-tv.de|vip.de
 @@||techniknews.net/data/ads/doubleserve.js
 @@||technocanvas.xyz^$generichide
