@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220601163345
+#VER=20220601170721
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=96147
+#TOTAL_LINES=96148
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -92978,6 +92978,7 @@ payload:
   - '+.gashot.yurivideos.com'
   - '+.yushengyuancaishui.com'
   - '+.yushuha.com'
+  - '+.yusnw.cc'
   - '+.isebis.yutoriform.com'
   - '+.daima.yutou123.cn'
   - '+.yuu360.com'
