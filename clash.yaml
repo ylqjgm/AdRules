@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220602003512
+#VER=20220602005147
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=96262
+#TOTAL_LINES=96263
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -844,6 +844,7 @@ payload:
   - '+.1ce86868bf.com'
   - '+.1clickcnvrtsearch.com'
   - '+.1clickmoviedownloader.info'
+  - '+.1cros.net'
   - '+.1d1a.com'
   - '+.1d1px.net'
   - '+.1d354c1645.com'

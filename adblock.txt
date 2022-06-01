@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: awpTYk1PTJ5/4FG43Iw2QA
+! Checksum: 01qUdd+28Ipd0nSXHpdcfA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-02 00:35:36（北京时间） 
-! Total count: 93008
+! Version: 2022-06-02 00:52:06（北京时间） 
+! Total count: 93012
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -47420,6 +47420,7 @@ zznews.cn##.ad:not([style])
 ||1buu1.penyouw.com^
 ||1bva.societegenerale.fr^
 ||1c2e32f165.com^
+||1cros.net^
 ||1ctc.sfr.fr^
 ||1d1a.com^
 ||1dmp.io^$third-party
@@ -51071,6 +51072,7 @@ zznews.cn##.ad:not([style])
 ||affilbox.cz^$third-party
 ||affiliate-b.com^$third-party
 ||affiliate.dtiserv.com^
+||affiliate.gearbest.com^$image,third-party
 ||affiliate.heureka.cz^
 ||affiliate.juno.co.uk^
 ||affiliate.rakuten.co.jp^$script
@@ -71003,6 +71005,7 @@ zznews.cn##.ad:not([style])
 ||ma.baiducdn2.com^*/main.js?t=
 ||ma.birkocorp.com^
 ||ma.hmhco.com^
+||ma.logsss.com^
 ||ma.meritmind.se^
 ||ma.mvr.se^
 ||ma.mw-ind.com^
@@ -79109,6 +79112,7 @@ zznews.cn##.ad:not([style])
 ||s.insidehalton.com^
 ||s.insideottawavalley.com^
 ||s.kurzy.cz/*/s_back.js
+||s.logsss.com^
 ||s.mannes.tech^
 ||s.maxrozen.com^
 ||s.mississauga.com^

@@ -1,12 +1,12 @@
 # Title: AdRules Hosts List
-# Checksum: GIVT0O8DHxSiGebimMQGjQ
+# Checksum: wKJtoGuMcameobJ6VU8DGg
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 8 Hours
 # 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
 #
-# Version: 2022-06-02 00:35:36（北京时间） 
-# Total count: 124500
+# Version: 2022-06-02 00:52:07（北京时间） 
+# Total count: 124501
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0-132.net.daraz.com
 0.0.0.0 0-158.net.daraz.com
@@ -2632,6 +2632,7 @@
 0.0.0.0 1ce86868bf.com
 0.0.0.0 1clickcnvrtsearch.com
 0.0.0.0 1clickmoviedownloader.info
+0.0.0.0 1cros.net
 0.0.0.0 1csr12-www-11-spring-developer-brasil.net.daraz.com
 0.0.0.0 1csr12-www-5smtpralpha.net.daraz.com
 0.0.0.0 1ctc.sfr.fr
