@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: ne++Nxh3DX69Vhnr4fZZiA
+! Checksum: awpTYk1PTJ5/4FG43Iw2QA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-01 23:59:32（北京时间） 
-! Total count: 93005
+! Version: 2022-06-02 00:35:36（北京时间） 
+! Total count: 93008
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -9997,6 +9997,8 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 .PageHitServlet?
 .PixelNedstatStatistic/
 .acemlna.com/Prod/link-tracker?
+.acemlna.com/Prod/link-tracker?$image
+.acemlnb.com/Prod/link-tracker?$image
 .admicro.
 .adnetwork.$domain=~adnetwork.ie|~adnetwork.sk
 .adpIds=
@@ -14986,6 +14988,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /lightspeed_tracker.
 /lingabot.
 /link-tracker-
+/link-tracker?*&l=open&
 /link.coindesk.com/img/*
 /link.divenewsletter.com/img/*$image
 /link.e-mail.*/mo/*$image
