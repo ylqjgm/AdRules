@@ -2,7 +2,7 @@
 ! Title: adg-kall
 ! Description: Adg-kall collected on the network and I have written some rules. 
 ! Homepage: https://kbsml.com
-! Last modified: 6/1/2022, 11:38:18 AM
+! Last modified: 6/1/2022, 4:00:04 PM
 !
 ||tp4sul.jwzd.com.cn^
 ||yinyouapp.com^
@@ -2418,6 +2418,8 @@
 ||js.hkslg520.com^
 ||jsyefc.com^
 ||jxad.jx163.com^
+||kkeji.com/img/*/300250
+||kkeji.com/img/*/img300250.
 ||kmmgoogle.oss-ap-southeast-1.aliyuncs.com^
 ||libfre.obs.cn-east-3.myhuaweicloud.com^
 ||ll.gxsky.com^
@@ -35575,9 +35577,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||kingkongapp.com^*/web/adv/list?
 ||kingsnug.cn/Uploads/vod/2019-05-25/5ce964f0c66e0.jpg
 ||kiwi8.top/media/plugins/jquery_confirm/
-||kkeji.com/img/*/300250
+||kkeji.com/img/*300250
 ||kkeji.com/img/*/aliyun
-||kkeji.com/img/*/img300250.
 ||kkeji.com/img/2005/m_info_720.png
 ||kkkkdm.com/js/comic-
 ||kkkkdm.com/mg/show
@@ -43728,6 +43729,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zptxjlh.cn^
 ||zdtvfpu.cn^
 ||nimajl.top^
+||tonger.online^
+||angeler.xyz^
+||vccyb.ltd^
+||greatwit.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
