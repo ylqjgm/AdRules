@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: 0baIwwkhhXkCIewYQwp1Hw
+! Checksum: D0YqgzRHSzfTV9BacZLV0g
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-03 02:11:51（北京时间） 
-! Total count: 19518
+! Version: 2022-06-03 02:16:30（北京时间） 
+! Total count: 19520
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -14871,6 +14871,7 @@
 @@||s.aolcdn.com/ads/adsWrapperMSNI.js$domain=outlook.live.com
 @@||s.btstatic.com/tag.js$domain=sephora.com
 @@||s.cdn.turner.com^
+@@||s.click.taobao.com^
 @@||s.click.taobao.com^$popup
 @@||s.clickiocdn.com/t/*.js$domain=laleggepertutti.it
 @@||s.clickiocdn.com/t/200069/360.js$domain=glav.su
@@ -17722,6 +17723,7 @@
 @@||turkdown.com^$ghide
 @@||turkmmo.com/js/siropu/am/ads.min.js
 @@||turmaempregos.club^$ghide
+@@||turn.chillyroom.com^
 @@||turner.com/cnn/*/video/chartbeat.js$domain=cnn.com
 @@||turnip.cdn.turner.com/top/auth/$stealth,domain=tbs.com
 @@||tusubtitulo.com/js/dfp-*.js
