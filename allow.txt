@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: M2iDdzxdU0sOr5/kKsIM4w
+! Checksum: zwAzlk5dxEuI4Q6GLqpp0A
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-03 00:43:38（北京时间） 
-! Total count: 19520
+! Version: 2022-06-03 00:54:57（北京时间） 
+! Total count: 19518
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -654,7 +654,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgejobs.ro^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgitor_id.jsp
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -14871,7 +14871,6 @@
 @@||s.aolcdn.com/ads/adsWrapperMSNI.js$domain=outlook.live.com
 @@||s.btstatic.com/tag.js$domain=sephora.com
 @@||s.cdn.turner.com^
-@@||s.click.taobao.com^
 @@||s.click.taobao.com^$popup
 @@||s.clickiocdn.com/t/*.js$domain=laleggepertutti.it
 @@||s.clickiocdn.com/t/200069/360.js$domain=glav.su
@@ -17723,7 +17722,6 @@
 @@||turkdown.com^$ghide
 @@||turkmmo.com/js/siropu/am/ads.min.js
 @@||turmaempregos.club^$ghide
-@@||turn.chillyroom.com^
 @@||turner.com/cnn/*/video/chartbeat.js$domain=cnn.com
 @@||turnip.cdn.turner.com/top/auth/$stealth,domain=tbs.com
 @@||tusubtitulo.com/js/dfp-*.js
