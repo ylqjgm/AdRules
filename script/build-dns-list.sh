@@ -21,4 +21,4 @@ cd ./script/
 
 cat ../tmp/dns998* >>../dns.txt
 cat .././mod/rules/*-rules.txt |grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort|uniq >> ../dns.txt
-sed -i "s/\|\|tanx.com\^/\|\|tanx.com\^\$dnstype\=\~CNAME/g" dns.txt
+sed -i "s/\|\|tanx.com\^/\|\|tanx.com\^\$dnstype\=\~CNAME/g" ../dns.txt
