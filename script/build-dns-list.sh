@@ -12,10 +12,12 @@ echo "! Homepage: https://github.com/Cats-Team/AdRules" >> ../easylist.txt
 echo "! Total lines: 00000" >> ../easylist.txt
 grep -vE '^!' ../dns.txt >> ../easylist.txt
 php ./tools/adguard-extend.php ../easylist.txt &
+wait
 php ./tools/easylist-extend.php ../dns.txt &
 cd ../
 cat ./tmp/l.txt >> dns.txt
-hostlist-compiler -c ./script/dns-rules-config.json -o dns-output.txt 
+hostlist-compiler -c ./script/dns-rules-config.json -o dns-output.txt &
+wait
 mv -f dns-output.txt dns.txt
 cd ./script/
 
