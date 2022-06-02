@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220602100606
+#VER=20220602140642
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=95966
+#TOTAL_LINES=95970
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -26863,6 +26863,7 @@ payload:
   - '+.messagent.duvalguillaume.com'
   - '+.duwk50magqurier.com'
   - '+.adsmis.duxiaoman.com'
+  - '+.awkdjfkdsjk.duxingangtiaoban.com'
   - '+.duxumpou.com'
   - '+.r.m.duyidu.net'
   - '+.duyihu.net'
@@ -35918,6 +35919,7 @@ payload:
   - '+.nzzvvf.goldengoose.com'
   - '+.marketing.goldenhelix.com'
   - '+.goldenhrome.com'
+  - '+.goldenlee.cn'
   - '+.marketing.goldenpaints.com'
   - '+.banner.goldenpalace.com'
   - '+.goldenssp.com'
@@ -72658,7 +72660,6 @@ payload:
   - '+.sharieta.com'
   - '+.sharing-is-caring.info'
   - '+.sharks.vn'
-  - '+.sharonup.com'
   - '+.sharpay.io'
   - '+.sharpconnatechamber.com'
   - '+.go.sharpencx.com'
@@ -72802,6 +72803,7 @@ payload:
   - '+.shepherdbetrayaldecoction.com'
   - '+.shepherdsshadowindia.com'
   - '+.web.care.sheppardpratt.org'
+  - '+.shequdaohang.com'
   - '+.shequn.online'
   - '+.sherence.ru'
   - '+.lylsmz.sheridanoutlet.com.au'
@@ -78089,6 +78091,7 @@ payload:
   - '+.t0p0ff3rs.com'
   - '+.t157.com'
   - '+.t1g2.cn'
+  - '+.t1tgame.com'
   - '+.t23o.cn'
   - '+.t2.t2b.click'
   - '+.t2click.com'
@@ -90508,6 +90511,7 @@ payload:
   - '+.xinbo-lora.cn'
   - '+.xinchenyang.cn'
   - '+.xindelin.cn'
+  - '+.xindong.fun'
   - '+.xindream.cn'
   - '+.xineday.com'
   - '+.xinerdact.com'

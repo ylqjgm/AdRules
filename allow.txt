@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: T5wiJfuASHLldLv09Xe92g
+! Checksum: JrGkN9ssVfL/2gzTjiyVog
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-02 10:06:23（北京时间） 
-! Total count: 19521
+! Version: 2022-06-02 14:07:00（北京时间） 
+! Total count: 19515
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -423,7 +423,6 @@
 @@/js/xupload.js$domain=imgdew.pw|imgmaze.pw|imgrock.pw|imgview.pw
 @@/key=$media,domain=ashemaletube.com
 @@/key=$media,domain=vivud.com
-@@/libs/advertisement.js$domain=catchcoin.pw|xfaucet.net|getfreebit.xyz|amber-dash.cf|getfree.co.in|starbits.io|shahinshort.tk|bagi.co.in|grandfaucet.net|harena.space|myethereumfaucet.com|konstantinova.net|gajiancoin.online|starfaucet.net|bitearns.com|cryptofreebies.info|faucex.tk|trivisna.com|nosl.juezcoin.xyz|earn-cryptolive.000webhostapp.com|earncryptosaj786.com|momofree.website|dogeatm.com|aztecafaucet.space|multifaucet.org|seg-ashort1a-ma.tk|pcmur.es|dogestar.website|tron-faucet.xyz|claimbits.io|i-bits.io|diamondfaucet.space|gobits.io|russiacoin.xyz|starsfaucet.com|lionltcfaucet.xyz|projecto2.xyz|faucet.shorterall.com|yellowfaucet.ovh|faucet.cryptourl.net|wildfaucets.ml|simplyfaucet.xyz|faucet-doge.u7u.pl|up-cripto.com
 @@/libs/advertisement.js$domain=catchcoin.pw|xfaucet.net|getfreebit.xyz|amber-dash.cf|getfree.co.in|starbits.io|shahinshort.tk|bagi.co.in|grandfaucet.net|harena.space|myethereumfaucet.com|konstantinova.net|gajiancoin.online|starfaucet.net|bitearns.com|cryptofreebies.info|faucex.tk|trivisna.com|nosl.juezcoin.xyz|earn-cryptolive.000webhostapp.com|earncryptosaj786.com|momofree.website|dogeatm.com|aztecafaucet.space|multifaucet.org|seg-ashort1a-ma.tk|pcmur.es|dogestar.website|tron-faucet.xyz|claimbits.io|i-bits.io|diamondfaucet.space|gobits.io|russiacoin.xyz|starsfaucet.com|lionltcfaucet.xyz|projecto2.xyz|faucet.shorterall.com|yellowfaucet.ovh|faucet.cryptourl.net|wildfaucets.ml|simplyfaucet.xyz|faucet-doge.u7u.pl|up-cripto.com|highearn.xyz
 @@/libs/advertisement1.js$domain=faucet.shorterall.com
 @@/linkshare/*$domain=bradsdeals.com|coupons.com|dealigg.com|dealnews.com|goodsearch.com|groupon.com|hotukdeals.com|moneysavingexpert.com|offers.com|retailmenot.com|slickdeals.net
@@ -10304,10 +10303,8 @@
 @@||jn.pt/common/scripts/ads.js
 @@||jobhunterplg.xyz^$generichide
 @@||joblessdrum.com^$script,xmlhttprequest
-@@||jobmorgen.de/Scripts/ApiTracking.js$~third-party
 @@||jobportal.uni-koeln.de^$stealth
 @@||jobs.kroger.com/platform/images/shared/social/$~third-party
-@@||jobs.pnp.de/Scripts/ApiTracking.js$~third-party
 @@||joinsnapcard.com/thema/img/reddit.png
 @@||jokerfansub.com/content/themes/default/images/feed-icon-28x28.png#-iframe-ads^$image
 @@||jokerfansub.com^$generichide
@@ -12923,7 +12920,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=axilesoft.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bdcraft.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=beatsnoop.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bemiraculous.tk|drivedrama.com|puressh.net|iptvbin.com|htnovo.net|frendz4m.org|bestnhl.com|safbits.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=bemiraculous.tk|drivedrama.com|puressh.net|iptvbin.com|htnovo.net|frendz4m.org|bestnhl.com|safbits.com|paytroncoins.cf
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blog-rct.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=blogs.sapib.ca
@@ -16585,7 +16581,6 @@
 @@||steelseries.com/bundles/spoutlet/js/SocialShare.min.js
 @@||steepsquirrel.com^$script,xmlhttprequest
 @@||stefaniescott.org^$generichide
-@@||stellen.donaukurier.de/Scripts/ApiTracking.js?$script,~third-party
 @@||stemplay.*^$stealth
 @@||stepik.org/lesson^$stealth
 @@||stepplane.com^$script,xmlhttprequest
@@ -17065,7 +17060,6 @@
 @@||technews.tw/www/delivery/$badfilter
 @@||technews.tw^$generichide,badfilter
 @@||technews.wpengine.netdna-cdn.com/wp-content/themes/filehippo/js/socialite.min.js$domain=filehippo.com
-@@||technical-service.net/api?$domain=n-tv.de
 @@||technical-service.net/api?$domain=n-tv.de|vip.de
 @@||technical-service.net^$xmlhttprequest,domain=n-tv.de|vip.de
 @@||techniknews.net/data/ads/doubleserve.js

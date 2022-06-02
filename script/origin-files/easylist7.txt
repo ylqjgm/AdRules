@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202206010355
+! Version: 202206020348
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26752
+! Lenth = 26774
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -664,6 +664,7 @@
 ##.leftadv
 ##.leftd + .rightd
 ##.leftd1 + .rightd1
+##.leo-container .ssr1
 ##.listok > a > img[src*=".alicdn.com"][width="980"][height="80"]
 ##.listok > a > img[style^="width:980px;height:"]
 ##.loc-home-top-adv-new
@@ -703,6 +704,7 @@
 ##.myui-vodlist__thumb[data-original*=".pstatp.com/"]
 ##.nQIAj
 ##.nQIAj1
+##.nav-area + .wrapper .tuiguang
 ##.newstyle > .container > a[target="_blank"]
 ##.newstyle > a > img[src*="img.com/i/"]
 ##.nordvpn-popup + .sidebar-vpn
@@ -3512,7 +3514,7 @@ $websocket,domain=5nj.com|cechi8.com
 6parknews.com#?##d_list > ul > li:-abp-has(a[href^="http"]:not([href*="6parknews"]))
 6yit.com,uuvps.com##.widget_text
 703804.com##.hotad
-7060.la,bimiacg4.net,bimiacg5.net,dodoge.me##.tuiguang
+7060.la##.tuiguang
 717dyw.com##.qptp + *,.vdgd + *,.qpgd + *,a > video
 720yun.com##DIV[class^="Ads_ads_"]
 728x90.jpg|
@@ -3676,12 +3678,9 @@ $websocket,domain=5nj.com|cechi8.com
 ://m.*.pw/*.js?ssid=_
 ://m.*.pw/*/*.js?$third-party
 ://m.*.top/*.js?ssid=_
-://ssh.*:10443/$third-party
 ://www.*.js|$script,third-party,domain=159i.com|r3sub.com|thisav.com
 :1010/openV5.js
-:10443/*/*!$third-party
-:10443/*/*-*-*.html$subdocument,third-party
-:10443/*/*-*-*.js$third-party
+:10443/$script,subdocument,third-party
 :11211/t.js?MAC=
 :12443/*/*-*-*.$script,third-party
 :18443/*/*-*-*.html$subdocument,third-party
@@ -4436,6 +4435,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||killcovid2021.com/*/*.mp4
 @@||kissjav.com^$generichide
 @@||kk665403.pixnet.net^$generichide
+@@||koyi.pub/wp-content/plugins/fuzqing-ad-plus/assets/js/*.js
 @@||kukuplay.com/upload/*.*.swf
 @@||l.qq.com/lview?$domain=888.sports.qq.com
 @@||lager.com.tw/images/layer6_adbanner/
@@ -5493,7 +5493,6 @@ bilibili.com#?#.eva-extension-body > .bili-video-card:-abp-has(.bili-video-card_
 bilibili.com#?#.video-card-common:-abp-has(>.card-pic>a[href*="cm.bilibili.com"][data-target-url])
 bilibili.to###yytf
 bimiacg.net##.tuiguang
-bimiacg4.net,bimiacg5.net,dodoge.me##.ssr1
 bing.com###BottomAppPro
 bing.com###b_results > li[style*="padding-bottom: 8px;"][style*="235, 235, 235"]
 bing.com###bingBrand
@@ -6435,6 +6434,7 @@ douyu.com##a[href^="http://tracking.ad-survey.com/"]
 douyu.com##div[id^="sign_p_"]
 douyu.com#?#.SharePanel:-abp-has(> .SharePanel-content > .SharePanel-contentTitle:-abp-contains(福利))
 douyu.com#?#.bc-wrapper:-abp-has(>.wm-view>div>.isLink[href*=".qualtrics.com/"])
+douyu.com#?#.wm-general:-abp-has(.link[href*=".tmall.com"])
 douyu.com,oschina.net#@#.follow-btn
 down.ali213.net,patch.ali213.net##.picBg
 downbank.cn##.speed-downlist
@@ -8497,6 +8497,8 @@ kongzhong.com###dn
 koolearn.com##.news_pf
 koolearn.com##.show_ad
 kostool.cn#?#div:-abp-has(> h1:-abp-contains(推广))
+koyi.pub#%#//scriptlet("set-constant", "fuzqingAdPlus", "emptyObj")
+koyi.pub#@#.main_ad
 kpd122.com,ssp28.pw##.index-owl-carousel
 kpl037.com##center > a[target="_blank"] > img
 kpw6.com###daojs
@@ -10767,6 +10769,7 @@ upanso.com##.coupon
 upmedia.mg###divider_ad
 urbanlifehk.com##.desktop-sidebar__block--ad
 urbanlifehk.com##.pl-main-article__ad-block
+url56.ctfile.com#?##main-content > .container > .card > .card-body:has(> div[id="760ad"])
 uschinapress.com##.baner_pictur
 uschinapress.com##img[width="290"]
 usefultools.icu##.Advertising_all
@@ -10843,6 +10846,8 @@ vipmv.co##div[style^="position: fixed;bottom: -10px;"]
 vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"] > div > a[href][target="_blank"] > img
 vipthz.com###fwin_content_imc_attachad [style="WIDTH: 100%; padding-left:10px;"] > div > p > a[href][target="_blank"]
 virscan.org##div[class^="ad_"]
+viu.com##div[data-marker-title="undefined"]
+viu.com##div[id^="info"]
 vjmedia.com.hk###author-spotlight + .clear + div
 vjmedia.com.hk###text-33
 vjmedia.com.hk##.code-block
@@ -14169,6 +14174,7 @@ zznews.cn##.ad:not([style])
 ||anfcadf.cn^
 ||anfw.com.cn^
 ||angelbaby.store^
+||angeler.xyz^
 ||angelweb.cn/Inc/AngelG.js
 ||angryme.cn^
 ||angryme.cn^$third-party
@@ -15941,6 +15947,7 @@ zznews.cn##.ad:not([style])
 ||csxsyp.cn^
 ||csxvsd.cn^
 ||csyfe.com^
+||csygxdym.com^
 ||csyys0731.com^
 ||ct372.cn^
 ||ctags.cn/9/j2.js
@@ -16110,6 +16117,7 @@ zznews.cn##.ad:not([style])
 ||daisycontroversy.com^
 ||daitianyu.vip^
 ||daiwofei2019.top^
+||daixishuai.pw^
 ||daiyanbao.com/flash/md
 ||daizhangguanjia.com.cn^
 ||dajean.com^
@@ -16359,6 +16367,7 @@ zznews.cn##.ad:not([style])
 ||dlads.cn^$third-party
 ||dldsrs.com^
 ||dlevpmd.cn^
+||dlhyfl.cn^
 ||dlhygj.com^
 ||dlkjgjmy.com^
 ||dlkoo.cc/down/$subdocument
@@ -17362,6 +17371,7 @@ zznews.cn##.ad:not([style])
 ||ganjistatic1.com^*/adm/
 ||ganjituiguang.ganji.com^
 ||gansudaily.com.cn/2017zt/images/*gg
+||gaoai.wang^
 ||gaobata.com^
 ||gaofen.com/source/plugin/gaofen_ad/
 ||gaoimg.xyz/images/
@@ -17622,6 +17632,7 @@ zznews.cn##.ad:not([style])
 ||gqswg.com^
 ||gralfusnzpo006.top^
 ||graypay1.cn^
+||greatwit.cn^
 ||greeknaturalcyprus.com^
 ||greenadoption.cn^
 ||greenbetterkids.com^
@@ -17649,6 +17660,7 @@ zznews.cn##.ad:not([style])
 ||gsqweb.cn^
 ||gssdsj.com^
 ||gssxb.com^
+||gsyc.icu^
 ||gsycdb.com^
 ||gsycl.top^
 ||gt.duowan.com^
@@ -18276,6 +18288,7 @@ zznews.cn##.ad:not([style])
 ||hongjiaex.cn^
 ||hongjiujiaoyi.com^$third-party
 ||honglingjin.co.uk/wp-content/uploads/*-Homepage-Takeover-BG-
+||hongmao39.top^
 ||hongruikt.com^
 ||hongshikai.com^
 ||hongtefm.com^
@@ -18748,6 +18761,7 @@ zznews.cn##.ad:not([style])
 ||imagespublic.tk/clothes/comeliness.php
 ||imall.cctv.com^
 ||imall.cntv.cn^
+||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=linetv.tw
 ||imedown.info/03.jpg
 ||imedown.info^*.gif
 ||imeee.cn/DA_HTML/*.js
@@ -18950,6 +18964,7 @@ zznews.cn##.ad:not([style])
 ||it165.net/index.php?m=poster&
 ||it168.com/pv.js
 ||it610.com/views/front/js/special/
+||itad.linetv.tw/api/v2/vmap?ad_id=$xmlhttprequest,redirect=nooptext
 ||itadapi.ithome.com.tw^
 ||itavcn.com/images/2012/ad_
 ||itavcn.com/images/2013/ad_
@@ -19188,6 +19203,7 @@ zznews.cn##.ad:not([style])
 ||jianpian.vip^$third-party
 ||jianshe99.com/lamu/
 ||jianshen114.com/images/Advistings/
+||jiantiquan.cn^
 ||jianxinshanghai.com^
 ||jianxun.io/ad/
 ||jianyihang.com^
@@ -19842,9 +19858,8 @@ zznews.cn##.ad:not([style])
 ||kkbb.top^
 ||kkcaicai.com^
 ||kkddlt2f.site^$third-party
-||kkeji.com/img/*/300250
 ||kkeji.com/img/*/aliyun
-||kkeji.com/img/*/img300250.
+||kkeji.com/img/*300250
 ||kkeji.com/img/2005/m_info_720.png
 ||kkjiaofei.com^
 ||kkkkdm.com/js/comic-
@@ -22885,6 +22900,7 @@ zznews.cn##.ad:not([style])
 ||shentupk85.com^
 ||shenwupower.com.cn^
 ||shenyunkeji.com^
+||shequdaohang.com^$third-party
 ||shequn.online^
 ||sherrycha.cn^
 ||shewang.net/images/*/900x
@@ -23899,6 +23915,7 @@ zznews.cn##.ad:not([style])
 ||tongbaimi.cn^$third-party
 ||tongdejiayuan.com^
 ||tongdianku.com^
+||tonger.online^
 ||tongfanglianhe.com^
 ||tonghao.ltd^
 ||tonghuacun.com/js/uc.js
@@ -24370,6 +24387,7 @@ zznews.cn##.ad:not([style])
 ||vb7ojn.cn^
 ||vbanm.com^
 ||vbillplus.cn^
+||vccyb.ltd^
 ||vchim.com^
 ||vciayrf.cn^
 ||vcsoat.cn^
@@ -25586,6 +25604,7 @@ zznews.cn##.ad:not([style])
 ||yantuchina.com/Upload/Ad/
 ||yanu.qiniudn.com/*x60.
 ||yanu.qiniudn.com/270300.jpg
+||yanuvv.cn^
 ||yanyanbiji.com^
 ||yanzunyang.top^
 ||yaobao.cc^
@@ -26226,6 +26245,7 @@ zznews.cn##.ad:not([style])
 ||zdcj.net/html/weibo
 ||zdcj.net^*/ad
 ||zdface.com/js/m/zw_banner.js
+||zdhm.cn^
 ||zdnet.com.cn/js/pv.js
 ||zdovrb.cn^
 ||zdqx.com/statics/v1/images/gif/
@@ -26436,6 +26456,7 @@ zznews.cn##.ad:not([style])
 ||zhulong.com/poster/get?positions_name=ZY_SP_300
 ||zhululm.com^$third-party
 ||zhuna.cn/static/knowledge_pc/img/bussness
+||zhuogego8.top^
 ||zhuoyuanxcl.cn^
 ||zhuozhongfangshui.cn^
 ||zhushihuahan.com^
@@ -26642,6 +26663,7 @@ zznews.cn##.ad:not([style])
 ||zuoyebang.cc/zyb_4953cbb8a9a2332469592196c056a906.jpg
 ||zuoyouyu.cn^
 ||zupulu.com/scripts/app/app.js
+||zvkoukk.cn^
 ||zvqbbj.cn^
 ||zwdq.xyz^
 ||zwmkfoo.cn^
