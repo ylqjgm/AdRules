@@ -11,8 +11,8 @@ echo "! Version: $(date "+%Y%m%d%H%M%S%N")" >> ../easylist.txt
 echo "! Homepage: https://github.com/Cats-Team/AdRules" >> ../easylist.txt
 echo "! Total lines: 00000" >> ../easylist.txt
 grep -vE '^!' ../dns.txt >> ../easylist.txt
-php ./tools/adguard-extend.php ../easylist.txt
-php ./tools/easylist-extend.php ../dns.txt
+php ./tools/adguard-extend.php ../easylist.txt &
+php ./tools/easylist-extend.php ../dns.txt &
 cd ../
 cat ./tmp/l.txt >> dns.txt
 hostlist-compiler -c ./script/dns-rules-config.json -o dns-output.txt 
@@ -22,3 +22,5 @@ cd ./script/
 cat ../tmp/dns998* >>../dns.txt
 cat .././mod/rules/*-rules.txt |grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort|uniq >> ../dns.txt
 #sed -i "s/\|\|tanx.com\^/\|\|tanx.com\^\$dnstype\=\~CNAME/" ../dns.txt
+cd ../
+bash ./sc*/exin*dns.sh
