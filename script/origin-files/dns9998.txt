@@ -2,7 +2,7 @@
 ! Title: adg-kall
 ! Description: Adg-kall collected on the network and I have written some rules. 
 ! Homepage: https://kbsml.com
-! Last modified: 6/3/2022, 8:00:04 AM
+! Last modified: 6/3/2022, 4:00:05 PM
 !
 ||slfango.ltd^
 ||xt.kluvcc.com^
@@ -10919,7 +10919,7 @@ m.szhome.com##p:nth-of-type(56)
 ||op.ppp.asfas34gk4.club^
 ||*irs01.com^
 ||*.umengcloud.com^
-||*.admaster.com.cn^
+||admaster.com.cn
 ||*admaster.com^
 ||acs4baichuan.m.taobao.com^
 ||amdc.m.taobao.com^$app=~com.eg.android.AlipayGphone
@@ -28867,6 +28867,11 @@ www.youku.com$$div[class="vipProfileContainer"]
 ||v.youku.com/worker.js^
 m.youku.com##.h5-detail-ad
 m.youku.com##.Corner-container
+||ctyuncdnct.inter.iqiyi.com/videos^
+||aliyuncocsouth.inter.iqiyi.com/videos^
+||huaweicdnct.inter.iqiyi.com/videos^
+||meta.video.iqiyi.com/*/adv
+||ip.if.iqiyi.com/cityjson?format=json^
 ||t7z.cupid.iqiyi.com$app=com.tencent.mobileqq
 ||t7z.cupid.iqiyi.com$app=com.qiyi.video|QyClient.exe
 ||*.m.cn.miaozhen.com^
@@ -29202,6 +29207,7 @@ v.qq.com$$div[class="mod_ad_main"]
 ||83.locksmaker.com.cn^$third-party
 ||yqrta.xyz^$third-party
 ||zjgfq.com^$third-party
+moeci.com##+js(no-setTimeout-if, _0x)
 koyi.pub##+js(set-constant, fuzqingAdPlus, emptyObj)
 pincong.rocks##+js(no-setInterval-if, Ad Block)
 1090ys8.com##+js(abort-on-property-read, adBlockDetected)
@@ -31925,8 +31931,9 @@ _yad_jsonp_
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".leyu"]
 ##div[onclick*="?i_code="]
-##div[style=" max-width:976px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:976px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:977px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:977px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:974px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
@@ -37573,6 +37580,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 szxx.com.cn###A0
+firefoxchina.cn##a[track_key="outside_left_adv"]
+firefoxchina.cn##.w-full[track_key="adv_top_banner"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -43763,6 +43772,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||lemoncai.xyz^
 ||xiangwuquan.cn^
 ||tangli.ltd^
+||xfdqxfpm.cn^
+||qgfwets.cn^
+||blingbling.wiki^
+||homeieped.cn^
+||ywsywh.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
