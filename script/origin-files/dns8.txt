@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c2JVpKXvQwCWTbZU/wkkhA
+! Checksum: H3+3qgFXNOJFwYArx7zPMw
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206031533
-! Last modified: 2022-06-03 15:33 UTC
+! Version: 202206031633
+! Last modified: 2022-06-03 16:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15296,6 +15296,7 @@ _800x80_
 ###responsive-ad-sidebar-container
 ###responsive_ad
 ###responsivead
+###result-list-aside-topadsense
 ###resultSponLinks
 ###resultsAdsBottom
 ###resultsAdsSB
@@ -28581,6 +28582,8 @@ _800x80_
 ##.search-ad-no-ratings
 ##.search-advertisement
 ##.search-message-container-ad
+##.search-result-list-item--sidebar-ad
+##.search-result-list-item--topad
 ##.search-result-sponsored
 ##.search-results-ad
 ##.search-results-banner-ad
@@ -141418,6 +141421,7 @@ getdigital.de##.privacy-wrapper
 klimaanlage.at##.privacyControlBadge
 cronn.de##.privacyoverlay
 buerger-profikueche.de,buerger.de##.reveal-modal-bg
+onleihe.de##.reveal-overlay
 doa-info.de##.rstboxes
 mietz.app##.set-all-components-to-display-none-and-use-this-div-to-create-a-symbol
 pneuhage.de##.site-blocker
