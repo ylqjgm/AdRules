@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 1CPz3XMfcE3i5bE9AKWkgg
+! Checksum: 1NsEhzhdg4eSJkVgfAEqDA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-03 15:40:18（北京时间） 
-! Total count: 93103
+! Version: 2022-06-03 15:50:23（北京时间） 
+! Total count: 93102
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -45513,7 +45513,6 @@ www.bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
 www.blesk.cz##[class*="-wrapperf-prapper"], [class*="pikyTentBot_"], #stickyBottomRightAbsolute, [class="lol__out"], img[width='970'][height="310"], a[style*="blewid: 970px; height: 310px"], div[id*="-hor"]
 www.chnmoney.com##.tonglan
 www.cocomanga.com/js/atmp.html
-www.cocomanga.com/template/vfed/asset/js/global.js
 www.daishudy.com/js/g/b_1.js
 www.dldxdyfsyy.com##DIV[style='position:relative;']
 www.dobreprogramy.pl#@#div > .fb-page[data-href$="/dobreprogramy/" i]:upward(2)
