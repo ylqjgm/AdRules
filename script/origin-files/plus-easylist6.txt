@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206020348
+! Version: 202206030235
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 42314
+! Lenth = 42318
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -3164,6 +3164,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /hit_count?
 /hit_counter
 /hit_img.cfm?
+/hitartirici/*
 /hitbox.js
 /hitcount/*
 /hitcount?
@@ -6374,7 +6375,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|kroger.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
+@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|kroger.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
@@ -8058,6 +8059,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||mixpanel.com/track/?data=$xmlhttprequest,domain=eloan.co.il
 @@||mlb.com/shared/scripts/bam.tracking.js
 @@||mlbstatic.com/mlb.com/adobe-analytics/$script,domain=mlb.com
+@@||mmstat.com/eg.js$domain=aliexpress.*
 @@||mobile.flypgs.com/tealeaf.js
 @@||moengage.com/v2/$xmlhttprequest,domain=olx.com.lb
 @@||moengage.com/webpush/$script,domain=olx.com.lb
@@ -12689,6 +12691,7 @@ znak.com##.relap
 ||app.intercom.io/gtm_tracking/
 ||app.jmusports.com^
 ||app.leadplan.ru/assets/img/1px.gif
+||app.leadsrx.com/visitor.js
 ||app.leadster.com.br/*/analytics/
 ||app.link/_r?$script,third-party
 ||app.link/_r?sdk=*&callback=branch_callback
@@ -19117,6 +19120,7 @@ znak.com##.relap
 ||events.emogi.com^
 ||events.engage.cebglobal.com^
 ||events.enigen.co.uk^
+||events.framer.com^
 ||events.genndi.com/tracker
 ||events.georgiancollege.ca^
 ||events.gogoair.com^
@@ -19287,6 +19291,7 @@ znak.com##.relap
 ||expressvpn.com/__px.gif?
 ||exr-mms.expertreviews.co.uk^
 ||ext-inv-cdn.presage.io^$third-party
+||ext.chtbl.com/trackable.js
 ||ext.goguardian.com^
 ||ext.host-tracker.com^$third-party
 ||extendoffice.com/analytics.js
@@ -20219,7 +20224,6 @@ znak.com##.relap
 ||gaysuperman.com/stats.gif^
 ||gazelle.emanager.gg^
 ||gazeta-unp.ru/viewCounter/increment
-||gazeteduvar.com.tr/hit-increment/$xmlhttprequest
 ||gazetevatan.com/d/generic-counter.asp^
 ||gazetevatan.com/d/j/analytics.min.js
 ||gazisoft.com/alexa/
@@ -23485,7 +23489,6 @@ znak.com##.relap
 ||laurel.rovicorp.com^
 ||laurenhi.com/app/Eclog/
 ||lawyers.rigbycooke.com.au^
-||lazimbana.com/product/hit-increment/
 ||lb.billing01.email-allstate.com^
 ||lb.marketing01.email-allstate.com^
 ||lb.quote01.email-allstate.com^
@@ -29236,6 +29239,7 @@ znak.com##.relap
 ||poool.fr/api/v3/access/event
 ||pop.dmglobal.com^
 ||popfilmeshd.net/wp-content/plugins/google-analytics-dashboard-for-wp/front/js/tracking-analytics-events.js
+||popin.cc/conversion2.js
 ||popin.cc/td_js_
 ||popin.cc^$cookie=_ss_pp_id
 ||popin.cc^$cookie=_td
