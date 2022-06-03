@@ -4,20 +4,11 @@
 ||*.feipukeplus.com^$domain=m.qqm4.com
 ||*.fghpro.xyz^
 ||*.kameleoon.eu^$domain=20minutes.fr|20min.fr
-||*.m.cn.miaozhen.com^
-||*.umengcloud.com^
-||*.urlet.cn^
 ||*.wap.xsbiquge.com^
-||*.xsmaofa.com^
 ||*^sdtfrom=^$media,redirect=noop-0.1s.mp3,domain=qq.com
 ||*^sdtfrom=^$media,redirect=noopmp3-0.1s,domain=qq.com
 ||*^sdtfrom=^$media,redirect=noopmp3-0.1s,domain=qq.com
 ||*^sdtfrom=^$media,rewrite=abp-resource:blank-mp3,domain=qq.com
-||*^sdtfrom=^$rewrite=abp-resource:blank-mp3,domain=qq.com
-||*ad*.tnarzc.com^
-||*ad.ixigua.com^
-||*admaster.com^
-||*irs01.com^
 ||*logtj.zuoyebang.cc^
 ||*serror*.wo.com.cn^
 ||201*.myhard.com^
@@ -49,7 +40,6 @@
 ||admicro*.vcmedia.vn^
 ||ads*-normal*.zijieapi.com^
 ||ads*-normal-hl.zijieapi.com^
-||ads*-normal-lf.zijieapi.com^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
@@ -61,7 +51,6 @@
 ||adserver*.euroweeklynews.com^
 ||adserver.*.yahoodns.net^
 ||adservice.google.*^
-||adstore-*.file.myqcloud.com^
 ||adsview*.qq.com^
 ||adv.sec*.miui.com^
 ||adv0*.msa.cdn.mediaset.net^
@@ -72,7 +61,6 @@
 ||all-best-prize-202*.com^
 ||amanda.*.com^
 ||amanda.*.net^
-||amaze*.snssdk.com^
 ||amazon.*^$removeparam=channel
 ||amazon.*^$removeparam=maas
 ||amazon.*^$removeparam=orig
@@ -81,7 +69,6 @@
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
 ||analytics*.prezly.com^
-||analytics-beacon-*.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analyzer*.fc2.com^
 ||ap*.jj20.com^
@@ -93,7 +80,6 @@
 ||api-access.pangolin-sdk-toutiao-*.com^
 ||app-analytics-*.snapchat.com^
 ||appanalysis*.banggood.com^
-||assoc-amazon.*^e/ir?t=$image
 ||at*.doubanio.com^
 ||at*.doubanio.com^
 ||atanx*.alicdn.com^
@@ -143,7 +129,6 @@
 ||clk.rtpdn*.com^$all
 ||clog*.yuanfudao.com^
 ||collect.*.miui.com^
-||collector-*.elb.amazonaws.com^$image,third-party
 ||collector-*.perimeterx.net^
 ||collector-*.px-cdn.net^
 ||collector-*.px-client.net^
@@ -163,7 +148,6 @@
 ||d*.xinshipu.com^
 ||das.*.youku.com^
 ||datacollect*.abtasty.com^
-||datacollect*.abtasty.com^$third-party
 ||datacollector-*.dt.hicloud.com^
 ||device-metrics-*.amazon.com^
 ||discord*.gift^$all,~discord.gift
@@ -222,10 +206,8 @@
 ||im*-tub-ru.yandex.net^$domain=russian-porn.ru
 ||images.*.criteo.net^$domain=spiegel.de
 ||images.*.criteo.net^$domain=spiegel.de
-||img*.hc360.com^$subdocument
 ||img*.hc360.com^*.swf
 ||img*.hc360.com^*.swf
-||img*.idongde.com^
 ||img.*mk.cn^$domain=avtbf.com
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
@@ -239,12 +221,10 @@
 ||ja*.gamersky.com^
 ||ja*.gamersky.com^
 ||jessica.*.net^
-||jfsdiwmnbsk*.top^
 ||js*.abolezi.com^
 ||js*.abolezi.com^
 ||katie.*.com^
 ||katie.*.net^
-||lic*.ultraedit.com^
 ||lidl.*^$removeparam=flyx
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
@@ -253,7 +233,6 @@
 ||livetracker.*.pangea-cms.com^
 ||liveweb*.msstatic.com^
 ||log*-misc-lf.amemv.com^
-||log*-misc-lq.amemv.com^
 ||log*-normal-lq.toutiaoapi.com^
 ||log*.aliyuncs.com^
 ||log*.happymod.com^
@@ -278,7 +257,6 @@
 ||mediate-ios-*.hyprmx.com^
 ||metric*.rediff.com^
 ||metrics*.fitanalytics.com^
-||metro-trending-*.amazonaws.com^$third-party
 ||mf*.advantage.as^
 ||mf*.advantage.as^$third-party
 ||mf*.advantage.as^$third-party
@@ -334,7 +312,6 @@
 ||s*.web.flashx.co^
 ||s*.web.flashx.co^
 ||s*a.pstatp.com^
-||s.ssl.qhres*.com^
 ||sam*.baby-kingdom.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
@@ -348,12 +325,8 @@
 ||seed-*.nimiq.network^$third-party
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
-||service*.ap-guangzhou.apigateway.myqcloud.com^
 ||sf*-be-pack.pglstatp-toutiao.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
-||sf*-fe-tos.pglstatp-toutiao.com^$app=com.ruanmei.ithome
-||sf*-scmcdn-tos.pstatp.com^
-||sf*-ttcdn-tos.pstatp.com^
 ||snowplow-collector-*.amazonaws.com^
 ||sock*-goguardian.pusher.com^
 ||ssh.*.com^*!$script,third-party
@@ -397,8 +370,6 @@
 ||v*.sitecounter.site^
 ||v.newsportal*.ru^
 ||v.tzbox*.xyz^
-||vali*.cibntv.net^*.mp4?$media,rewrite=abp-resource:blank-mp3,domain=player.youku.com
-||video-err-log-*.cos.ap-beijing.myqcloud.com^
 ||vix.*.criteo.net^$domain=spiegel.de
 ||vix.*.criteo.net^$domain=spiegel.de
 ||w*statistics.info^
@@ -409,9 +380,5 @@
 ||www.fuze-sea*.xyz^$popup
 ||www.fuze-sea*.xyz^$popup
 ||xlog*-*.tiktokv.com^
-||xmh4*.com^
 ||ya*.dwstatic.com^
 ||ya*.dwstatic.com^
-||zhenbu*.com^$replace=/(dlads|getElementsByTagName|9d\.js|byteimg|\d+?\.vip|let\s+?UA|aliyuncs)//i
-||zhenbu*.com^$replace=/(window\.open\(\'http:\/\/789htbet\.vip\'\))//
-||zhenbu*.com^$replace=/qq\.com//

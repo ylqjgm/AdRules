@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: XauG6nHq3EooYB6TvmzydQ
+! Checksum: NHGla4/DIFbO11uvvc8CgQ
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-03 23:37:35（北京时间） 
-! Total count: 93156
+! Version: 2022-06-04 00:49:00（北京时间） 
+! Total count: 93153
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -27168,7 +27168,6 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @||crunchyroll.com/*/ads_enabled_flag*.js$script
 Banner468x60
 MoBi*.baidu.js$script,third-party
-^
 ^monitor.jpg?xcode^
 ^p=1^$removeparam=p,domain=bilibili.com
 ^presentid=webnews^$removeparam=presentid
@@ -28148,7 +28147,6 @@ api.so.lianmeng.360.cn,pos.baidu.com##body
 api.youtube-mp3.org.in##+js(window.open-defuser)
 apiref.com###navbarRightAd
 apiref.com,iodraw.com,matools.com###popAd
-apis/flowingboard/item/m_home_
 apisgame.iqiyi.com
 apiyt.com##+js(window.open-defuser)
 apk.tw###confirmOverla
@@ -35018,7 +35016,6 @@ i.qq.com##.linwei-logo
 i.qq.com##.linwei-txt
 i8k.cc##.module-adslist
 iafd.com##.bancol
-iajiao.com###yueyu3
 iamgujarat.com##.esi_ads_widget
 iamgujarat.com#?#div:-abp-has(> h2:-abp-contains(FROM WEB))
 iamgujarat.com,indiatimes.com,samayam.com,vijaykarnataka.com##.colombia
