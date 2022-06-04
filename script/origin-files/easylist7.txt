@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202206030235
+! Version: 202206040219
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26797
+! Lenth = 26806
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -539,6 +539,7 @@
 ##.chat-sysbroadcast-ad
 ##.chat-top-ad
 ##.col-ad
+##.col-lg-3 > .well[data-height="250"][data-width="300"]
 ##.col-md-10 > .banner-table-block
 ##.col5 > dl#randomBox
 ##.comiis_ad
@@ -1238,9 +1239,9 @@
 ##div[onclick*="?i_code="]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[onclick^="window.location.href"][onclick*=".haoyundm.com"]
-##div[style=" max-width:974px;  margin:0 auto;"] > a > img[height="60px"]
-##div[style=" max-width:977px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:977px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:975px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:978px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:978px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="border-radius:8px;background-color:#005737;padding:6px;"]
 ##div[style="box-sizing:border-box;padding:20px 16px;border-radius:8px;width:90%;margin:0 auto;"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
@@ -2908,7 +2909,6 @@ $websocket,domain=5nj.com|cechi8.com
 18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href*=".taobao.com"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href^="http"]:not([href*="18comic."]) > img
-18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="250"][data-width="300"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
 18comic.org,18comic.vip,18comic1.art,18comic2.art##div[style^="position: fixed; top:"]
 18comic.vip##div[data-group^="skyscraper_"]
@@ -9006,6 +9006,7 @@ moe.best###rcm_sidebar
 moe.best##.alert
 moe.best##.markdown-body + div[style="text-align:center;margin-top:40px"]
 moe.gov.cn,qspfw.com#@#.ad_title
+moeci.com#%#//scriptlet('prevent-setTimeout', '_0x')
 moerats.com##div[style="box-shadow: 1px 1px 5px 5px rgba(17, 150, 196, 0.35);border-radius: 15px;"]
 molure.cn##.adplan
 money18.on.cc#@#.ads-bg
@@ -15020,6 +15021,7 @@ zznews.cn##.ad:not([style])
 ||blackbar.cn^
 ||blb2s77r.cn^
 ||blcobmv.cn^
+||blingbling.wiki^
 ||bllbvv.xyz^
 ||bllzgqbyp.com^
 ||blockai.me^
@@ -15842,6 +15844,7 @@ zznews.cn##.ad:not([style])
 ||coolaler.com/index_ads/
 ||coolbook.cc^
 ||coolfenxi.com^
+||coolfuture.xyz^
 ||coolguy.store^
 ||coolhii.com/gongzhong/
 ||coolpc.com.tw/home/img/right2.html
@@ -16367,6 +16370,7 @@ zznews.cn##.ad:not([style])
 ||djymht.cn^
 ||djzwrfi.cn^
 ||dk2323dk.xyz^
+||dkfixj.xyz^
 ||dkfmhv.xyz^
 ||dkgmgj.xyz^
 ||dkifl.com^
@@ -16793,6 +16797,7 @@ zznews.cn##.ad:not([style])
 ||edajot.cn^
 ||edenhermosa.com^
 ||edetzmh.cn^
+||edison.love^
 ||ediun.com^
 ||edmontonchina.*/pic/
 ||edo5.com^
@@ -18290,6 +18295,7 @@ zznews.cn##.ad:not([style])
 ||holidayhappy.online^
 ||holyyjs.xyz^
 ||homchang.site^
+||homeieped.cn^
 ||homfen.me^
 ||hongbao456.ink^
 ||hongchenzhilu.com^
@@ -18774,6 +18780,7 @@ zznews.cn##.ad:not([style])
 ||imall.cctv.com^
 ||imall.cntv.cn^
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,important,domain=linetv.tw
+||imdvisual.ltd^
 ||imedown.info/03.jpg
 ||imedown.info^*.gif
 ||imeee.cn/DA_HTML/*.js
@@ -22098,6 +22105,7 @@ zznews.cn##.ad:not([style])
 ||qgbtd.com^
 ||qgdvyvd.cn^
 ||qgfdqjf.cn^
+||qgfwets.cn^
 ||qgjapp.com^
 ||qgqxzs.net^
 ||qgss8.com^
@@ -26124,6 +26132,7 @@ zznews.cn##.ad:not([style])
 ||ywg.jobui.com^
 ||ywjxsp168.cn^
 ||ywqpgy.com^
+||ywsywh.cn^
 ||ywxi.net^
 ||ywzkiug.cn^
 ||yx-w.com/1122in/619x93.js

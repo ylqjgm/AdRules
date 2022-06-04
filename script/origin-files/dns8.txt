@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: p/46mT3ZAwi2U0u2tkQEPQ
+! Checksum: tirU3QP/HFBN+qNVxaXfRA
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206040133
-! Last modified: 2022-06-04 01:33 UTC
+! Version: 202206040733
+! Last modified: 2022-06-04 07:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32590,6 +32590,7 @@ tf2r.com#@#.adverts
 ||74adf02407.com^
 ||74b1447c32.com^
 ||750industries.com^
+||75abf77682.com^
 ||75bb9a4031.com^
 ||75f7e171e0.com^
 ||7705a9f168.com^
@@ -42364,6 +42365,7 @@ tf2r.com#@#.adverts
 ||newthuads.com^
 ||newtontanrec.casa^
 ||nextgencounter.com^
+||neyhdjwpumivpa.com^
 ||nezttolpyroty.com^
 ||nfadiivfibqrk.com^
 ||nfcrxfkbhuwrnrt.xyz^
@@ -43918,6 +43920,7 @@ tf2r.com#@#.adverts
 ||postbacks.net^
 ||postlnk.com^
 ||postrelease.com^
+||posttrendingblog.com^
 ||postupset.com^
 ||postureconstituent.com^
 ||potaffableeaten.com^
@@ -48944,6 +48947,7 @@ tf2r.com#@#.adverts
 ||xmjvcgaawkqllg.top^
 ||xml-api.online^
 ||xmlads.bid^
+||xmlapiclickredirect.com^
 ||xmlgrab.com^
 ||xmllover.com^
 ||xmlppcbuzz.com^
@@ -49347,6 +49351,7 @@ tf2r.com#@#.adverts
 ||zdcuivnen.com^
 ||zddxlih.com^
 ||zdicbpujzjps.com^
+||zdsfnagupwkztl.com^
 ||zdyldoijanx.com^
 ||zeads.com^
 ||zealotsick.com^
@@ -49573,6 +49578,7 @@ tf2r.com#@#.adverts
 ||ad-slot.ru^$third-party
 ||ad-sponsor.com^$third-party
 ||ad-stir.com^$third-party
+||ad.plus^$third-party
 ||ad.style^$third-party
 ||ad20.net^$third-party
 ||ad2adnetwork.biz^$third-party
@@ -52958,6 +52964,7 @@ tf2r.com#@#.adverts
 ||xcsypkknp.com^$popup
 ||xegroxenu.com^$popup
 ||xml-api.online^$popup
+||xmlapiclickredirect.com^$popup
 ||xtendmedia.com^$popup
 ||xudawhuwa.com^$popup
 ||xuxihoy.ru^$popup
@@ -55325,7 +55332,7 @@ tf2r.com#@#.adverts
 ||staticflickr.com/ap/build/javascripts/prbd-$script,domain=flickr.com
 ||steamanalyst.com/www
 ||strcloud.club/mainstream
-||streamoupload.com/api/spots/$script,domain=flizmovies.cc
+||streamoupload.*/api/spots/$script
 ||streams.tv/js/slidingbanner.js
 ||streamtape.com/adult
 ||streamtape.site/adult
@@ -55984,6 +55991,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockstreamtape.a
 ||manga18fx.com/nevmmm
 ||manhwa18.cc/bmoa/bmoa_frder.js
 ||mansurfer.com/flash_promo/
+||mature-chicks.com/sparkling-
 ||matureworld.ws/images/banners/
 ||milffox.com/ab-s.js
 ||milffox.com/local_su.js
@@ -56189,6 +56197,7 @@ physicsandmathstutor.com###PMT_PDF_Top
 physicsandmathstutor.com###PMT_Top
 point2homes.com,propertyshark.com###Point2Homes_Premium_Agent_Replace_300x250
 audioz.download###PromoHead
+sciencealert.com###Purch_D_R_0_1
 fortune.com###RightRailFlex_Articles0
 calculatorsoup.com###RightSidebar
 soapcalc.net###SidebarLeft
@@ -60799,6 +60808,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||improvedigital.com/pbw/headerlift.min.js$domain=games.co.uk|zigiz.com
 @@||infotel.ca/images/ads/$image,~third-party
 @@||infoworld.com/www/js/ads/gpt_includes.js$~third-party
+@@||ipinfo.io/static/images/use-cases/adtech.jpg$image,~third-party
 @@||island.lk/userfiles/image/danweem/island.gif
 @@||itv.com/itv/hserver/*/site=itv/$xmlhttprequest
 @@||itv.com/itv/tserver/$~third-party
@@ -93572,51 +93582,26 @@ _revotas_push.
 /icoSocialB.
 /icosocialbar.
 /icotwitter.
-/ie-share-
 /ig-socials.
-/ig_icon.
-/im_sns_
 /image/share-
 /image/share_
 /image/social_
-/images/fb-
-/images/fb.
-/images/fb1.
-/images/fb_
 /images/gplus-
 /images/instagram-
 /images/instagram_
 /images/pinterest-$domain=~pinterest.com
 /images/Pinterest_$domain=~pinterest.com
 /images/reddit-
-/images/share-
-/images/share.
-/images/share/*
-/images/share_
-/images/sharing-
-/images/sociable/*
-/images/social-
-/images/social.
-/images/social/*
-/images/social_$image
-/images/socials/*
-/images/soicial/*
 /images/tmblur.
 /images/tumblr-
-/images/tw_
 /images/vimeo-
 /images/whtapp-
 /images/youtube-
 /images/youtube_
-/Images2/fb.
-/Images2/gp.
-/Images2/tw.
 /img-social-
 /img/facebook-
 /img/facebook.
 /img/facebook_
-/img/fb.
-/img/fb_
 /img/gplus_
 /img/instagram-
 /img/instragram.
@@ -93629,16 +93614,12 @@ _revotas_push.
 /img/social/*$image
 /img/social_
 /img/tumblr-
-/img/tw.
 /img/tweeter_
 /img/twitter-
 /img/twitter.
 /img/twitter_
 /imgs/facebook.
 /imgs/twitter.
-/in-icon.
-/IN-top-
-/in_icon.
 /include/twitter/*
 /insta-icon-
 /instafeed.min.js
@@ -93678,7 +93659,6 @@ _revotas_push.
 /like-follow.
 /like-follow_
 /like-share.
-/like-us.
 /like_bttn_
 /like_button.
 /like_fb.
@@ -93989,7 +93969,6 @@ _revotas_push.
 /share/mail.
 /share/plusone.
 /share/reddit.
-/share/share_
 /share/svg/*
 /share/tools_
 /share/twitter.
@@ -94520,8 +94499,6 @@ _revotas_push.
 /socialshare_
 /socialShareCount.
 /SocialSharePlugin.
-/socialshareprivacy-
-/socialshareprivacy/*$~script,~stylesheet
 /socialshares.
 /SocialShareSprite.
 /socialsharing.
@@ -111485,6 +111462,7 @@ _subscribers_newsletters/
 ##a[name="sharethis"]
 ##a[onclick^="doSocialShare"]
 ##a[onclick^="javascript:window.open('https://twitter.com/intent/tweet?"]
+##a[onclick^="javascript:window.open('https://www.facebook.com/sharer/"]
 ##a[onclick^="popUp=window.open('http://pinterest.com/pin/create/button/"]
 ##a[onclick^="popUp=window.open('http://www.tumblr.com/share/"]
 ##a[onclick^="popUp=window.open('https://plus.google.com/share?"]
@@ -133129,6 +133107,7 @@ meilleurmobile.com##.mm_scrollable_bloc
 smartplanet.com,techrepublic.com,zdnet.com##.mmode-reg-hide
 cbsnews.com##.mnRightRailConnect
 letribunaldunet.fr##.mo-has-email
+time.com##.mobile-anchor-container
 aliexpress.com##.mobile-app
 dailymail.co.uk##.mobile-gallery-instruction
 trendhunter.com##.mobile-open
@@ -134330,7 +134309,7 @@ narita-transit-program.jp###site-scrolltop
 irusa.org###slide_top
 oneplus.com###sticky-tools-btn
 bbgsite.com###tipGoTop
-popmythology.com###toTop
+mieuxvivresante.fr,popmythology.com,pourquoidocteur.fr###toTop
 bd.com,howtogermany.com,livelaw.in,vpnranks.com###top
 staradvertiser.com###top-anchor
 angelshack.co.za,avemariaradio.net,motorscribes.com###top-link
@@ -144640,7 +144619,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||allocine.fr^*/picto_social.png
 @@||alloyentertainment.com/wp-content/*/thumbs/$image
 @@||alternativeto.net/dist/icons/$image
-@@||amazonaws.com/etc/designs/slate/images/social/$domain=slate.com
 @@||amazonaws.com/ghuser/data/$xmlhttprequest,domain=ghuser.io
 @@||amazonaws.com/images/$image,domain=wordsquared.com
 @@||amazonaws.com/img/facebook_small.$image,domain=ticketabc.com
@@ -144658,7 +144636,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||arcgis.com/apps/Nearby/app/components/Share/$~third-party
 @@||archiveteam.org^$generichide
 @@||arhn.eu/wp-content/themes/socialize/$~third-party
-@@||arte.tv/images/social-sprite.png$domain=arte.tv
 @@||asos.com/Content/images/*-ico
 @@||assets.civilcomments.com/v1/images/facebook_$image
 @@||assets.civilcomments.com/v1/images/twitter_$image
@@ -144676,14 +144653,12 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||battleforthenet.com/images/logos/$domain=battleforthenet.com
 @@||bauen-und-heimwerken.de/plugins/content/myshariff/js/shariff.min.js
 @@||bdstatic.com^*/share_$domain=baidu.com
-@@||beacons.ai/images/social_icons/$image,~third-party
 @@||bento.de/upload/images/_*-Instagram.$domain=bento.de
 @@||bento.de/upload/images/_*/facebook-$domain=bento.de
 @@||bitbucket-connect-icons.s3.amazonaws.com^$image,domain=bitbucket.org
 @@||bittorrent.com/public/min/index.php?ipbv=*/socialicons.css
 @@||bluejeans.com^*/images/auth/$image
 @@||bnf.fr/assets/*/sociallinks_controller.js$script
-@@||bookdown.org/*/images/social-
 @@||bpm-power.com/static/templates/it/boxes/socialSharing.html?$xmlhttprequest
 @@||bramkasms.pl/templates/ja_social/$image
 @@||brave.com/wp-content/uploads/$image,~third-party
@@ -144708,7 +144683,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||cloudfront.net/assets/icons/gplus_icon-$domain=runtastic.com
 @@||cloudfront.net/assets/index/btn_facebook_$domain=myfitnesspal.com
 @@||cloudfront.net/images/$image,domain=crowdin.net|hockeyapp.net|trello.com
-@@||cloudfront.net/liveblog/modules/login/images/social_icons.png
 @@||cloudfront.net/meta/p/res/images/$image,domain=trello.com
 @@||cloudfront.net/s/images/facebook-login.png
 @@||cloudfront.net/s/images/twitter-signin.png
@@ -144721,16 +144695,13 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||cnn.com/cnnnext/*-social-$image
 @@||comelitgroup.com/wp-content/themes/comelitgroup/includes/js/instafeed.min.js$~third-party
 @@||comelitgroup.com/wp-content/themes/comelitgroup/includes/js/SocialShare.min.js$~third-party
-@@||copdfoundation.org/Portals/_default/Skins/COPDF/images/social-1.jpg
 @@||corriereobjects.it^*/socialshare.js?$domain=video.corriere.it
 @@||corrupt-a-file.net/assets/images/icons/google-drive_$image,~third-party
 @@||cotrip.org/images/common/$image,~third-party
 @@||coursehero.com/min/?f=*/social_share_tracking.js$domain=coursehero.com
 @@||coveritlive.com/templates/coveritlive/images/twitter_$~third-party
-@@||crowdin.net/images/social/
 @@||curelost.com/logo/$image,~third-party
 @@||customer.xfinity.com^*/EmailShare.js$~third-party
-@@||cymot.com/assets/images/share/ajax-loader.gif
 @@||dadaviz.com/static/bower_components/core-icons/social-icons.html
 @@||daddydesign.com/*/wp-social-toolbar/
 @@||darkpatterns.org/images/*Facebook$image
@@ -144785,7 +144756,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||facebook.com/plugins/facepile.php?$domain=gu-facebook.appspot.com
 @@||facebook.com/plugins/likebox.php?$domain=colbertnation.com|rafflecopter.com|thedailyshow.com
 @@||facebook.com/plugins/recommendations.php?$subdocument,domain=techcrunch.com
-@@||facebook.com/share/share_now_menu/$xmlhttprequest,domain=facebook.com
 @@||facebook.com^*/like.php?$domain=archivedbook.com|e-biznes.pl|farmville.com|gmx.net|gu-facebook.appspot.com|home.1und1.de|likearea.com|porn99.net|web.de
 @@||facebook.com^*/plugins/page.php?$domain=cieplikpodrozuje.pl|fashionvoyager.pl|majkrafci.pl|makulscy.com
 @@||facebook.tracking.exposed/images/$image,domain=facebook.tracking.exposed
@@ -144815,20 +144785,16 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||friendfeed.com/static/images/icons/$~third-party
 @@||fyre.co/*/facebook_share_post.png
 @@||gamingsociety.pl/wp-content/themes/$image
-@@||garticphone.com/images/share/$image,~third-party
 @@||gcdn.co^*/social-sprite.webp$image,domain=tut.by
 @@||ge.tt/s/images/twitter-extension-icon.png
 @@||ge.tt/s/images/twitter-signin.png
 @@||gearbest.com/imagecache/*/images/styleimg/share.png
 @@||gen.jut.su/jcdn/minify?charset=*/videojs-share.$script,stylesheet,domain=jut.su
 @@||geocaching.su/images/ctypes/icons/googlemap/$image,~third-party
-@@||getmyapp.link/content/images/share/$image,~third-party
 @@||gfycat.com^*/sharepage-*.js$script
 @@||ghacks.net/wp-content/uploads/*/google-plus-
 @@||gigya.com/gs/i/shareBar/icons/$image
 @@||gigya.com/gs/sso.htm$domain=redbull.com|tomshardware.com
-@@||gilt.com/images/share/$image
-@@||giltcdn.com/images/share/uploads/$image
 @@||git-scm.com/images/company-project-logos/$image
 @@||github.com^$generichide
 @@||github.io^$generichide
@@ -144837,14 +144803,12 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||gmclan.org^*/images/fb_$image
 @@||golem.de/_img/btn-follow-
 @@||golem.de/staticrl/images/icons-social.png
-@@||golem.de/staticrl/images/social_flattr_
 @@||google.*-youtube.jpg
 @@||google.*/gplus-64.png
 @@||google.*/images/*/social/$image,~third-party
 @@||google.*/images/google-$image,~third-party
 @@||google.*/retailer_google.png
 @@||google.com/analytics/images/*_social.png
-@@||google.com/analytics/images/social.png
 @@||google.com/js/platform.js$domain=hiphopwired.com|listenonrepeat.com|log84.de
 @@||googleapis.com/gweb-uniblog-publish-prod/static/blog/images/google-$domain=blog.google
 @@||googleapis.com/hiveweb/img/icon_facebook.svg$domain=hive.im
@@ -144855,7 +144819,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||gorod-812.ru/wp-content/plugins/easy-vkontakte-connect/js/social-likes.min.js
 @@||graphiq.com^*/Social_$image,domain=insidegov.com
 @@||greenhouse.io/assets/social_media_$script,domain=greenhouse.io
-@@||gstatic.com/chrome/webstore/images/share_$domain=google.com
 @@||gstatic.com/images/branding/$image
 @@||gstatic.com/productsearch/static/social/$domain=google.com
 @@||gstatic.com^*/images/google-$domain=google.com
@@ -144870,13 +144833,11 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||hotflicknet.s3.amazonaws.com^*-social-$image
 @@||hrcdn.net/community-frontend/assets/$image,domain=hackerrank.com
 @@||hrwiki.org^*youtube.png
-@@||huffpost.com/images/social-profile/lightbox/snn_lightbox_close.png
 @@||hulu.com/images/btn-facebook$image
 @@||hyperurl.co/_static/images/streaming/$image,domain=hyperurl.co
 @@||hypetrak.com/images/*facebook
 @@||hypetrak.com/images/*twitter
 @@||i.po.st/static/v3/post-widget.js$domain=seenive.com
-@@||i.ua/*/ico/share/share$domain=passport.i.ua
 @@||iconfinder.com/data/icons/$~third-party
 @@||iconizer.net/files/*_social_$image
 @@||iconpedia.net/uploads/$image,third-party
@@ -144942,8 +144903,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||lurkmore.*/images/FB_small.png$~third-party
 @@||lurkmore.so/images/*/Twitter-$~third-party
 @@||lurkmore.so/images/*YouTube.png$~third-party
-@@||m.yabber.cloud/images/social/$image,domain=allboxing.ru|rusvesna.su
-@@||magic.link/images/share.svg
 @@||manworldmediacdn.com/data/galleries/*-social-$image
 @@||marketplace.cdn.mozilla.net/media/fireplace/img/icons/brands/social-$image
 @@||maroelamedia.co.za^*/ultimate-social-deux/*/jquery.tooltipster-min.js
@@ -144986,7 +144945,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||nextinpact.com/js/socialbar.js
 @@||nextinpact.com/public/min/index.php?*social$stylesheet
 @@||nhk.or.jp/common/sns/nol_share.js$script,~third-party
-@@||notebookcheck.com^*/jquery.socialshareprivacy.min.js
 @@||nouvelobs.com/sites/all/themes/rue89base/css/img/share/bg-tools.png
 @@||nutshell.com/media/images-landing/integration-logo-$~third-party
 @@||nyt.com^*/sharetools.js$domain=nytimes.com
@@ -144997,7 +144955,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||oklivetv.com/wp-content/plugins/facebook-page-promoter-lightbox/$script
 @@||oko-planet.su/templates/*/images/ratingplus.png$image,~third-party
 @@||onesecond.designly.com/img/*.gif$~third-party
-@@||onlainporno.online^*/images/share/$image,~third-party
 @@||onlyfans.com^*/img/btn_$domain=onlyfans.com
 @@||opensat4all.com/forums/public/$stylesheet
 @@||origin.com/views/socialmedia.html$xmlhttprequest,domain=origin.com
@@ -145016,7 +144973,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||picozu.com/r/images/windows/intro/facebook.png
 @@||pinterest.com/images/about/buttons/$domain=pinterest.com
 @@||pinterest.com/js/pinit.js$domain=glamour.com|shape.com
-@@||pinterest.com^*/desktop/images/social$~third-party
 @@||pioneerelectronics.com/piocda/templates/*.svg
 @@||platform.linkedin.com/in.js$domain=businessinsider.com
 @@||platform.twitter.com/anywhere.js?$domain=ge.tt|mtv.com|pennsundayschool.com|projects.wsj.com|soychile.cl
@@ -145037,7 +144993,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||podaj.to/images/$image,~third-party
 @@||podaj.to/thumbs/$image,~third-party
 @@||podcasts.joerogan.net^*/sharetools.js
-@@||pollland.nl^*/share/js/jquery
 @@||popsters.ru/assets/images/fb-login-btn.png
 @@||popsters.ru/assets/images/graph/share.png
 @@||popsters.us/assets/images/fb-login-btn.png
@@ -145052,7 +145007,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||projectevolove.com/application/themes/clean/images/with_facebook.png
 @@||pximg.net/www/images/accounts_index/icon-*.svg?$image,domain=pixiv.net
 @@||quilt.janrain.com/*/linkedin.png
-@@||qupeiyin.com/Home/images/share/play.png$image,~third-party
 @@||qz.com/images/buttons/sign-in-with-twitter.png
 @@||qzonestyle.gtimg.cn/qz-proj/wy-pc-v3/static/img/svg/act/icon-share.svg
 @@||rambler.ru/public-icons/$image
@@ -145067,8 +145021,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||reddit.com/static/button/button1.js$domain=redditblog.com
 @@||redhat.com^*/socialmedia/
 @@||reformgovernmentsurveillance.com/images/resized-icons/
-@@||ren-tv.com/img/images/social/icoFb.png
-@@||ren-tv.com/img/images/social/icoVk.png
 @@||repstatic.it/cless/premium/2017-v1/img/repubblica/btn_fb.png
 @@||restream.io/img/$image
 @@||restream.io^$generichide
@@ -145088,8 +145040,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||s7.addthis.com^*/addthis_widget.js*async=$domain=koeln.de|moneytalksnews.com
 @@||s7.addthis.com^*/addthis_widget.js*username=$domain=iamsecond.com
 @@||salon.com/combo/js?*/share-buttons.js$script
-@@||schluetersche.de/global/js/libs/jquery/plugins/socialshareprivacy/jquery.socialshareprivacy.min.js
-@@||scribblelive.com/liveblog/modules/login/images/social_icons.png
 @@||search.twitter.com/search.json?$domain=colbertnation.com|similarpages.com|thedailyshow.com
 @@||search.us.com/resources/img/facebook_btn.png
 @@||secondhandsongs.com/art/icons/youtube.png
@@ -145102,13 +145052,11 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||sharethis.com/button/sharethis.js$domain=statefarm.com|vogue.com
 @@||sharethis.com/getsegment.php$domain=cnn.com
 @@||sharethis.com^$domain=colbertnation.com|fandango.com|fox23.com|imgur.com|salon.com|thedailybeast.com|thedailyshow.com
-@@||sharetv.com/images/social_login/$image,~third-party
 @@||shopify.com^*/instafeed.min.js$script,domain=cheekyclean.co.nz|waisttrainer.co.nz
 @@||sk-static.com/assets/facebook-$image,domain=songkick.com
 @@||sk-static.com/assets/nw/components/taste-import/fb-icon-$domain=songkick.com
 @@||sk-static.com/assets/nw/elements/social-buttons/$domain=songkick.com
 @@||skiddoo.com.au/min/*/social-buttons.css
-@@||slidesharecdn.com/images/share_icon_transparent.png$domain=slideshare.net
 @@||slidesharecdn.com^*/linkedin-$image,domain=slideshare.net
 @@||sndcdn.com/images/connect_social.png$domain=soundcloud.com
 @@||social.krunker.io^$~third-party
@@ -145118,7 +145066,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||softpedia-static.com/images/*-Google-plus-$image,domain=softpedia.com
 @@||solidopinion.com/wp-content/*/social.jpg
 @@||sonniesedge.co.uk/images/posts/$image,domain=sonniesedge.co.uk
-@@||spardaspendenwahl.de^*/jquery.socialshareprivacy.min.js
 @@||spiceworks.com/assets/community/icons/social/$image
 @@||spiceworks.com/assets/community/join/$image
 @@||spotify.edgekey.net^*/images/facebook-sm.png$domain=spotify.com
@@ -145141,7 +145088,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||steelseries.com/bundles/spoutlet/js/SocialShare.min.js
 @@||stipple.cachefly.net^$domain=stipple.com
 @@||stlouis-mo.gov/images/Social-Distancing-$~third-party
-@@||storage.onlainporno1.online^*/images/share/$image,~third-party
 @@||stuff.co.nz/video/*.mp4$media
 @@||style.aliunicorn.com/js/$script,domain=alibaba.com
 @@||supermicro.com^*/static/share/$script,stylesheet
@@ -145150,7 +145096,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||swappa.com/static/icons/social/login_$image
 @@||swiso.org^$generichide
 @@||switching.software^$generichide
-@@||symantec.com/content/*/about/images/social/b-$image
 @@||t3n.de/news/wp-content/uploads/*/social_media_
 @@||tabletowo.pl/wp-content/uploads/$image
 @@||teamquest.pl/img/static/$image
@@ -145166,7 +145111,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||thecompany.pl/graf/icons/youtube.png
 @@||theinterview-movie.com/images/btn_youtube.png
 @@||themobileplaybook.com/assets-v2/images/google-mobile-playbook*.png
-@@||themobileplaybook.com/assets-v2/images/share.png
 @@||theworld.org/_next/static/chunks/lib-pages/_app-facebook.js
 @@||thimble.mozilla.org^$generichide,~third-party
 @@||thrusto.com/images/fb-icon.png
@@ -145203,7 +145147,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||twofactorauth.org^$generichide
 @@||twofactorauth.org^*/social/
 @@||underverse.su/min/index.php*/js/share42.js
-@@||ups.com/assets/resources/images/social.png$domain=ups.com
 @@||utdstc.com/icons/$image,domain=uptodown.com
 @@||via-midgard.com/min/?*,image_social_icon.$script,stylesheet,~third-party
 @@||vidiload.com/media/banners/fblike.png$domain=vidiload.com
@@ -145225,7 +145168,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||wavebox.io^$generichide
 @@||weather.com/cssRollup?
 @@||weather.com/jsRollup?
-@@||weser-kurier.de/stellen/riot-utils/joined.js?*/socialshareprivacy/
 @@||wettercomassets.com/wcomv5/images/footer/$domain=wetter.com
 @@||wfcdn.de^*/social_icons.png$domain=winfuture.de
 @@||whatismyip.com/wp-content/plugins/social-network-tabs/$stylesheet
@@ -145235,12 +145177,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||wincert.net/forum/public/min/index.php?$stylesheet,domain=wincert.net
 @@||wips.com/www/images/Admin/Create/$image
 @@||wiwa.info.pl/images/Youtube_$image
-@@||wn-gruesse.de^*/socialshareprivacy/$script
-@@||wn-immo.de^*/socialshareprivacy/$script
-@@||wn-jobs.de^*/socialshareprivacy/$script
-@@||wn-markt.de^*/socialshareprivacy/$script
-@@||wn-mobil.de^*/socialshareprivacy/$script
-@@||wn-trauer.de^*/socialshareprivacy/$script
 @@||womansday.com/cm/shared/social/social_tools-LL.js
 @@||workflowy.com^*/hatching_twitter.png
 @@||worldwidedx.com/attachments/$image,~third-party
@@ -145261,11 +145197,8 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||xda-developers.com^*/google-plus-login-small.png
 @@||xing-share.com/plugins/$script,stylesheet
 @@||xkcd.com/comics/$image,~third-party
-@@||xmarks.com/share/share_$~third-party
 @@||xssposed.org/images/design/sign-in-with-twitter-gray.png
 @@||y2mate.com/themes/images/tip-download-youtube.jpg$image
-@@||yabber.cloud/images/social/$image,domain=rusvesna.su
-@@||yandex.st/share/share.js$domain=66.ru|vnukovo.ru
 @@||yap.ru/html/static/share/$image,~third-party
 @@||yaplakal.com/html/static/$image,~third-party
 @@||yarobleirc.ru/bitrix/templates/yarobleirc/js/twitterFetcher_min.js
@@ -145283,9 +145216,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||zillowstatic.com^*-google-plus-$script,domain=zillow.com
 ! "Muzli - Design Breakfast" Chrome new tab extension (https://chrome.google.com/webstore/detail/muzli-design-breakfast/glcipcfhmopcgidicgdociohdoicpdfc)
 @@||aquest.it/images/aq_facebook.jpg
-@@||evil-icons.io/assets/images/social.png
 @@||grouek.com/images/fb.jpg
-@@||material.cmiscm.com/images/share.png
 @@||privacypal.co/assets/img/fb.jpg
 @@||volkswagen-electrique.fr/img/share/share.jpg
 ! fanboy_newsletter_allowlist.txt
