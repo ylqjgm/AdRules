@@ -27,33 +27,33 @@
 
  This is a list of advertising filters based on the Chinese area, achieving a relatively accurate advertising shield. 
 
- Our principles are: **Remove Advertising!**
+ Our principles are: **Remove ADs!**
 ### 📃 Rule list
 
 **If you are in China, please use the Coding link, and use the RAW link.**
 |   Rule name   | 🚀Raw | 🚀 Coding  | 
 |  :----:  | :----:  | :----:  | 
-| AdRules (For AdBlock) | [Link](https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)|[Link](https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt) |
-| AdRules (For AdGuard) | [Link](https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard.txt)|[Link](https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adguard.txt)|
-| AdRules (For DNS) | [Link](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)|[Link](https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt) |
-| AdRules (For Adaway) | [Link](https://raw.githubusercontent.com/Cats-Team/AdRules/main/hosts.txt)|[Link](https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/hosts.txt) |
+| AdRules AdBlock List| [Link](https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt)|[Link](https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt) |
+| AdRules AdGuard Filter List | [Link](https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard.txt)|[Link](https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adguard.txt)|
+| AdRules DNS List | [Link](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt)|[Link](https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/dns.txt) |
+| AdRules Hosts List| [Link](https://raw.githubusercontent.com/Cats-Team/AdRules/main/hosts.txt)|[Link](https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/hosts.txt) |
 | AdRules Allowlist | [Link](https://raw.githubusercontent.com/Cats-Team/AdRules/main/allow.txt)|[Link](https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/allow.txt)|
 | AdRules AdBlock Full List | [Link](https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock+adguard.txt)|[Link](https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock+adguard.txt) |
 | AdRules AdGuard Full List | [Link](https://raw.githubusercontent.com/Cats-Team/AdRules/main/adguard-full.txt)|[Link](https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adguard-full.txt)|
 
 #### rule Description: 
- - **Ad Rules (for ad bar):** - 
+ - **AdRules AdBlock List:** - 
  From the upstream list rules, some supplemental rules have been added 
- - **AD guard:** - 
- Combine from the Ad Guard filter, no modifications, only for AdGuard 
- - **AD Rules (for DNS) and Ad Rules (for adaway):** - 
+ - **AdRules AdGuard Filter List:** - 
+ Combine from the AdGuard filter, no modifications, only for AdGuard 
+ - **AdRules DNS List and AdRules Hosts List:** - 
  Combine from the top of the top, more matching DNS level filtering 
  - **ALLOWLIST:** - 
 Only a Allowlist
 - **AdRules AdBlock Full List** -
-Combined from AdRules (For AdBlock) and AdRules (For AdGuard) And some additional rules
+Combined from AdRules AdRules AdBlock List and AdRules AdGuard Filter List And some additional rules
 - **AdRules AdGuard Full List** -
-The full version of AdRules (For AdGuard), it is generally necessary to subscribe to the AdRules AdBlock Full List.
+The full version of AdRules AdGuard Filter List, it is generally necessary to subscribe to the AdRules AdBlock Full List.
 ## 🚛 Perfect project 
 
  I hope everyone can submit ISSUE or Request to help me improve the rules. I will update the rules after I review it. 
