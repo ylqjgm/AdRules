@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220604162502
+#VER=20220604234915
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=95424
+#TOTAL_LINES=95425
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -35594,6 +35594,7 @@ payload:
   - '+.segob.gob.mx'
   - '+.gobali.cn'
   - '+.log.gobankingrates.com'
+  - '+.products.gobankingrates.com'
   - '+.info.gobeacon.com'
   - '+.t.gobearcats.com'
   - '+.gobeerta.net'

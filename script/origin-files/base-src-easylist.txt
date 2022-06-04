@@ -37816,7 +37816,6 @@
 ||convertcart.com^
 ||convertcart.com^$third-party
 ||convertcase.net^$csp=script-src 'self' '*' blob: data:
-||convertcase.net^$csp=script-src 'self' '*' blob: data:
 ||convertexperiments.com.edgekey.net^
 ||convertexperiments.com^
 ||convertexperiments.com^$third-party
@@ -101601,6 +101600,8 @@
 ||productorbash.info^
 ||productorsy.pro^
 ||productresearchpanel.com^
+||products.gobankingrates.com^
+||products.gobankingrates.com^
 ||products.gobankingrates.com^$domain=cnn.com
 ||products.gobankingrates.com^$domain=cnn.com
 ||products.gobankingrates.com^$domain=msn.com

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tirU3QP/HFBN+qNVxaXfRA
+! Checksum: MD2TpmsjvhW+BacoDl78HQ
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206040733
-! Last modified: 2022-06-04 07:33 UTC
+! Version: 202206041533
+! Last modified: 2022-06-04 15:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10387,6 +10387,7 @@ _800x80_
 ###adcenter2
 ###adcenter4
 ###adchoices-icon
+###adchoicesBtn
 ###adchoices_container
 ###adclear
 ###adclose
@@ -16785,6 +16786,7 @@ _800x80_
 ###zMSplacement5
 ###zMSplacement6
 ###zag_square_ad
+###zdcFloatingBtn
 ###zone-adsense
 ###zoneAdserverMrec
 ###zoneAdserverSuper
@@ -26146,6 +26148,7 @@ _800x80_
 ##.injectedAd
 ##.inline-ad
 ##.inline-ad-card
+##.inline-ad-container
 ##.inline-ad-desktop
 ##.inline-ad-placeholder
 ##.inline-ad-text
@@ -27036,6 +27039,7 @@ _800x80_
 ##.mobile-fixed-ad
 ##.mobile-footer__ad
 ##.mobile-instream-ad-holder-single
+##.mobile-leaderboard-fader
 ##.mobile-nav-ad-plus-banner
 ##.mobile-related-ad
 ##.mobileAd
@@ -31868,6 +31872,7 @@ _800x80_
 ###taboola-footer-ad
 ###taboola-main-container
 ###taboola-mid-article-thumbnails
+###taboola-mobile-article-thumbnails
 ###taboola-placeholder
 ###taboola-right-rail
 ###taboola-right-rail-express
@@ -55271,6 +55276,7 @@ tf2r.com#@#.adverts
 ||pastemytxt.com/download_ad.jpg
 ||pengenanu.files.im^
 ||persianleague.com/images/banners/
+||phonearena.com/js/ops/taina.js
 ||phuketwan.com/img/b/
 ||pimpandhost.com/static/html/
 ||planetlotus.org/images/partners/
@@ -55278,6 +55284,7 @@ tf2r.com#@#.adverts
 ||positivehealth.com/img/original/BannerAvatar/
 ||positivehealth.com/img/original/TopicbannerAvatar/
 ||prewarcar.com/*-banners/
+||products.gobankingrates.com^
 ||propertyfinderph.com/uploads/banner/
 ||publicdomaintorrents.info/grabs/hdsale.png
 ||publicdomaintorrents.info/rentme.gif
@@ -55651,16 +55658,15 @@ $webrtc,websocket,xmlhttprequest,domain=pirateproxy.live|thehiddenbay.com|thepir
 /^https?:\/\/(.+?\.)?writerscafe\.org[\/]{1,}.*[a-zA-Z0-9]{3,7}\/[a-zA-Z0-9]{6,}\/.*/
 /^https?:\/\/www\.newser\.com[\/]{1,}.*[a-zA-Z0-9]{5,}\/[a-zA-Z0-9]{5,}\/.*js/$xmlhttprequest
 ! webrtc-ads
-$webrtc,domain=ack.net|allthetests.com|azvideo.net|champion.gg|clicknupload.link|colourlovers.com|convertcase.net|csgolounge.com|dispatch.com|fastplay.to|go4up.com|gounlimited.to|janjua.pw|janjua.tv|jpost.com|megaup.net|merriam-webster.com|netdna-storage.com|ouo.io|ouo.press|rlslog.net|sourceforge.net|spanishdict.com|telegram.com|torlock.icu|torlock2.com|uptobox.com|videowood.tv|vidtodo.com|yts.gs|yts.mx
+$webrtc,domain=ack.net|allthetests.com|azvideo.net|champion.gg|clicknupload.link|colourlovers.com|csgolounge.com|dispatch.com|fastplay.to|go4up.com|gounlimited.to|janjua.pw|janjua.tv|jpost.com|megaup.net|merriam-webster.com|netdna-storage.com|ouo.io|ouo.press|rlslog.net|sourceforge.net|spanishdict.com|telegram.com|torlock.icu|torlock2.com|uptobox.com|videowood.tv|vidtodo.com|yts.gs|yts.mx
 ! websocket-ads
-$websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|convertcase.net|fastpic.ru|fileone.tv|filmlinks4u.is|flashx.tv|imagefap.com|keepvid.com|megaup.net|merriam-webster.com|olympicstreams.me|pocketnow.com|pornhub.com|pornhubthbh7ap3u.onion|postimg.org|powvideo.net|roadracerunner.com|shorte.st|tribune.com.pk|tune.pk|vcpost.com|vidmax.com|vidoza.net|vidtodo.com|webfirstrow.eu
+$websocket,domain=4archive.org|allthetests.com|boards2go.com|colourlovers.com|fastpic.ru|fileone.tv|filmlinks4u.is|flashx.tv|imagefap.com|keepvid.com|megaup.net|merriam-webster.com|olympicstreams.me|pocketnow.com|pornhub.com|pornhubthbh7ap3u.onion|postimg.org|powvideo.net|roadracerunner.com|shorte.st|tribune.com.pk|tune.pk|vcpost.com|vidmax.com|vidoza.net|vidtodo.com|webfirstrow.eu
 !
 ! IP address
 ! CSP filters
 $csp=script-src 'self' '*' 'unsafe-inline',domain=pirateproxy.live|thehiddenbay.com|downloadpirate.com|thepiratebay10.org|ukpass.co|linksmore.site
 $csp=worker-src 'none',domain=torlock.com|alltube.pl|alltube.tv|centrum-dramy.pl|cmovies.ac|coinfaucet.eu|crictime.com|crictime.is|deltabit.co|doodcdn.com|estream.to|extreme-down.tv|flashx.co|flashx.to|flashx.tv|gomo.to|hdvid.fun|hdvid.tv|hitomi.la|kinox.to|lewd.ninja|assia1.tv|assia2.tv|nflbite.com|pirateproxy.live|plytv.me|potomy.ru|powvideo.cc|powvideo.net|putlocker.to|reactor.cc|rojadirecta.watch|sickrage.ca|streamtape.com|thehiddenbay.com|thepiratebay.org|thepiratebay10.org|tpb.party|uptomega.me|ustream.to|vidoza.co|vidoza.net|vidtodo.pro|wallpoper.com|wearesaudis.net|yazilir.com
 ||1337x.to^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' data:
-||convertcase.net^$csp=script-src 'self' '*' blob: data:
 ||convertfiles.com^$csp=script-src 'self' '*' 'unsafe-inline'
 ||gelbooru.com^$csp=script-src 'self' '*' 'unsafe-inline' *.gstatic.com *.google.com *.googleapis.com *.bootstrapcdn.com
 ||grammarist.com^$csp=script-src 'self' '*' 'unsafe-inline'
@@ -57332,6 +57338,7 @@ fakenamegenerator.com##.bcsw
 censor.net##.beGrKXqw1r8uLq2pL
 thepointsguy.com##.beam-card-feature
 beckershospitalreview.com##.becker_doubleclick
+gobankingrates.com##.bestbanks-slidein
 aiscore.com##.bet365
 republicworld.com##.bg-f0f0f0
 amgreatness.com##.bg-gray-200.mx-auto
@@ -57749,6 +57756,7 @@ filmdaily.co##.fd-article-top-banner
 filmdaily.co##.fd-home-sidebar-inline-rect
 ebay.com##.fdad1
 w3techs.com##.feat
+convertcase.net##.feature
 softarchive.is##.feature-usnt
 mumbrella.com.au##.featureBanner
 eagle1065.com##.featureRotator
@@ -57978,6 +57986,7 @@ stocksnap.io##.inline-carbon
 engadget.com##.inline-emphasis
 pcgamesn.com,theloadout.com##.inlinerail
 nintendolife.com##.insert
+nintendolife.com,purexbox.com,pushsquare.com##.insert-label
 canarymedia.com##.inset-x-0
 flixboss.com##.instream-dynamic
 defenseone.com##.interstitial
@@ -57987,6 +57996,7 @@ alibaba.com##.is-creative
 mydramalist.com##.is-desktop
 twitter.com##.is-promoted
 speedcheck.org##.isg-container
+nintendolife.com,purexbox.com,pushsquare.com##.item-insert
 alaskahighwaynews.ca,bowenislandundercurrent.com,burnabynow.com,coastreporter.net,dawsoncreekmirror.ca,delta-optimist.com,moosejawtoday.com,newwestrecord.ca,nsnews.com,piquenewsmagazine.com,princegeorgecitizen.com,prpeak.com,richmond-news.com,squamishchief.com,tricitynews.com##.item-sponsored
 pocketgamer.com##.item-unit
 kfm.co.za##.itunes-sml
@@ -58148,6 +58158,7 @@ stripes.com##.min-h90
 revolutionsoccer.net##.mls-o-adv-container
 inhabitat.com##.mn-wrapper
 byrdie.com,investopedia.com,verywellhealth.com##.mntl-leaderboard-spacer
+comicbook.com##.mobile
 pcmacstore.com##.mobileHide
 theblockcrypto.com##.mobileView
 thedailybeast.com##.mobiledoc-sizer
@@ -58434,6 +58445,7 @@ wahm.com##.rad-links
 dawn.com##.radWrapper
 w3newspapers.com##.rads
 dappradar.com##.rankings-ad-row
+gobankingrates.com##.rate-table-header
 mydorpie.com##.rbancont
 forebet.com##.rbannerDiv
 reverso.net##.rcacontent
@@ -58684,7 +58696,8 @@ armageddonexpo.com,audiforums.com,f1gamesetup.com,ferrarichat.com,jaguarforums.c
 libhunt.com##.sponsors-list-content
 hacksplaining.com##.sponsorship-message
 newswiretoday.com,przoom.com##.sponsortd
-alexandriagazette.com,arlingtonconnection.com,burkeconnection.com,centre-view.com,connection-sports.com,fairfaxconnection.com,fairfaxstationconnection.com,forum.xda-developers.com,greatfallsconnection.com,herndonconnection.com,kusports.com,mcleanconnection.com,mountvernongazette.com,potomacalmanac.com,reston-connection.com,springfieldconnection.com,union-bulletin.com,viennaconnection.com##.spot
+alexandriagazette.com,arlingtonconnection.com,burkeconnection.com,centre-view.com,connection-sports.com,fairfaxconnection.com,fairfaxstationconnection.com,forum.xda-developers.com,greatfallsconnection.com,herndonconnection.com,kusports.com,mcleanconnection.com,mountvernongazette.com,phonearena.com,potomacalmanac.com,reston-connection.com,springfieldconnection.com,union-bulletin.com,viennaconnection.com##.spot
+phonearena.com##.spot-sticky-container
 freepik.com##.spr-plc
 bizarrepedia.com##.spsnrd
 kissanimefree.tv##.spu-bg
@@ -74193,6 +74206,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||realm.hearst3pcc.com^
 ||recart.com/tracking/
 ||recipefy.net/analytics.js
+||recurly.com/js/v1/events
 ||redditstatic.com/ads/pixel.js
 ||redfast.com/ping/
 ||reelevant.dev/tracker
@@ -76414,6 +76428,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gnavi.co.jp/analysis/
 ||go.pardot.com^
 ||go.theregister.com^$image
+||gobankingrates.com/fp/
 ||gofundme.com/track
 ||gog-statics.com/js/frontpagelogintracking-$script,domain=gog.com
 ||gog-statics.com/js/loginTracking-$script,domain=gog.com
@@ -97847,6 +97862,7 @@ _subscribers_newsletters/
 ##.totopbutton
 ##.txt_back_top
 ##.u-scrollButtons
+##.ui-back-to-top
 ##.ui-backtotop
 ##.ui-fixed-panel-go-top
 ##.ui-go-top
@@ -127610,6 +127626,7 @@ _subscribers_newsletters/
 ###topMailingListWrapper
 ###uglipop_content_fixed
 ###uglipop_overlay
+###ui-join-newsletter
 ###v-subscribe-article-form
 ###v-subscribe-short-form
 ###v2campaignmidpage
@@ -134522,6 +134539,7 @@ newsbreak.com##.bottom-10.fixed
 tmz.com##.browser-notifications-prompt
 caixinglobal.com##.caixinAPP
 manutd.com##.custom-popup
+ft.com##.instant-alert-cta
 nidcd.nih.gov##.isf--container
 chicagotribune.com##.met-flyout
 phonearena.com##.ncTooltip
@@ -135116,6 +135134,8 @@ bankrate.com##.br_connect
 commentarymagazine.com##.bsb-default
 commentarymagazine.com##.bsb-wrap
 machprinciple.com##.bsub
+purewow.com##.btn--email
+purewow.com##.btn-classic
 newsroom.co.nz##.btn-email
 artstation.com##.btn-f
 agrimag.co.za,automart.co.za,truckandtrailer.co.za##.btn-facebook
@@ -136851,6 +136871,7 @@ hik-connect.com##.coverShow
 videojug.com##.cp-alert-message
 mad-daily.com##.cp-info-bar-container
 itv.com##.cp_dialog
+drafty.co.uk##.cpc-float
 deployhq.com##.crumbs-banner
 louisvuitton.com##.cs_banner
 support.saleae.com##.css-1dbjc4n.r-u8s1d.r-l13dpy
@@ -142739,6 +142760,7 @@ calltouch.ru###poppup-food
 lgtechno.ru###popup
 sibur.ru###privacyPolicy
 rgs.ru###rgs-main-context-bar
+interacty.me##.CookiesBanner_cookiesBanner__1ElfQ
 novayagazeta.eu##.CookiesInformer_box__39rlO
 n.tass.ru##.Cookies_container__d0PFT
 adrenalinecyber.ru,gamefuelmasters.ru##.H5Cmzb7vlc1Q28uw4l-Bv

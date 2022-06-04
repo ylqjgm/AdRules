@@ -1,12 +1,12 @@
 # Title: AdRules Hosts List
-# Checksum: GpP0gN/dRQHkCWrzmqo8zA
+# Checksum: qCn9O+icezEdVvv7+aCO5w
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 8 Hours
 # 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
 #
-# Version: 2022-06-04 16:25:19（北京时间） 
-# Total count: 123700
+# Version: 2022-06-04 23:49:29（北京时间） 
+# Total count: 123701
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0-132.net.daraz.com
 0.0.0.0 0-158.net.daraz.com
@@ -83194,6 +83194,7 @@
 0.0.0.0 productorsy.pro
 0.0.0.0 productresearchpanel.com
 0.0.0.0 products.firstimpression.io
+0.0.0.0 products.gobankingrates.com
 0.0.0.0 products.ricoh.ie
 0.0.0.0 productsup.com
 0.0.0.0 producttestpanel.com
