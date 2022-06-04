@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: ytgWPxeW56yxZO4upKgz4A
+! Checksum: A1aZHCvL3fgcjHG2lqSJhQ
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-04 09:47:11（北京时间） 
-! Total count: 19522
+! Version: 2022-06-04 10:19:39（北京时间） 
+! Total count: 19505
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -654,7 +654,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgh.co^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgrazil.com^
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -735,7 +735,6 @@
 @@||123tv.live^$stealth,domain=123tvnow.com
 @@||126.net/163/frontend/share/js/
 @@||126.net/images/blank.gif
-@@||126.net/share/js/$script,domain=163.com
 @@||127.0.0.1/admin/admin_ad.php?$domain=127.0.0.1
 @@||1337x.st/css/webfonts/oswald-*.$font
 @@||1337x.st^$csp=script-src 'self' 'unsafe-inline'
@@ -2165,7 +2164,6 @@
 @@||anghamiwebcdn.akamaized.net/ads.$script,domain=play.anghami.com
 @@||anghamiwebcdn.akamaized.net/ads.*.js
 @@||angrybirdsnest.com/wp-content/themes/abn-responsive/js/ads.js
-@@||angvremya.ru/engine/classes/min/index.php?*/js/social-$stylesheet
 @@||anhdep24.net^$ghide
 @@||anhuinews.com/zhuyeguanli/2020ad/xidad.jpg
 @@||ani-*.xyz/*.html$stealth,domain=aniwatch.me
@@ -2231,7 +2229,6 @@
 @@||animetake*.*^$script,1p
 @@||animeunity.it/stream.php$generichide
 @@||animevietsub.tv^$ghide
-@@||animeworld.tv/dist/frontend/vendor/jssocials/jssocials.min.js
 @@||animex.*^$ghide
 @@||aniroleplay.com/adframe_*.js$script
 @@||anitasrecipes.com/Content/Images/Recipes/$image,~third-party
@@ -4691,7 +4688,6 @@
 @@||cloudfront.net/images/$image,domain=crowdin.net|hockeyapp.net|trello.com
 @@||cloudfront.net/images/$stealth,domain=maps.seaofthieves.rarethief.com
 @@||cloudfront.net/imengine/image.php$stealth,domain=blt.se
-@@||cloudfront.net/js/FB.Share*.js$domain=9gag.com
 @@||cloudfront.net/libs/amplitude-$script,domain=elconfidencial.com
 @@||cloudfront.net/libs/amplitude-*-min.gz.js$domain=elconfidencial.com
 @@||cloudfront.net/liveblog/modules/login/images/social_icons.png
@@ -4700,7 +4696,6 @@
 @@||cloudfront.net/opentag*.js$domain=telegraph.co.uk
 @@||cloudfront.net/s/images/facebook-login.png
 @@||cloudfront.net/s/images/twitter-signin.png
-@@||cloudfront.net/share/js/$domain=pokemon-gl.com
 @@||cloudfront.net/vis_opt.js$script,domain=gre.magoosh.com
 @@||cloudfront.net/wp-content/uploads/products/*-300x600.$image,domain=mecox.wpengine.com
 @@||cloudfront.net^$domain=postype.com,stealth,image
@@ -4730,7 +4725,6 @@
 @@||clubbingtv.com/module/opensocialconnect/static/image/linkedin.png
 @@||clubic.com^$generichide
 @@||clubinvest.top^$stealth
-@@||clubs.nfl.com/nfl-assets/js/social-buttons.js
 @@||clumsyrock.com^$script,xmlhttprequest
 @@||cm-beacon.nakanohito.jp/at/ranking/$script
 @@||cm-beacon.nakanohito.jp/cm/comment_$xmlhttprequest
@@ -5175,7 +5169,6 @@
 @@||crayoncompetition.com^$script,xmlhttprequest
 @@||crazy-factory.com/ajax_box_cookie_banner.php$~third-party
 @@||crazyhd.com^$ghide
-@@||crazypanda.ru/m/js/social-$script,domain=crazypanda.ru
 @@||create.jd.com/ad/
 @@||creative.ak.fbcdn.net^
 @@||creative.wwwpromoter.com/*.js?d=300x250$script,domain=hdmoviezone.net
@@ -6668,7 +6661,6 @@
 @@||faz.net^$generichide
 @@||fbcdn-creative-a.akamaihd.net/hads-ak-prn2/
 @@||fbcdn-creative-a.akamaihd.net^
-@@||fbcdn.net/connect.php/js/FB.Share$domain=jamendo.com
 @@||fbcdn.net^
 @@||fbcdn.net^$stealth
 @@||fc-zenit.ru/local/templates/new_html/css/nav-social-2/$~third-party
@@ -9029,7 +9021,6 @@
 @@||hmvod.com.hk/website/static/skin/images/share/
 @@||hobbyking.com^*/gtm.js$script,~third-party
 @@||hocgeese.com^$script,xmlhttprequest
-@@||hoegert.com/templates/yoo_digit/warp/js/social.js
 @@||hofoot.vidcrt.net^$generichide
 @@||hoge.cn/advertisement.swf
 @@||holiday.aquila.pl/min/f=/js/$script
@@ -10327,7 +10318,6 @@
 @@||jppinto.com^$ghide
 @@||jpush.cn^$domain=jiguang.cn
 @@||jquery.com^
-@@||jrjimg.cn/js.do?f=/share/js/
 @@||jrocknews.com^$ghide
 @@||js-agent.newrelic.com/nr-*.min.js$domain=copy.com
 @@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
@@ -10607,7 +10597,6 @@
 @@||komikcast.com^$ghide
 @@||komiku.co.id^$ghide
 @@||komiupdates.xyz^$generichide
-@@||komiz.io^*/share/js/$script,stylesheet,domain=mushka.com.ua
 @@||komorkomania.pl^$generichide
 @@||komputerswiat.pl/*&srcc=ucs$removeparam
 @@||komputerswiat.pl/*srcc=ucs$stealth
@@ -11530,7 +11519,6 @@
 @@||megaleech.us^$ghide
 @@||megaline.co/intermission/loadTargetUrl$xmlhttprequest
 @@||meganetv.id^$generichide
-@@||megapolisonline.ru/wp-content/plugins/easy-vkontakte-connect/js/social-likes.min.js
 @@||megatube.xxx/atrm/s/s/js/m/pr-before.js
 @@||megatube.xxx/atrm/s/s/js/m/pr-before.js$script,1p
 @@||megaup.net/*.gif$image,1p
@@ -11649,7 +11637,6 @@
 @@||mi.tigo.com.co/plugins/cordova-plugin-fingerprint-aio/$script,~third-party
 @@||miaminewtimes.com/js_cache/ads.js
 @@||miaozhen.com^*/m.suning.
-@@||michiganlottery.com/global/share/js/$script
 @@||microapp.bytedance.com/docs/*-banner-ad/$xmlhttprequest
 @@||microapp.bytedance.com/docs/page-data/$~third-party
 @@||microsoft.com/*/default.aspx$extension
@@ -12122,7 +12109,6 @@
 @@||nashaplaneta.net/ads/reklama-banner.js
 @@||nashe.ru/wp-content/uploads/*-300x600.
 @@||nationalgeographic.com/global/js/advertising.js$script
-@@||nationalgeographic.com/players/ngsvideo/share/js/$script
 @@||nationalgeographic.com/stats/omniture_code.js
 @@||nationalgeographic.com/wpf/sites/common/j/omniture_code.js
 @@||nationbuilder.com^*/signin_with_facebook.png
@@ -12285,7 +12271,6 @@
 @@||nike.com^*/optimizely.browser.umd.min.js$~third-party
 @@||niksalehi.com/wp-content/uploads/*/adv
 @@||nine.plugins.plexapp.com^
-@@||ninemsn.com.au/share/js/global/$script,~third-party
 @@||nineto5mac-d.openx.net^|
 @@||ninja.io/js/dist/ads.js
 @@||ninja.onap.io/ninja-*.js$domain=olx.kz|olx.ua|olx.pl
@@ -13409,7 +13394,6 @@
 @@||patrick-wied.at/static/heatmapjs/src/heatmap.js
 @@||payback.de/script/s_code-*.js
 @@||paybis.com/assets/*/responsive/*.js
-@@||payco.com/share/js/$~third-party
 @@||payeer.com/bitrix/components/payeer/system.auth.form/$document,xmlhttprequest
 @@||payeer.com/style/images/adv_green.png$domain=payeer.com
 @@||payload.cargocollective.com^$image,~third-party
@@ -13827,7 +13811,6 @@
 @@||pogo.com^$ghide
 @@||pointlessrifle.com^$script,xmlhttprequest
 @@||poisedpig.com^$script,xmlhttprequest
-@@||pokemon-gl.com/share/js/
 @@||pokemonblackwhite.com^*/jquery.google-analytics.js
 @@||pokemonexotic.net^$generichide
 @@||pokemongopocket.com/advertisement.js
