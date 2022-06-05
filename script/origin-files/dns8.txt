@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MD2TpmsjvhW+BacoDl78HQ
+! Checksum: ERS1nOVJ1Bufc0iU3G1o6Q
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206041533
-! Last modified: 2022-06-04 15:33 UTC
+! Version: 202206050033
+! Last modified: 2022-06-05 00:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -230,6 +230,7 @@
 -article-ads-
 -article-advert-
 -assets/ads.$~script
+-auto-ads-
 -banner-768.
 -banner-ad-
 -banner-ad.
@@ -136230,7 +136231,6 @@ waterfall-d-mannose.com###cc-cont
 charleslandaudentistry.co.uk###cc-container
 ip-adress.com###cc-wrapper
 skargards.com###cc_dialog
-videogameschronicle.com###ccc
 disclose.tv###ccc-login-signup
 rohan.co.uk###ccpop
 extrahw.com###cfooter
@@ -143585,6 +143585,7 @@ instagram.com,nicovideo.jp,pinterest.com,zhihu.com#@#.FollowButton
 feedly.com#@#.ShareBar
 epicgames.com#@#.SocialBar
 adobe.com,epicgames.com,tomshardware.com#@#.SocialButton
+adobe.com#@#.SocialButtons
 epicgames.com#@#.SocialIcon
 ctvnews.ca#@#.StoryShareBottom
 twitter.com#@#.Twitter-icon

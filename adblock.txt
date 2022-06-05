@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: fVp6KmLQY99QeOBySMfYAg
+! Checksum: S7Ngku5sxm8mlBqAyl/q1A
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-05 00:28:08（北京时间） 
-! Total count: 93197
+! Version: 2022-06-05 09:42:45（北京时间） 
+! Total count: 93200
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -40112,7 +40112,6 @@ pholder.com#$?#main[id="Slideshow"] > section[class^="Slide "]:has(> article.Fra
 phonearena.com##.adblock_awareness
 phonearena.com##.pa-sticky-container
 phonearena.com##.spot-sticky-container
-phonearena.com,sleazyneasy.com,pornsexxxer.com,litecoin-faucet.com,3prn.com,motherporno.com,pornomovies.com,camhub.tv,max.porn,feetporno.com,familyporn.tv,freehardcore.com,webvoyeur.com,moviesand.com,momvids.com,hdzog.com,pornbimbo.com,amateurporn1.com,vqporn.com##.spot
 phoneswiki.com##+js(set-constant, jQuery.adblock, false)
 photolessons.org###modal-adbmon-div
 photopea.com##div[style^="padding-top: 10px; overflow: hidden; padding-left:"] > a[target="_blank"] > img
@@ -42278,6 +42277,7 @@ slate.com#@#.ad01
 slazag.pl##.rotatorTop
 slazag.pl#?#.similar__articles__single:has(> div[id^="render-ad-"])
 sleazyneasy.com###pre-spots
+sleazyneasy.com,pornsexxxer.com,litecoin-faucet.com,3prn.com,motherporno.com,pornomovies.com,camhub.tv,max.porn,feetporno.com,familyporn.tv,freehardcore.com,webvoyeur.com,moviesand.com,momvids.com,hdzog.com,pornbimbo.com,amateurporn1.com,vqporn.com##.spot
 sledujserialy.io##.w-episode-source > div[id][style^="position: absolute; top: 0"]:not([class])
 sledujserialy.to##+js(abort-current-script, $, (document.getElementById(')
 slickdeals.net###crt-adblock-a
@@ -55661,6 +55661,7 @@ zznews.cn##.ad:not([style])
 ||camsaim.com/in/
 ||camschat.net^
 ||camspic.com/imguang/*.gif
+||camstreams.tv/player/html.php?aid=*_html&video_id=*&*&referer
 ||camvideos.tv^$subdocument
 ||canada.com/js/analytics/
 ||canalandco.com^
@@ -89711,6 +89712,7 @@ zznews.cn##.ad:not([style])
 ||wof.arkn81.com^
 ||wof.betylife.com^
 ||wof.hnltcw.com^
+||wof.matchkj.com^
 ||wofan.net^$third-party
 ||wofjhs.com^
 ||wojiabaoye.com^
@@ -89733,6 +89735,7 @@ zznews.cn##.ad:not([style])
 ||wondershare.es/jslibs/track.js
 ||wongds.top^
 ||woniu1314520.vip^
+||wonsegax.net^
 ||wontonsnosite.com^
 ||woodpeckerlog.com^
 ||woodymotherhood.com^
