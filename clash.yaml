@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220605171046
+#VER=20220605171754
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=95256
+#TOTAL_LINES=95255
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -26066,7 +26066,6 @@ payload:
   - '+.doutthenhap.info'
   - '+.douyaobuy.com'
   - '+.test-www.douyin.com'
-  - '+.msg.douyu.com'
   - '+.wan.douyu.com'
   - '+.apm.douyucdn.cn'
   - '+.apmconfig.douyucdn.cn'
