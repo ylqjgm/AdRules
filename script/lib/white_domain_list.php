@@ -9,6 +9,7 @@
 
 return array(
     /**start**/
+    'msg.douyu.com' => 0, //斗鱼私信
     'gift.douyucdn.cn' => 0, // 斗鱼礼物
     'email-clk.adguard.com' => 0, //adg页面
     'amos.alicdn.com' => 0, //阿里旺旺和对面聊天点击网页卖家头像弹不出聊天窗口
