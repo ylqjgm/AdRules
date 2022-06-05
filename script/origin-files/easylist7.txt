@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202206040219
+! Version: 202206050253
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26806
+! Lenth = 26822
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -387,6 +387,7 @@
 ##.ad-site
 ##.ad-text
 ##.ad-top
+##.ad.mi_btcon
 ##.ad01
 ##.ad02
 ##.ad03
@@ -699,6 +700,7 @@
 ##.mod_ad_text
 ##.mod_ads
 ##.mod_index_ad
+##.module-adslist
 ##.my-cat.my-cat-header
 ##.mylist + #topthree
 ##.mylist > a > img[width^="9"][height="80"]
@@ -722,6 +724,7 @@
 ##.player + .sponsor
 ##.player-bottom-gg
 ##.player-info > .recommend-two.recommend-list
+##.player-rm > a[href*="/ad.html?url="]
 ##.player-rm-float
 ##.playtop.col-pd
 ##.pop[style="right: 10px;"]
@@ -1239,9 +1242,9 @@
 ##div[onclick*="?i_code="]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[onclick^="window.location.href"][onclick*=".haoyundm.com"]
-##div[style=" max-width:975px;  margin:0 auto;"] > a > img[height="60px"]
-##div[style=" max-width:978px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:978px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:976px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="border-radius:8px;background-color:#005737;padding:6px;"]
 ##div[style="box-sizing:border-box;padding:20px 16px;border-radius:8px;width:90%;margin:0 auto;"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
@@ -11359,6 +11362,7 @@ yam.com##.axdBox
 yam.com##div[id^="adgshp"]
 yamibo.com##a[href*="xqsp.club"]
 yamol.tw##.panel[style="text-align:left;width:100%;padding:0px;background-color:white"]
+yanetflix.com##.player-recommend
 yanetflix.com##div[style="padding: 5px; background-color: #2b2a2a; border-radius: 30px; text-align: center;"]
 yangluo.cn###frame51RcxP
 yangluo.cn###frameVw7574
@@ -13075,6 +13079,7 @@ zznews.cn##.ad:not([style])
 ||6868edu.com^
 ||686go.cc^
 ||68710266.com^
+||6888i.top^
 ||6899.fun^
 ||693836.com^$popup
 ||69adu.com/bootstrap.
@@ -13937,6 +13942,7 @@ zznews.cn##.ad:not([style])
 ||airav.cc/iframe/
 ||airav.cc/static/js/*_ad.js
 ||airouba.com/public/js/global.js
+||aisastore.club^
 ||aishangcan.com^
 ||aisixiang.com/images/*-20
 ||aisy19.com/dm/
@@ -15501,6 +15507,7 @@ zznews.cn##.ad:not([style])
 ||chenwang.top^
 ||chenyanjiao.cn^
 ||chenyaxin.xyz^
+||chenzhao.xyz^
 ||cherryblossoms.top^
 ||cheshi-img.com/js/pv.min.js
 ||chexiw.com^
@@ -16348,6 +16355,7 @@ zznews.cn##.ad:not([style])
 ||diuling.com^
 ||divcss5.com*/ibeifeng/
 ||divcss5.com*/liping/
+||diwenganzaoji.com^
 ||diyifanwen.com/siteimages/jiqiren
 ||diyijjj.com/data/content
 ||dizhonghaihotel.com^
@@ -19240,6 +19248,7 @@ zznews.cn##.ad:not([style])
 ||jiasule.com/static/js/http_error.js
 ||jiatu.co^
 ||jiawen88.com^$third-party
+||jiaxinzhang.cn^
 ||jiaxue.xyz^
 ||jiayi2019.top^
 ||jiayiss.com^
@@ -20531,6 +20540,7 @@ zznews.cn##.ad:not([style])
 ||luxoshopde.com^
 ||luyongkang.top^$third-party
 ||luyouxi.cn^
+||luyuheng.love^
 ||luyx8.com/tu/666.gif
 ||lv-play.com/web/adv/list
 ||lv-xin.cn^
@@ -20795,6 +20805,7 @@ zznews.cn##.ad:not([style])
 ||med66.com/lamu/
 ||medi-8.net^$third-party
 ||media8.cn^$third-party
+||mediaadjustment.com^
 ||mediav.com^$third-party,domain=~dev.360.cn|~g.360.cn
 ||medsci.cn/aimgs/$script
 ||medsci.cn/images/wyg.jpg
@@ -21313,6 +21324,7 @@ zznews.cn##.ad:not([style])
 ||newyiba.top^
 ||newyx.net^*/down_yd.js
 ||nex.163.com/q?
+||nfhlink.com^
 ||nfmovies.com/pic/tu/*_863x59.
 ||nfmovies.com/pic/tu/*_banner
 ||nfmovies.com/pic/tu/a191124002.
@@ -22610,6 +22622,7 @@ zznews.cn##.ad:not([style])
 ||rrgapzw.cn^
 ||rrjc.com/home/seo/ad/
 ||rrogfhs.cn^
+||rrr.plus^
 ||rrsubway.com^
 ||rryy99.com/statics/js/stat.js
 ||rsctljb.cn^
@@ -25336,6 +25349,7 @@ zznews.cn##.ad:not([style])
 ||xinwenren.com/index.php?m=poster&
 ||xinxbh.cn^
 ||xinyansaas.com^
+||xinyexinye.ltd^
 ||xinyi.com/Public/config/Couplet/Index39.js
 ||xinyi.com/Public/config/Couplet/Index40.js
 ||xinyi.com/Public/config/Couplet/Index41.js
@@ -26119,6 +26133,7 @@ zznews.cn##.ad:not([style])
 ||yuquad.com^
 ||yushengyuancaishui.com^
 ||yushuha.com^
+||yusnw.cc^
 ||yuuuxi.top^
 ||yuxiangrc.com^
 ||yuxiny.com^
@@ -26130,6 +26145,7 @@ zznews.cn##.ad:not([style])
 ||ywak.com.cn^
 ||ywbwsm.com^
 ||ywg.jobui.com^
+||ywinterspace.ltd^
 ||ywjxsp168.cn^
 ||ywqpgy.com^
 ||ywsywh.cn^

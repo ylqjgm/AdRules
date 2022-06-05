@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: etvTaoxcgDC6/IsJCsr+xg
+! Checksum: 7h/iTdgb9eRJyp+wQwPSQA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-05 09:59:22（北京时间） 
-! Total count: 93200
+! Version: 2022-06-05 11:01:35（北京时间） 
+! Total count: 93210
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -2597,6 +2597,7 @@
 ##.ad.inner
 ##.ad.item
 ##.ad.leaderboard
+##.ad.mi_btcon
 ##.ad.module
 ##.ad.rectangle
 ##.ad.section
@@ -7322,9 +7323,9 @@
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[onclick^="window.location.href"][onclick*=".haoyundm.com"]
 ##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
-##div[style=" max-width:975px;  margin:0 auto;"] > a > img[height="60px"]
-##div[style=" max-width:978px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:978px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:976px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="border-radius:8px;background-color:#005737;padding:6px;"]
 ##div[style="box-sizing:border-box;padding:20px 16px;border-radius:8px;width:90%;margin:0 auto;"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
@@ -9983,6 +9984,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 -analytics/analytics.
 -analytics/insight.
 -appanalytics-
+-auto-ads-
 -banner-ad-
 -banner-ad.
 -banner-ads-$~script
@@ -46143,6 +46145,7 @@ yandex.com##div[id^="yandex_ad"]
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'
 yandexcdn.com##+js(window.open-defuser)
+yanetflix.com##.player-recommend
 yanetflix.com##div[style="padding: 5px; background-color: #2b2a2a; border-radius: 30px; text-align: center;"]
 yangluo.cn###frame51RcxP
 yangluo.cn###frameVw7574
@@ -48629,6 +48632,7 @@ zznews.cn##.ad:not([style])
 ||6868edu.com^
 ||686go.cc^
 ||68710266.com^
+||6888i.top^
 ||6899.fun^
 ||693836.com^$popup
 ||69adu.com/bootstrap.
@@ -51421,6 +51425,7 @@ zznews.cn##.ad:not([style])
 ||airserve.net^$third-party
 ||airtable.com/internal/$xmlhttprequest
 ||airtable.com^*/reports
+||aisastore.club^
 ||aiservice.vn^$third-party
 ||aishangcan.com^
 ||aisixiang.com/images/*-20
@@ -56289,6 +56294,7 @@ zznews.cn##.ad:not([style])
 ||chenwang.top^
 ||chenyanjiao.cn^
 ||chenyaxin.xyz^
+||chenzhao.xyz^
 ||chepsigrade.pro^
 ||cheqzone.com^$third-party
 ||cherriescare.com^
@@ -59633,6 +59639,7 @@ zznews.cn##.ad:not([style])
 ||divolution.com^$third-party
 ||divorceseed.com^
 ||diwebstatics.carte-gr.total.fr^
+||diwenganzaoji.com^
 ||diyifanwen.com/siteimages/jiqiren
 ||diyijjj.com/data/content
 ||dizhonghaihotel.com^
@@ -79040,6 +79047,7 @@ zznews.cn##.ad:not([style])
 ||rrjc.com/home/seo/ad/
 ||rrlafphbrpazu.com^
 ||rrogfhs.cn^
+||rrr.plus^
 ||rrrsnxzkhbwwrs.com^
 ||rrsubway.com^
 ||rrtwda9.com^
@@ -91016,6 +91024,7 @@ zznews.cn##.ad:not([style])
 ||xinwenren.com/index.php?m=poster&
 ||xinxbh.cn^
 ||xinyansaas.com^
+||xinyexinye.ltd^
 ||xinyi.com/Public/config/Couplet/Index39.js
 ||xinyi.com/Public/config/Couplet/Index40.js
 ||xinyi.com/Public/config/Couplet/Index41.js
@@ -92247,6 +92256,7 @@ zznews.cn##.ad:not([style])
 ||ywbwsm.com^
 ||ywg.jobui.com^
 ||ywgcbcibz.com^
+||ywinterspace.ltd^
 ||ywjxsp168.cn^
 ||ywqpgy.com^
 ||ywrcqa.11alive.com^

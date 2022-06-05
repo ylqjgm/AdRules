@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206040219
+! Version: 202206050253
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 42320
+! Lenth = 42322
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -20677,6 +20677,7 @@ znak.com##.relap
 ||goatcounter.com^$third-party
 ||goaww.com/stats.php
 ||goazlf.mytoys.de^
+||gobankingrates.com/fp/
 ||gocertiport.pearsonvue.com^
 ||gocp.stroeermediabrands.de^$third-party
 ||gocuxy.baycrews.jp^
@@ -30179,6 +30180,7 @@ znak.com##.relap
 ||recs.atgsvcs.com^$third-party
 ||recs.richrelevance.com/rrserver/tracking?
 ||recs.richrelevance.com^$third-party
+||recurly.com/js/v1/events
 ||redatastore.ru^$third-party
 ||redbullmediahouse.hb.omtrdc.net^
 ||redcounter.net^$third-party
