@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">AdRules<br>A rule of powerful advertising</h1>
+<h1 align="center">AdRules<br>A powerful adblock rule</h1>
 
 <img src="https://img.shields.io/github/stars/Cats-Team/AdRules?color=yellow">
 <img src="https://img.shields.io/github/forks/Cats-Team/AdRules?color=orange">
@@ -18,7 +18,7 @@
 </div>                                                                                                   
 <br>
 
-- English description For ReadME May be updated slower than Chinese readme and inaccurate translation
+- English description For ReadME May be updated slower than Chinese readme and have inaccurate translation
 
 * This list rules apply to content filters
 * for DNS filter, please use AdRules (For DNS)
@@ -43,20 +43,20 @@
 
 #### rule Description: 
  - **AdRules AdBlock List:** - 
- From the upstream list rules, some supplemental rules have been added 
+ Combine from the upstream list rules, some supplemental rules have been added 
  - **AdRules AdGuard Filter List:** - 
  Combine from the AdGuard filter, no modifications, only for AdGuard 
  - **AdRules DNS List and AdRules Hosts List:** - 
- Combine from the top of the top, more matching DNS level filtering 
+ Combine from the upstream, more matching DNS level filtering 
  - **ALLOWLIST:** - 
 Only a Allowlist
 - **AdRules AdBlock Full List** -
 Combined from AdRules AdRules AdBlock List and AdRules AdGuard Filter List And some additional rules
 - **AdRules AdGuard Full List** -
-The full version of AdRules AdGuard Filter List, it is generally necessary to subscribe to the AdRules AdBlock Full List.
+The full version of AdRules AdGuard Filter List, it is not necessary after subscribing the AdRules AdBlock Full List.
 ## 🚛 Perfect project 
 
- I hope everyone can submit ISSUE or Request to help me improve the rules. I will update the rules after I review it. 
+ I hope everyone can submit ISSUE or P Request to help me improve the rules. I will update the rules after I review it. 
 
  **Submit range** 
 
