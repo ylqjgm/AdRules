@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 7h/iTdgb9eRJyp+wQwPSQA
+! Checksum: 1NNFQdAaVEicXlR+ryph/A
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-05 11:01:35（北京时间） 
-! Total count: 93210
+! Version: 2022-06-05 11:36:16（北京时间） 
+! Total count: 93214
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -11035,6 +11035,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /MCookieCheck.aspx
 /MCookieReturn.aspx
 /Maxymiser/*
+/Mplay/kk1.js
 /N-960x60.
 /NNAnalytics.
 /NNAnalytics/*
@@ -13256,6 +13257,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /collector/pageview
 /collector?report=
 /collectsysteminfo?
+/com/js/lp365.js
 /com_joomla-visites/*
 /com_joomlawatch/*
 /common/ad.
@@ -14942,6 +14944,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /js/wahha/*
 /js/wlfloat.js
 /js/xb.js$script,third-party
+/js/yys/Pfhl365.js
 /js/yzgg.js
 /js/zb.js$script,third-party
 /js?event=page&
@@ -42812,6 +42815,7 @@ start.firefoxchina.cn##.wrap > div[style]:last-child
 start.me##.widget-page__ads
 startmag.it##+js(abort-on-property-read, wpsite_clickable_data)
 static.g.iqiyi.com
+static/pull/qwe1021.js
 staticice.com.au##[href^="https://kogan.sjv.io/"]
 staticice.com.au#?#table[style="border-width:1px"] td[width="100%"]:only-child:has(> b:contains(/^Ads by Google$/))
 staticice.com.au#?#table[width="100%"] > tbody > tr > td[height="80"][valign="middle"][align="center"]:has(> table > tbody > tr  > .s_font)
