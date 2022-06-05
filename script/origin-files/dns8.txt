@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fDCr2qflqh+DEOJ2qEqAWQ
+! Checksum: p6POMtttyDgRL6AT+PsOAg
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206050833
-! Last modified: 2022-06-05 08:33 UTC
+! Version: 202206051533
+! Last modified: 2022-06-05 15:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -36457,6 +36457,7 @@ tf2r.com#@#.adverts
 ||deceittoured.com^
 ||decemberpedalunfair.com^
 ||decenthat.com^
+||decide.dev^
 ||decids.com^
 ||decisionmark.com^
 ||decisionnews.com^
@@ -49815,6 +49816,7 @@ tf2r.com#@#.adverts
 ||adsiduous.com^$third-party
 ||adskeeper.com^$third-party
 ||adslivecorp.com^$third-party
+||adsninja.ca^$third-party
 ||adsniper.ru^$third-party
 ||adsparc.net^$third-party
 ||adspeed.com^$third-party
@@ -63261,6 +63263,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /events/pixel/*$image
 /events/pixelEvent
 /events/track/*
+/events/view?
 /events?data=
 /events?rpId=
 /eventsBeacon?

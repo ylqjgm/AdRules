@@ -1,9 +1,11 @@
 # adguard-basic
 #
 # Converted from - https://filters.adtidy.org/windows/filters/2.txt
-# Last converted - Sun, 05 Jun 2022 08:34:19 +0000
+# Last converted - Sun, 05 Jun 2022 15:31:30 +0000
 #
 
+0.0.0.0 snonoz.com
+0.0.0.0 eignal.com
 0.0.0.0 wonsegax.net
 0.0.0.0 ithyourretye.xyz
 0.0.0.0 tirreleaseavailan.xyz
@@ -7755,6 +7757,7 @@
 0.0.0.0 deceittoured.com
 0.0.0.0 decemberpedalunfair.com
 0.0.0.0 decenthat.com
+0.0.0.0 decide.dev
 0.0.0.0 decids.com
 0.0.0.0 decisionmark.com
 0.0.0.0 decisionnews.com
@@ -20763,6 +20766,7 @@
 0.0.0.0 adsiduous.com
 0.0.0.0 adskeeper.com
 0.0.0.0 adslivecorp.com
+0.0.0.0 adsninja.ca
 0.0.0.0 adsniper.ru
 0.0.0.0 adsparc.net
 0.0.0.0 adspeed.com
