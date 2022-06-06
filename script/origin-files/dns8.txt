@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xmgJGagOB06mAonDqrjelQ
+! Checksum: R2hk6eOn/FymXr35DWovyQ
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206060733
-! Last modified: 2022-06-06 07:33 UTC
+! Version: 202206060933
+! Last modified: 2022-06-06 09:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32061,7 +32061,7 @@ cars.mitula.ae#@#.adsList
 trustnet.com#@#.ads_right
 quebarato.com.br,search.conduit.com#@#.ads_wrapper
 alluc.org#@#.adsbottombox
-advancedrenamer.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,teemo.gg,willyoupressthebutton.com#@#.adsbygoogle
+advancedrenamer.com,cdromance.com,epicbundle.com,hs-exp.jp,korail.pe.kr,phcorner.net,teemo.gg,willyoupressthebutton.com#@#.adsbygoogle
 copart.com#@#.adscontainer
 starbike.com#@#.adsense_wrapper
 live365.com#@#.adshome
@@ -64209,6 +64209,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /logger?d=
 /logger?description=
 /logging-code.
+/logging/ClientEvent
 /logging/log-
 /logging/log.do
 /logging/logjs
@@ -74928,6 +74929,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d1t9uctetvi0tu.cloudfront.net^
 ||d1uanozc5el74n.cloudfront.net^
 ||d1wirc5qsdb1y5.cloudfront.net^
+||d1wix2gc2cgqis.cloudfront.net^
 ||d1xfq2052q7thw.cloudfront.net^
 ||d1yu67rmchodpo.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^
@@ -95919,6 +95921,7 @@ _youtube_social_
 /oil.*-RELEASE.min.js
 /oil/*-RELEASE.chunk.js
 /oiljs/*-RELEASE.min.js
+/one_trust/*
 /oneTrust-
 /oneTrust.
 /onetrust/consent/*

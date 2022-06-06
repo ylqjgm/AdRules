@@ -9245,6 +9245,7 @@ dl.gamecopyworld.*##.t2 > tbody > tr:nth-of-type(1) > td
 dl.gamecopyworld.*##td:nth-of-type(2)
 dl.gamecopyworld.*##tr:nth-of-type(6) > td
 consoletarget.com##+js(aopr, loadTool)
+||gamecopyworld.com/!_$frame
 
 ! pch .com
 *$script,domain=pch.com,redirect=noopjs,3p
@@ -18308,8 +18309,8 @@ sfirmware.com##.buy_on_amazon
 ! https://github.com/uBlockOrigin/uAssets/issues/6946
 hostingunlock.com##+js(acis, $, show)
 
-! https://github.com/uBlockOrigin/uAssets/issues/3886
-@@||osuskinner.com^$ghide
+! https://github.com/uBlockOrigin/uAssets/issues/13588
+osuskinner.com##+js(nostif, height)
 osuskinner.com##.ad-300-250, .ad-billboard
 
 ! https://github.com/NanoMeow/QuickReports/issues/3029
