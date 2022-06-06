@@ -2,7 +2,7 @@
 ! Title: adg-kall
 ! Description: Adg-kall collected on the network and I have written some rules. 
 ! Homepage: https://kbsml.com
-! Last modified: 6/6/2022, 8:00:04 AM
+! Last modified: 6/6/2022, 4:00:04 PM
 !
 ||slfango.ltd^
 ||xt.kluvcc.com^
@@ -31937,9 +31937,9 @@ _yad_jsonp_
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".leyu"]
 ##div[onclick*="?i_code="]
-##div[style=" max-width:976px;  margin:0 auto;"] > a > img[height="60px"]
-##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:977px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
@@ -32226,6 +32226,7 @@ _yad_jsonp_
 ##img[onclick*="/ayx600.com/"]
 ##img[onclick*="/ayx700.com/"]
 ##img[onclick*="/c7.net/"]
+||souyou.org^
 .8ox.cn
 ||012.tw^$third-party
 ||033.com^$third-party
@@ -37589,6 +37590,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 szxx.com.cn###A0
+imydl.com##.banner
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -43781,6 +43783,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||ynlmsc.pw^
 ||liyuan.cloud^
 ||csdn.love^
+||heimen.xyz^
+||imview.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]

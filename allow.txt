@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: LCFFcMYngMKDDLLs3Mnq2Q
+! Checksum: 3Ad5yKBUSOC924suHqNHfg
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-06 09:59:14（北京时间） 
-! Total count: 19462
+! Version: 2022-06-06 16:25:23（北京时间） 
+! Total count: 19459
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -654,7 +654,6 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgd-party
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -1968,7 +1967,6 @@
 @@||alt-torrent.com^$ghide
 @@||altadefinizione.cloud^$generichide
 @@||alternate.de/js/emos2.js
-@@||alternativeto.net/dist/icons/$image
 @@||altfaucet.xyz^$ghide
 @@||alttyab.net^$ghide
 @@||altyazili13.xyz^$ghide
@@ -4055,7 +4053,6 @@
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
 @@||cdn.optimizely.com/js/*.js$domain=ns.nl|compassion.com|creditsesame.com|forbes.com|freeshipping.com|heroku.com|hotukdeals.com|imageshack.com|lifelock.com|malwarebytes.org|policymic.com|ricardo.ch|spotify.com|techrepublic.com|zdnet.com|olx.ua|casper.com|dubizzle.com|pullandbear.com
 @@||cdn.optimizely.com/js/*.js$domain=ruggable.com
-@@||cdn.optimizely.com/js/*.js$domain=yemeksepeti.com
 @@||cdn.optimizely.com/js/3148790251.js$domain=shopsmarter.com
 @@||cdn.optimizely.com/js/8143030612.js$domain=bestbuy.com
 @@||cdn.optimizely.com/public/$script,domain=nytimes.com
@@ -5461,7 +5458,6 @@
 @@||daumcdn.net^*/socialshare-*.min.js$domain=daum.net
 @@||dausel.co^$ghide
 @@||dav.jianguoyun.com^
-@@||davidsilverspares.co.uk/graphics/*_ad.gif$~third-party
 @@||daxab.com/player/$stealth
 @@||dayanzai.me/image/ad/$image
 @@||dayt.se/bottombannerkw.php$subdocument,domain=dayt.se
@@ -6622,6 +6618,7 @@
 @@||fastcdn.stream/*.js$domain=wstream.video
 @@||fastcontentdelivery.com/js/*ad$script
 @@||fastcontentdelivery.com^$media,domain=flashx.net
+@@||fastcontentdelivery.com^$script,domain=flashx.*
 @@||fastcontentdelivery.com^$script,domain=flashx.to|flashx.tv
 @@||fastdrama.me/scripts/fuckadblock.js
 @@||fastenfather.com^$script,xmlhttprequest
@@ -8026,6 +8023,7 @@
 @@||google.com/recaptcha/$domain=vidoza.net
 @@||google.com/recaptcha/api.js
 @@||google.com/recaptcha/api2/$document
+@@||google.com/recaptcha/api2/$subdocument
 @@||google.com/recaptcha/enterprise.js
 @@||google.com/recaptcha/enterprise/
 @@||google.com/settings/ads/onweb$urlblock
@@ -8638,6 +8636,7 @@
 @@||graphiq.com^*/Social_$image,domain=insidegov.com
 @@||graphql.usercentrics.eu/graphql$domain=kabeleinsdoku.de|kabeleinsdoku.at
 @@||graphql.usercentrics.eu/graphql$domain=sixx.de|prosiebenmaxx.de|sat1.de|prosieben.de|kabeleins.de|sixx.de|sat1gold.de|ran.de|joyn.de|sat1.at
+@@||graphql.usercentrics.eu/graphql$xmlhttprequest,domain=wetter.com
 @@||graphracer.com/js/libs/heatmap.js
 @@||gratis.com/Banners/
 @@||gratisbitco.in/scripts/ads.js$script
@@ -9207,10 +9206,10 @@
 @@||i9w8p.pw^$script,xmlhttprequest
 @@||ia.hit.interia.pl/*/date?$domain=interia.pl
 @@||ia.hit.interia.pl^|
-@@||iafd.com/graphics/headshots/thumbs/th_iafd_ad.gif$~third-party
 @@||ialweb.it^$ghide
 @@||iamcdn.net/players/*ads$script,domain=playhydrax.com
 @@||iamcdn.net/players/*ads*.js$domain=hydrax.net|playhydrax.com
+@@||ias.global.rakuten.com/adv/$script,domain=rakuten.co.jp
 @@||iatv.tmgrup.com.tr/*/advmanager.js$domain=atv.com.tr
 @@||iatv.tmgrup.com.tr^$script,stealth
 @@||ib.adnxs.com$domain=prmgr.a3cloud.net
@@ -10326,11 +10325,11 @@
 @@||js.maxmind.com^
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=mediastream.microsoft.com
+@@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=remoteassistance.support.services.microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=skype.com
 @@||js.nyt.com/js/app/analytics/wtbase.js$domain=nytimes.com
 @@||js.revsci.net/gateway/gw.js?$domain=t-online.de
 @@||js.sentry-cdn.com^$script,domain=book.dmm.com|interacty.me|jobs.ch|pizzahut.com.au
-@@||js.sentry-cdn.com^$script,domain=book.dmm.com|jobs.ch|pizzahut.com.au
 @@||js.spotx.tv/directsdk/*.js$domain=bloomberg.com
 @@||js.taplytics.com/jssdk/$domain=foxnews.com
 @@||js.tudouui.com/bin/player2/$object
@@ -10409,7 +10408,6 @@
 @@||kaft.com/static/images/content/banner/
 @@||kaipuyun.cn^
 @@||kaitao.cn/public/wenda/ad/css/ds-un-detail.css
-@@||kaitaro.jp/images/ad.gif
 @@||kaixin001.com/ad/
 @@||kakao.com^$ghide
 @@||kalaydo.de^*/cookie-consent.jsc.js$domain=kalaydo.de
@@ -15110,6 +15108,7 @@
 @@||script.auction.co.kr/Ad/DACommon.js
 @@||script.ioam.de/iam.js$domain=hoerzu.de|snacktv.de
 @@||script.ioam.de/iam.js$script,domain=joyn.de
+@@||script.nettix.fi/auto/extra/template/nettiauto_analytics.js$domain=nettiauto.com
 @@||script.onurcici.com^$ghide
 @@||script.ownpage.fr/v1/ownpage.js?$script,domain=lci.fr
 @@||scripts.demandmedia.com/wm.js$domain=ehow.com
@@ -19259,7 +19258,6 @@
 @@||yimg.com/ud/fp/js/Ads.*.min.js$domain=mobi.yahoo.com
 @@||yimg.com/ud/fp/js/GoldenGate$script,domain=mobi.yahoo.com
 @@||yimg.com/ud/fp/js/SocialBar$script,domain=mobi.yahoo.com
-@@||yimg.com/uq/syndication/yad.js$domain=zdnet.com
 @@||yimg.com/zz/combo?*&*.css$domain=~search.yahoo.com
 @@||yimg.com^*/combo?*/followus.$domain=yahoo.com
 @@||yimg.com^*/combo?*/share-buttons-$script,domain=yahoo.com
@@ -19387,7 +19385,6 @@
 @@||zdbb.net/r/?*&mailing
 @@||zdf.de/zdf/flash/eplayer/player.swf?*/cgi-bin/ivw/
 @@||zdmedia.ziffdavis.com/video/$domain=pcmag.com
-@@||zdnet.com/images/base/sprites-social.png
 @@||zdnet.de/wp-content/uploads/*-logo-$image,~third-party
 @@||zdopravy.cz^$generichide
 @@||zealousfield.com^$script,xmlhttprequest

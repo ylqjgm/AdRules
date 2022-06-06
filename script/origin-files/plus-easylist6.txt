@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206050253
+! Version: 202206060230
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 42322
+! Lenth = 42324
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2710,6 +2710,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /events/pixel/*$image
 /events/pixelEvent
 /events/track/*
+/events/view?
 /events?data=
 /events?rpId=
 /eventsBeacon?
@@ -7873,7 +7874,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com
 @@||js.monitor.azure.com/scripts/*/ms.analytics-web-*.min.js$domain=mediastream.microsoft.com
 @@||js.revsci.net/gateway/gw.js?$domain=t-online.de
-@@||js.sentry-cdn.com^$script,domain=book.dmm.com|jobs.ch|pizzahut.com.au
+@@||js.sentry-cdn.com^$script,domain=book.dmm.com|interacty.me|jobs.ch|pizzahut.com.au
 @@||js.taplytics.com/jssdk/$domain=foxnews.com
 @@||js.vpro.nl/vpro/*/statcounter.js?
 @@||jsdelivr.net^*/keen-tracking.min.js$domain=nextquotidiano.it
@@ -29878,6 +29879,7 @@ znak.com##.relap
 ||qubitproducts.com^$third-party
 ||quelea.llresearch.dev^
 ||quelle.de/servlet/LandmarkServlet?clientId=
+||quesid.com^
 ||questintegrity.actonservice.com^
 ||questionpro.com^$third-party
 ||questionpro.com^$third-party,domain=~questionpro.com.au|~questionpro.eu

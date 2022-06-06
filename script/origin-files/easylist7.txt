@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202206050253
+! Version: 202206060230
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26822
+! Lenth = 26831
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -1242,9 +1242,9 @@
 ##div[onclick*="?i_code="]
 ##div[onclick^="window.location.href"][onclick*=".bcebos."]
 ##div[onclick^="window.location.href"][onclick*=".haoyundm.com"]
-##div[style=" max-width:976px;  margin:0 auto;"] > a > img[height="60px"]
-##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:977px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="border-radius:8px;background-color:#005737;padding:6px;"]
 ##div[style="box-sizing:border-box;padding:20px 16px;border-radius:8px;width:90%;margin:0 auto;"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
@@ -1312,7 +1312,7 @@ $domain=ads.adxadserv.com|adserver.juicyads.com|cs.adxpansion.com|olmsoneenh.inf
 $domain=googleads.g.doubleclick.net
 $image,third-party,domain=258zw.com
 $image,third-party,domain=lady1.top
-$popup,third-party,domain=76fengyun.com|88files.net|avsdown.com|downdv.com|downdvs.com|downhhh.com|imedown.info|jandown.com|mimima.com|mnks.jxedt.com|rmdown.com|soyunpan.com|youtubeto.com
+$popup,third-party,domain=76fengyun.com|88files.net|avsdown.com|downdv.com|downdvs.com|downhhh.com|imedown.info|jandown.com|mimima.com|mnks.jxedt.com|rmdown.com|soyunpan.com|xmflv.com|youtubeto.com
 $popup,third-party,domain=webkaka.com
 $script,stylesheet,subdocument,third-party,xmlhttprequest,domain=cocomanga.com|cocomanhua.com
 $script,subdocument,third-party,domain=dlkoo.com
@@ -7930,6 +7930,7 @@ image.so.com#?#.imgcell:-abp-has(.txt:-abp-contains(广告))
 imeee.cn##.DA336
 imkan.tv##.bottom__card
 imooc.com##.redrain-bg-shade
+imydl.com##.banner
 infoq.cn##.geo-banner
 infoq.cn##.live-fixed-bar
 infoq.cn##.widget-slide-weekly
@@ -9992,7 +9993,7 @@ segmentfault.com###first-ad
 segmentfault.com###gridAd
 segmentfault.com#?##question-wrap > .row > .col-xl-auto:has(> #first-ad:first-child + #gridAd + #second-ad:last-child)
 senao.com.tw#@#.ad-wrap
-senfun.net##.player-recommend
+senfun.net,yanetflix.com##.player-recommend
 seqing.world,singlove.com,whichav.com,whichav.net,wokao.co##.qq
 serengeseba.com##.content > li > a[href^="http"]
 sese733.info##.fp-player > div[style^="position: absolute;"][style*="overflow: hidden; z-index:"]:not([class])
@@ -11362,8 +11363,6 @@ yam.com##.axdBox
 yam.com##div[id^="adgshp"]
 yamibo.com##a[href*="xqsp.club"]
 yamol.tw##.panel[style="text-align:left;width:100%;padding:0px;background-color:white"]
-yanetflix.com##.player-recommend
-yanetflix.com##div[style="padding: 5px; background-color: #2b2a2a; border-radius: 30px; text-align: center;"]
 yangluo.cn###frame51RcxP
 yangluo.cn###frameVw7574
 yangmaodang.org##.autumn-single-bottom-a-d
@@ -12249,6 +12248,7 @@ zznews.cn##.ad:not([style])
 ||18183.com^*.php?
 ||1818bobo.com^
 ||183yf.cn/img/nz.png
+||18600441156.cn^
 ||187cn.cn^
 ||188soft.com/js/PCsoftDetailAD.js
 ||188xiaoba.net^
@@ -12749,7 +12749,6 @@ zznews.cn##.ad:not([style])
 ||4wa24bq.cn^
 ||4wens.org^
 ||5.gzfenda.com^
-||5.sc126.com^
 ||500xxxx.com/go.js
 ||504537168.com/Public/system/system.
 ||5054399.com/js/rice/m.js
@@ -13904,6 +13903,7 @@ zznews.cn##.ad:not([style])
 ||ahylong.cn^
 ||ahyuns.com^
 ||ahzhongzhan.cn^
+||ai-gis.club^
 ||ai.bioon.com^
 ||ai256.top^
 ||ai36588.com^
@@ -15050,6 +15050,7 @@ zznews.cn##.ad:not([style])
 ||bmt4578.xyz^
 ||bmuju.com^
 ||bmw100.cn^$third-party
+||bmzdysi.cn^
 ||bnd-ybb.cn^
 ||bndbddt.top^
 ||bnextmedia.com.tw/feed/fetch.js
@@ -15595,6 +15596,7 @@ zznews.cn##.ad:not([style])
 ||chnci.com^$third-party
 ||chnmoney.com/dfile/
 ||chnt.wang^
+||chocolate521.online^
 ||chong-wu.net^
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
 ||chongyuelighting.cn^
@@ -15941,6 +15943,7 @@ zznews.cn##.ad:not([style])
 ||csaimall.com^$popup,third-party
 ||csalsylqx.com^
 ||csbew.com^$third-party
+||csdn.love^
 ||csdn.net/ggmm/
 ||csdn.net/msg.popup.js
 ||csdnimg.cn/check-adblock/
@@ -20353,6 +20356,7 @@ zznews.cn##.ad:not([style])
 ||lixuanbaojie.com^
 ||lixudong.top^
 ||liyelaowu.cn^
+||liyuan.cloud^
 ||lizehuandian.top^
 ||lizhuo.fun^
 ||lizuorl.cn^
@@ -22772,6 +22776,7 @@ zznews.cn##.ad:not([style])
 ||sbqsftz.cn^
 ||sbrqp.com^
 ||sc.csai.cn^
+||sc126.com^
 ||sccnn.com/SF/zt.jpg
 ||scenegame.cn^
 ||scenepass.com^
@@ -23093,6 +23098,7 @@ zznews.cn##.ad:not([style])
 ||sinaimg.cn/large^$domain=fcw45.com
 ||sinaimg.cn/mw1024/006NYgrsgy1ffahk0lf8og30i204677m.gif
 ||sinaimg.cn/mw690/005uyUwYjw1eocc98cbgag30gk02ygm9.gif
+||sinaimg.cn/mw690/00745YaMgy1gu95zq2d1qj60go09g0vc02.jpg
 ||sinaimg.cn/news/article/article_qcode
 ||sinaimg.cn/news/diversion/index2/static/js/index.
 ||sinaimg.cn/sports/20214c6d/20181128/880_110.png
@@ -23285,6 +23291,7 @@ zznews.cn##.ad:not([style])
 ||southmoney.com/page/pc/
 ||southmoney.com/page/top
 ||southmoney.com^*/Inc/
+||souyou.org^
 ||soxscc.org/wsc/
 ||soyue.cc^$third-party
 ||sozi.cn/images/tj/downad
@@ -25923,6 +25930,7 @@ zznews.cn##.ad:not([style])
 ||ynevxkx.cn^
 ||ynhuya.cn^
 ||ynjkkj.com^
+||ynlmsc.pw^
 ||ynlsgw.com^
 ||ynmpzs.cn^
 ||ynslvyou.com^
@@ -26450,6 +26458,7 @@ zznews.cn##.ad:not([style])
 ||zhiyoo.com/mplus/images/banner.jpg
 ||zhiys.com/img_new/mobilemo2.jpg
 ||zhizhunbao.top^
+||zhizhuzhijia.cn^
 ||zhizones.com^
 ||zhjfad.com^
 ||zhmyq.cn^
