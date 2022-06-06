@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: R2hk6eOn/FymXr35DWovyQ
+! Checksum: UmonLdPwWlqJT6LoFpi28g
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206060933
-! Last modified: 2022-06-06 09:33 UTC
+! Version: 202206061433
+! Last modified: 2022-06-06 14:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -36426,6 +36426,7 @@ tf2r.com#@#.adverts
 ||dcpxroykfpnnpm.xyz^
 ||dcqsvxuetj.com^
 ||dcvaxrdmdovrsgh.com^
+||dcwkgvoeufhnm.com^
 ||ddajztoum.com^
 ||ddb85f4fd9.com^
 ||ddc08eb47c.com^
@@ -40172,6 +40173,7 @@ tf2r.com#@#.adverts
 ||jebure.com^
 ||jechesmacaltont.info^
 ||jeclittrecheckrep.info^
+||jecoglegru.com^
 ||jecqhvrclrxe.com^
 ||jecumapu.com^
 ||jeehathu.com^
@@ -42461,6 +42463,7 @@ tf2r.com#@#.adverts
 ||nmwnlbeiykxina.xyz^
 ||nndkukagmos.com^
 ||nnkeajhamwoo.xyz^
+||nnlczheczlq.com^
 ||nnxugnisebisq.xyz^
 ||no2veeamggaseber.com^
 ||noagliph.com^
@@ -48691,6 +48694,7 @@ tf2r.com#@#.adverts
 ||wombsaimscary.com^
 ||wonderfullytumultbizarre.com^
 ||wonderhsjnsd.com^
+||wonsegax.net^
 ||wontonsnosite.com^
 ||wood-pen.com^
 ||woodymotherhood.com^
@@ -57514,7 +57518,7 @@ kissanime.com.ru##.close_ad_button
 brmangas.com##.closebf
 news18.com##.closestickybtn
 computerweekly.com,techtarget.com,theserverside.com##.cls-hlb-wrapper-desktop
-thenetnaija.com##.cmp-list
+thenetnaija.co,thenetnaija.com##.cmp-list
 drivespark.com##.cmscontent-left-article
 careerindia.com##.cmscontent-top
 cnn.com##.cn--expandable.cn--idx-1
@@ -112370,6 +112374,7 @@ _subscribers_newsletters/
 ###_cookie_script_small_opener
 ###_cookiealert
 ###_cookiebanner
+###_cookiebanner-opt-in-out
 ###_cookies-overlay
 ###_cookies-popup
 ###_cookies_info
@@ -114476,6 +114481,7 @@ _subscribers_newsletters/
 ###cookiePermission
 ###cookiePermissionBar
 ###cookiePlaceholder
+###cookiePlugin
 ###cookiePol
 ###cookiePoliciesMessage
 ###cookiePolicy
@@ -115062,6 +115068,8 @@ _subscribers_newsletters/
 ###cookieblokk
 ###cookiebnr
 ###cookiebot
+###cookiebottom
+###cookiebottombar
 ###cookiebottomgradient
 ###cookiebox
 ###cookiebox-bg
@@ -116083,6 +116091,7 @@ _subscribers_newsletters/
 ###datenschutz-layer
 ###datenschutz_hinweis
 ###datenschutz_info
+###datenschutz_popup
 ###datenschutzcontainer
 ###datenschutzcoockie
 ###datenschutzhinweis
@@ -117409,6 +117418,7 @@ _subscribers_newsletters/
 ###km-cookie-accept
 ###kn-gdpr-dialog
 ###koekbalk
+###koekieBar
 ###koekiemelding
 ###koekiemonster
 ###koekjePopup
@@ -117650,6 +117660,7 @@ _subscribers_newsletters/
 ###mobile-sticky-bottom
 ###mod-cookieBar
 ###mod-cookies-warrning
+###mod-darmas-cookies
 ###mod-eprivacyoptin
 ###mod-privacy-policy
 ###mod-privacy-policy-banner-1
@@ -118369,6 +118380,7 @@ _subscribers_newsletters/
 ###privatBanner
 ###private-policy
 ###privatePolicyHolder
+###pro_cookiebox
 ###pro_euclp_cookies_box
 ###prompt-cookies
 ###pronamic_cookie_holder
@@ -121796,6 +121808,7 @@ _subscribers_newsletters/
 ##.cookieBlock
 ##.cookieBlog
 ##.cookieBnrWrp
+##.cookieBottom
 ##.cookieBox
 ##.cookieBox-wrapper
 ##.cookieBoxWrap
@@ -122320,6 +122333,7 @@ _subscribers_newsletters/
 ##.cookiebg:not(body):not(html)
 ##.cookieblock
 ##.cookieboks
+##.cookiebottom
 ##.cookiebox
 ##.cookiebox-wrapper
 ##.cookieboxM
@@ -137049,11 +137063,11 @@ itv.com##.js-site-alert
 itv.com##.js-site-alert-content
 cgtn.com##.js-tools-dialog
 anker.com,kurasu.kyoto##.jsFixedMessage
-gettr.com##.jss110
 gettr.com##.jss121
 tvtv.us##.jss14
 gettr.com##.jss142
 gettr.com##.jss67
+gettr.com##.jss84
 canva.com##.jv5LaQ
 steller.co##.kDyVQY
 helloclue.com##.kSGNNc
@@ -141432,7 +141446,7 @@ bluemonty.de##.pixelmate-big-wrapper
 mellerud.de##.popup
 keg-gruber.at##.popup-banner
 lagermaulwurf.de##.popup-notification
-the-red.de##.popup-overlay
+enders-personalmarketing.de,the-red.de,xn--logopdie-werner-4kb.de##.popup-overlay
 hometogo.de##.posf.react-onclickoutside
 brieffreund-gesucht.de##.privacy
 getdigital.de##.privacy-wrapper

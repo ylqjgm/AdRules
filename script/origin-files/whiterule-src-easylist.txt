@@ -735,6 +735,7 @@
 @@||api.paymentwall.com^$domain=adguard.com
 @@||api.peer5.com^$script,domain=kora-online.tv
 @@||api.peer5.com^$script,domain=kora-online.tv
+@@||api.penpencil.xyz^$stealth,domain=physicswallah.live|pw.live
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.sec.miui.com^
 @@||api.solvemedia.com^$script,domain=salefiles.com
@@ -2155,7 +2156,6 @@
 @@||enfemenino.com^$generichide
 @@||engine.presearch.org^$generichide
 @@||engine.presearch.org^$generichide
-@@||englishcentral.com^$stealth
 @@||englishcentral.com^$stealth
 @@||enormousearth.com^$script,xmlhttprequest
 @@||ens.nzz.ch^$~third-party
