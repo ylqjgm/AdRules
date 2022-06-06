@@ -1,5 +1,5 @@
 ! Title: AdRules for AdGuard
-! Version: 20220605162815657470370
+! Version: 20220606015859752995113
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Total lines: 00000
 ||cda.0-shiny.com^
@@ -6729,9 +6729,9 @@
 ||adv-links.com^
 ||adv-target.ru^
 ||adv-views.com^
+||eduardorodrigues.adv.br^
 ||baldocortez.adv.br^
 ||claudioavelar.adv.br^
-||eduardorodrigues.adv.br^
 ||adv225489.ru^
 ||adv457895.ru^
 ||adv679854.ru^
@@ -7642,6 +7642,7 @@
 ||ahyuns.com^
 ||ahzahg6ohb.com^
 ||ahzhongzhan.cn^
+||ai-gis.club^
 ||bantam.ai.net^
 ||fiona.ai.net^
 ||ai256.top^
@@ -8034,7 +8035,6 @@
 ||middycdn-a.akamaihd.net^
 ||netrefer-a.akamaihd.net^
 ||ntvcld-a.akamaihd.net^
-||protectsurf-a.akamaihd.net^
 ||pxlgnpgecom-a.akamaihd.net^
 ||qnajplxtvz-a.akamaihd.net^
 ||redge-a.akamaihd.net^
@@ -8049,6 +8049,7 @@
 ||ugcbrainient-a.akamaihd.net^
 ||uhytajrtpo-a.akamaihd.net^
 ||zvsuhljiha-a.akamaihd.net^
+||protectsurf-a.akamaihd.net^
 ||akamaihd.site^
 ||abcd.mdc.akamaized.net^
 ||appsflyer.com.akamaized.net^
@@ -20108,21 +20109,21 @@
 ||engage.3m.co.id^
 ||fudezz.kontan.co.id^
 ||ibnads.xl.co.id^
-||kotakwarna.co.id^
-||mandom.co.id^
 ||metrics.abbottfamily.co.id^
 ||roxedltd.co.id^
-||semenpadanghospital.co.id^
 ||sitti.co.id^
 ||smetrics.kone.co.id^
 ||somtrdc.jobstreet.co.id^
-||ss.monita.co.id^
 ||vzeyba.shopee.co.id^
 ||cookies.jll.co.id^
 ||hiuplq.flashscore.co.id^
 ||hyybul.kaskus.co.id^
+||kotakwarna.co.id^
+||mandom.co.id^
+||semenpadanghospital.co.id^
 ||smetrics.citibank.co.id^
 ||smetrics.marketing.lighting.philips.co.id^
+||ss.monita.co.id^
 ||a.walla.co.il^
 ||ads.bhol.co.il^
 ||ads.internic.co.il^
@@ -20163,10 +20164,10 @@
 ||webmedia.co.il^
 ||wrtm.walla.co.il^
 ||x.walla.co.il^
-||yafa-coach.co.il^
 ||campaign.kpmg.co.il^
 ||go.electra-trade.co.il^
 ||info.maccabi-tlv.co.il^
+||yafa-coach.co.il^
 ||k.brandalley.co.nl^
 ||rvz9.destinia.co.ro^
 ||5wh.co.zw^
@@ -20529,12 +20530,12 @@
 ||com-directory.co^
 ||com-wkejf32ljd23409system.net^
 ||engage.3m.com.by^
-||automatizacionempresarial.com.co^
 ||engage.3m.com.co^
 ||metrics.familiaynutricion.com.co^
 ||nnofmj.studiof.com.co^
 ||smetrics.wradio.com.co^
 ||adobe.falabella.com.co^
+||automatizacionempresarial.com.co^
 ||cookies.jll.com.co^
 ||metrics.caracol.com.co^
 ||sadobe.falabella.com.co^
@@ -20589,14 +20590,11 @@
 ||analytics.diamondstarfinancial.com.vn^
 ||analytics.fsoft.com.vn^
 ||as1.abigames.com.vn^
-||asu.com.vn^
-||bsi.com.vn^
 ||counter.24h.com.vn^
 ||ctyjsf.cellphones.com.vn^
 ||delivery.vtcnew.com.vn^
 ||digi.vinut.com.vn^
 ||engage.3m.com.vn^
-||galaxy-catering.com.vn^
 ||interlogistics.com.vn^
 ||log.hemera.com.vn^
 ||log.oto.com.vn^
@@ -20627,7 +20625,10 @@
 ||tracking.vht.com.vn^
 ||tracking.vtcnew.com.vn^
 ||viam.com.vn^
+||asu.com.vn^
+||bsi.com.vn^
 ||cookies.joneslanglasalle.com.vn^
+||galaxy-catering.com.vn^
 ||go.mbs.com.vn^
 ||pardot.tcbs.com.vn^
 ||vkcdnservice.com0265331.com^
@@ -39936,9 +39937,9 @@
 ||metric.huya.com^
 ||p2p.huya.com^
 ||statwup.huya.com^
-||va.huya.com^
 ||ylog.huya.com^
 ||e-ad-monitor.huya.com^
+||va.huya.com^
 ||k.huyanan.wang^
 ||huyatv.ru^
 ||huyc.info^
@@ -49174,6 +49175,7 @@
 ||lixuanbaojie.com^
 ||lixudong.top^
 ||liyelaowu.cn^
+||liyuan.cloud^
 ||liyueao.top^
 ||lizads.com^
 ||lizardslaugh.com^
@@ -54639,6 +54641,7 @@
 ||ms-downloading.com^
 ||ms-mvp.org^
 ||ms-pipes-service.com^
+||ms-shoponline.top^
 ||ms-shopplus.su^
 ||ms3388.com^
 ||ms3t.club^
@@ -57741,8 +57744,8 @@
 ||notionnalisent.xyz^
 ||notix.io^
 ||notixio.com^
-||share.notizie.it^
 ||tracking.notizie.it^
+||share.notizie.it^
 ||stork.notlessbutbetter.com^
 ||notmining.org^
 ||notorietycheerypositively.com^
@@ -70427,7 +70430,7 @@
 ||globalcommunications.sc.com^
 ||jeedmact.sc.com^
 ||ab.sc115.com^
-||5.sc126.com^
+||sc126.com^
 ||sc1369.com^
 ||adshow.sc2tv.ru^
 ||ads.scabee.com^
@@ -74367,6 +74370,7 @@
 ||souvenirsattachedcountenance.com^
 ||souvenirwatery.com^
 ||souvlatraffic.com^
+||souyou.org^
 ||inquiry.souzokunote.com^
 ||crm.sov-inform-buro.ru^
 ||benefits.sovendus.com^
@@ -76651,8 +76655,8 @@
 ||surgicalexpectingdecisive.com^
 ||suried.com^
 ||suriflowers.com^
-||metrics.surinenglish.com^
 ||adbmetrics.surinenglish.com^
+||metrics.surinenglish.com^
 ||sadbmetrics.surinenglish.com^
 ||email-link.mg.surkus.com^
 ||link.lpm.surkus.com^
@@ -88047,6 +88051,7 @@
 ||wizhumpgyros.com^
 ||wizliebeg.com^
 ||wizwarsum.site^
+||trk.wizzdeal.trade^
 ||wjbrinsb.com^
 ||wjdfv.com^
 ||wjdjcjcm444.cn^
@@ -91193,6 +91198,7 @@
 ||ynjkkj.com^
 ||ynjyhm.com^
 ||ynklendr.online^
+||ynlmsc.pw^
 ||ynlsgw.com^
 ||c.ynlysg.com^
 ||ynmbz.com^
