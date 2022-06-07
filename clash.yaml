@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220607201230
+#VER=20220607201447
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93618
+#TOTAL_LINES=93617
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -46860,7 +46860,6 @@ payload:
   - '+.updatepage.kuwo.cn'
   - '+.wa.kuwo.cn'
   - '+.webstat.kuwo.cn'
-  - '+.nmobi.kuwo.cn'
   - '+.kuwoyy.com'
   - '+.kuxinqi.com'
   - '+.kuyhaa-mee.com'

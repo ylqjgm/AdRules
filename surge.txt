@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220607201228
+#VER=20220607201445
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93618
+#TOTAL_LINES=93617
 DOMAIN-SUFFIX,cda.0-shiny.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
 DOMAIN-SUFFIX,c.0.0.0.0.cn
@@ -46857,7 +46857,6 @@ DOMAIN-SUFFIX,s1j.kuwo.cn
 DOMAIN-SUFFIX,updatepage.kuwo.cn
 DOMAIN-SUFFIX,wa.kuwo.cn
 DOMAIN-SUFFIX,webstat.kuwo.cn
-DOMAIN-SUFFIX,nmobi.kuwo.cn
 DOMAIN-SUFFIX,kuwoyy.com
 DOMAIN-SUFFIX,kuxinqi.com
 DOMAIN-SUFFIX,kuyhaa-mee.com
