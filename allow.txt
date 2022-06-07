@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: Abgo1faScHpPj+PPD/tl0g
+! Checksum: IQjddD2SoFWP87RLl/Yn5g
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-07 20:38:01（北京时间） 
-! Total count: 19464
+! Version: 2022-06-08 00:33:16（北京时间） 
+! Total count: 19460
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -1225,7 +1225,6 @@
 @@||ad.kazakinfo.com^
 @@||ad.linksynergy.com^$image,domain=extrarebates.com
 @@||ad.lkqd.net/serve/formats.js$domain=breitbart.com
-@@||ad.lkqd.net/vpaid/formats.js$script,domain=slader.com
 @@||ad.mail.ru/adp/?q=*&target_count=$domain=youla.ru
 @@||ad.mail.ru/adq/?callback=jQuery$domain=target.my.com
 @@||ad.neobux.com/adalert/
@@ -12790,11 +12789,9 @@
 @@||p.jwpcdn.com/player/v/*/jw-icons.woff$domain=9anime.to
 @@||p.jwpcdn.com^$script
 @@||p.qlogo.cn^
-@@||p.typekit.net/*.css$domain=burnabyvillagemuseum.ca
 @@||p.typekit.net/*.css$domain=cfr.org
 @@||p.typekit.net/*.css$domain=fedandfit.com
 @@||p.typekit.net/*.css$domain=store.steampowered.com|nejm.org
-@@||p.typekit.net/p.css$domain=scamadviser.com
 @@||p2.2elotoaraba.com/Advert/*$domain=2elotoaraba.com
 @@||p2xfxd.com^$ghide
 @@||pacaio.match.qq.com^
@@ -13758,7 +13755,6 @@
 @@||plugins.matomo.org^$image,~third-party
 @@||plus.addkt.com/slader.js$domain=slader.com
 @@||plus.addkt.com/slader_exdetail.js$domain=slader.com
-@@||plus.addkt.com/slader_exdetail.js$script,domain=slader.com
 @@||plus.google.com/hangouts/$stealth
 @@||plus.google.com/hangouts/_/CONVERSATION/$document
 @@||plus.googleapis.com/*/comments$document
