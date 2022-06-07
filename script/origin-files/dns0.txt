@@ -1,8 +1,8 @@
-! Checksum: kPd6iTwaCJHAi0K2KKkoJg
+! Checksum: SCBTYmJV2h2P6IAxm7y/+w
 ! Title: AdGuard Chinese filter
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.0.57.64
-! TimeUpdated: 2022-06-07T05:02:36+00:00
+! Version: 2.0.57.65
+! TimeUpdated: 2022-06-07T11:31:07+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3754,9 +3754,9 @@ ubmcmm.baidustatic.com
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".leyu"]
 ##div[onclick*="?i_code="]
-##div[style=" max-width:977px;  margin:0 auto;"] > a > img[height="60px"]
-##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:980px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:978px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:981px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:981px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
@@ -11608,8 +11608,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||yezi.cn/_ad/
 ||yg006.com/attachment/js/
 ||yg006.com/attachment/xjdb.jpg
-||ygdy8.com/jsy/
-||ygdy8.net/js1/
+||ygdy8.com/js1y/
 ||ygodl.com/wp-content/uploads/*.js
 ||yhdm.io/bar/
 ||yhdm.so/bar/
@@ -13751,7 +13750,6 @@ chinanews.com##.add3
 chinanews.com##.add4
 x6g.com##.addd
 manhua123.net##.addg
-downkr.com##.address-left > ul:nth-child(2)
 kuaihou.com##.address_like
 mydrivers.com##.adds
 3dmgame.com##.addvide300
@@ -16595,7 +16593,7 @@ zhibo8.cc##a[href*=".wanjiashe."]
 dm5.com,dm5.hk##a[href*=".wannaplay.cn"]
 dzbhdm.net##a[href*=".weixin.qq.com/"]
 tiexue.net##a[href*=".wx359.cn/"]
-downkr.com##a[href*=".xitongzhijia.net"]
+downkr.com##a[href*=".xitongzhijia."]
 toolfk.com##a[href*=".xiuxiandou.com/"]
 939394.xyz##a[href*=".yangkeduo.com"]
 ifkdy.com,ilxdh.com##a[href*=".yhm11.com"]
@@ -19864,6 +19862,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||dmcqs.club^
+||cuxiao.site^
+||macgigo.cn^
 ||zhw949.ltd^
 ||zxycxk.love^
 ||fsgsfaf6.com^

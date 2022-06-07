@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: X2Tyqfv+OXcq3xCiRPKjUA
+! Checksum: eWYK1+bjpvc5h6HYFZe/JQ
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206070733
-! Last modified: 2022-06-07 07:33 UTC
+! Version: 202206071133
+! Last modified: 2022-06-07 11:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -26076,6 +26076,8 @@ _800x80_
 ##.in-article-adx
 ##.in-article-mpu
 ##.in-between-ad
+##.in-body-ad-row
+##.in-body-banner-ad
 ##.in-content-ad
 ##.in-content-ad--container
 ##.in-content-ad-container
@@ -56512,6 +56514,8 @@ welovetrump.com###enhancedtextwidget-34
 jigzone.com###fH
 fxsforexsrbijaforum.com###fa_ticker_container
 thedrinknation.com###fcBanner
+fandom.com###featured-video__player
+fandom.com###featured-video__player-container
 investing.com###findABroker
 thisismoney.co.uk###fiveDealsWidget
 point2homes.com,propertyshark.com###fixedban
@@ -56996,7 +57000,6 @@ my.juno.com###usWorldTile
 macworld.co.uk###vTXbybUFn
 nutritioninsight.com###verticlblks
 filmibeat.com,goodreturns.in,mykhel.com,oneindia.com###verticleLinks
-bossip.com###video-expanded
 forums.tomsguide.com###video_ad
 gumtree.com###vipBanner
 playstationtrophies.org,xboxachievements.com###vnt-lb-a
@@ -57861,6 +57864,8 @@ sciencenews.org##.from-nature-index__wrapper___2E2Z9
 tripstodiscover.com##.fs-dynamic
 tripstodiscover.com##.fs-dynamic__label
 alphr.com##.fs-pushdown-sticky
+bossip.com##.fsb-desktop
+bossip.com##.fsb-toggle
 ghacks.net##.ftd-item.home-posts
 lovepanky.com##.full-width.row > .medium-12:first-child
 ptinews.com##.fullstorydivright
@@ -58053,8 +58058,6 @@ india.com##.iwplhdbanner-wrap
 psypost.org##.jeg_midbar
 romania-insider.com##.job-item
 johncodeos.com##.johnc-widget
-techrepublic.com##.jotform-top-story-of-the-day
-techrepublic.com##.jotform-twenty-pro-tips
 marinelink.com,maritimejobs.com,maritimepropulsion.com,yachtingjournal.com##.jq-banner
 demonslayermanga.com,readjujutsukaisen.com##.js-a-container
 ultimate-guitar.com##.js-ab-regular
@@ -59649,6 +59652,7 @@ gamesradar.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
 southernliving.com##.karma-sticky-rail
 bestrecipes.com.au,delicious.com.au,taste.com.au##.news-video
 sciencetimes.com##.player
+bossip.com##.player-wrapper-inner
 comicbook.com,popculture.com##.popculture-embed
 kidspot.com.au##.secondary-video
 goal.com##.semantic-player-embed
@@ -61167,6 +61171,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ad-api-v01.uliza.jp^$script,xmlhttprequest,domain=golfnetwork.co.jp|tv-asahi.co.jp
 @@||ad.atown.jp/adserver/$domain=ad.atown.jp
 @@||ad.smartmediarep.com/NetInsight/$domain=programs.sbs.co.kr
+@@||admanager.clubzebra.se^$image,domain=ripshusvagnar.se
 @@||ads-twitter.com/oct.js$domain=jp.square-enix.com
 @@||ads.instacart.com/admin/$~third-party
 @@||adsafeprotected.com/services/$domain=reuters.com
@@ -75846,6 +75851,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cm-exchange.toast.com^
 ||log.adplex.co.kr^
 ||log.cizion.com^
+||log.mofa.go.kr^
 ||log.targetpush.co.kr^
 ||megadata.co.kr^
 ||mtag.mman.kr^
@@ -95469,6 +95475,7 @@ _youtube_social_
 /cookie_ack/*
 /cookie_ack_
 /cookie_agree.css
+/cookie_agreement_dialogue.
 /cookie_alert*.js
 /cookie_banner-
 /cookie_banner.
@@ -138407,6 +138414,7 @@ braindecoder.com##.join-widget
 thedodo.com##.join-widget-container
 authoritynutrition.com##.joinus
 plough.com##.jotform-feedback-link
+techrepublic.com##.jotform-top-story-of-the-day
 techrepublic.com##.jotform-twenty-pro-tips
 wired.com##.journey-template--in-content
 newatlas.com##.jqmOverlay
@@ -144208,8 +144216,8 @@ imobiliare.ro#@##modalCookies
 microsoft.com#@##ms-cookie-banner
 swedbank.se#@##new-cookies
 xsports.lv#@##notice-cookie-block
-1001spiele.de,3sat.de,aerztezeitung.de,arkadium.com,avisendanmark.dk,billa.at,blaklader.at,blaklader.be,blaklader.ca,blaklader.com,blaklader.cz,blaklader.de,blaklader.dk,blaklader.ee,blaklader.es,blaklader.fi,blaklader.fr,blaklader.ie,blaklader.it,blaklader.nl,blaklader.no,blaklader.pl,blaklader.se,blaklader.uk,boomerang-tv.pl,credit-suisse.com,dhl.de,elle.se,eurogamer.it,eurogamer.net,eurogamer.pl,eurogamer.pt,forexlive.com,funnygames.be,funnygames.it,geizhals.de,howstuffworks.com,mail.com,mensjournal.com,milwaukeetool.eu,mtvuutiset.fi,oe24.at,okazii.ro,redbull.com,reisetopia.de,rockpapershotgun.com,rtlxl.nl,sport.pl,storia.ro,technics.com,travelbook.de,tunein.com,uefa.com,wowbiz.ro,zdf.de,zdnet.com#@##onetrust-banner-sdk
-1001spiele.de,3sat.de,aerztezeitung.de,arkadium.com,avisendanmark.dk,billa.at,blaklader.at,blaklader.be,blaklader.ca,blaklader.com,blaklader.cz,blaklader.de,blaklader.dk,blaklader.ee,blaklader.es,blaklader.fi,blaklader.fr,blaklader.ie,blaklader.it,blaklader.nl,blaklader.no,blaklader.pl,blaklader.se,blaklader.uk,boomerang-tv.pl,credit-suisse.com,dhl.de,elle.se,eurogamer.it,eurogamer.net,eurogamer.pl,eurogamer.pt,forexlive.com,funnygames.be,funnygames.it,geizhals.de,howstuffworks.com,mail.com,mensjournal.com,milwaukeetool.eu,mtvuutiset.fi,oe24.at,okazii.ro,panasonic.com,redbull.com,reisetopia.de,rockpapershotgun.com,rtlxl.nl,sport.pl,storia.ro,technics.com,travelbook.de,tunein.com,uefa.com,usgamer.net,wowbiz.ro,zdf.de,zdnet.com#@##onetrust-consent-sdk
+1001spiele.de,3sat.de,aerztezeitung.de,arkadium.com,avisendanmark.dk,billa.at,blaklader.at,blaklader.be,blaklader.ca,blaklader.com,blaklader.cz,blaklader.de,blaklader.dk,blaklader.ee,blaklader.es,blaklader.fi,blaklader.fr,blaklader.ie,blaklader.it,blaklader.nl,blaklader.no,blaklader.pl,blaklader.se,blaklader.uk,boomerang-tv.pl,credit-suisse.com,dhl.de,elle.se,eurogamer.it,eurogamer.net,eurogamer.pl,eurogamer.pt,forexlive.com,funnygames.be,funnygames.it,gameinformer.com,geizhals.de,howstuffworks.com,mail.com,mensjournal.com,milwaukeetool.eu,mtvuutiset.fi,oe24.at,okazii.ro,redbull.com,reisetopia.de,rockpapershotgun.com,rtlxl.nl,sport.pl,storia.ro,technics.com,travelbook.de,tunein.com,uefa.com,wowbiz.ro,zdf.de,zdnet.com#@##onetrust-banner-sdk
+1001spiele.de,3sat.de,aerztezeitung.de,arkadium.com,avisendanmark.dk,billa.at,blaklader.at,blaklader.be,blaklader.ca,blaklader.com,blaklader.cz,blaklader.de,blaklader.dk,blaklader.ee,blaklader.es,blaklader.fi,blaklader.fr,blaklader.ie,blaklader.it,blaklader.nl,blaklader.no,blaklader.pl,blaklader.se,blaklader.uk,boomerang-tv.pl,credit-suisse.com,dhl.de,elle.se,eurogamer.it,eurogamer.net,eurogamer.pl,eurogamer.pt,forexlive.com,funnygames.be,funnygames.it,gameinformer.com,geizhals.de,howstuffworks.com,mail.com,mensjournal.com,milwaukeetool.eu,mtvuutiset.fi,oe24.at,okazii.ro,panasonic.com,redbull.com,reisetopia.de,rockpapershotgun.com,rtlxl.nl,sport.pl,storia.ro,technics.com,travelbook.de,tunein.com,uefa.com,usgamer.net,wowbiz.ro,zdf.de,zdnet.com#@##onetrust-consent-sdk
 api.newsguardtech.com#@##optanon
 ign.com#@##policyNotice
 tf1.fr#@##popin_tc_privacy

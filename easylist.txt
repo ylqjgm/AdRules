@@ -1,5 +1,5 @@
 ! Title: AdRules for AdGuard
-! Version: 20220607083342509678562
+! Version: 20220607121230357708855
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Total lines: 00000
 ||cda.0-shiny.com^
@@ -6739,9 +6739,9 @@
 ||adv-links.com^
 ||adv-target.ru^
 ||adv-views.com^
-||baldocortez.adv.br^
 ||claudioavelar.adv.br^
 ||eduardorodrigues.adv.br^
+||baldocortez.adv.br^
 ||adv225489.ru^
 ||adv457895.ru^
 ||adv679854.ru^
@@ -11386,6 +11386,7 @@
 ||avres.net^
 ||avsads.com^
 ||rev.avsforum.com^
+||avskype.com^
 ||avsmt.cn^
 ||avsplow.com^
 ||avstat.it^
@@ -17458,6 +17459,7 @@
 ||cazin0.com^
 ||cb-cdn.com^
 ||cb-content.com^
+||cb24g.site^
 ||cb332398ac.com^
 ||cb8717377086c72d.com^
 ||cb8lvgd.cn^
@@ -17515,6 +17517,7 @@
 ||doppler-reporting.cbsivideo.com^
 ||aa.cbssports.com^
 ||saa.cbssports.com^
+||cbtopsites.com^
 ||cbtrk.net^
 ||cbuacategic.xyz^
 ||data.campaigns.cbussuper.com.au^
@@ -20048,11 +20051,9 @@
 ||hyybul.kaskus.co.id^
 ||smetrics.citibank.co.id^
 ||smetrics.marketing.lighting.philips.co.id^
-||a.walla.co.il^
 ||ads.bhol.co.il^
 ||ads.internic.co.il^
 ||ads.one.co.il^
-||adserv.mako.co.il^
 ||adserver.co.il^
 ||merlin.co.il^
 ||ban.bhol.co.il^
@@ -20073,12 +20074,10 @@
 ||fus.yad2.co.il^
 ||gim.co.il^
 ||go.air-electra.co.il^
-||houdini.haaretz.co.il^
 ||info.hmisrael.co.il^
 ||info.shavve.co.il^
 ||linicom.co.il^
 ||live.alljobs.co.il^
-||sdc.mako.co.il^
 ||st1.bhol.co.il^
 ||stats.mako.co.il^
 ||stats.ynet.co.il^
@@ -20086,12 +20085,16 @@
 ||tracking.max-stg.co.il^
 ||tracking.max.co.il^
 ||webmedia.co.il^
-||wrtm.walla.co.il^
 ||x.walla.co.il^
 ||yafa-coach.co.il^
+||a.walla.co.il^
+||adserv.mako.co.il^
 ||campaign.kpmg.co.il^
 ||go.electra-trade.co.il^
+||houdini.haaretz.co.il^
+||sdc.mako.co.il^
 ||sw88.disney.co.il^
+||wrtm.walla.co.il^
 ||k.brandalley.co.nl^
 ||rvz9.destinia.co.ro^
 ||5wh.co.zw^
@@ -22614,6 +22617,7 @@
 ||stat.cutv.com^
 ||go.cuvee.com^
 ||cux.io^
+||cuxiao.site^
 ||pnnpan.cv-library.co.uk^
 ||st.cv46.ru^
 ||ssc.cvent.com^
@@ -25352,6 +25356,7 @@
 ||dmclick.cn^
 ||email.dmcperforma.com.br^
 ||marketing.dmcplc.co.uk^
+||dmcqs.club^
 ||dmd53.com^
 ||dmdi.pl^
 ||dmfhqzo.cn^
@@ -29773,6 +29778,7 @@
 ||extole.com^
 ||extole.io^
 ||extoso.com^
+||server1.extra-web.cz^
 ||track.extra.app^
 ||extra33.com^
 ||extrablocks.ru^
@@ -31101,10 +31107,10 @@
 ||financiallypullover.com^
 ||yuoyan.finanzen.de^
 ||collect.finanzen.net^
-||consent.finanzen.net^
 ||geoip.finanzen.net^
 ||mdsngpush.finanzen.net^
 ||tracking.finanzen.net^
+||consent.finanzen.net^
 ||ciszhp.finanzfrage.net^
 ||ub.finanzfrage.net^
 ||finative.cloud^
@@ -35171,6 +35177,7 @@
 ||go-top.xyz^
 ||go.biz^
 ||directml.jfc.go.jp^
+||log.mofa.go.kr^
 ||weblog.eseoul.go.kr^
 ||weblog2.eseoul.go.kr^
 ||go06.cc^
@@ -38664,6 +38671,7 @@
 ||ad.hodomobile.com^
 ||hoegutvie.com^
 ||hoemasfat.site^
+||hoerbird.net^
 ||ontxgr.hofer-reisen.at^
 ||waaf1.hoferfotos.at^
 ||ea.hofmann.es^
@@ -50210,6 +50218,7 @@
 ||xc.macd.cn^
 ||macdamaged.tech^
 ||elqtracking.macegroup.com^
+||macgigo.cn^
 ||go.machadomeyer.com.br^
 ||analytics-statistics.machbird.com^
 ||analytics-track.machbird.com^
@@ -50249,9 +50258,9 @@
 ||deals.macupdate.com^
 ||audit.macworld.co.uk^
 ||cmp.macworld.co.uk^
-||cmpv2.macworld.co.uk^
 ||intent.macworld.co.uk^
 ||sa135.macworld.co.uk^
+||cmpv2.macworld.co.uk^
 ||cmp.macworld.com^
 ||metrics.macys.net^
 ||mad-adz.com^
@@ -52790,8 +52799,8 @@
 ||minescripts.info^
 ||minewhat.com^
 ||minexmr.stream^
-||informer.minfin.com.ua^
 ||brkoev.minfin.com.ua^
+||informer.minfin.com.ua^
 ||ming-dun.com.tw^
 ||mingbangzichan.com^
 ||mingcidianzi162.cn^
@@ -55472,6 +55481,7 @@
 ||nationalsurveypanel.com^
 ||smetrics.nationaltrust.org.uk^
 ||ads.nationchannel.com^
+||nationco-op.org^
 ||smetrics.nationwide.co.uk^
 ||proac.nationwide.com^
 ||target.nationwide.com^
@@ -72007,8 +72017,8 @@
 ||c.sibnet.ru^
 ||counter.sibnet.ru^
 ||cvt1.sibnet.ru^
-||vote.sibnet.ru^
 ||vst.sibnet.ru^
+||vote.sibnet.ru^
 ||sibozhihui-lc.com^
 ||sibulla.com^
 ||siccash.com^
@@ -75257,6 +75267,7 @@
 ||stickyharry.com^
 ||stickylogic.com^
 ||stickysheet.com^
+||stidcvpwdluhpp.com^
 ||stieamcommunitiy.com^
 ||ibinfo.stifel.com^
 ||preferences.stifel.com^
@@ -80637,6 +80648,7 @@
 ||trathy.com^
 ||trav4life.site^
 ||usr.trava.io^
+||travekocity.com^
 ||travel-together.cn^
 ||traveladvertising.com^
 ||travelandrewind.com^
@@ -80651,6 +80663,7 @@
 ||travelight.online^
 ||travelingoutcomeautomatic.com^
 ||travelingturtleharmonious.com^
+||traveliocity.com^
 ||ejhyhg.travelist.pl^
 ||marketing.travelks.com^
 ||travellingfate.com^
@@ -80660,12 +80673,23 @@
 ||travelnourhai.com^
 ||affiliate.travelnow.com^
 ||openad.travelnow.com^
+||travelocidy.com^
+||travelocite.com^
+||travelocitu.com^
 ||om.travelocity.ca^
 ||oms.travelocity.ca^
 ||br.ac.travelocity.com^
 ||dm.travelocity.com^
 ||om.travelocity.com^
 ||oms.travelocity.com^
+||travelocityca.com^
+||travelocityt.com^
+||travelocoity.com^
+||travelogity.com^
+||traveloicty.com^
+||traveloocity.com^
+||traveloscity.com^
+||travelovity.com^
 ||marketing.cloud.travelport.com^
 ||canadamarketing.travelsavers.com^
 ||travelscream.com^
@@ -80678,6 +80702,7 @@
 ||media.travelzoo.com^
 ||smetrics.travelzoo.com^
 ||www.media2.travelzoo.com^
+||traveolocity.com^
 ||marketing.traversecity.com^
 ||traversedlp.com^
 ||traverseforecast.com^
@@ -80717,6 +80742,7 @@
 ||affiliate.treated.com^
 ||treateryowler.com^
 ||treatlaurelbud.com^
+||treavelocity.com^
 ||trebleperfect.com^
 ||trecurlik.com^
 ||extra.treddi.com^
@@ -80969,6 +80995,7 @@
 ||trovi.com^
 ||trovus.co.uk^
 ||sitecats.troweprice.com^
+||trqvelocity.com^
 ||trs.cn^
 ||t.trsbf.com^
 ||trslw.cn^
@@ -81094,6 +81121,7 @@
 ||agility.trutv.com^
 ||sanalytics.trutv.com^
 ||trvdp.com^
+||trvelocity.com^
 ||trvtrk.com^
 ||trw12.com^
 ||trwba.com^
@@ -87248,13 +87276,13 @@
 ||cheezwhiz.z9.web.core.windows.net^
 ||cltgtstor001.blob.core.windows.net^
 ||encoderfarmstatsnew.servicebus.windows.net^
-||exposeboxwallashops.blob.core.windows.net^
 ||insitez.blob.core.windows.net^
 ||onedrive-collection.device.mobileengagement.windows.net^
 ||open8video.blob.core.windows.net^
 ||optanon.blob.core.windows.net^
 ||palmendeals.blob.core.windows.net^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^
+||exposeboxwallashops.blob.core.windows.net^
 ||tenmaxsgads.blob.core.windows.net^
 ||windowsastronomyfading.com^
 ||windowsguidenews.com^
@@ -89461,6 +89489,7 @@
 ||a.xue126.com^
 ||ff.xue163.net^
 ||td.xue63.com^
+||xuebim.top^
 ||xuehelei.com^
 ||img.xuenb.com^
 ||xuenengyoujiaoyu.com^

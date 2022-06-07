@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: klXbO7iBKOwqr4p9dnirkg
+! Checksum: y6DD/oArDWiFas44Yw4apg
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-07 16:33:59（北京时间） 
-! Total count: 19462
+! Version: 2022-06-07 20:12:46（北京时间） 
+! Total count: 19465
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -1378,6 +1378,7 @@
 @@||adm.fwmrm.net^*/AdManager.js$domain=fyi.tv|aetv.com
 @@||adm.fwmrm.net^*/TremorAdRenderer.$object,domain=go.com
 @@||adm.fwmrm.net^*/videoadrenderer.$object,domain=cnbc.com|go.com|nbc.com|nbcnews.com
+@@||admanager.clubzebra.se^$image,domain=ripshusvagnar.se
 @@||admedia.com/images/cross_channel_arrows.png$domain=weather2day.co.il
 @@||admicro1.vcmedia.vn/ads_codes/*$domain=vivo.vn
 @@||admin.brightcove.com^$object-subrequest,domain=tvn24.pl
@@ -15851,6 +15852,7 @@
 @@||smarters.ro/academy$~third-party,xmlhttprequest
 @@||smarthomearea.de^$ghide
 @@||smartinvestor.business-standard.com^$generichide
+@@||smartnator.com/assets/js/prebid-ads.js
 @@||smartnews-ads.com^$app=jp.co.alc.eow
 @@||smartpixel.tv
 @@||smartplugin.youbora.com/v*/js/adapters/theoplayer*/*.min.js$domain=olympics.com
@@ -16564,6 +16566,7 @@
 @@||stltoday.com^$generichide
 @@||stltoday.com^$ghide
 @@||sto*.igstatic.com/js/seo-ads.js$domain=igraal.com
+@@||sto-caas-api.e-spirit.cloud/*/content/$domain=sto.de
 @@||stock.skoda.be/assets/scripts/analytics/$script,~third-party
 @@||stockingsneeze.com^$script,xmlhttprequest
 @@||stocks.cafe/js/showads.js

@@ -1,12 +1,12 @@
 # Title: AdRules Hosts List
-# Checksum: +HgQ63UefglTnYciHGduZQ
+# Checksum: u7YMZykghG/2Sr1W2tgsEg
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 8 Hours
 # 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
 #
-# Version: 2022-06-07 16:33:59（北京时间） 
-# Total count: 119691
+# Version: 2022-06-07 20:12:46（北京时间） 
+# Total count: 119720
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0-158.net.daraz.com
 0.0.0.0 0-bitbucket.net.zooplus.de
@@ -20408,6 +20408,7 @@
 0.0.0.0 avrdi.com
 0.0.0.0 avres.net
 0.0.0.0 avsads.com
+0.0.0.0 avskype.com
 0.0.0.0 avsmt.cn
 0.0.0.0 avsplow.com
 0.0.0.0 avstat.it
@@ -26797,6 +26798,7 @@
 0.0.0.0 cb.mdnhinc.com
 0.0.0.0 cb.mopub.com
 0.0.0.0 cb1.counterbot.com
+0.0.0.0 cb24g.site
 0.0.0.0 cb332398ac.com
 0.0.0.0 cb8717377086c72d.com
 0.0.0.0 cb8lvgd.cn
@@ -26876,6 +26878,7 @@
 0.0.0.0 cbstelevisiondistribution.112.2o7.net
 0.0.0.0 cbstv.us.intellitxt.com
 0.0.0.0 cbt.whatcounts.net
+0.0.0.0 cbtopsites.com
 0.0.0.0 cbtrk.net
 0.0.0.0 cbuacategic.xyz
 0.0.0.0 cbuvhv.desertcart.ae
@@ -33745,6 +33748,7 @@
 0.0.0.0 cuttherope.ie
 0.0.0.0 cuttuberaxis.com
 0.0.0.0 cux.io
+0.0.0.0 cuxiao.site
 0.0.0.0 cv.2jikaikun.com
 0.0.0.0 cv.a-cial.com
 0.0.0.0 cv.a-internet.jp
@@ -36991,6 +36995,7 @@
 0.0.0.0 dmatica.it
 0.0.0.0 dmclick.cn
 0.0.0.0 dmcontactmanagement.122.2o7.net
+0.0.0.0 dmcqs.club
 0.0.0.0 dmd53.com
 0.0.0.0 dmdi.pl
 0.0.0.0 dmfhqzo.cn
@@ -52345,6 +52350,7 @@
 0.0.0.0 hodor-collect.arabam.com
 0.0.0.0 hoegutvie.com
 0.0.0.0 hoemasfat.site
+0.0.0.0 hoerbird.net
 0.0.0.0 hofofici.com
 0.0.0.0 hogawn.com
 0.0.0.0 hogilh.com
@@ -63512,6 +63518,7 @@
 0.0.0.0 log.mediation.onebooster.me
 0.0.0.0 log.medietall.no
 0.0.0.0 log.mobpowertech.com
+0.0.0.0 log.mofa.go.kr
 0.0.0.0 log.moji.com
 0.0.0.0 log.moviebox.baofeng.com
 0.0.0.0 log.mp3.zing.vn
@@ -65188,6 +65195,7 @@
 0.0.0.0 macdailynews.us.intellitxt.com
 0.0.0.0 macdamaged.tech
 0.0.0.0 macgamefiles.us.intellitxt.com
+0.0.0.0 macgigo.cn
 0.0.0.0 machieved.com
 0.0.0.0 machine.mail.net.zooplus.es
 0.0.0.0 machineryvegetable.com
@@ -71902,6 +71910,7 @@
 0.0.0.0 nationalpost.112.2o7.net
 0.0.0.0 nationalpost.adperfect.com
 0.0.0.0 nationalsurveypanel.com
+0.0.0.0 nationco-op.org
 0.0.0.0 natistore.us
 0.0.0.0 nativ.podruzke.ru
 0.0.0.0 nativclick.com
@@ -89936,6 +89945,7 @@
 0.0.0.0 server03new.dot.at
 0.0.0.0 server1.affiz.net
 0.0.0.0 server1.beaconpush.com
+0.0.0.0 server1.extra-web.cz
 0.0.0.0 server1.opentracker.net
 0.0.0.0 server10.opentracker.net
 0.0.0.0 server11.opentracker.net
@@ -97487,6 +97497,7 @@
 0.0.0.0 stickyharry.com
 0.0.0.0 stickylogic.com
 0.0.0.0 stickysheet.com
+0.0.0.0 stidcvpwdluhpp.com
 0.0.0.0 stieamcommunitiy.com
 0.0.0.0 stiffgame.com
 0.0.0.0 stiffnetwork.com
@@ -104795,6 +104806,7 @@
 0.0.0.0 trashsierra.com
 0.0.0.0 trathy.com
 0.0.0.0 trav4life.site
+0.0.0.0 travekocity.com
 0.0.0.0 travel-and-weather.msnbc.us.intellitxt.com
 0.0.0.0 travel-together.cn
 0.0.0.0 traveladmin.sourcetaggers.com
@@ -104807,14 +104819,27 @@
 0.0.0.0 travelight.online
 0.0.0.0 travelingoutcomeautomatic.com
 0.0.0.0 travelingturtleharmonious.com
+0.0.0.0 traveliocity.com
 0.0.0.0 travellingfate.com
 0.0.0.0 travelmarketreport.actonservice.com
 0.0.0.0 travelnourhai.com
+0.0.0.0 travelocidy.com
+0.0.0.0 travelocite.com
+0.0.0.0 travelocitu.com
+0.0.0.0 travelocityca.com
+0.0.0.0 travelocityt.com
+0.0.0.0 travelocoity.com
+0.0.0.0 travelogity.com
+0.0.0.0 traveloicty.com
+0.0.0.0 traveloocity.com
+0.0.0.0 traveloscity.com
+0.0.0.0 travelovity.com
 0.0.0.0 travels.cdtscorp.com
 0.0.0.0 travelscream.com
 0.0.0.0 travelstool.com
 0.0.0.0 traveltogandi.com
 0.0.0.0 traveltracking.check24.de
+0.0.0.0 traveolocity.com
 0.0.0.0 traversedlp.com
 0.0.0.0 traverseforecast.com
 0.0.0.0 travidia.112.2o7.net
@@ -104874,6 +104899,7 @@
 0.0.0.0 treateryowler.com
 0.0.0.0 treatlaurelbud.com
 0.0.0.0 treatment.grammarly.com
+0.0.0.0 treavelocity.com
 0.0.0.0 trebleperfect.com
 0.0.0.0 trecker.aklamio.com
 0.0.0.0 trecurlik.com
@@ -105230,6 +105256,7 @@
 0.0.0.0 trovi.com
 0.0.0.0 trovus.co.uk
 0.0.0.0 trpreviews.bp01.net
+0.0.0.0 trqvelocity.com
 0.0.0.0 trs.cn
 0.0.0.0 trslw.cn
 0.0.0.0 trstplse.com
@@ -105305,6 +105332,7 @@
 0.0.0.0 truthtraff.com
 0.0.0.0 trv.upperbooking.com
 0.0.0.0 trvdp.com
+0.0.0.0 trvelocity.com
 0.0.0.0 trvlnet-images.adbureau.net
 0.0.0.0 trvlnet.adbureau.net
 0.0.0.0 trvonu.k-manga.jp
@@ -116719,6 +116747,7 @@
 0.0.0.0 xuculit.ru
 0.0.0.0 xudawhuwa.com
 0.0.0.0 xue.zbyw.cn
+0.0.0.0 xuebim.top
 0.0.0.0 xuehelei.com
 0.0.0.0 xuenengyoujiaoyu.com
 0.0.0.0 xuetao.site
