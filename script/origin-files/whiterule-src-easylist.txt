@@ -1478,7 +1478,7 @@
 @@||cmbc.com.cn^*ads/
 @@||cmechina.net^$genericblock
 @@||cmechina.net^$genericblock
-@@||cmp-consent-tool.privacymanager.io^$subdocument,domain=dailybuzz.nl|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl
+@@||cmp-consent-tool.privacymanager.io^$subdocument,domain=dailybuzz.nl|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|plusonline.nl|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl
 @@||cnn.com^*/ad_policy.xml$domain=cnn.com
 @@||cnn.com^*/ad_policy.xml$domain=cnn.com
 @@||cnnic.cn^
@@ -2548,7 +2548,7 @@
 @@||gcdn.co^*/social-sprite.webp$image,domain=tut.by
 @@||gceguide.com^$generichide
 @@||gdpr-tcfv2.sp-prod.net^$script,domain=voici.fr
-@@||gdpr.privacymanager.io^$script,domain=dailybuzz.nl|diepresse.com|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl
+@@||gdpr.privacymanager.io^$script,domain=dailybuzz.nl|diepresse.com|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|plusonline.nl|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl
 @@||geekzone.co.nz^$generichide
 @@||geekzone.co.nz^$generichide
 @@||gelbooru.com^$generichide
@@ -2559,6 +2559,7 @@
 @@||genesyslogic.com^*/ads$~third-party
 @@||gentecheesisterealmente.com^$generichide
 @@||geo.de^$generichide
+@@||geo.privacymanager.io^$xmlhttprequest,domain=plusonline.nl
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
 @@||geo.settings-win.data.microsoft.com.akadns.net^
@@ -4803,7 +4804,7 @@
 @@||s3.amazonaws.com^$stealth,domain=informationisbeautiful.net
 @@||s3.amazonaws.com^$stealth,domain=informationisbeautiful.net
 @@||s3.amazonaws.com^$xmlhttprequest,domain=travis-ci.org
-@@||s7.addthis.com^*/addthis_widget.js$domain=carsom.nl|channelnewsasia.com|hatsandcaps.co.uk|politico.com|ticketmaster.nl|washingtonexaminer.com
+@@||s7.addthis.com^*/addthis_widget.js$domain=carsom.nl|channelnewsasia.com|hatsandcaps.co.uk|mediamatters.org|politico.com|ticketmaster.nl|washingtonexaminer.com
 @@||s7.addthis.com^*/addthis_widget.js*async=$domain=koeln.de|moneytalksnews.com
 @@||s7.addthis.com^*/addthis_widget.js*username=$domain=iamsecond.com
 @@||saabcentral.com^$generichide

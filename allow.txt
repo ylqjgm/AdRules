@@ -1,9 +1,9 @@
 ! Title: AdRules Allowlist
-! Checksum: k0vjQOIIe/24pxhW/s1J9A
+! Checksum: ukhpACYGABSx3bNXMTvDmw
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-07 00:32:53（北京时间） 
+! Version: 2022-06-07 09:54:15（北京时间） 
 ! Total count: 19462
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
@@ -4734,7 +4734,7 @@
 @@||cmoney.tw/follow/js/google_analytics.js
 @@||cmoney.tw/vt/js/google_analytics.js
 @@||cmp-cdn.cookielaw.org^$domain=adshrink.it
-@@||cmp-consent-tool.privacymanager.io^$subdocument,domain=dailybuzz.nl|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl
+@@||cmp-consent-tool.privacymanager.io^$subdocument,domain=dailybuzz.nl|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|plusonline.nl|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl
 @@||cmp.choice.faktor.io/dist/*$script,frame,domain=consent.talpanetwork.com
 @@||cmp.dmgmediaprivacy.co.uk^$domain=inews.co.uk
 @@||cmp.dmgmediaprivacy.co.uk^$domain=metro.co.uk
@@ -7341,7 +7341,7 @@
 @@||gcloud.live/v/$subdocument,domain=vidcloud.icu
 @@||gdpr-tcfv2.sp-prod.net^$script,domain=voici.fr
 @@||gdpr-wrapper.privacymanager.io/gdpr/$domain=omroepwest.nl
-@@||gdpr-wrapper.privacymanager.io/gdpr/$script,xmlhttprequest,domain=dailybuzz.nl|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|profil.at|rtvnoord.nl|verkeerplaza.nl|vesti.bg|weeronline.nl
+@@||gdpr-wrapper.privacymanager.io/gdpr/$script,xmlhttprequest,domain=dailybuzz.nl|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|plusonline.nl|profil.at|rtvnoord.nl|verkeerplaza.nl|vesti.bg|weeronline.nl
 @@||gdpr-wrapper.privacymanager.io/gdpr/*$domain=geenstijl.nl
 @@||gdpr-wrapper.privacymanager.io/gdpr/*/gdpr-liveramp.js$domain=diepresse.com
 @@||gdpr-wrapper.privacymanager.io/gdpr/*/gdpr-liveramp.js$domain=freundin.de
@@ -7353,7 +7353,7 @@
 @@||gdpr.privacymanager.io/latest/gdpr.bundle.js$domain=diepresse.com
 @@||gdpr.privacymanager.io/latest/gdpr.bundle.js$domain=freundin.de
 @@||gdpr.privacymanager.io/latest/gdpr.bundle.js$domain=wienerin.at
-@@||gdpr.privacymanager.io^$script,domain=dailybuzz.nl|diepresse.com|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl
+@@||gdpr.privacymanager.io^$script,domain=dailybuzz.nl|diepresse.com|futurezone.at|geenstijl.nl|gids.tv|kinuskikissa.fi|kurier.at|lablue.de|nettivuokraus.com|omroepbrabant.nl|parra.nu|plusonline.nl|profil.at|rtvnoord.nl|vesti.bg|weeronline.nl
 @@||gdr-online.com/adv/ads.js
 @@||ge-map-overlays.appspot.com/files/js/ads.js$script
 @@||ge.tt/s/images/twitter-extension-icon.png
@@ -7400,6 +7400,7 @@
 @@||geo.gorillanation.com/geo.php$script,domain=sherdog.com
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
 @@||geo.ngtv.io/locate/$domain=hbo.com
+@@||geo.privacymanager.io^$xmlhttprequest,domain=plusonline.nl
 @@||geo.query.yahoo.com^$xmlhttprequest,domain=tw.autos.yahoo.com|tw.buy.yahoo.com
 @@||geo.settings-win.data.microsoft.com.akadns.net^
 @@||geo3.ggpht.com^
@@ -14898,7 +14899,7 @@
 @@||s3.amazonaws.com^$xmlhttprequest,domain=travis-ci.org
 @@||s7.addthis.com/icons/official-addthis-angularjs/current/dist/official-addthis-angularjs.min.js$domain=senac.br
 @@||s7.addthis.com/static/r07/$script,stylesheet,domain=majorgeeks.com
-@@||s7.addthis.com^*/addthis_widget.js$domain=carsom.nl|channelnewsasia.com|hatsandcaps.co.uk|politico.com|ticketmaster.nl|washingtonexaminer.com
+@@||s7.addthis.com^*/addthis_widget.js$domain=carsom.nl|channelnewsasia.com|hatsandcaps.co.uk|mediamatters.org|politico.com|ticketmaster.nl|washingtonexaminer.com
 @@||s7.addthis.com^*/addthis_widget.js*async=$domain=koeln.de|moneytalksnews.com
 @@||s7.addthis.com^*/addthis_widget.js*username=$domain=iamsecond.com
 @@||s79.research.de.com/bb-mx/prime$domain=joyn.de
@@ -19156,7 +19157,6 @@
 @@||xj-n-tax.gov.cn^
 @@||xkcd.com/comics/$image,~third-party
 @@||xkms.xboxlive.com^
-@@||xmind.net/www/assets/vendor/js/js-cookie-
 @@||xmissymedia.com/galleries/$domain=xmissy.nl,image
 @@||xmovies8.es/themes/*/ads.js?v=
 @@||xmovies8.org/js/showads.js$xmlhttprequest
