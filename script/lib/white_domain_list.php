@@ -9,6 +9,7 @@
 
 return array(
     /**start**/
+    'nmobi.kuwo.cn' => 0, //酷我首页
     'msg.douyu.com' => 0, //斗鱼私信
     'gift.douyucdn.cn' => 0, // 斗鱼礼物
     'email-clk.adguard.com' => 0, //adg页面
