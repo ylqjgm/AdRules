@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202206060230
+! Version: 202206070223
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26831
+! Lenth = 26843
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -5704,7 +5704,6 @@ cardu.com.tw###crazy_layer
 cardu.com.tw##.diamond-txt-ad
 cardu.com.tw##.gold-big-ad
 cardu.com.tw##img[src*="/ad_images/"]
-cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 careonline.com.tw##.wrapper > script + a[href][onclick]
 cari.com.my##a[href="http://banner.cari.com.my/daybanner/?page=promotion"]
 carousell.com#@#.fb-b
@@ -6449,8 +6448,12 @@ downg.com##.Gs_d[href$=".exe"]
 downg.com##.download-list:first-child
 downhot.com##.guans
 downkr.com##.address-left > ul:nth-child(2)
+downkr.com##.address-right > div > a[target="_blank"] > img
+downkr.com##.banner-right
 downkr.com##.download-btn > .text-right
 downkr.com##a[href*=".xitongzhijia.net"]
+downkr.com#@#.address-left > ul:nth-child(2)
+downkr.com,cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 download.csdn.net##.ad_area_1
 download.csdn.net##.quake-slider
 downmsn.com,ucbug.com###downShow_tellDownload
@@ -13824,6 +13827,7 @@ zznews.cn##.ad:not([style])
 ||adshows.21cn.com^
 ||adt.xdrig.com^
 ||adt100.com^$third-party
+||adtbcs.cn^
 ||adtongji.xyz^
 ||aduic.com^
 ||adunioncode.com^$third-party
@@ -14256,6 +14260,7 @@ zznews.cn##.ad:not([style])
 ||apk-01.oss-cn-beijing.aliyuncs.com/dp/
 ||apk.tw/static/js/showpic.js
 ||apkdo.com^
+||apohki.cn^
 ||app-g.39.net/NNN/
 ||appimg.0575bbs.com^
 ||apple.www.letv.com/env/?
@@ -17240,6 +17245,7 @@ zznews.cn##.ad:not([style])
 ||fs0523.com^
 ||fsclzs.com/Ad_User/
 ||fsdn.tech^
+||fsgsfaf6.com^
 ||fshanys-vip.top^
 ||fskj100.cn^
 ||fstaw.com^
@@ -18090,6 +18096,7 @@ zznews.cn##.ad:not([style])
 ||heiguang.com/_r/2015/js/hrBottomBar.
 ||heiguang.com/f/uad/
 ||heima8.com^$third-party
+||heimen.xyz^
 ||heipa666.xyz/hp/
 ||heirui.cn/static/hb_
 ||heiyanwang.com/sc/
@@ -18889,6 +18896,7 @@ zznews.cn##.ad:not([style])
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||imspecial.club^
+||imview.cn^
 ||increased.cn^
 ||index8.cn^$third-party
 ||indiebuff.cn^
@@ -20787,6 +20795,7 @@ zznews.cn##.ad:not([style])
 ||mc.mmkkhhnn.cn^$third-party
 ||mc.tvzhe.com^
 ||mc.weather.com.cn^
+||mc63rs.life^
 ||mcaspkd.cn^
 ||mcdhshlsboom.com^
 ||mcfarland.cn^
@@ -25634,6 +25643,7 @@ zznews.cn##.ad:not([style])
 ||yan007.com/js/sss/ad.js
 ||yanbenji.cn^
 ||yancy.fun^
+||yang123.ltd^
 ||yangchunblog.club^
 ||yanghuaer.mobi^
 ||yanglangkk.cn^
@@ -26519,6 +26529,7 @@ zznews.cn##.ad:not([style])
 ||zhushihuahan.com^
 ||zhushou.360.cn/script/plugin_tiper.js
 ||zhuwang.cc/api.php?op=ad_
+||zhw949.ltd^
 ||zhwotai.com^
 ||zhwyjd.cn^
 ||zhxkzss.cn^
@@ -26748,6 +26759,7 @@ zznews.cn##.ad:not([style])
 ||zxucii.com^
 ||zxvvcvd.cn^
 ||zxw51.com^$third-party
+||zxycxk.love^
 ||zxyonlybelongstolym.xyz^
 ||zxzjtv.com/slade
 ||zxzjtv.com/t.js

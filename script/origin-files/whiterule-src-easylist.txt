@@ -736,6 +736,7 @@
 @@||api.peer5.com^$script,domain=kora-online.tv
 @@||api.peer5.com^$script,domain=kora-online.tv
 @@||api.penpencil.xyz^$stealth,domain=physicswallah.live|pw.live
+@@||api.penpencil.xyz^$stealth,domain=physicswallah.live|pw.live
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.sec.miui.com^
 @@||api.solvemedia.com^$script,domain=salefiles.com
@@ -2156,7 +2157,6 @@
 @@||enfemenino.com^$generichide
 @@||engine.presearch.org^$generichide
 @@||engine.presearch.org^$generichide
-@@||englishcentral.com^$stealth
 @@||enormousearth.com^$script,xmlhttprequest
 @@||ens.nzz.ch^$~third-party
 @@||ensighten.com^*/Bootstrap.js$domain=americanexpress.com|britishairways.com|capitalone.com|caranddriver.com|cart.autodesk.com|citi.com|citigold.com.sg|citizensbank.com|dell.com|fidelity.com|france24.com|homedepot.com|hp.com|norton.com|rfi.fr|sbs.com.au|sfgate.com|staples.com|t-mobile.com|target.com|verizonwireless.com|williamhill.com|womenshealthmag.com|zales.com

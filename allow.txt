@@ -1,9 +1,9 @@
 ! Title: AdRules Allowlist
-! Checksum: ukhpACYGABSx3bNXMTvDmw
+! Checksum: klXbO7iBKOwqr4p9dnirkg
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-07 09:54:15（北京时间） 
+! Version: 2022-06-07 16:33:59（北京时间） 
 ! Total count: 19462
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
@@ -654,6 +654,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org/Visitor.aspx?
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -3970,6 +3971,7 @@
 @@||cdn.iubenda.com/cs/tcf/$domain=ilmessaggero.it
 @@||cdn.iubenda.com/cs/tcf/$domain=movieplayer.it
 @@||cdn.iubenda.com/cs/tcf/*$domain=video.lastampa.it
+@@||cdn.iubenda.com/cs/tcf/safe-tcf-v2.js$domain=ansa.it
 @@||cdn.iubenda.com/cs/tcf/stub.js$domain=video.lastampa.it
 @@||cdn.iubenda.com^$domain=105.net
 @@||cdn.iubenda.com^$domain=video.repubblica.it
@@ -6307,7 +6309,6 @@
 @@||engine.widespace.com/map/provisioning?appId=com.sofoot$app=com.sofoot
 @@||england101.com/assets/js/prebid-add.js
 @@||english-subtitles.club/assets/$image,~third-party
-@@||englishcentral.com^$stealth
 @@||enormousearth.com^$script,xmlhttprequest
 @@||enrondev.net/ads/server/www/delivery/$domain=filecore.co.nz,subdocument
 @@||ens.nzz.ch^$~third-party
@@ -7159,7 +7160,6 @@
 @@||fwmrm.net^$domain=liiga.fi
 @@||fwmrm.net^*/AdManager.js$script
 @@||fwmrm.net^*/LinkTag2.js$domain=viafree.se
-@@||fx.fastcontentdelivery.com/i/*.jpg$image,domain=flashx.cc|flashsx.tv|flashx.me|flashx.tv
 @@||fxnews2016.info/embed/$generichide
 @@||fxporn69.*^$ghide
 @@||fxporn69.com^$generichide
