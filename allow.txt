@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: uzDmTVnRTPZva/SSf7xpNA
+! Checksum: +31myDS8CoyfKWZI96DOcw
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-08 12:17:36（北京时间） 
-! Total count: 19459
+! Version: 2022-06-08 16:30:18（北京时间） 
+! Total count: 19462
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -654,7 +654,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgscripts/*
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgitor-event?
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -3006,6 +3006,7 @@
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bcebos.com^$script,domain=31xiaoshuo.com|biququ.info|jingwubook.com
 @@||bchangtai.vip/static/ad/main.js
+@@||bcicl.*.evergage.com^|
 @@||bclikeqt.com^$ghide
 @@||bcrams.com/common/templates/dfp/
 @@||bcvipva02.rightnowtech.com^$stealth,domain=custhelp.com
@@ -8386,6 +8387,7 @@
 @@||googletagmanager.com/gtm.js$domain=realestate.co.nz
 @@||googletagmanager.com/gtm.js$domain=redbull.com
 @@||googletagmanager.com/gtm.js$domain=renault.ru
+@@||googletagmanager.com/gtm.js$domain=repubblica.it
 @@||googletagmanager.com/gtm.js$domain=rewards.msi.com
 @@||googletagmanager.com/gtm.js$domain=rollingstone.com
 @@||googletagmanager.com/gtm.js$domain=rottentomatoes.com
@@ -10155,6 +10157,7 @@
 @@||itworld.com/elqnow/elq*.js
 @@||iubenda.com/cookie-solution/confs/js/$domain=atlantico.fr
 @@||iubenda.com/cookie-solution/confs/js/*.js$domain=movieplayer.it
+@@||iubenda.com/cookie-solution/confs/js/*.js$domain=repubblica.it
 @@||iubenda.com/cookie_solution/$script,domain=iphoneitalia.com|quotidiano.net
 @@||iubenda.com^$domain=mediaset.it
 @@||iubenda.com^$domain=multiplayer.it
@@ -10578,7 +10581,7 @@
 @@||koldcast.tv/mint/*/tracker.php?
 @@||koleje-wielkopolskie.com.pl^$extension
 @@||kolplay.com/js/ads_$script
-@@||komikcast.com^$ghide
+@@||komikcast.*^$ghide
 @@||komiku.co.id^$ghide
 @@||komiupdates.xyz^$generichide
 @@||komorkomania.pl^$generichide
