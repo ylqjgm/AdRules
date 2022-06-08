@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: H+rP6bxEi0XceH1d4U00kA
+! Checksum: o8MEVnuX2oD4xYzgjCjxLg
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206071533
-! Last modified: 2022-06-07 15:33 UTC
+! Version: 202206080133
+! Last modified: 2022-06-08 01:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32486,6 +32486,7 @@ tf2r.com#@#.adverts
 ||580a41eea49e.com^
 ||583d46135c.com^
 ||58b291f917728a2.com^
+||5937081273.com^
 ||595fb25f30.com^
 ||597437c124.com^
 ||59cn7.com^
@@ -32820,6 +32821,7 @@ tf2r.com#@#.adverts
 ||abruptrenewmakeover.com^
 ||absalomgunne.com^
 ||absenttwilly.com^
+||absoluteroute.com^
 ||absolutionbravery.com^
 ||absorbedexistence.com^
 ||absorbinginject.com^
@@ -36619,6 +36621,7 @@ tf2r.com#@#.adverts
 ||devastatingallothallucinate.com^
 ||deveincyanids.com^
 ||developingmansensitiveness.com^
+||developmentencyclopaedia.com^
 ||develsdrawal.xyz^
 ||devilaboundultimate.com^
 ||devilspanmute.com^
@@ -40109,6 +40112,7 @@ tf2r.com#@#.adverts
 ||ixqfughrynmfh.com^
 ||iyfnz.com^
 ||iyfnzgb.com^
+||iykiuacppty.com^
 ||iymqlsiqdxu.com^
 ||iytafcpbnyauogj.xyz^
 ||izitrckr.com^
@@ -41000,6 +41004,7 @@ tf2r.com#@#.adverts
 ||leviol.com^
 ||levityprogramming.com^
 ||lfg5jnbi.com^
+||lfjaqwwsgyu.com^
 ||lfjvvccsucsmxg.com^
 ||lfmfrsvguf.com^
 ||lfnjocbxxndkfpj.com^
@@ -43466,6 +43471,7 @@ tf2r.com#@#.adverts
 ||pebidigra.pro^
 ||peckleooze.com^
 ||peculiaritiesfrequencymedicine.com^
+||pecult.com^
 ||pedagogsecreta.com^
 ||pedestalstall.com^
 ||pedestalturner.com^
@@ -43748,6 +43754,7 @@ tf2r.com#@#.adverts
 ||plantapizzazz.com^
 ||plantationthrillednoncommittal.com^
 ||plantinscription.com^
+||plantpreventioncrab.com^
 ||plardi.com^
 ||plashcashierbleach.com^
 ||platado.com^
@@ -45582,6 +45589,7 @@ tf2r.com#@#.adverts
 ||scarletcashwi5.com^
 ||scarofnght.com^
 ||scatteredoutillicit.com^
+||scaupyfeuwmaxxt.com^
 ||scbywiqkm.com^
 ||scenbe.com^
 ||scenecomposesharp.com^
@@ -46519,6 +46527,7 @@ tf2r.com#@#.adverts
 ||stretchingfervid.com^
 ||strictlyglobe.com^
 ||stripseamanacknowledge.com^
+||strivefoetus.com^
 ||strongexplain.com^
 ||strongholdtommycouncilman.com^
 ||stronglygathering.com^
@@ -47560,6 +47569,7 @@ tf2r.com#@#.adverts
 ||ucheephu.com^
 ||ucjrmjilkdaudwj.xyz^
 ||ucqfmwanc.com^
+||ucqlpapdmyjv.com^
 ||uctzcsooizikt.com^
 ||ucxfdvhuqwpig.com^
 ||udalmanresuit.com^
@@ -48056,6 +48066,7 @@ tf2r.com#@#.adverts
 ||viatepigan.com^
 ||viatorayme.com^
 ||vibjbavphaprfaj.com^
+||vibuin.com^
 ||vic-m.co^
 ||viciousdepartment.com^
 ||victoriousbanker.com^
@@ -51267,6 +51278,7 @@ tf2r.com#@#.adverts
 ||ablogica.com^$popup
 ||aboveredirect.top^$popup
 ||absoluteclickscom.com^$popup
+||absoluteroute.com^$popup
 ||abundantshells.com^$popup
 ||accompanycollapse.com^$popup
 ||actio.systems^$popup
@@ -52408,6 +52420,7 @@ tf2r.com#@#.adverts
 ||planetheldpiggy.com^$popup
 ||planningunavoidablenull.com^$popup
 ||plantinscription.com^$popup
+||plantpreventioncrab.com^$popup
 ||pleasantpartiallyerrors.com^$popup
 ||plexop.net^$popup
 ||plsrcmp.com^$popup
@@ -58959,6 +58972,7 @@ c19-worldnews.com##.vmagazine-medium-rectangle-ad
 fastpic.ru##.vright
 vaughn.live##.vs_v75_MvnAbvsLowerThirdWrapper
 ebook-searcher.com##.w-100
+w2g.tv##.w2g-cas-ad
 userscript.zone##.w300
 goodfon.com##.wallpapers__banner240
 dailymail.co.uk,thisismoney.co.uk##.watermark
@@ -60775,6 +60789,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||api.paymentwall.com^$domain=adguard.com
 @@||apis.kostprice.com/fapi/$script,domain=gadgets.ndtv.com
 @@||apmebf.com/ad/$domain=betfair.com
+@@||apv-launcher.minute.ly/api/$script
 @@||archive.org/BookReader/$image,~third-party,xmlhttprequest
 @@||archive.org/services/$image,~third-party,xmlhttprequest
 @@||assets.ctfassets.net^$media,domain=ads.spotify.com
@@ -63175,7 +63190,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /DynamicAnalytics.
 /dynamictag.
 /dynamicyield/*
-/dynatrace-$~image,domain=~dynatrace.com|~github.com|~github.io
+/dynatrace-$~image,domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io
 /dynatrace.$domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io
 /dynaTraceMonitor^
 /dynimpression?rkey=
@@ -66910,6 +66925,7 @@ _webiq.
 _wiselog_
 _xiti_js-
 cgi-bin/counter
+||internal-matomo.
 ||meetrics.netbb-
 ! Email tracking pixels
 &mi_ecmp=
@@ -67349,7 +67365,6 @@ _mongo_stats/
 ||dmpxs.com^
 ||dratingmaject.com^
 ||dttrk.com^
-||dynatrace-managed.com^
 ||e1e.io^
 ||efreecode.com^
 ||emycewiw.xyz^
@@ -68214,6 +68229,7 @@ _mongo_stats/
 ||dwin1.com^$third-party
 ||dwin2.com^$third-party
 ||dynameex.com^$third-party
+||dynatrace-managed.com^$third-party
 ||dynatrace.com^$third-party,domain=~dynatracelabs.com
 ||dynatracesaas.com^$third-party
 ||dyntrk.com^$third-party
@@ -74976,6 +74992,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d16fk4ms6rqz1v.cloudfront.net^
 ||d18p8z0ptb8qab.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
+||d196fri2z18sm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
 ||d1cdnlzf6usiff.cloudfront.net^
 ||d1clfvuu2240eh.cloudfront.net^
@@ -87913,7 +87930,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||accounts.nintendo.com/account/js/pages/$script,~third-party
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|kroger.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
+@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|hilton.com|kroger.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
 @@||adobedtm.com/launch-$script,xmlhttprequest
@@ -88058,6 +88075,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ensighten.com^*/scode/$script,domain=norton.com
 @@||ensighten.com^*/serverComponent.php?$script
 @@||epicgames.com/id/api/analytics$~third-party,xmlhttprequest
+@@||eservice.nationalgeneral.com/service/lib/gtm.js$~third-party
 @@||etsy.com/api/v3/ajax/bespoke/*log_performance_metrics=$~third-party
 @@||events-collector.spot.im/api/$xmlhttprequest
 @@||events.raceresult.com^$~third-party,xmlhttprequest
@@ -88093,7 +88111,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/plugins/ga/inpage_linkid.js$domain=westernunion.com
 @@||googleoptimize.com/optimize.js$script,domain=inquirer.com|tentree.ca
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|formula1.com|fortune.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
 @@||guce.advertising.com/collectIdentifiers$domain=guce.advertising.com
@@ -92405,6 +92423,7 @@ _site/gotop.
 /FeedifySW.js
 /flying_push.
 /get_onesignal_
+/gm-push-notification-
 /ilabspush.
 /imports/notifications.
 /inpl.webpush.
@@ -93292,6 +93311,7 @@ _revotas_push.
 /gigya-socialize-for-wordpress/*$~script,~stylesheet
 /github_icon.
 /givememydigg.
+/gm-button-social.
 /goodshare.
 /goog_follow.
 /Google+-Buttons-
@@ -106312,6 +106332,7 @@ _subscribers_newsletters/
 ##.o-btn--share
 ##.o-button--share
 ##.o-footer__social
+##.o-footer__socials
 ##.o-mobile-share-footer
 ##.o-newsletter_and_social
 ##.o-shareBooster__item
@@ -124811,6 +124832,7 @@ _subscribers_newsletters/
 ##.message[data-cc-modal]
 ##.message_cookie
 ##.messages--cookie
+##.messages_cookies
 ##.messaggio_cookie
 ##.messaggio_cookies
 ##.mf-cookie-banner
@@ -132568,6 +132590,7 @@ economictimes.indiatimes.com##.bgLayer
 bhaskar.com##.bgTB
 huffpost.com##.bing_pixie
 buzznet.com##.bing_tab_header
+multiplesclerosisnewstoday.com##.bio-lead-form
 natureworldnews.com##.bk-connected
 businessdictionary.com##.black_overlay
 rappler.com##.blob-full
@@ -135656,6 +135679,7 @@ chess.com##.navigation-footer-platforms-component
 thebugle.co.za##.network-btn
 supergreenme.com##.network_icon
 bitrebels.com##.network_links
+screenshot-media.com##.new-home-banner
 news18.com##.newftrshare
 interestingengineering.com##.news-icon
 nowness.com##.nn-join-us__col
@@ -135841,7 +135865,7 @@ fujitsu.com##.social-content
 topmarks.co.uk##.social-game
 jns.org##.social-help
 empoweringparents.com##.social-icon
-changer4u.com,davidwalsh.name,justthenews.com,sallysbakingaddiction.com,thewindowsclub.com##.social-icons
+changer4u.com,davidwalsh.name,justthenews.com,sallysbakingaddiction.com,screenshot-media.com,thewindowsclub.com##.social-icons
 gaystarnews.com##.social-images
 cinenews.be##.social-line
 fullfact.org,metro.us,screencrush.com,skinnyms.com,thepostmillennial.com##.social-links
@@ -139367,6 +139391,7 @@ auto-moto.com###crm_article_box
 superprof.fr###cta-online-wrapper
 cio-online.com###dialogueBox
 materiel-velo.com###downbar
+ma-reduc.com###exit-dialog
 lelogicielgratuit.com###fancybox-overlay
 supermarchesmatch.fr###fevad
 gamemania.be###globalmessage
@@ -142331,7 +142356,7 @@ agenziademanio.it###bannerInfo
 lattealberti.it###barra-policy
 ondarock.it###bottom-banner
 prezzoforte.it###bottombar
-giochigratisonline.it###boxRichiesta
+cruciverbaonline.it,giochigratisonline.it###boxRichiesta
 aldi.it###c-modal
 ladistanza.it###cMessage
 cassaforense.it,cfnews.it###cassaforense-cookies
@@ -142448,6 +142473,8 @@ casevacanza.it##.react-onclickoutside
 prelex.it##.rstboxes
 juzaphoto.com##.s_bluebox
 ogrtorino.it##.sc-dxgOiQ
+arcafondi.it##.slds-backdrop
+arcafondi.it##.slds-modal
 cruisesmagazine.it,joespizza.it,teleradiopadrepio.it##.spu-bg
 cruisesmagazine.it##.spu-box
 closeup-archivio.it##.stickyFooter
@@ -142858,6 +142885,7 @@ premiumtools.ro##.gdprModal
 bestkids.ro##.gdprPolicy
 dulcisevents.ro##.header-notice
 dict.com##.lck-wrapper
+leroymerlin.ro##.loader
 medika.ro##.modal
 expertulbanilor.ro,imobiliare.ro##.modal-backdrop
 idea-bank.ro,lidl.ro##.notification
