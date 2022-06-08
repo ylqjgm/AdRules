@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206070223
+! Version: 202206080253
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41805
+! Lenth = 41816
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1711,6 +1711,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /aztrack.
 /aztracker.
 /azure-perfops.
+/b.banners.impress.
 /b.gif?
 /b/s/beacon
 /b/ss/*&aqe=
@@ -2561,7 +2562,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /dynamic_ytrack_
 /dynamictag.
 /dynamicyield/*
-/dynatrace-$~image,domain=~dynatrace.com|~github.com|~github.io
+/dynatrace-$~image,domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io
 /dynatrace.$domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io
 /dynimpression?rkey=
 /e.gif?
@@ -6064,7 +6065,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /wp-content/cache/busting/google-tracking/*
 /wp-content/plugins/asmb-tracking/*
 /wp-content/plugins/google-analytics-dashboard-for-wp/*$domain=xpornass.com|vitacig.eu.com
-/wp-content/plugins/google-analytics-for-wordpress/*$domain=graphicdesignresources.net|ebonyo.com|paesenews.it
+/wp-content/plugins/google-analytics-for-wordpress/*$domain=graphicdesignresources.net|ebonyo.com|paesenews.it|raportkolejowy.pl
 /wp-content/plugins/google-analytics-premium/*
 /wp-content/plugins/pageviews/pageviews.js
 /wp-content/plugins/pb-ga-google-analytics/*$domain=~wordpress.org
@@ -6076,6 +6077,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /wp-counter.php
 /wp-js/analytics.
 /wp-pixels/*
+/wp-power-stats.js
 /wp-powerstat/*
 /wp-rum/*
 /wp-slimstat/*
@@ -6380,7 +6382,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|kroger.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
+@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|hilton.com|kroger.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
@@ -6447,6 +6449,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||amazoncustomerservice.d2.sc.omtrdc.net^$domain=amazon.es
 @@||amc-widgets.crowdtwist.com/widgets/t/account-
 @@||amplitude.com/libs/$script,domain=elconfidencial.com
+@@||amplitude.com/libs/amplitude-4.5.2-min.gz.js$script,domain=pdfexpert.com
 @@||ampproject.org/v0/amp-analytics-$script,domain=cnnespanol.cnn.com
 @@||analysys.cn^$domain=analysys.cn
 @@||analytics-static.ugc.bazaarvoice.com/prod/$script,domain=hisense.co.uk
@@ -7073,6 +7076,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||epicgames.com/id/api/analytics$~third-party,xmlhttprequest
 @@||epub.ekh.no/*/static/analytics.js
 @@||equifaxps.122.2o7.net^
+@@||eservice.nationalgeneral.com/service/lib/gtm.js$~third-party
 @@||espn.com/b/ss/$domain=espn.com
 @@||espncdn.com/combiner/*/chartbeat/$script,domain=espn.go.com
 @@||espncdn.com/combiner/*/foresee/$script,domain=espn.go.com
@@ -7479,7 +7483,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js^$domain=timparty.tim.it
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|formula1.com|fortune.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=amd.com
 @@||googletagmanager.com/gtm.js$domain=anond.hatelabo.jp
@@ -8217,9 +8221,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ovp.piksel.tech/ipLookup.php$xmlhttprequest,domain=nhk.or.jp
 @@||oyster.com/wp-content/plugins/smartertravel-shared/assets/js/tracking.min.js$~third-party
 @@||ozone.ru/assets/analytics.$script,~third-party
-@@||p.typekit.net/*.css$domain=cfr.org
-@@||p.typekit.net/*.css$domain=fedandfit.com
-@@||p.typekit.net/*.css$domain=store.steampowered.com|nejm.org
 @@||paginegialle.it/js/shinystat.js
 @@||pagure.io/static/issues_stats.js?
 @@||panel.flops.ru/js/member/evercookie_init.js
@@ -12705,6 +12706,7 @@ znak.com##.relap
 ||app.polymersearch.com/dataunlocker.js
 ||app.redretarget.com^$third-party
 ||app.response.siemens-info.com^
+||app.responsivevoice.org/analytics/
 ||app.retargetapp.com/pixel/pixel.min.js
 ||app.revhunter.tech/px^
 ||app.rolltide.com^
@@ -13426,6 +13428,7 @@ znak.com##.relap
 ||bc0a.com/api/
 ||bc0a.com/autopilot/
 ||bc0a.com^$third-party
+||bc34.wijnvoordeel.nl^
 ||bcanl.bca-autoveiling.nl^
 ||bcbits.com/bundle/bundle/1/analytics-$domain=bandcamp.com
 ||bcbits.com/bundle/bundle/1/impl-$domain=bandcamp.com
@@ -14694,6 +14697,7 @@ znak.com##.relap
 ||cedexis-radar.net^
 ||cedexis.com^
 ||cedexis.com^$third-party
+||cedexis.net^$script,third-party
 ||cedexis.net^$third-party
 ||ceggfe.msc-kreuzfahrten.de^
 ||celebros-analytics.com^$third-party
@@ -16444,6 +16448,7 @@ znak.com##.relap
 ||customerlabs.co^$third-party
 ||customerlobby.com/ctrack-
 ||customfingerprints.bablosoft.com/clientsafe.js
+||customfingerprints.bablosoft.com^
 ||cutecalculator.com^
 ||cutechin.com^$third-party
 ||cutecushion.com^
@@ -16569,6 +16574,7 @@ znak.com##.relap
 ||d17m68fovwmgxj.cloudfront.net^
 ||d18p8z0ptb8qab.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
+||d196fri2z18sm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
 ||d1cdnlzf6usiff.cloudfront.net^
 ||d1cerpgff739r9.cloudfront.net^
@@ -16969,6 +16975,7 @@ znak.com##.relap
 ||datasecu.download^$third-party
 ||datasign.co^$third-party
 ||datasteam.io^$third-party
+||datatechonert.com^
 ||dataunion.com.br^$third-party
 ||dataunlocker.com^$third-party
 ||dataxpand.com^$third-party
@@ -17901,6 +17908,7 @@ znak.com##.relap
 ||dynamicyield.com/uia?
 ||dynamicyield.com/var?
 ||dynatrace-managed.com^
+||dynatrace-managed.com^$third-party
 ||dynatrace.att.com^
 ||dynatrace.com^$domain=~dynatracelabs.com|~dynatrace.com
 ||dynatrace.com^$third-party,domain=~dynatracelabs.com
@@ -19716,6 +19724,7 @@ znak.com##.relap
 ||forms.vaisala.com^
 ||formstack.com/forms/analytics.php
 ||formstack.com/forms/js/*/analytics_
+||formula1.com/api/track
 ||formulawire.com^$third-party
 ||forter.com^$third-party
 ||fortis.hb.omtrdc.net^
@@ -22459,6 +22468,7 @@ znak.com##.relap
 ||interia.pl/*/hit.t?
 ||interia.pl^*/hit.
 ||intermundomedia.com^$third-party
+||internal-matomo.
 ||internalcomms.hubinternational.com^
 ||internalforms.legalsolutions.thomsonreuters.co.uk^
 ||internalsink.com^
@@ -23539,6 +23549,7 @@ znak.com##.relap
 ||library.westernstatescat.com^
 ||librato-collector.genius.com^
 ||libs.aseads.com^$third-party
+||libs.platform.californiatimes.com/meteringjs/
 ||libstat.com^$third-party
 ||licdn.com/*.gif?rnd=
 ||licdn.com/*li.lms-analytics/
@@ -23975,6 +23986,7 @@ znak.com##.relap
 ||log.mgtv.com^
 ||log.mix.sina.com.cn^
 ||log.mmstat.com^
+||log.mofa.go.kr^
 ||log.musical.ly^
 ||log.newsbreak.jp^
 ||log.newsvine.com^
@@ -28209,8 +28221,6 @@ znak.com##.relap
 ||p.statp.com^
 ||p.tencentmind.com^
 ||p.tinynewsfeed.com^$third-party
-||p.typekit.net/*.css$stylesheet,redirect-rule=noopcss,domain=burnabyvillagemuseum.ca
-||p.typekit.net^$third-party
 ||p.versacommerce.de^
 ||p.victoria.dev^
 ||p.vtracy.de^$third-party
@@ -39267,6 +39277,7 @@ znak.com##.relap
 ||tyxo.bg^$third-party
 ||tyxo.com^$third-party
 ||tz284.com^$third-party
+||tzegilo.com^
 ||tzwaw.pw^
 ||u-on.eu^$third-party
 ||u.btserve.com^$third-party

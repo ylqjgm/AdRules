@@ -624,7 +624,7 @@
 @@||amctv.com^*/social-buttons.js
 @@||amf.pw^$generichide
 @@||amoma.com^$extension
-@@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|dronedj.com|electrek.co|spaceexplored.com|www-history-com.cdn.ampproject.org
+@@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|connectthewatts.com|dronedj.com|electrek.co|spaceexplored.com|www-history-com.cdn.ampproject.org
 @@||ams.amazon.co.jp^$domain=ams.amazon.co.jp
 @@||ams.amazon.co.jp^$domain=ams.amazon.co.jp
 @@||ams.amazon.co.uk^$domain=ams.amazon.co.uk
@@ -3435,7 +3435,6 @@
 @@||live.bbc.co.uk^*/comscore.js$script,~third-party
 @@||live.robinwidget.com^$stealth
 @@||live.robinwidget.com^$stealth
-@@||live.sekindo.com^$domain=appleinsider.com
 @@||live.sekindo.com^$domain=appleinsider.com
 @@||live.simcitybuildit.com^
 @@||live800.com^

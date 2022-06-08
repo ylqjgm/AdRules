@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: WmhiO/cP7CfmtHclNXdonw
+! Checksum: oroLXifMwY9fy9HUw62z/w
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-08 09:52:36（北京时间） 
-! Total count: 19467
+! Version: 2022-06-08 12:02:35（北京时间） 
+! Total count: 19459
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -654,7 +654,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgde^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgscripts/*
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -1403,7 +1403,6 @@
 @@||adobe.com^*/delicious.png$domain=adobe.com
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca
 @@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|hilton.com|kroger.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|kroger.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
@@ -2051,7 +2050,7 @@
 @@||ampproject.org/static/img/quotes/$~third-party
 @@||ampproject.org/v0/amp-analytics-$script,domain=cnnespanol.cnn.com
 @@||ampproject.org/v0/amp-consent-$domain=forbes.com
-@@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|dronedj.com|electrek.co|spaceexplored.com|www-history-com.cdn.ampproject.org
+@@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|connectthewatts.com|dronedj.com|electrek.co|spaceexplored.com|www-history-com.cdn.ampproject.org
 @@||ams.amazon.co.jp^$domain=ams.amazon.co.jp
 @@||ams.amazon.co.uk^$domain=ams.amazon.co.uk
 @@||ams.amazon.com^$domain=ams.amazon.com
@@ -7585,7 +7584,6 @@
 @@||gls-group.eu/*/csomagkovetes$elemhide,jsinject
 @@||gls-group.eu^$extension
 @@||gmads.net^$object-subrequest,domain=sat1.de|sat1.ch
-@@||gmailnator.com/assets/js/prebid-ads.js
 @@||gmclan.org^*/images/fb_$image
 @@||gminazamosc.pl/wp-content/plugins/wp-google-analytics-events/js/ga-scroll-events.js?
 @@||gmx.net/magazine/consent-management/|
@@ -8228,7 +8226,6 @@
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
 @@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|formula1.com|fortune.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|fortune.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=aena.es
 @@||googletagmanager.com/gtm.js$domain=amd.com
@@ -12796,9 +12793,6 @@
 @@||p.jwpcdn.com/player/v/*/jw-icons.woff$domain=9anime.to
 @@||p.jwpcdn.com^$script
 @@||p.qlogo.cn^
-@@||p.typekit.net/*.css$domain=cfr.org
-@@||p.typekit.net/*.css$domain=fedandfit.com
-@@||p.typekit.net/*.css$domain=store.steampowered.com|nejm.org
 @@||p2.2elotoaraba.com/Advert/*$domain=2elotoaraba.com
 @@||p2xfxd.com^$ghide
 @@||pacaio.match.qq.com^
@@ -13760,8 +13754,6 @@
 @@||plplayer.online/log_event$~third-party,xmlhttprequest
 @@||pluckypocket.com^$script,xmlhttprequest
 @@||plugins.matomo.org^$image,~third-party
-@@||plus.addkt.com/slader.js$domain=slader.com
-@@||plus.addkt.com/slader_exdetail.js$domain=slader.com
 @@||plus.google.com/hangouts/$stealth
 @@||plus.google.com/hangouts/_/CONVERSATION/$document
 @@||plus.googleapis.com/*/comments$document

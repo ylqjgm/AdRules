@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220608095217
+#VER=20220608120218
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93619
+#TOTAL_LINES=93625
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -3150,6 +3150,7 @@ payload:
   - '+.7daystodie.cn'
   - '+.7db0b2a0ee95f557904.com'
   - '+.7dc21eaea8.com'
+  - '+.a-d.7dh26aja.com'
   - '+.7dlm.cn'
   - '+.7dvd.ru'
   - '+.7e1e8f3eba.com'
@@ -18575,6 +18576,7 @@ payload:
   - '+.chinazmob.com'
   - '+.chinesean.com'
   - '+.chineseprovisionfeisty.com'
+  - '+.chingovernment.com'
   - '+.chinikscouxia.com'
   - '+.chinitnam.com'
   - '+.chinlesufer.com'
@@ -65556,6 +65558,7 @@ payload:
   - '+.a.qiao024.com'
   - '+.qiaobaba.top'
   - '+.qiaoenyl.xyz'
+  - '+.qiaofu.shop'
   - '+.qiaohong.ltd'
   - '+.mh1.qiaolianshu.com'
   - '+.qiaopiguniang.com'
@@ -84580,6 +84583,7 @@ payload:
   - '+.vipko.ru'
   - '+.in.vipliangmei.com'
   - '+.viplinck.com'
+  - '+.knt.viplp.top'
   - '+.tr.mail.vipmag.fr'
   - '+.tr.news.vipmag.fr'
   - '+.tr.welcome.vipmag.fr'
@@ -90009,6 +90013,7 @@ payload:
   - '+.yangniupiju.com'
   - '+.a.yangshengtang123.com'
   - '+.img.yangshengtang123.com'
+  - '+.yangshengzu.cn'
   - '+.yangtianc.xyz'
   - '+.yangtingchina.com'
   - '+.yangtzeev.com'
@@ -92391,6 +92396,7 @@ payload:
   - '+.aa.zldh123.com'
   - '+.a.zleep.com'
   - '+.zlfgedpuxrbpgm.com'
+  - '+.zli.wang'
   - '+.go.util.zlibs.com'
   - '+.zlin.fun'
   - '+.s.zlink1.com'
