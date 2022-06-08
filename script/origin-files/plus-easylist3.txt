@@ -1092,7 +1092,8 @@ australianfrequentflyer.com.au##+js(nostif, prompt)
 ! https://github.com/uBlockOrigin/uAssets/issues/6897
 ! https://github.com/NanoMeow/QuickReports/issues/3083
 ! https://github.com/NanoMeow/QuickReports/issues/3104
-advocate.com,arobasenet.com,cultofmac.com,currentaffairs.gktoday.in,dailycaller.com,dogtime.com,fallbrook247.com,gamesgames.com,gazettenet.com,insidenova.com,jetztspielen.de,leitesculinaria.com,onmsft.com,practicalpainmanagement.com,pwinsider.com,rawstory.com,ruinmyweek.com,sanangelolive.com,sanfoundry.com,selfhacked.com,sporcle.com,stylecaster.com,upi.com,viraliq.com##+js(aopr, googletag)
+advocate.com,arobasenet.com,cultofmac.com,currentaffairs.gktoday.in,dailycaller.com,dogtime.com,fallbrook247.com,gamesgames.com,gazettenet.com,insidenova.com,jetztspielen.de,leitesculinaria.com,practicalpainmanagement.com,pwinsider.com,rawstory.com,ruinmyweek.com,sanangelolive.com,sanfoundry.com,selfhacked.com,sporcle.com,stylecaster.com,upi.com,viraliq.com##+js(aopr, googletag)
+onmsft.com##+js(acis, document.createElement, googletag)
 sanfoundry.com##.sf-desktop-ads
 
 ! https://www.wilderssecurity.com/threads/ublock-a-lean-and-fast-blocker.365273/page-107#post-2668597
@@ -3196,7 +3197,8 @@ flashx.*##+js(nowoif)
 flashx.*##+js(acis, Math, zfgloaded)
 flashx.*##+js(acis, String.fromCharCode, 'shift')
 flashx.net##+js(set, $.adblock, 0)
-@@||fastcontentdelivery.com^$media,domain=flashx.net
+||fastcontentdelivery.com^$badfilter
+flashx.*##+js(acis, Math, XMLHttpRequest)
 flashx.*##^script:has-text(FingerprintJS)
 @@||flashx.*/counter.cgi$script
 flashx.*##A[href$=".html"][rel="nofollow norefferer noopener"]
@@ -15368,10 +15370,6 @@ zimabdko.com##+js(nowebrtc)
 pornoxo.com##+js(popads-dummy)
 *$popunder,3p,domain=m.pornoxo.com
 ||pushpad.xyz^$3p
-
-! https://www.reddit.com/r/uBlockOrigin/comments/d4mrbr/suggested_content_to_be_blocked_on_eromecom_nsfw/
-erome.com##+js(aopr, ExoLoader.serve)
-erome.com##.ads
 
 ! https://github.com/uBlockOrigin/uAssets/issues/6789
 ! https://github.com/uBlockOrigin/uAssets/issues/6981
