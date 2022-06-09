@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: KX2gG27UtPqroWUurNDmdQ
+! Checksum: Zln9L3uvfJ9ijkQ13CHFEw
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-09 09:53:51（北京时间） 
-! Total count: 19466
+! Version: 2022-06-09 16:33:05（北京时间） 
+! Total count: 19459
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -654,6 +654,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgparty
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -2365,7 +2366,6 @@
 @@||api.cxense.com/public/widget/data?json=$domain=pcgames.de
 @@||api.cxense.com/public/widget/data?json=$domain=wpb.shueisha.co.jp
 @@||api.cxense.com/public/widget/data?json=$domain=wsj.com
-@@||api.cxense.com/public/widget/data?json=$domain=yenisafak.com
 @@||api.cxense.com/public/widget/data?json=$script,domain=ksml.fi|savonsanomat.fi
 @@||api.cxense.com/public/widget/data|$xmlhttprequest,domain=friday.kodansha.co.jp
 @@||api.digikala.com/api/AdService^
@@ -3918,7 +3918,6 @@
 @@||cdn.cxense.com/cx.js$domain=tn.com.ar
 @@||cdn.cxense.com/cx.js$domain=wpb.shueisha.co.jp
 @@||cdn.cxense.com/cx.js$domain=wsj.com
-@@||cdn.cxense.com/cx.js$domain=yenisafak.com
 @@||cdn.cxense.com/cx.js$script,domain=handelsblatt.com
 @@||cdn.cxense.com/cx.js$script,domain=japannews.yomiuri.co.jp
 @@||cdn.cxense.com^$script,domain=bizjournals.com|bloombergquint.com|marketwatch.com
@@ -7670,7 +7669,6 @@
 @@||google-analytics.com/analytics.js$domain=4kdownload.com
 @@||google-analytics.com/analytics.js$domain=afternic.com|clipitto.com|deviantart.com
 @@||google-analytics.com/analytics.js$domain=amd.com
-@@||google-analytics.com/analytics.js$domain=anadolu.edu.tr
 @@||google-analytics.com/analytics.js$domain=androidpit.com|androidpit.com.br|androidpit.de|androidpit.es|androidpit.fr|androidpit.it
 @@||google-analytics.com/analytics.js$domain=antenaplay.ro
 @@||google-analytics.com/analytics.js$domain=apkmaza.net
@@ -7716,7 +7714,6 @@
 @@||google-analytics.com/analytics.js$domain=dirkzwager.nl
 @@||google-analytics.com/analytics.js$domain=displate.com
 @@||google-analytics.com/analytics.js$domain=dmax.com.tr
-@@||google-analytics.com/analytics.js$domain=doviz.com
 @@||google-analytics.com/analytics.js$domain=dramahd.me
 @@||google-analytics.com/analytics.js$domain=dtf.ru
 @@||google-analytics.com/analytics.js$domain=earthclassmail.com
@@ -8191,7 +8188,6 @@
 @@||googletagmanager.com/gtag/js$domain=roman.com.tr
 @@||googletagmanager.com/gtag/js$domain=ryanair.com
 @@||googletagmanager.com/gtag/js$domain=schoolcheats.net
-@@||googletagmanager.com/gtag/js$domain=shiftdelete.net
 @@||googletagmanager.com/gtag/js$domain=snake.io
 @@||googletagmanager.com/gtag/js$domain=srek.net
 @@||googletagmanager.com/gtag/js$domain=telerium.tv
@@ -8246,6 +8242,7 @@
 @@||googletagmanager.com/gtm.js$domain=bestradio.fm
 @@||googletagmanager.com/gtm.js$domain=beterbed.nl
 @@||googletagmanager.com/gtm.js$domain=beymen.com
+@@||googletagmanager.com/gtm.js$domain=bigc.co.th
 @@||googletagmanager.com/gtm.js$domain=bike24.de
 @@||googletagmanager.com/gtm.js$domain=biomedglobal.net
 @@||googletagmanager.com/gtm.js$domain=blaklader.*
@@ -9989,7 +9986,6 @@
 @@||ingka.com^$stealth,domain=ikea.com
 @@||ingress.com/intel?$document
 @@||ingrossoprofumitester.it/img/ad-profumeria-$image,~third-party
-@@||ingturkey.tt.omtrdc.net/m2/ingturkey^$domain=ingbank.com.tr
 @@||inhabitat.com/advertising/$script
 @@||injections.adguard.com^$document
 @@||inkagames.com^$ghide
@@ -10167,6 +10163,7 @@
 @@||iubenda.com^$script,xmlhttprequest,domain=automoto.it
 @@||iubenda.com^$script,xmlhttprequest,domain=moto.it
 @@||iubenda.com^$script,xmlhttprequest,domain=radiomontecarlo.net
+@@||iubenda.com^$script,xmlhttprequest,domain=tomshw.it
 @@||iubenda.mgr.consensu.org/bridge/*$domain=video.lastampa.it
 @@||iubenda.mgr.consensu.org/bridge/*$domain=video.repubblica.it
 @@||iubenda.mgr.consensu.org/bridge/iframe_bridge-*.html$domain=105.net
@@ -10927,7 +10924,6 @@
 @@||live.indiatimes.com/trackjs.cms
 @@||live.lequipe.fr/thirdparty/prebid.js$~third-party
 @@||live.robinwidget.com^$stealth
-@@||live.sekindo.com^$domain=appleinsider.com
 @@||live.simcitybuildit.com^
 @@||live.streamtheworld.com/*.aac
 @@||live.streamtheworld.com/*.mp3
@@ -14853,7 +14849,6 @@
 @@||s.tvp.pl/files/tvplayer/*/advertisement.gif$image
 @@||s.vi-serve.com/source.js$domain=9gag.com
 @@||s.visilabs.net/Target.js^$domain=boyner.com.tr
-@@||s.visilabs.net/Target.js^$domain=evidea.com
 @@||s.w.org/wp-content/$stylesheet,domain=wordpress.org
 @@||s.xe.com/*/js/webtrends.1.js
 @@||s.yimg.com/dy/ads/native.js$domain=animedao.to
@@ -15002,7 +14997,6 @@
 @@||saysidewalk.com^$script,xmlhttprequest
 @@||sb.scorecardresearch.com/*/plugins/streamsense_plugin_theplatform.js$domain=cbc.ca
 @@||sb.scorecardresearch.com/beacon.js$domain=animalplanet.com
-@@||sb.scorecardresearch.com/beacon.js$domain=cnnturk.com
 @@||sb.scorecardresearch.com/beacon.js$domain=discovery.com
 @@||sb.scorecardresearch.com/beacon.js$domain=hurriyet.com.tr
 @@||sb.scorecardresearch.com/beacon.js$domain=investigationdiscovery.com
@@ -18436,7 +18430,6 @@
 @@||vsadu.ru^$generichide
 @@||vsh.visilabs.net/Visilabs.js^$domain=boyner.com.tr
 @@||vsh.visilabs.net/Visilabs.js^$domain=cinemaximum.com.tr
-@@||vsh.visilabs.net/Visilabs.js^$domain=evidea.com
 @@||vsh.visilabs.net/Visilabs.js^$domain=kapsamaharitasi.turktelekom.com.tr
 @@||vstera.tech^$script,domain=wstream.video
 @@||vstorrent.org^$ghide

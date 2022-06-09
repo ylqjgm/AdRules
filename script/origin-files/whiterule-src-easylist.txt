@@ -2684,6 +2684,7 @@
 @@||graph.facebook.com^
 @@||graphiq.com^*/Social_$image,domain=insidegov.com
 @@||graphql.datocms.com^$stealth,domain=sensorkit.arduino.cc
+@@||graphql.datocms.com^$stealth,domain=sensorkit.arduino.cc
 @@||gravityrd-services.com^$domain=hotstar.com|tv2play.hu
 @@||grayreceipt.com^$script,xmlhttprequest
 @@||greasegarden.com^$script,xmlhttprequest
@@ -3437,7 +3438,6 @@
 @@||live.bbc.co.uk^*/comscore.js$script,~third-party
 @@||live.robinwidget.com^$stealth
 @@||live.robinwidget.com^$stealth
-@@||live.sekindo.com^$domain=appleinsider.com
 @@||live.simcitybuildit.com^
 @@||live800.com^
 @@||live9.net^$stealth

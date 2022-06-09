@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206080253
+! Version: 202206090226
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41816
+! Lenth = 41817
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2563,7 +2563,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /dynamictag.
 /dynamicyield/*
 /dynatrace-$~image,domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io
-/dynatrace.$domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io
+/dynatrace.$~third-party,domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io
 /dynimpression?rkey=
 /e.gif?
 /e086ec.aspx?q=l3mkwgak
@@ -6495,6 +6495,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||aolcdn.com^*/beacon.min.js$domain=autoblog.com|dailyfinance.com
 @@||apc-pli.com/api/tracking/$~third-party,xmlhttprequest
 @@||api-analytics.magstimconnect.net^$~third-party
+@@||api-v4.trbo.com/r.php?$script,domain=blau.de
 @@||api.babbel.io/gamma/v1/$ping,domain=my.babbel.com
 @@||api.chartbeat.com^script,domain=financialpost.com|wcpo.com|couriermail.com.au|betabeat.com
 @@||api.curalate.com^$domain=potterybarn.com
@@ -6516,7 +6517,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.cxense.com/public/widget/data?json=$domain=pcgames.de
 @@||api.cxense.com/public/widget/data?json=$domain=wpb.shueisha.co.jp
 @@||api.cxense.com/public/widget/data?json=$domain=wsj.com
-@@||api.cxense.com/public/widget/data?json=$domain=yenisafak.com
 @@||api.cxense.com/public/widget/data?json=$script,domain=ksml.fi|savonsanomat.fi
 @@||api.cxense.com/public/widget/data|$xmlhttprequest,domain=friday.kodansha.co.jp
 @@||api.dmcdn.net/pxl/cpe/app.min.js$domain=m.sondakika.com
@@ -6718,7 +6718,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdn.cxense.com/cx.js$domain=tn.com.ar
 @@||cdn.cxense.com/cx.js$domain=wpb.shueisha.co.jp
 @@||cdn.cxense.com/cx.js$domain=wsj.com
-@@||cdn.cxense.com/cx.js$domain=yenisafak.com
 @@||cdn.cxense.com/cx.js$script,domain=handelsblatt.com
 @@||cdn.cxense.com^$script,domain=bizjournals.com|bloombergquint.com|marketwatch.com
 @@||cdn.dimml.io/dimml.js$domain=consumentenbond.nl
@@ -6772,7 +6771,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||cdn.segment.com/analytics.js^$domain=freshly.com
 @@||cdn.segment.com/next-integrations/integrations/
 @@||cdn.segment.com/v1/projects/
-@@||cdn.segmentify.com/*/segmentify.js$domain=gittigidiyor.com
 @@||cdn.segmentify.com/*/segmentify.js$domain=gratis.com
 @@||cdn.segmentify.com^$domain=pttavm.com
 @@||cdn.static.zdbb.net/js/zd-email.min.js$domain=pcmag.com
@@ -7205,7 +7203,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||google-analytics.com/analytics.js$domain=24timezones.com
 @@||google-analytics.com/analytics.js$domain=afternic.com|clipitto.com|deviantart.com
 @@||google-analytics.com/analytics.js$domain=amd.com
-@@||google-analytics.com/analytics.js$domain=anadolu.edu.tr
 @@||google-analytics.com/analytics.js$domain=androidpit.com|androidpit.com.br|androidpit.de|androidpit.es|androidpit.fr|androidpit.it
 @@||google-analytics.com/analytics.js$domain=antenaplay.ro
 @@||google-analytics.com/analytics.js$domain=askona.ru
@@ -7242,7 +7239,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||google-analytics.com/analytics.js$domain=dirkzwager.nl
 @@||google-analytics.com/analytics.js$domain=displate.com
 @@||google-analytics.com/analytics.js$domain=dmax.com.tr
-@@||google-analytics.com/analytics.js$domain=doviz.com
 @@||google-analytics.com/analytics.js$domain=dtf.ru
 @@||google-analytics.com/analytics.js$domain=earthclassmail.com
 @@||google-analytics.com/analytics.js$domain=easycredit.de
@@ -7463,7 +7459,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js$domain=riamo.ru
 @@||googletagmanager.com/gtag/js$domain=roman.com.tr
 @@||googletagmanager.com/gtag/js$domain=ryanair.com
-@@||googletagmanager.com/gtag/js$domain=shiftdelete.net
 @@||googletagmanager.com/gtag/js$domain=srek.net
 @@||googletagmanager.com/gtag/js$domain=xl-bygg.no
 @@||googletagmanager.com/gtag/js$script,domain=dholic.co.jp
@@ -7533,6 +7528,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=elderscrollsonline.com
 @@||googletagmanager.com/gtm.js$domain=eldorado.com.ua
 @@||googletagmanager.com/gtm.js$domain=elnuevodia.com
+@@||googletagmanager.com/gtm.js$domain=evernote.com
 @@||googletagmanager.com/gtm.js$domain=filgoal.com
 @@||googletagmanager.com/gtm.js$domain=flyingv.cc
 @@||googletagmanager.com/gtm.js$domain=fooda.com
@@ -7585,6 +7581,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=mediamarkt.nl
 @@||googletagmanager.com/gtm.js$domain=militaria.pl
 @@||googletagmanager.com/gtm.js$domain=moniteurautomobile.be
+@@||googletagmanager.com/gtm.js$domain=muscleandfitness.com
 @@||googletagmanager.com/gtm.js$domain=n11.com
 @@||googletagmanager.com/gtm.js$domain=napishem.ru
 @@||googletagmanager.com/gtm.js$domain=nestleprofessional.com.tr
@@ -7834,7 +7831,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ing-diba.de^*/sitestat.js
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|tesco.com
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
-@@||ingturkey.tt.omtrdc.net/m2/ingturkey^$domain=ingbank.com.tr
 @@||innovelsolutions.com^*/tracking/$~third-party
 @@||inpref.com/frosmo.xdm.html?
 @@||inpref.com/messageApi?
@@ -8390,7 +8386,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||s.imgur.com/min/px.js$domain=imgur.com
 @@||s.thebrighttag.com/tag?site=$domain=sephora.com
 @@||s.visilabs.net/Target.js^$domain=boyner.com.tr
-@@||s.visilabs.net/Target.js^$domain=evidea.com
 @@||s.yimg.com^*/advertisement/sponsor/promo/ad.png$image,domain=news.yahoo.com
 @@||s.yjtag.jp/tag.js$domain=www.epson.jp
 @@||s.yjtag.jp/tag.js$script,domain=www.epson.jp
@@ -8404,7 +8399,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
 @@||savjee.be/uploads/2020-10-27-effect-adblockers-on-google-analytics-vs-plausible/$~third-party
 @@||sb.scorecardresearch.com/beacon.js$domain=animalplanet.com
-@@||sb.scorecardresearch.com/beacon.js$domain=cnnturk.com
 @@||sb.scorecardresearch.com/beacon.js$domain=discovery.com
 @@||sb.scorecardresearch.com/beacon.js$domain=investigationdiscovery.com
 @@||sb.scorecardresearch.com/beacon.js$domain=kanald.com.tr
@@ -8469,8 +8463,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$domain=freundin.de
 @@||seewhy.com^$domain=nixon.com
 @@||segment-data.zqtk.net^$domain=wsj.com
-@@||segmentify.com//add/events/v*.json?apiKey=$domain=gittigidiyor.com
-@@||segmentify.com//get/key/v*.json?$domain=gittigidiyor.com
 @@||segundamano.mx^*/tealium.js
 @@||sellpoint.net/smart_button/$script,domain=walmart.com
 @@||sephora-track.inside-graph.com/gtm/$domain=sephora.com
@@ -8754,6 +8746,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||trackonomics.net/client/$script,domain=popsugar.com
 @@||travel-assets.com/platform-analytics-prime/$domain=chase.com
 @@||travelbags.nl^*/web-vitals.$~third-party
+@@||trbo.com/plugin/trbo_$script,domain=blau.de
 @@||trc.taboola.com/alluremedia-gizmodoau/trc/*$domain=gizmodo.com.au
 @@||trc.taboola.com/axelspringer-dieweltprojectberlin/trc*json$domain=welt.de
 @@||trc.taboola.com/ilmeteo-*/trc/$domain=ilmeteo.it
@@ -8853,7 +8846,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||vpro.nl^*/vpro-analytics/Analytics.js$xmlhttprequest
 @@||vsh.visilabs.net/Visilabs.js^$domain=boyner.com.tr
 @@||vsh.visilabs.net/Visilabs.js^$domain=cinemaximum.com.tr
-@@||vsh.visilabs.net/Visilabs.js^$domain=evidea.com
 @@||vsh.visilabs.net/Visilabs.js^$domain=kapsamaharitasi.turktelekom.com.tr
 @@||vulture.com/decor/javascript/magnify_stats.js
 @@||vuplay.co.uk/stats/adobe/*/AppMeasurement.js$script,domain=radioplus.be
@@ -9076,6 +9068,7 @@ cgi-bin/counter
 chaos2ch.com###sub div.plugin-memo:last-child
 charlestownwyllie.oaklawnnonantum.com^
 chinatimes.com##.popin-recommend
+cienradios.com##article[class^="cXense-"]
 citypizza.ru#%#window.yaCounter9890803 = { reachGoal: function() {} };
 click.icptrack.com/icp/$image
 close.io/email_opened$image
@@ -12861,6 +12854,7 @@ znak.com##.relap
 ||arrowpushengine.com^$third-party
 ||arsdev.net^$third-party
 ||arstechnica.com/keys/arstechnica.com/p.js
+||arte.tv/log-player/
 ||artefact.is^$third-party
 ||artfin.club^
 ||artfut.com^$redirect=nooptext,important
@@ -12910,6 +12904,7 @@ znak.com##.relap
 ||asd.bauhaus.info^
 ||asd.nl.bauhaus^
 ||asiamarketing.sedgwick.com^
+||asistanaliz.com/api/hit/
 ||ask.legalsolutions.thomsonreuters.info^
 ||askanydifference.com/beardeddragon/gilamonster.js
 ||asmail.renkim.com^
@@ -14852,6 +14847,7 @@ znak.com##.relap
 ||chinchilla.68keys.io^
 ||chinchilla.picatree.com^
 ||chinchilla.ubclaunchpad.com^
+||chingovernment.com^
 ||chinsnakes.com^
 ||chinsnakes.com^$third-party
 ||chipmunk.crestedbuttejobs.com^
@@ -15239,7 +15235,6 @@ znak.com##.relap
 ||cloudfront.net/websites/sb.js
 ||cloudfront.net/zephyr.js
 ||cloudfront.net^$script,domain=gentside.com
-||cloudfront.net^$script,domain=phonearena.com
 ||cloudfront.net^*.bmp?
 ||cloudfunctions.net/commonBonnierDataLayer
 ||cloudfunctions.net/conversionEventCondition|
@@ -19827,6 +19822,7 @@ znak.com##.relap
 ||frailflock.com^$third-party
 ||frailfruit.com^
 ||frailoffer.com^$third-party
+||francais.rt.com/nbc-stats/
 ||france.alphabet.com^
 ||franceculture.fr/static/js/xtcore-
 ||franceinter.fr/vendor/track.js
@@ -20761,6 +20757,7 @@ znak.com##.relap
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=morningstar.nl|morningstar.de|morningstar.at|morningstar.fr|morningstarfunds.ie|morningstar.it|morningstar.es|morningstar.se|morningstar.ch|morningstar.co.uk|morningstar.hk|morningstar.com
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=otomotoklik.pl
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=pcmag.com,important
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=repubblica.it
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=secure.sakura.ad.jp
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=skechers.com.tr
 ||googletagmanager.com/gtm.js$script,redirect=googletagmanager-gtm,domain=store.line.me
@@ -20777,6 +20774,7 @@ znak.com##.relap
 ||googletagmanager.com/gtm.js$script,redirect=noopjs,domain=kabel.canaldigital.no,important
 ||googletagmanager.com/gtm.js$script,xmlhttprequest,important,redirect=googletagmanager-gtm,domain=gazin.com.br
 ||googletagmanager.com/gtm.js$script,xmlhttprequest,redirect=googletagmanager-gtm,domain=coda.io,important
+||googletagmanager.com/gtm.js$script,xmlhttprequest,redirect=googletagmanager-gtm,domain=evernote.com,important
 ||googletagmanager.com/gtm.js$script,xmlhttprequest,redirect=googletagmanager-gtm,domain=oresundsbron.com,important
 ||googletagmanager.com/gtm.js$script,xmlhttprequest,redirect=googletagmanager-gtm,domain=systemrequirementslab.com,important
 ||googletagmanager.com/gtm.js$script,xmlhttprequest,redirect=googletagmanager-gtm,domain=whoer.net
@@ -24162,6 +24160,7 @@ znak.com##.relap
 ||logx.optimizely.com^
 ||logxp.ru^$third-party
 ||logz.ru^$third-party
+||lokalleads-cci.com^$third-party
 ||loloclicks.biz^
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lomadee.com/loc/$third-party
@@ -26953,6 +26952,7 @@ znak.com##.relap
 ||mycheckergeo.com^$third-party
 ||mycounter.com.ua^$third-party
 ||mycounter.ua^$third-party
+||mydirtyhobby.de/tracker
 ||myfastcounter.com^$third-party
 ||myfidevs.io^$third-party
 ||myfinance.com/widget/
@@ -36910,6 +36910,7 @@ znak.com##.relap
 ||terrificgoose.com^
 ||terrificgoose.com^$third-party
 ||terrifictooth.com^
+||terrifictooth.com^$third-party
 ||tes-game.ru/stat/
 ||test-eml.postmates.com^
 ||test-fleet-eml.postmates.com^

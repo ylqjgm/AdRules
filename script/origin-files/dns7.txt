@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206090128
+! Version: 202206090810
 ! Title: EasyPrivacy
-! Last modified: 09 Jun 2022 01:28 UTC
+! Last modified: 09 Jun 2022 08:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5595,6 +5595,7 @@ cgi-bin/counter
 /wf/open?upn=$image
 ://email.*/e/o/
 _ad_impression.
+_track_pixel.gif?
 ! Pinterest
 /_/trace/trace/*
 ! real time web analytics
@@ -6469,7 +6470,6 @@ _mongo_stats/
 ||cdnmaster.com^$third-party
 ||cdnopw.com^$third-party
 ||cedexis.com^$third-party
-||cedexis.net^$script,third-party
 ||celebros-analytics.com^$third-party
 ||celebrus.com^$third-party
 ||center.io^$third-party
