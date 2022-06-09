@@ -141,8 +141,9 @@ PS: **某些 `私货/误杀` 我们可能只会添加到`Allowlist`，而并不�
 **乘风广告规则**： https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt  
 **AdGuard DNS Filter** :  https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/gh-pages/Filters/filter.txt  
 **OISD Blocklist Full** ： https://abp.oisd.nl/
-
+**1hosts** ：https://ghproxy.futils.com/https://github.com/badmojr/1Hosts/blob/master/Pro/domains.txt
 </details>
 
-如果你需要极致去广告，你可以看看这个项目  
+如果你需要极致去广告，你可以看看这几个项目  
 https://github.com/DoingDog/XXKiller
+https://github.com/badmojr/1Hosts
