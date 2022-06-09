@@ -691,7 +691,7 @@ money.cnn.com##section.column:has(:scope > #moneySponsors)
 1337x.*##a[href*="//steepto.com/"]
 1337x.*##[href*="vpn"]
 1337x.*,x1337x.*##.no-top-radius div > a[href]:has-text(VPN)
-/^https:\/\/x?1337x\.(?:[0-9a-z]{3}\.)?[a-z]{2,3}\/images\/[0-9a-z]+\.jpg/$image,1p,domain=1337x.*|1337x.g3g.*|x1337x.*
+/^https:\/\/x?1337x\.(?:[0-9a-z]{3,9}\.)?[a-z]{2,4}\/images\/[0-9a-z]+\.jpg/$image,1p,domain=1337x.*|1337x.g3g.*|x1337x.*|unblockit.*
 ||1337x.*/sw.js^
 ! https://github.com/uBlockOrigin/uAssets/issues/635
 ! https://www.reddit.com/r/uBlockOrigin/comments/81hcu5/1337xto_annoying_popup/
@@ -3929,27 +3929,6 @@ wp-time.com###pop-ad-wrap
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1531
 @@||peugeotclub.eu^$ghide
-
-! https://github.com/uBlockOrigin/uAssets/issues/1529
-! https://github.com/NanoMeow/QuickReports/issues/1491
-! https://github.com/AdguardTeam/AdguardFilters/issues/50582
-bc.vc##+js(nowoif)
-bcvc.live##+js(nowoif, !bcvc)
-bcvc.live##+js(aeld, load, .attr)
-bcvc.live##+js(acis, addEventListener, Blocking)
-*$script,redirect-rule=noopjs,domain=bcvc.live
-bcvc.live##*:style(display:block!important;)
-bcvc.live###bvcontainerx
-bcvc.live##[href*="/url"]
-bcvc.live##head
-bcvc.live##+js(aeld, , push)
-bcvc.live##+js(aopr, Notification)
-*$frame,3p,domain=bc.vc
-||bc.vc/mload.gif$image
-||punosy.top^$3p
-@@||google.com^$frame,domain=bc.vc
-||bvmcdn.net^
-||punosy.best^$3p,domain=~ouo.today
 
 ! https://github.com/jspenguin2017/uBlockProtector/issues/752
 ! https://github.com/uBlockOrigin/uAssets/issues/2531
@@ -14174,6 +14153,11 @@ biblestudytools.com##+js(aopr, googletag)
 
 ! https://www.reddit.com/r/uBlockOrigin/comments/cf1y5b/unable_to_block_these_adverts_myselfredirect_to/
 1movietv.com##+js(acis, Math, zfgloaded)
+1movietv.com##+js(refresh-defuser)
+1movietv.com##[target="_blank"][href$=".html"]
+||ekdj30.com^
+||mcmo22.com^
+||tffkroute.com^
 
 ! https://github.com/NanoAdblocker/NanoFilters/issues/373
 egy.best,egybest.*##+js(acis, Math, XMLHttpRequest)

@@ -1,5 +1,5 @@
 ! Title: AdRules for AdGuard
-! Version: 20220609083251514829698
+! Version: 20220609141650178681341
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Total lines: 00000
 ||cda.0-shiny.com^
@@ -20061,11 +20061,9 @@
 ||hyybul.kaskus.co.id^
 ||smetrics.citibank.co.id^
 ||smetrics.marketing.lighting.philips.co.id^
-||a.walla.co.il^
 ||ads.bhol.co.il^
 ||ads.internic.co.il^
 ||ads.one.co.il^
-||adserv.mako.co.il^
 ||adserver.co.il^
 ||merlin.co.il^
 ||ban.bhol.co.il^
@@ -20086,12 +20084,10 @@
 ||fus.yad2.co.il^
 ||gim.co.il^
 ||go.air-electra.co.il^
-||houdini.haaretz.co.il^
 ||info.hmisrael.co.il^
 ||info.shavve.co.il^
 ||linicom.co.il^
 ||live.alljobs.co.il^
-||sdc.mako.co.il^
 ||st1.bhol.co.il^
 ||stats.mako.co.il^
 ||stats.ynet.co.il^
@@ -20099,12 +20095,16 @@
 ||tracking.max-stg.co.il^
 ||tracking.max.co.il^
 ||webmedia.co.il^
-||wrtm.walla.co.il^
 ||x.walla.co.il^
 ||yafa-coach.co.il^
+||a.walla.co.il^
+||adserv.mako.co.il^
 ||campaign.kpmg.co.il^
 ||go.electra-trade.co.il^
+||houdini.haaretz.co.il^
+||sdc.mako.co.il^
 ||sw88.disney.co.il^
+||wrtm.walla.co.il^
 ||k.brandalley.co.nl^
 ||rvz9.destinia.co.ro^
 ||5wh.co.zw^
@@ -43794,6 +43794,7 @@
 ||jioer.pro^
 ||jipezy.cn^
 ||jipfvqusm.com^
+||jiphihizi.com^
 ||jipinyouwu.com^
 ||jipo.io^
 ||stats.jippii.com^
@@ -71688,6 +71689,7 @@
 ||shirtforfan.com^
 ||shirttest.com^
 ||shiruru.cn^
+||shiryharu.pro^
 ||cv.shiryoku1.com^
 ||shise.me^
 ||adebis.shiseido.co.jp^
@@ -82638,6 +82640,7 @@
 ||tr.credito.universo.pt^
 ||ads.univision.com^
 ||m.univision.com^
+||uniworldgroup.asia^
 ||unixfuture.com^
 ||unjointbobbed.com^
 ||b.unjs.com^
@@ -86221,6 +86224,7 @@
 ||web20-traffic-system.de^
 ||ads.web21.com^
 ||web3000.co.uk^
+||web3ads.net^
 ||web8.net^
 ||webabcd.com^
 ||webads.co.nz^
@@ -87284,13 +87288,13 @@
 ||cheezwhiz.z9.web.core.windows.net^
 ||cltgtstor001.blob.core.windows.net^
 ||encoderfarmstatsnew.servicebus.windows.net^
-||exposeboxwallashops.blob.core.windows.net^
 ||insitez.blob.core.windows.net^
 ||onedrive-collection.device.mobileengagement.windows.net^
 ||open8video.blob.core.windows.net^
 ||optanon.blob.core.windows.net^
 ||palmendeals.blob.core.windows.net^
 ||prod-sb-appanalytics-us1.servicebus.windows.net^
+||exposeboxwallashops.blob.core.windows.net^
 ||tenmaxsgads.blob.core.windows.net^
 ||windowsastronomyfading.com^
 ||windowsguidenews.com^
