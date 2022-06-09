@@ -1,15 +1,15 @@
 [Adblock Plus 3.0]
-! Checksum: X/sI+vZtmjM3Jtc6p8waDg
+! Checksum: sNMqP2F3MC3QGjVTg1ckHQ
 ! Title: My AdFilters（for PC）
 ! Expires: 2 hours
-! Version: 202206082332
-! Last Modified: 2022年06月08日 23:32
+! Version: 202206090730
+! Last Modified: 2022年06月09日 07:30
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
-! Total count: 74392
+! Total count: 74432
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -21724,6 +21724,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||static.anyporn.com/bravoplayer/scripts/bpconfig.js
 @@||static.atgsvcs.com/js/atgsvcs.js$domain=lenovo.com|officedepot.com|shop.lego.com
 @@||static.bfmtv.com/ressources/js/ads.js$script
+@@||static.bigc.co.th/media/bannerads/images/$domain=bigc.co.th
 @@||static.clmbtech.com/ad/commons/js/adframe.js$domain=colombiaonline.com
 @@||static.clmbtech.com/ad/commons/js/colombia_v2.js$domain=indiatimes.com
 @@||static.criteo.net/js/ld/publishertag.js$domain=shinden.pl
@@ -22838,6 +22839,7 @@ _ad_bottom.
 _ad_box.
 _ad_choices_
 _ad_close.
+_ad_content.
 _ad_count=
 _ad_desktop_
 _ad_iframe.
@@ -24455,6 +24457,7 @@ bingfeng.tw##.wow-ad-link
 binnews.com,iheart.com##.component-pushdown
 binnews.com,iheart.com##.component-recommendation
 bioskop45.vip#@#.adsBox
+biqle.com,verhentai.top,lovefap.com,sdefx.cloud,info-english.ru,alluretube.com,anyxvideos.com,fucktheporn.com,hugetits.win,italianporn.com.es,mommysucks.com,mzansinudes.com,napiszar.com,onlineporn24.com,porntube15.com,pornvdoxxx.com,pozdravlove.ru,sexavgo.com,store-of-beats.ru,pinayvids.com,dvdplay.*,sxyprn.*,mmopeon.ru,acervodaputaria.com.br,animefenix.com,masahub.net,rule34porn.net,hispasexy.org,tokyoblog.tv,idolsblog.tv,sturls.com,sexphimhd.net,freeporn.org.uk,xvideos2020.me,pornovidea.net,youporn.red,animesanka.*,adsh.cc,85tube.com,pornobr.ninja,ekasiwap.com,hentaidexy.com,pornoruhe.net,girl2sex.com,suki48.web.id,xpornass.com,javhd.icu,mxtube.net,juicyoldpussy.com,sexofilm.co,xnxx66.com,paidthe.site,illink.net,xxxlucah.com,mangaraw.org,pornbox.cc,pornhex.com,xxxhub.cc,sexe-libre.org,picrok.com,zplayer.live,ccurl.net,jav688.com,datawav.club,xxxpicz.com,canyoublockit.com,mypornhere.com,skidrowcodex.net##+js(set-constant, D4zz, noopFunc)
 biqle.ru##.message-container
 biqle.ru##a[href="https://savevk.com/biqle.ru"]
 biquge001.com,fuliba.net###content > a
@@ -26591,6 +26594,7 @@ elektroda.pl#?#.col-md-8 div > form[action^="https://www.tme.eu/pl/katalog/"]:up
 elektroda.pl#?#.the-content > div[class]:has(> div > a[href][target="_blank"][onclick*="'Patron', 'Click Button'"])
 elektroda.pl#?#.the-list > li[class]:not([class="clearfix"]):has(> a[href][target="_blank"][onclick*="Event"])
 elektroda.pl#?#.the-post-list > ul > li[class]:not([class="clearfix"]):has(>[id^="div-gpt-ad"])
+element-plus.gitee.io##.sidebar > .page-content
 element-plus.org##.sponsor-container
 element-plus.org##.sponsors
 elhow.ru###b-info-wrapper
@@ -27942,6 +27946,7 @@ gfan.com,gfan.net.cn#@##shareBox
 gfinityesports.com##+js(window.open-defuser, 1, stealthoptional.com)
 gfinityesports.com#$#.page.relative { background-image: none !important; background: #000 !important; }
 gfinityesports.com,realsport101.com##.connatixPS
+gfxdrug.com,tamilyogi.cc,tips-and-tricks.co,celebjared.net###text-10
 gfycat.com##.side-slot
 gg.deals###top-banner-image
 ggdoc.com.cn#@#.addiv
@@ -29080,6 +29085,7 @@ ign.com##.deals-block
 ign.com##.wiki-bobble
 ign.com##.zad
 ign.com#$#abort-current-inline-script clearTimeout load
+ign.com,theatlantic.com##.ad-wrapper
 ign.com,wpb.shueisha.co.jp,minkou.jp,natalie.mu,repubblica.it,acidcow.com,paradacreativa.es,myrtlebeachonline.com,elpais.com.uy,heraldsun.com,newsphere.jp,courrier.jp,sololibri.net,all3dp.com,keizai.biz,shibukei.com,elmueble.com,comingsoon.it,abc.es,elpais.com,idahostatesman.com,definitions.net,ensonhaber.com,elnacional.com,lapatilla.com,sozcu.com.tr,heraldo.es,20minutos.es,tucson.com,gendai.ismedia.jp,hamakei.com,telva.com,gazettetimes.com,missoulian.com,kenoshanews.com,cumberlink.com,stltoday.com,auburnpub.com,trib.com,dailyprogress.com,journalstar.com,siouxcityjournal.com,pantagraph.com#$#body div.fc-ab-root:not(#style_important) { display: none !important; }
 ign.com,wpb.shueisha.co.jp,minkou.jp,natalie.mu,repubblica.it,acidcow.com,paradacreativa.es,myrtlebeachonline.com,elpais.com.uy,heraldsun.com,newsphere.jp,courrier.jp,sololibri.net,all3dp.com,keizai.biz,shibukei.com,elmueble.com,comingsoon.it,abc.es,elpais.com,idahostatesman.com,definitions.net,ensonhaber.com,elnacional.com,lapatilla.com,sozcu.com.tr,heraldo.es,20minutos.es,tucson.com,gendai.ismedia.jp,hamakei.com,telva.com,gazettetimes.com,missoulian.com,kenoshanews.com,cumberlink.com,stltoday.com,auburnpub.com,trib.com,dailyprogress.com,journalstar.com,siouxcityjournal.com,pantagraph.com#$#body { overflow: visible !important; }
 ignboards.com##+js(abort-current-script, EventTarget.prototype.addEventListener, iframe-network)
@@ -33725,7 +33731,6 @@ rising.cn##.ggqh
 rlsbb.com###contentArea > .information
 rlsbb.movie7share.net##.information > [color="red"] > H3
 rlsbb.ru,slutsounds.com,theboobsblog.com##p > a[target="_blank"] > img
-rlsbb.to###text-11
 rlsbb.to###text-5
 rlslog.net##+js(addEventListener-defuser, load, PopLoaded)
 rmdown.com###foo1ter
@@ -35523,6 +35528,8 @@ tinyurl.is#?#.container .row > div[class]:has(> div[class][style]  a[href$="/Nor
 tio.ch##+js(addEventListener-defuser, error, event.triggered)
 tio.ch##div[data-link="@loadAd"]
 tio.ch#@#.ad
+tips-and-tricks.co##.in-article-container
+tips-and-tricks.co,rlsbb.to###text-11
 tiscali.cz##.bs-hp
 tiscali.cz##[class*="-ld-top"]
 tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"]
@@ -36270,6 +36277,7 @@ vcomic.net##+js(set-constant, canRunAds, true)
 vcrypt.net##+js(remove-attr, onclick, .btncontinue)
 vdianying.cc##div[style^="display:block !important;"]
 vdisk.weibo.com###ads_layer
+vebo.live#$#abort-current-inline-script jQuery popup
 vebotv.xyz#$#abort-current-inline-script $ vb-pr-box
 vecdn.pw##.overlay_video
 vedantu.com##.banner-text
@@ -36285,7 +36293,6 @@ verdirectotv.com###divPanel
 verdirectotv.com##[id^="total"]
 verdirectotv.com##div[id^="capa"]
 verdirectotv.com##div[id^="closeX"]
-verhentai.top,lovefap.com,sdefx.cloud,info-english.ru,alluretube.com,anyxvideos.com,fucktheporn.com,hugetits.win,italianporn.com.es,mommysucks.com,mzansinudes.com,napiszar.com,onlineporn24.com,porntube15.com,pornvdoxxx.com,pozdravlove.ru,sexavgo.com,store-of-beats.ru,pinayvids.com,dvdplay.*,sxyprn.*,mmopeon.ru,acervodaputaria.com.br,animefenix.com,masahub.net,rule34porn.net,hispasexy.org,tokyoblog.tv,idolsblog.tv,sturls.com,sexphimhd.net,freeporn.org.uk,xvideos2020.me,pornovidea.net,youporn.red,animesanka.*,adsh.cc,85tube.com,pornobr.ninja,ekasiwap.com,hentaidexy.com,pornoruhe.net,girl2sex.com,suki48.web.id,xpornass.com,javhd.icu,mxtube.net,juicyoldpussy.com,sexofilm.co,xnxx66.com,paidthe.site,illink.net,xxxlucah.com,mangaraw.org,pornbox.cc,pornhex.com,xxxhub.cc,sexe-libre.org,picrok.com,zplayer.live,ccurl.net,jav688.com,datawav.club,xxxpicz.com,canyoublockit.com,mypornhere.com,skidrowcodex.net##+js(set-constant, D4zz, noopFunc)
 verizonwireless.com#@#.contentAds
 vermangasporno.com##a[href*="http://www.ciberhentai.net"]
 versus.com###bill_bottom
@@ -39046,6 +39053,7 @@ zzbaike.com###topnav
 ||9ku.com/aaa/
 ||9nl.eu^$third-party
 ||9nwg9sib9e.com^
+||9purdfe9xg.com^
 ||9t5.me^
 ||9v58v.com^
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
@@ -42227,6 +42235,7 @@ zzbaike.com###topnav
 ||arstechnica.com/keys/arstechnica.com/p.js
 ||arswabluchan.com^
 ||artaslangdon.com^$third-party
+||arte.tv/log-player/
 ||artefact.is^$third-party
 ||artfin.club^
 ||artfut.com^$third-party
@@ -44326,6 +44335,7 @@ zzbaike.com###topnav
 ||caramel.press^$third-party
 ||carbon38.com/A44kxi5a/init.js
 ||carbonads.com^
+||carbonch.mobi^
 ||carburanalyticsspace.carte-gr.total.fr^
 ||carburantsanalyticsa.carte-gr.total.fr^
 ||carburez-a-l-emotion.carte-gr.total.fr^
@@ -45164,6 +45174,7 @@ zzbaike.com###topnav
 ||clinch.co/a_js/client_pixels/
 ||clinical.questdiagnostics.com^
 ||clipcentric.com^$third-party
+||clipconverter.cc^$csp=default-src 'self' i.ytimg.com *.clipconverter.cc 'unsafe-inline' data: blob:
 ||clipkit.de/metrics?
 ||clipsyndicate.com/cs_api/cliplog?
 ||cliquesteria.net^
@@ -49617,6 +49628,7 @@ zzbaike.com###topnav
 ||f775.thehour.com^
 ||f7ds.liberation.fr^
 ||f8272.com^$third-party
+||f86c0f6c3b.com^
 ||f8phvntohv.tpetry.me^
 ||f92j5.com^$third-party
 ||f95nkry2nf8o.com^
@@ -49913,6 +49925,7 @@ zzbaike.com###topnav
 ||fff.dailymail.co.uk/accessorise_ad
 ||ffhre.com^
 ||ffrmwn.musinsa.com^
+||ffrxuokerqsi.com^
 ||ffsmhmcwvlqna.com^
 ||ffwjkbruvypv.com^
 ||ffyyfy.top^
@@ -51480,6 +51493,7 @@ zzbaike.com###topnav
 ||gpsecureads.com^$third-party
 ||gptrbohjwkk.com^
 ||gpxz.com/js2/
+||gpyrvmufck.com^
 ||gqswg.com^
 ||grabify.link/api/js
 ||grabnetworks.com/beacons/
@@ -52104,6 +52118,7 @@ zzbaike.com###topnav
 ||hetaruvg.com^$popup
 ||hetaruwg.com^
 ||hetchi.com^$third-party
+||hewkpvsrdk.com^
 ||hewmjifrn4gway.com^
 ||hexagon-analytics.com^$third-party
 ||hexun.*/hxpage/index.html
@@ -53209,6 +53224,8 @@ zzbaike.com###topnav
 ||infinity-tracking.net^$third-party
 ||infinityid.condenastdigital.com^
 ||inflectionpointmedia.com^$third-party
+||inflectionquake.com^
+||inflectionquake.com^$popup
 ||influid.co^$third-party
 ||info-fsi.stanford.edu^
 ||info.aagon.de^
@@ -53662,6 +53679,7 @@ zzbaike.com###topnav
 ||internewsweb.com^
 ||internships.com/oGckki0e/init.js
 ||interposedflickhip.com^
+||intersc.igaming-service.io^$domain=hltv.org
 ||interseek.si^*/visit.js
 ||interstateanalytics.com^$third-party
 ||interstitial-07.com^
@@ -53984,6 +54002,7 @@ zzbaike.com###topnav
 ||iyvzqt.agabangmall.com^
 ||izea.com^$third-party
 ||izearanks.com^$third-party
+||izewuzabgcojd.com^
 ||izhevskinfo.ru/count/
 ||izitrckr.com^
 ||izooto.com^$third-party
@@ -54229,6 +54248,7 @@ zzbaike.com###topnav
 ||jin10.com/assets/img/sites/index/vip_ad
 ||jin10.com/news_service/static/config/details.config.
 ||jinair.sc.jinair.com^
+||jinchanjs.top^
 ||jindowins.com^
 ||jindu179.com^
 ||jingdayiyuan.com^
@@ -56136,6 +56156,7 @@ zzbaike.com###topnav
 ||lorybnfh.com^
 ||losecounter.de^$third-party
 ||losingfoundation.com^
+||losingfoundation.com^$popup
 ||losstrack.com^$third-party
 ||lotour.net/analytics/statsv2.js
 ||lotsnippier.cam^
@@ -56321,6 +56342,7 @@ zzbaike.com###topnav
 ||lvsechufang.com^
 ||lvxingzhe.store^
 ||lvyinba.com/templets/*/js/couplet-ad.
+||lvytzpu.cn^
 ||lwadm.com^$third-party
 ||lwgadm.com^
 ||lwjvyd.com^
@@ -58461,6 +58483,7 @@ zzbaike.com###topnav
 ||mycounter.ua^$third-party
 ||mydailynewz.com^
 ||mydifile.com/view.php/*.gif
+||mydirtyhobby.de/tracker
 ||mydisplay.ctfile.com/$script,subdocument,popup
 ||mydownba.com^
 ||mydrivers.com/*_728_90.$image
@@ -61260,6 +61283,7 @@ zzbaike.com###topnav
 ||prayersstingy.com^
 ||prazpf.cn^
 ||prbtqjujwzwepv.com^
+||prbttpqbd.com^
 ||prchecker.info^$third-party
 ||prd-collector-anon.ex.co^
 ||prd-collector-anon.playbuzz.com^
@@ -62763,6 +62787,7 @@ zzbaike.com###topnav
 ||rightstats.com^$third-party
 ||rigidrobin.com^
 ||rihaschgj.com^
+||rihosaphe.com^
 ||rijutv.*/statics/alljs/rijutvapp.
 ||rijutv.*/statics/alljs/rijutvpc.js
 ||rijutv.*/statics/js/tb.js
@@ -65639,11 +65664,14 @@ zzbaike.com###topnav
 ||smfierf.xyz^
 ||smfjfgie.xyz^
 ||smg.com/Etrack/
+||smg8oo4njst45oene.com^
+||smg8oo4njst45oene.com^$popup
 ||smileoffennec.com^
 ||smilewanted.com^$third-party
 ||smileyhost.net^$third-party
 ||smilingshake.com^
 ||smilingwaves.com^
+||smilk.cc^
 ||sminerva.healthcentral.com^
 ||smithersworonoco.com^$third-party
 ||smitionsory.co^
@@ -67343,6 +67371,7 @@ zzbaike.com###topnav
 ||stickysheet.com^
 ||stiffgame.com^$third-party
 ||stiffstem.com^$third-party
+||stifletunnelsang.com^
 ||stilanzeigen.net/track/
 ||stileproject.com/vhtk/
 ||stilfb.com^
@@ -67352,6 +67381,7 @@ zzbaike.com###topnav
 ||stinkwailingbalk.com^
 ||stinternoctuae.com^
 ||stippleit.com^$third-party
+||stithujogle.pro^
 ||stliom.vidaxl.cz^
 ||stm65i8.com^
 ||stn88.com^
@@ -67498,6 +67528,7 @@ zzbaike.com###topnav
 ||suche.web.de/click
 ||suchmaschinen-ranking-hits.de^$third-party
 ||sucloud.xyz/js/tou.js
+||sudail.com^
 ||suddensidewalk.com^$third-party
 ||suddensnake.com^
 ||suddensoda.com^
@@ -67509,6 +67540,7 @@ zzbaike.com###topnav
 ||sugarcurtain.com^$third-party
 ||sugarops.com/w?action=impression$third-party
 ||sugarpuff.net^
+||suggestionwallpaperhump.com^
 ||sugodeku.com^$third-party
 ||sugs.m.sm.cn^
 ||suibiankan.co/Runtime/Js/
@@ -67532,6 +67564,7 @@ zzbaike.com###topnav
 ||sumshaggy.com^
 ||sun66387567606.online^
 ||sun66387567606.site^
+||suncenturyautumn.com^
 ||sundady.online^
 ||sundayceremonytitanic.com^
 ||sundaysky.com/sst.gif?
@@ -68389,6 +68422,7 @@ zzbaike.com###topnav
 ||thanosofcos5.com^
 ||thaqyl.mediamarkt.nl^
 ||tharbadir.com^
+||thatohegly.com^
 ||thatsouh.com^
 ||thaudray.com^
 ||thauftoa.net^
@@ -68455,6 +68489,7 @@ zzbaike.com###topnav
 ||thevtk.com^$third-party
 ||thewhizproducts.com^$third-party
 ||thewindowsclub.com^*/skip-links.min.js
+||thewindrun.com^
 ||thewise.com^$third-party
 ||thickshortwage.com^
 ||thickticket.com^
@@ -70530,6 +70565,7 @@ zzbaike.com###topnav
 ||ufile.io/assets/js/ab.js
 ||ufpcdn.com^
 ||ufvyywlrgpgpyl.com^
+||ufywdjessgem.com^
 ||ugahutoa.com^
 ||ugdcxl.timeout.com^
 ||ugdcxl.timeout.pt^
@@ -70655,7 +70691,6 @@ zzbaike.com###topnav
 ||unphionetor.com^
 ||unpkg.com/videojs-vast-vpaid$domain=hqq.*
 ||unpkg.com/web-vitals?
-||unpkg.com^
 ||unreshiramor.com^
 ||unresolveddrama.com^
 ||unrootpteroid.cam^
@@ -70856,6 +70891,7 @@ zzbaike.com###topnav
 ||uuxs.net^$subdocument
 ||uvgxhu.sharemods.com^
 ||uwants.com^*_prod.html
+||uwnvcxb.cn^
 ||uwoaptee.com^
 ||uwy4.aegon.es^
 ||uwzknashjrhw.com^
@@ -71513,10 +71549,12 @@ zzbaike.com###topnav
 ||wagenlux.cn^
 ||waggishpig.com^
 ||waggonerchildrensurly.com^
+||wahess.com^
 ||waipian1.com/statics/recommend/
 ||waisheph.com^
 ||waitedbunchnight.com^
 ||waitersmimical.com^
+||waitressdivisionspring.com^
 ||waiwodemanila.com^
 ||waiyuyou.com^
 ||wakefulcook.com^
@@ -71774,6 +71812,8 @@ zzbaike.com###topnav
 ||webminerpool.com^$third-party
 ||webmining.co^$third-party
 ||webmobile.ws^$third-party
+||webnotificationslife.com^
+||webnotificationslife.com^$popup
 ||weborama.com^$third-party
 ||weborama.fr^$third-party
 ||webpinp.com^
