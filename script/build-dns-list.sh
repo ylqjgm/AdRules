@@ -16,7 +16,7 @@ wait
 php ./tools/easylist-extend.php ../dns.txt &
 cd ../
 cat ./tmp/l.txt >> dns.txt
-cat ./script/*/white_domain_list.php |grep -Eo "(?<=').+(?=')" > allowtest.txt
+cat ./script/*/white_domain_list.php |grep -Po "(?<=').+(?=')" |sed "s/^/||&/g" |sed "s/$/&^/g"| sed '/^$/d'   > allowtest.txt
 hostlist-compiler -c ./script/dns-rules-config.json -o dns-output.txt &
 wait
 mv -f dns-output.txt dns.txt
