@@ -10,6 +10,7 @@ dead_hosts=(
   "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
   "https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist"
   "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
+  "https://raw.githubusercontent.com/badmojr/1Hosts/master/submit_here/exclude_for_all.txt"
 )
 for i in "${!dead_hosts[@]}"
 do
