@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: 7boJXwDequAtdfz3XapV6Q
+! Checksum: d7yiq+hIsiqhdyi3yOJrKQ
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-10 16:26:42（北京时间） 
-! Total count: 19464
+! Version: 2022-06-10 23:03:11（北京时间） 
+! Total count: 19471
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -564,6 +564,8 @@
 @@://*.ico$domain=livenewschat.eu
 @@://*.xuk.ru^$stealth
 @@://*/gg/$domain=gg.go.kr
+@@://192.168.0.1$generichide
+@@://192.168.1.1$generichide
 @@://googleadservices.com^|
 @@://m.*/js/wub/AMD/Components/CookieConsent.js$~third-party
 @@://www.coinbase.com^$stealth
@@ -654,7 +656,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgwindowsclub.com^*/skip-links.min.js
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orggtag.
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -3300,6 +3302,7 @@
 @@||bolognatoday.it^$ghide
 @@||bolor-toli.com^$ghide
 @@||bolsanow.com^$ghide
+@@||bolster.formstack.com/$subdocument,domain=linktr.ee
 @@||bombaytimes.com/*ads$script,other,~third-party
 @@||bombhopper.io/prebid.js
 @@||bombom.io/ads.txt
@@ -5765,6 +5768,7 @@
 @@||docs.amplify.aws^*/platform/js/autotrack.json$~third-party
 @@||docs.expo.io/*/static/*/pages/versions/latest/sdk/*.js$domain=docs.expo.io
 @@||docs.google.com/*/viewdata$~third-party
+@@||docs.google.com^$generichide
 @@||docs.woopt.com/wgact/$image,~third-party,xmlhttprequest
 @@||doctorzerenia.com/home/bower_components/angulartics-google-analytics/dist/angulartics-ga.min.js
 @@||dofuspourlesnoobs.com^$ghide
@@ -11480,6 +11484,7 @@
 @@||mediaset.it/cookie_solution/empty.html
 @@||mediav.com/js/feed_ts.js$domain=mini.yyrtv.com|toutiao.china.com
 @@||mediav.com/js/feed_ts.js$domain=toutiao.china.com
+@@||mediav.com/js/interact-article
 @@||mediav.com/js/interactive_plugin.js$domain=v.360kan.com
 @@||mediav.com/js/reward_video_pc.min.js$domain=baiten.cn
 @@||mediaweaver.jp^$image,domain=ismedia.jp
@@ -16590,6 +16595,7 @@
 @@||str.hit.gemius.pl^|
 @@||straight-world.de/js/ads.js$script
 @@||straightnest.com^$script,xmlhttprequest
+@@||strandhof.de/static/GDPRPlugin/jquery.ihavecookies.min.js
 @@||stranger.se/socket.io/$~third-party
 @@||strangermeetup.com/socket.io/$~third-party
 @@||strangesink.com^$script,xmlhttprequest
@@ -19079,6 +19085,7 @@
 @@||www.voici.fr/ads.js|$xmlhttprequest
 @@||www.youtube-nocookie.com^
 @@||www.zee5.com^$stealth,domain=zee5.com
+@@||www3.doubleclick.net/|$xmlhttprequest,domain=13tv.co.il
 @@||www3.doubleclick.net/|$xmlhttprequest,domain=shaalaa.com
 @@||www3.doubleclick.net/|$xmlhttprequest,domain=vn.trueid.net
 @@||www3.doubleclick.net^$xmlhttprequest,domain=lineups.fun

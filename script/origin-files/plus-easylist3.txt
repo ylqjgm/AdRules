@@ -1748,6 +1748,7 @@ f1stream.*,fbstream.*,mlbstream.*,motogpstream.*,nbastream.*,nflstream.*,nhlstre
 f1stream.*,fbstream.*,mlbstream.*,motogpstream.*,nbastream.*,nflstream.*,nhlstream.*,plylive.*,plyvdo.*,rugbystreams.*,socceronline.*,tennisstreams.*,tvply.*,ufcstream.*,vipleague.*##+js(aopw, _pop)
 @@*$ghide,domain=f1stream.*|fbstream.*|mlbstream.*|motogpstream.*|nbastream.*|nflstream.*|nhlstream.*|plylive.*|plyvdo.*|rugbystreams.*|socceronline.*|tennisstreams.*|tvply.*|ufcstream.*|vipleague.*
 plylive.*,plyvdo.*##+js(nowoif)
+plyvdo.live,tutele.nl##+js(acis, setTimeout, admc)
 ||gretaith.com^$3p
 ||mw19c3mi5a.com^$3p
 ||ryllae.com^$3p,important
@@ -2662,7 +2663,7 @@ porn.com##+js(set, String.prototype.charAt, trueFunc)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/2042
 bdupload.*##+js(nano-stb)
-bdupload.*,9xupload.*##+js(acis, String.fromCharCode, /btoa|break/)
+bdupload.*##+js(acis, String.fromCharCode, /btoa|break/)
 bdupload.*##[href*="/dloadbutton.php"]
 ||bdupload.*/sw.js$script,1p
 ||socialbars-web5.com/*/notifications/$script
@@ -4350,8 +4351,9 @@ azlink.xyz##+js(nano-sib)
 ! https://github.com/uBlockOrigin/uAssets/issues/1726
 @@||listaiptvbrasil.com^$ghide
 
-! cricfree .io .live
+! cricfree .io .live/xyz
 cricplay2.xyz##+js(acis, JSON.parse, break;case $.)
+cricplay2.xyz##+js(acis, setTimeout, admc)
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=33564
 ! https://github.com/uBlockOrigin/uAssets/issues/4458
@@ -4627,9 +4629,11 @@ insidemarketing.it##.homeBannerMax
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1835
 desiupload.*,9xupload.*##+js(nano-stb)
+9xupload.*##+js(acis, parseInt, break;case $.)
 desiupload.*##+js(acis, eval, String.fromCharCode)
 desiupload.*##[href*="desifile.in/404"]
 /glx_*.js$script
+||a2ztechworld.com^$3p
 ||mealye.com^$3p
 
 ! https://github.com/uBlockOrigin/uAssets/issues/1839
@@ -13887,7 +13891,8 @@ luongovincenzo.it##+js(aopw, ai_check_block)
 beautypackaging.com##+js(aopw, adblockerpopup)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5893
-uptomega.*##+js(acis, JSON.parse, break;case $.)
+uptomega.*##+js(acis, parseInt, break;case $.)
+uptomega.*##.ads
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=43212
 @@||vtpii.com^$ghide
