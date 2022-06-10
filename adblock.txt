@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 6BeXbobPbjGBGZyhf8G55g
+! Checksum: A/frehE/U60FK17i7qIYlA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-11 01:39:07（北京时间） 
-! Total count: 93419
+! Version: 2022-06-11 01:51:04（北京时间） 
+! Total count: 93440
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -31502,7 +31502,7 @@ dom.wp.pl,facet.wp.pl#?#.view-first:-abp-has(a[onclick*="var img = document.crea
 dom.wp.pl,facet.wp.pl,film.wp.pl,finanse.wp.pl,gry.wp.pl,gwiazdy.wp.pl,kobieta.wp.pl,ksiazki.wp.pl,kuchnia.wp.pl,moto.wp.pl,opinie.wp.pl,tech.wp.pl,teleshow.wp.pl,turystyka.wp.pl,wawalove.wp.pl,wiadomosci.wp.pl,wroclaw.wp.pl#?#td[data-reactid] > div[class] > div[class] > div[class*=" "] > div[class] > span:contains(/^TWOJE OKAZJE$/):upward(2)
 dom.wp.pl,twojeip.wp.pl#$#abort-on-property-read rekid
 dom.wp.pl,wiadomosci.wp.pl,wawalove.wp.pl,turystyka.wp.pl,teleshow.wp.pl,opinie.wp.pl,gwiazdy.wp.pl,ksiazki.wp.pl,film.wp.pl,facet.wp.pl,kobieta.wp.pl,kuchnia.wp.pl,moto.wp.pl,tech.wp.pl,gry.wp.pl,finanse.wp.pl#$#abort-on-property-write window.INITIAL_STATE.ui
-domahatv.com,piratam.net,piratca.net,sexitorrent.com,sextor.org,xtorrent.net,xxxrip.net,torrent-pirat.com,pornoakt.vip,porn720.biz,hentai-share.tv,huyamba.tv,xxxtor.com#$#abort-current-inline-script document.querySelectorAll popMagic
+domahatv.com,piratam.net,piratca.net,sexitorrent.com,sextor.org,xtorrent.net,xxxrip.net,torrent-pirat.com,pornoakt.vip,porn720.biz,hentai-share.one,huyamba.tv,xxxtor.com#$#abort-current-inline-script document.querySelectorAll popMagic
 dominus.kiev.ua##body > #myModal
 domodedovo.ru#@##adBanner1
 domodedovo.ru#@##adLink1
@@ -45737,6 +45737,7 @@ www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/a/span/span/b[cont
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/a/span/span/span[contains("Sponsorizzato Sponsored Gesponsert Sponsorisé Commandité Patrocinado Publicidad Bersponsor",concat(./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][1],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][2],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][3],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][4],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][5],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][6],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][7],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][8],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][9],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][10],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][11],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][12],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][13],./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])][14]))][count(./span[not(self::node()[contains(@style,"absolute") or contains(@style,"none")])]) > 6]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby or starts-with(@data-pagelet,"FeedUnit_")]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//a[@aria-label="[object Object]"]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//a[@aria-labelledby][@role="link"]//object[@type="nested/pressable"]/a[@aria-label][@role="link"]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//a[@role="link"]//object[@type="nested/pressable"]//span[@aria-labelledby]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//a[@role="link"]//object[@type="nested/pressable"]/a[@aria-label=""][@role="link"]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//a[starts-with(@href,"https://l.facebook")]//object[@type="nested/pressable"]//a[@aria-label][@role="link"]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//div[@role="button"]//div[@aria-label][@role="button"]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
@@ -48640,6 +48641,7 @@ zznews.cn##.ad:not([style])
 ||5dydk.com^
 ||5etv.com^$third-party
 ||5f249e1d30.com^
+||5fcc5e7d92.com^
 ||5fm.985fm.ca^
 ||5fz.cc/t/aimg/tao
 ||5glyqw.com^
@@ -56569,11 +56571,13 @@ zznews.cn##.ad:not([style])
 ||chocolate521.online^
 ||choconart.com^
 ||choicestream.com^*/pixel/
+||choksail.com^
 ||chokupsupto.com^
 ||cholosfuhrer.com^
 ||chong-wu.net^
 ||chongdiantou.com/wp-content/uploads/2019/02/pzb.jpg
 ||chongyuelighting.cn^
+||choobinoobi.com^
 ||choogeet.net^
 ||choose.nu.edu^
 ||chooxail.com^
@@ -59524,6 +59528,7 @@ zznews.cn##.ad:not([style])
 ||dgxjcl.radiantstar.tw^
 ||dgxlm.xyz^
 ||dgynnj.koctas.com.tr^
+||dgzhbvifnjo.com^
 ||dhdgkj.com^
 ||dhejr.cn^
 ||dhgxl8qk9zgzr.cloudfront.net/js/log.js
@@ -60442,6 +60447,7 @@ zznews.cn##.ad:not([style])
 ||dwetwdstom1020.com^
 ||dwin1.com^$third-party
 ||dwin2.com^$third-party
+||dwirow.com^
 ||dwjle.cn^
 ||dwnews.com/RealMedia/ads/
 ||dwnews.net/images/www/ad/
@@ -62409,6 +62415,7 @@ zznews.cn##.ad:not([style])
 ||fbgpnk.com^$third-party
 ||fbiskulrsmccibl.com^
 ||fbmedia-bls.com^$popup
+||fbmklibvrroltd.com^
 ||fbot.me/events/
 ||fbu8.hoteldeparismontecarlo.com^
 ||fbu8.hotelhermitagemontecarlo.com^
@@ -63605,6 +63612,7 @@ zznews.cn##.ad:not([style])
 ||gatetodisplaycontent.com^
 ||gatetotrustednetwork.com^
 ||gateway.foresee.com^
+||gatheringtherealiases.com^
 ||gatorleads.co.uk^$third-party
 ||gaubau.info^
 ||gaudybeginner.com^
@@ -63715,6 +63723,7 @@ zznews.cn##.ad:not([style])
 ||gem.com/api/o/$image,third-party
 ||gemius.mgr.consensu.org^
 ||gemius.pl^$third-party
+||gempeety.com^
 ||gencehepatie.club^
 ||generaltracking.de^$third-party
 ||generashionvd.com^
@@ -65893,6 +65902,7 @@ zznews.cn##.ad:not([style])
 ||hpejlsb.com^
 ||hpi.de^$removeparam=tracking_id
 ||hpjav.tv/a720.html
+||hpkqtd.com^
 ||hpr.outbrain.com^
 ||hpr.outbrain.com^$domain=focus.de
 ||hprofits.com^$third-party
@@ -68472,6 +68482,7 @@ zznews.cn##.ad:not([style])
 ||jqwsipnedxavqg.com^
 ||jr.captivias.site^
 ||jrdoimrsw.com^
+||jrhbhz.com^
 ||jrhfvajivtek.com^
 ||jrj.com.cn/h5Ad?
 ||jrj.com.cn/s?z=
@@ -70880,6 +70891,7 @@ zznews.cn##.ad:not([style])
 ||losingfoundation.com^
 ||losingfoundation.com^$popup
 ||losstrack.com^$third-party
+||lotionmodule.com^
 ||lotour.net/analytics/statsv2.js
 ||lotour.net/bcef/388.js
 ||lotpt.top^
@@ -75072,6 +75084,8 @@ zznews.cn##.ad:not([style])
 ||ok.ru/dk?cmd=videoStatNew
 ||okanjo.com^$third-party
 ||okayarab.com^
+||okayfreemanknot.com^
+||okayfreemanknot.com^$popup
 ||okbmf.com/imgad/
 ||okbmf.com^*950_120
 ||okkkk.com^
@@ -77550,6 +77564,7 @@ zznews.cn##.ad:not([style])
 ||purebusts.com^
 ||purevideo.com^$third-party
 ||purevideo.com^*/pvshim.gif?
+||purgma.com^
 ||purpleads.io^
 ||purplepatch.online^
 ||purveystiralee.com^
@@ -84396,6 +84411,8 @@ zznews.cn##.ad:not([style])
 ||supernff.com^
 ||superonclick.com^
 ||superonclick.com^$third-party
+||supersedeforbes.com^
+||supersedeforbes.com^$popup
 ||superstat.info^$third-party
 ||superstats.com^$third-party
 ||supert.ag^$third-party
@@ -84625,6 +84642,7 @@ zznews.cn##.ad:not([style])
 ||sytcyf.com^
 ||syteapi.com/et?
 ||sytsr.com^
+||sytwyhdpmqsj.xyz^
 ||syxchj.cn^
 ||syxwj.cn^
 ||syybmy.cn^
@@ -86032,6 +86050,7 @@ zznews.cn##.ad:not([style])
 ||totalnicefeed.com^
 ||totalwownews.com^
 ||totemwebr.carte-gr.total.fr^
+||totfrvpotdp.com^
 ||totheglory.im/pic/business/
 ||totheglory.im/pic/fangtuo.jpg
 ||totheglory.im/pic/ttg-
@@ -89181,6 +89200,7 @@ zznews.cn##.ad:not([style])
 ||waryfog.com^
 ||wasabii.com.tw/float/*.js
 ||washabeach.com^
+||washpiggyabdomen.com^
 ||wasm.stream
 ||wasp-182b.com^
 ||waspsbiga.com^
@@ -89286,6 +89306,7 @@ zznews.cn##.ad:not([style])
 ||web-boosting.net^$third-party
 ||web-counter.net^$third-party
 ||web-guardian.xyz^
+||web-guardian.xyz^$popup
 ||web-player-tracker.biliapi.net^
 ||web-soft.in/counters/
 ||web-stat.com^$third-party
