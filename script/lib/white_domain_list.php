@@ -9,6 +9,7 @@
 
 return array(
     /**start**/
+    'mb.yidianzixun.com' => 0, //小米浏览器新闻(?
     'share.v.uc.cn' => 0, //UC视频
     'mparticle.uc.cn' => 0, //UC新闻
     'nmobi.kuwo.cn' => 0, //酷我首页
