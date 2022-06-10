@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 92cI/UEO2gXQhqCmdHm2Mg
+! Checksum: 8h/mS4AwO7EclB68Bz08qw
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206091533
-! Last modified: 2022-06-09 15:33 UTC
+! Version: 202206100133
+! Last modified: 2022-06-10 01:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -100448,7 +100448,6 @@ _subscribers_newsletters/
 ###social-loop
 ###social-louis
 ###social-lyrics
-###social-media
 ###social-media-activity
 ###social-media-bar
 ###social-media-bar-h
@@ -142535,7 +142534,7 @@ emanuelaursino.it###cke_plc
 vita-a-timisoara.it###ckn
 howrse.it###cmp-overlay
 infojobs.it###cmpContainer
-2jewels.it,archimagazine.com,camionsupermarket.it,citroen-club.it,commune.montecchio-maggiore.vi.it,confidisystema.com,enistation.com,esselunga.it,extramagazine.eu,geoweb.it,giornaledicalabria.it,messinaline.it,mutualhelp.eu,rimini.com,sanfrancescopatronoditalia.it,sassari.tv,spesati.it,storiadeifilm.it,svitol.it###cookie
+2jewels.it,archimagazine.com,camionsupermarket.it,citroen-club.it,comune.montecchio-maggiore.vi.it,confidisystema.com,enistation.com,esselunga.it,extramagazine.eu,geoweb.it,giornaledicalabria.it,messinaline.it,mutualhelp.eu,rimini.com,sanfrancescopatronoditalia.it,sassari.tv,spesati.it,storiadeifilm.it,svitol.it###cookie
 lifter.it###cookieDisclaimer
 lamuscle.it,lupopornohd.it,mediasetitalia.com,ordineavvocati.bari.it,pcase.it,raffaeleinghilterra.it,sc17.it,thefilmclub.it###cookies
 telea1.it###cooky_content
@@ -143873,7 +143872,6 @@ cnbc.com#@##social-buttons-transporter
 birebin.com,pictame.com,thepictaram.club#@##social-container
 arstechnica.co.uk,arstechnica.com,mozilla.org#@##social-footer
 appspot.com#@##social-header
-fitocracy.com#@##social-media
 prism-break.org#@##social-networks
 amongtech.com#@##social-sidebar
 okanime.com#@##social-wrapper
@@ -144204,7 +144202,6 @@ f-secure.com,howtogeek.com#@#.social-media-buttons
 telepolis.pl#@#.social-media-icons
 chorus.co.nz#@#.social-media-links
 schuermann.eu#@#.social-media-list
-hopin.com#@#.social-media:not(html):not(body)
 insideover.com#@#.social-menu
 e-gezondheid.be,e-sante.be,e-sante.fr#@#.social-networks
 nvidia.pl#@#.social-newsletter
@@ -145556,7 +145553,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 ! fanboy_newsletter_allowlist.txt
 @@||abc.net.au^*/components/newsletter/
 @@||blogsmithmedia.com^*/sailthru-newsletter.js?
-@@||buy.tinypass.com/checkout/template/cacheableShow$subdocument,domain=thenation.com
+@@||buy.tinypass.com/checkout/template/cacheableShow$subdocument,domain=technologyreview.com|thenation.com
 @@||chobani.com/js/views/newsletter-signup.js
 @@||e24.no/cnp-assets/src-sites-e24-components-newsletterwidget.$~third-party
 @@||el-vidas.nl^*/phpcuong_newsletter/$script
