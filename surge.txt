@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220610235451
+#VER=20220610235825
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93817
+#TOTAL_LINES=93826
 DOMAIN-SUFFIX,cda.0-shiny.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
 DOMAIN-SUFFIX,c.0.0.0.0.cn
@@ -11697,6 +11697,14 @@ DOMAIN-SUFFIX,srv1.aztronic.com.br
 DOMAIN-SUFFIX,aztsefz.cn
 DOMAIN-SUFFIX,azttxs.com
 DOMAIN-SUFFIX,azulcw7.com
+DOMAIN-SUFFIX,analytics-consent-manager.azureedge.net
+DOMAIN-SUFFIX,cdnbigdata.azureedge.net
+DOMAIN-SUFFIX,connext-cdn.azureedge.net
+DOMAIN-SUFFIX,fp-cdn.azureedge.net
+DOMAIN-SUFFIX,g2insights-cdn.azureedge.net
+DOMAIN-SUFFIX,masdpanalytics.azureedge.net
+DOMAIN-SUFFIX,sdtagging.azureedge.net
+DOMAIN-SUFFIX,voduscdn.azureedge.net
 DOMAIN-SUFFIX,sd-tagging.azurefd.net
 DOMAIN-SUFFIX,azureus.es
 DOMAIN-SUFFIX,adconfigproxy.azurewebsites.net
@@ -75868,6 +75876,7 @@ DOMAIN-SUFFIX,gdpr.studybreakmedia.com
 DOMAIN-SUFFIX,studyeffect.com
 DOMAIN-SUFFIX,metrics.studyinbritain.com
 DOMAIN-SUFFIX,info.studykik.com
+DOMAIN-SUFFIX,brt.studylabs.cn
 DOMAIN-SUFFIX,stats.studypages.com
 DOMAIN-SUFFIX,explore.studyperth.com.au
 DOMAIN-SUFFIX,studytest.icu

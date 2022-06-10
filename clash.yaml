@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220610235452
+#VER=20220610235826
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93817
+#TOTAL_LINES=93826
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -11700,6 +11700,14 @@ payload:
   - '+.aztsefz.cn'
   - '+.azttxs.com'
   - '+.azulcw7.com'
+  - '+.analytics-consent-manager.azureedge.net'
+  - '+.cdnbigdata.azureedge.net'
+  - '+.connext-cdn.azureedge.net'
+  - '+.fp-cdn.azureedge.net'
+  - '+.g2insights-cdn.azureedge.net'
+  - '+.masdpanalytics.azureedge.net'
+  - '+.sdtagging.azureedge.net'
+  - '+.voduscdn.azureedge.net'
   - '+.sd-tagging.azurefd.net'
   - '+.azureus.es'
   - '+.adconfigproxy.azurewebsites.net'
@@ -75871,6 +75879,7 @@ payload:
   - '+.studyeffect.com'
   - '+.metrics.studyinbritain.com'
   - '+.info.studykik.com'
+  - '+.brt.studylabs.cn'
   - '+.stats.studypages.com'
   - '+.explore.studyperth.com.au'
   - '+.studytest.icu'

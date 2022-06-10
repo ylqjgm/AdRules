@@ -1,5 +1,5 @@
 ! Title: AdRules for AdGuard
-! Version: 20220610155452240906781
+! Version: 20220610155826548674046
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Total lines: 00000
 ||cda.0-shiny.com^
@@ -11687,6 +11687,14 @@
 ||aztsefz.cn^
 ||azttxs.com^
 ||azulcw7.com^
+||analytics-consent-manager.azureedge.net^
+||cdnbigdata.azureedge.net^
+||connext-cdn.azureedge.net^
+||fp-cdn.azureedge.net^
+||g2insights-cdn.azureedge.net^
+||masdpanalytics.azureedge.net^
+||sdtagging.azureedge.net^
+||voduscdn.azureedge.net^
 ||sd-tagging.azurefd.net^
 ||azureus.es^
 ||adconfigproxy.azurewebsites.net^
@@ -75770,6 +75778,7 @@
 ||studyeffect.com^
 ||metrics.studyinbritain.com^
 ||info.studykik.com^
+||brt.studylabs.cn^
 ||stats.studypages.com^
 ||explore.studyperth.com.au^
 ||studytest.icu^
