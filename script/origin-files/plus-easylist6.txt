@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206090226
+! Version: 202206100202
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41817
+! Lenth = 41826
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7492,6 +7492,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtm.js$domain=besplatnyeprogrammy.ru|softobase.com|freeversion.ru|softmen.ru|freeversions.ru|moiprogrammy.net
 @@||googletagmanager.com/gtm.js$domain=bestradio.fm
 @@||googletagmanager.com/gtm.js$domain=beterbed.nl
+@@||googletagmanager.com/gtm.js$domain=bigc.co.th
 @@||googletagmanager.com/gtm.js$domain=bike24.de
 @@||googletagmanager.com/gtm.js$domain=biomedglobal.net
 @@||googletagmanager.com/gtm.js$domain=blaklader.*
@@ -9021,6 +9022,7 @@ _stats/Logger?
 _stats_log.
 _tag_mobylog.
 _trackWebtrekkEvents.
+_track_pixel.gif?
 _tracker.js.
 _tracker.js?
 _tracker.php?*http
@@ -9240,6 +9242,7 @@ prjaga.ru#?##right > div#right_nav > h3:contains(Онлайн статистик
 pryamoj-efir.ru#?#.layout-post-right > h1.playmaker-list:contains(Статистика)
 pstmrk.it/open$image
 pusatporn18.com###HTML1
+qiita.com#%#//scriptlet("prevent-addEventListener", "load", "navigator")
 qiita.com#?#div[class^="css"] > div > div[id^="logly-"]:upward(2)
 radioprofusion.com##.revolvermaps
 radioprofusion.com##footer > div.counter
@@ -9458,6 +9461,8 @@ znak.com##.relap
 ||2day.kh.ua/*/statistics/
 ||2e718yf5jypb.test.digitalsurge.io^
 ||2efj.up.coop^
+||2ememain.be/c3650cdf-
+||2ememain.be/px/fbif?
 ||2gis.*/_/metrics
 ||2gis.ru/_/log
 ||2gis.ru/_/metrics
@@ -9690,6 +9695,7 @@ znak.com##.relap
 ||a.quora.com^
 ||a.replaytheseries.com^
 ||a.ria.ru^
+||a.rltd.io/tags/kpt.js
 ||a.rohde-schwarz.com.cn^
 ||a.rohde-schwarz.com^
 ||a.skcript.com^
@@ -12683,7 +12689,7 @@ znak.com##.relap
 ||app.intercom.io/gtm_tracking/
 ||app.jmusports.com^
 ||app.leadplan.ru/assets/img/1px.gif
-||app.leadsrx.com/visitor.js
+||app.leadsrx.com^
 ||app.leadster.com.br/*/analytics/
 ||app.link/_r?$script,third-party
 ||app.link/_r?sdk=*&callback=branch_callback
@@ -14692,7 +14698,6 @@ znak.com##.relap
 ||cedexis-radar.net^
 ||cedexis.com^
 ||cedexis.com^$third-party
-||cedexis.net^$script,third-party
 ||cedexis.net^$third-party
 ||ceggfe.msc-kreuzfahrten.de^
 ||celebros-analytics.com^$third-party
@@ -20679,7 +20684,7 @@ znak.com##.relap
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=webdenal.com
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=whatcar.com,important
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=wikium.ru,important
-||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=~olx.*|~banki.ru
+||google-analytics.com/analytics.js$script,redirect=google-analytics,domain=~olx.*|~banki.ru|~bigc.co.th
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,important,domain=biomedglobal.net
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,important,domain=boostnote.io
 ||google-analytics.com/analytics.js$script,redirect=google-analytics,important,domain=citethisforme.com
@@ -29820,6 +29825,7 @@ znak.com##.relap
 ||qvzrde.horoscopovirtual.com.br^
 ||qwant.com/action/
 ||qwant.com/impression/
+||qwant.com/maps/events
 ||qwant.com/v2/api/ux/surveys?
 ||qxhydkz8.hmjdaw.ntt.com^
 ||qyatej.bocage.fr^
@@ -30044,6 +30050,7 @@ znak.com##.relap
 ||realtimewebstats.net^$third-party
 ||realtracker.com^$third-party
 ||realtracking.ninja^$third-party
+||realtym.live/ga.js
 ||realytics.io^$third-party
 ||realytics.net^$third-party
 ||realzeit.io^$third-party
@@ -36551,6 +36558,7 @@ znak.com##.relap
 ||tag.cribnotes.jp^
 ||tag.datariver.ru^$third-party
 ||tag.elevaate.io^
+||tag.escalated.io^
 ||tag.flagship.io^
 ||tag.getdrip.com^$third-party
 ||tag.goadopt.io^$third-party
@@ -39325,6 +39333,7 @@ znak.com##.relap
 ||uc.cn/collect?
 ||uc.ucweb.com^
 ||uc.xddi.ru^$third-party
+||ucankus.com/inc/hhit.asp
 ||uciservice.com/adinfo^
 ||uciservice.com^$third-party
 ||ucounter.ucoz.net^
