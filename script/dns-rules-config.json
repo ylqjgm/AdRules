@@ -33,7 +33,7 @@
             "transformations": ["Compress", "RemoveModifiers", "Validate"]
         }
     ],
-    "exclusions_sources": ["https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"],
+    "exclusions_sources": ["https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt","allowtest.txt"],
     "inclusions": ["*"],
     "transformations": ["Compress", "Deduplicate"]
 }
