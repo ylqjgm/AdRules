@@ -90,6 +90,19 @@ return array(
     'nebula.kuaishou.com' => 0,
     'midas.gtimg.cn' => 0,
     /**end**/
+    /**忘了干啥的**/
+    'azureedge.net' => 0,
+    'cdn.ark.qq.com' => 0,
+    'click.mz.simba.taobao.com' => 0,
+    'gg.gg' => 0,
+    'm.sm.cn' => 0,
+    'metric.ccc.cmbchina.com' => 0,
+    'odin.re.taobao.com' => 0,
+    'qpic.cn' => 0,
+    'sax.sina.com.cn' => 0,
+    'solitaireevents.microsoftcasualgames.com' => 0,
+    'turn.chillyroom.com' => 0,
+    /**end**/
     /**notracking 提议加白的一批域名 start**/
     'scribol.com' => 0,
     'tracking.epicgames.com' => 0,
