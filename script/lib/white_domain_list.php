@@ -9,6 +9,8 @@
 
 return array(
     /**start**/
+    'share.v.uc.cn' => 0, //UC视频
+    'mparticle.uc.cn' => 0, //UC新闻
     'nmobi.kuwo.cn' => 0, //酷我首页
     'msg.douyu.com' => 0, //斗鱼私信
     'gift.douyucdn.cn' => 0, // 斗鱼礼物
