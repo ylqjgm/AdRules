@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: CUEs/uynpzzfe+ToeuSqJg
+! Checksum: K4asGvKEKHNwXtxbOipHiA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-10 23:03:10（北京时间） 
-! Total count: 93417
+! Version: 2022-06-10 23:08:57（北京时间） 
+! Total count: 93416
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -33351,7 +33351,6 @@ fssp.gov.ru#$#abort-on-property-read tingle
 fssquad.com#@#.adsbygoogle
 fstore.biz#@##adblockinfo
 fstore.biz#@##bannerad
-ft-forum.net/v/adblock-detection-master/advert.js
 ft.com,ftchinese.com##.bn-ph
 ftchinese.com,cn.ft.com##.mpu-container-instory,div[data-id|=banner],div[data-id|=storympu],div[data-id|=mpu],div.o-barrier
 ftlwiki.com###top-banner-advert
