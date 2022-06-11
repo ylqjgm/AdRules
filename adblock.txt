@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 6nZCFXLPJjNfAph/p2zEFw
+! Checksum: RYGIOu6T0CMsyysrybZ9qQ
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-11 21:21:19（北京时间） 
-! Total count: 93393
+! Version: 2022-06-11 22:05:06（北京时间） 
+! Total count: 93402
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -7369,6 +7369,8 @@
 ##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style=" max-width:984px;  margin:0 auto;"] > a > img[height="120px"]
 ##div[style=" max-width:984px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:985px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:985px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="border-radius:8px;background-color:#005737;padding:6px;"]
 ##div[style="box-sizing:border-box;padding:20px 16px;border-radius:8px;width:90%;margin:0 auto;"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
@@ -13917,6 +13919,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /facebook-retargeting-
 /facebook-tracking/*
 /facebook_fbevents.
+/facebook_pixel_
 /facebookpixel.
 /facebookpixel/*
 /facebookproductad/*$script
@@ -14458,6 +14461,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /healthanalytics.js
 /heatmap_log.js
 /heituad/*
+/heji/mei00*.js
 /helper.wasm$third-party
 /hg?hc=&hb=*&vjs=
 /hgct?hc=&hb=*&vjs=
@@ -19243,6 +19247,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 360che.com##.con_banner
 360che.com##div[id^="PAGE_AD_"]
 360doc.cn###artnewdiv
+360doc.com###arttopbdad
 360doc.com###btn_freeread
 360doc.com###divaboveReflectionAd1
 360doc.com###divaboveReflectionAd2
@@ -20784,10 +20789,8 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||adnxs.com^$image,subdocument,domain=bitzfree.com
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
-@@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca|nbarizona.com
 @@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|kroger.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|kroger.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
@@ -25925,6 +25928,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||smstibo.com^$generichide
 @@||smtcaw.com^$generichide
 @@||smtebooks.net^$generichide
+@@||smushcdn.com^*/1.gif$domain=retrounlim.com
 @@||snailsengine.com^$script,xmlhttprequest
 @@||snakemineral.com^$script,xmlhttprequest
 @@||snakesshop.com^$script,xmlhttprequest
@@ -31417,6 +31421,7 @@ dm5.com,dm5.hk##.cl970
 dm5.com,dm5.hk##a[href*=".wannaplay.cn"]
 dm530.net,hdshare.cn,it168.com###adv
 dmarge.com##.dx-ad-wrapper
+dmh8.com##img[src*="data:"]
 dmhy.anoneko.com##div[id$="_adv"]
 dmhy.b168.net##div[align="center"] > a[href^="https://www.baidu.com/?mm_sycmid="] > img
 dmhy.b168.net##div[align="center"] > a[onclick*="'ad'"] > img
@@ -42297,6 +42302,9 @@ sina.com.cn##p + .article-video
 sina.com.tw###cboxOverlay
 sina.com.tw###colorbox
 sina.com.tw##.adbig300_mid
+sina.com.tw##.tablet_above_ad
+sina.com.tw##div[style*="min-height"][style*="250px"]
+sina.com.tw##div[style="height:156px;width:570px;margin:0px auto;display:block;"]
 sinadaxue.cn##.fixed-tips.app-tips
 sinami.com##.banner_centerLeft
 sinami.com##.banner_centerRight
@@ -48689,6 +48697,7 @@ zznews.cn##.ad:not([style])
 ||6665432.com^*.gif
 ||666574.xyz^
 ||666576.xyz^
+||666577.xyz^
 ||666666666666.site^
 ||6667778882021.site^
 ||6669667.com^

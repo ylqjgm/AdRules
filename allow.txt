@@ -1,9 +1,9 @@
 ! Title: AdRules Allowlist
-! Checksum: CWl8UJYCY2vK3MTa1NZFZw
+! Checksum: 8rhVEFbqp4t6lUQsm7FZlQ
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-11 21:21:19（北京时间） 
+! Version: 2022-06-11 22:05:06（北京时间） 
 ! Total count: 19478
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
@@ -1406,7 +1406,6 @@
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca|nbarizona.com
 @@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|kroger.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|kroger.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|hilton.com|ing.com.au|kroger.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
@@ -15898,6 +15897,7 @@
 @@||smstibo.com^$generichide
 @@||smtcaw.com^$generichide
 @@||smtebooks.net^$generichide
+@@||smushcdn.com^*/1.gif$domain=retrounlim.com
 @@||smutty.com/openx/ad.js
 @@||smwebs.xyz^$ghide
 @@||snailsengine.com^$script,xmlhttprequest
