@@ -1,12 +1,12 @@
 # Title: AdRules Hosts List
-# Checksum: M07L4Y8UpwhMnzJHN6bHCg
+# Checksum: dzpVkfZktyyDjXrouhd6AA
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 8 Hours
 # 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
 #
-# Version: 2022-06-11 09:53:47（北京时间） 
-# Total count: 120225
+# Version: 2022-06-11 10:42:14（北京时间） 
+# Total count: 120224
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0-158.net.daraz.com
 0.0.0.0 0-bitbucket.net.zooplus.de
@@ -18378,7 +18378,6 @@
 0.0.0.0 app-lon07.marketo.com
 0.0.0.0 app-lon08.marketo.com
 0.0.0.0 app-measurement.com
-0.0.0.0 app-monitor.ele.me
 0.0.0.0 app-promo.com
 0.0.0.0 app-shake.xml-eu.ak-is2.net
 0.0.0.0 app-shake.xs.ak-is2.net

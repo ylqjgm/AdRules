@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: QVCJHoRYD5ytsi1FF92mMg
+! Checksum: G7mHfKZ/8/IiM/XAJ5wm0w
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-11 09:53:47（北京时间） 
-! Total count: 93446
+! Version: 2022-06-11 10:42:13（北京时间） 
+! Total count: 93457
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -33354,6 +33354,7 @@ ft.com,ftchinese.com##.bn-ph
 ftchinese.com,cn.ft.com##.mpu-container-instory,div[data-id|=banner],div[data-id|=storympu],div[data-id|=mpu],div.o-barrier
 ftlwiki.com###top-banner-advert
 ftpnova.eu###Av
+fttxt.com##a[href*="type"]
 ftuapps.dev##+js(abort-on-property-read, ai_set_cookie)
 ftuapps.dev##+js(abort-on-property-write, adregain_wall)
 ftuapps.dev#?##secondary > aside[id^="custom_html-"]:has(> .textwidget > .adsbygoogle)
@@ -36121,6 +36122,7 @@ itsfuck.com,stilltube.com##+js(window.open-defuser)
 itshokunin.cc#$#.adsbygoogle { position: absolute!important; left: -3000px!important; }
 itsupportguides.com##.adblock_wrapper
 itv.com##.seek-bar__ad
+itxueyuan.com##a[href*="guanggaowei"]
 ivanovonews.ru#$#json-prune banner.ytcode
 ivfree.asia##.vidoser-in span[style="font-size: 32px"]
 ivg.it##+js(set-constant, checkForAdBlocker, noopFunc)
@@ -38367,7 +38369,7 @@ memoryhackers.org##+js(set-constant, adsbygoogle.length, undefined)
 memoryhackers.org##+js(set-constant, google_jobrunner, emptyObj)
 memoryhackers.org#@#.ads-header
 memoryhackers.org#@#.pub_300x250
-memytutaj.pl#@##top-ad
+memytutaj.pl,viply.de#@##top-ad
 mengmiandaxia.com,mengmiandaxia.cn##[id="mmdx-bottom-ad"]
 mengzhan521.com##a[href^="http"]:not([href*="mengzhan"]) > img[src^="http"]
 mensxp.com##a[onclick*="mensxp.com//asddjm/"]
@@ -48734,6 +48736,7 @@ zznews.cn##.ad:not([style])
 ||666666666666.site^
 ||6667778882021.site^
 ||6669667.com^
+||666video.asia^
 ||668559.com^$third-party
 ||66993.top^
 ||66996.top^
@@ -50111,6 +50114,7 @@ zznews.cn##.ad:not([style])
 ||aagon.actonservice.com^
 ||aahekppl.com^
 ||aaid.umeng.com^
+||aak7.cn^
 ||aaktao.entel.cl^
 ||aaliyaheartha.com^
 ||aamapi.com^$third-party
@@ -59305,6 +59309,7 @@ zznews.cn##.ad:not([style])
 ||defeaturesher.club^
 ||defectivedress.com^
 ||defectivesun.com^
+||defenga.top^
 ||defensetraverse.com^
 ||deferencedilutemurmur.com^
 ||defiantrice.com^
@@ -63924,6 +63929,7 @@ zznews.cn##.ad:not([style])
 ||ggsfq.com^
 ||ggtg8.com^
 ||ggtp-1255424916.cos.ap-chengdu.myqcloud.com^
+||gguuu.top^
 ||ggw.gusuwang.com^
 ||ggw.watertu.com^
 ||ggwan.com^$third-party,domain=~linghit.com
@@ -68193,6 +68199,7 @@ zznews.cn##.ad:not([style])
 ||jiazhenghangye.pw^
 ||jibn12.jintang114.org^
 ||jicypigra.com^
+||jiedaibao.gs^
 ||jiedaibao120.cn^
 ||jiegeng.com/static/json/jg_topFixed.
 ||jiehe.me^
@@ -75404,6 +75411,7 @@ zznews.cn##.ad:not([style])
 ||optnx.com^$popup
 ||optorb.com^$third-party
 ||optyruntchan.com^
+||opuik.com^
 ||opvanillishan.com^
 ||opyyy.com^
 ||oq68.com^
@@ -85731,6 +85739,7 @@ zznews.cn##.ad:not([style])
 ||titag.com^$third-party
 ||titan007.com/ad/
 ||titan007.com/images/item.gif
+||titan007.com/js/indexshow.
 ||titan007.com/news.aspx
 ||titan24.com/scripts/stats.js
 ||titanads2.com^
@@ -86088,6 +86097,7 @@ zznews.cn##.ad:not([style])
 ||tourmake.it^*/stats?
 ||tourradar.com/def/partner?$third-party
 ||tout.com/tracker.js
+||toutao.pro^
 ||toutiao.com/action_log/
 ||toutiao.com^*/user_log/
 ||toutiao.haotui.com/data/js/0.js
@@ -92882,6 +92892,7 @@ zznews.cn##.ad:not([style])
 ||zhenxingkuangchanpin.com^
 ||zhev.com.cn/file/weixin/
 ||zhexnuq.cn^
+||zhflodsix.cn^
 ||zhiai.space^
 ||zhibo.me/js/fd.js
 ||zhibo.me/js/kh.js

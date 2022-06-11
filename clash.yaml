@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220611095330
+#VER=20220611104158
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=94118
+#TOTAL_LINES=94117
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -28075,7 +28075,6 @@ payload:
   - '+.s4s51f00a3o7.www.eldorado.gg'
   - '+.eldos.xyz'
   - '+.eldxbvskndmxnr.com'
-  - '+.app-monitor.ele.me'
   - '+.client-api.ele.me'
   - '+.grand.ele.me'
   - '+.log.star.ele.me'
