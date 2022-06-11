@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rVbfTBnDo8oeZUYIF2oi2g
+! Checksum: jNG1W1tFFXNXB+yhmjHWow
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206111333
-! Last modified: 2022-06-11 13:33 UTC
+! Version: 202206111533
+! Last modified: 2022-06-11 15:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -63520,6 +63520,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /facebook-retargeting-
 /facebook-tracking/*
 /facebook_fbevents.
+/facebook_pixel_
 /facebookpixel.
 /facebookpixel/*
 /facebookproductad/*$script
@@ -88437,6 +88438,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||siteapps.caa.co.uk/scripts/plugins/analytics/ga.min.js$script,~third-party
 @@||smartrevise.online/css/analytics.min.css$~third-party
 @@||smartrevise.online/js/teacher.analytics.min.js$~third-party
+@@||smushcdn.com^*/1.gif$domain=retrounlim.com
 @@||snap.licdn.com/li.lms-analytics/insight.min.js$domain=msci.com
 @@||solr.sas.com/query/$xmlhttprequest,domain=jmp.com
 @@||songstats.com/api/v1/analytics/track_data$~third-party,xmlhttprequest

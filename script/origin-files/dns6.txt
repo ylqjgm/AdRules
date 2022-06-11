@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: n4C0NiYRa+Nsa3CPJVS/Lw
-! Version: 202206111356
+! Checksum: 00Z4gr2dccunH8zPezMqAg
+! Version: 202206111616
 ! Title: EasyPrivacy
-! Last modified: 11 Jun 2022 13:55 UTC
+! Last modified: 11 Jun 2022 16:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1890,6 +1890,7 @@
 /facebook-retargeting-
 /facebook-tracking/*
 /facebook_fbevents.
+/facebook_pixel_
 /facebookpixel.
 /facebookpixel/*
 /facebookproductad/*$script
@@ -27540,7 +27541,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 !
 !---------- Anti-Adblock ----------
 !
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgt?id=
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgsit/record?
+/visit?id=
 /visit_log.js
 /visit_pixel?
 /visit_tracking.
