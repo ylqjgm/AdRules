@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220611172309
+#VER=20220611201320
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=94207
+#TOTAL_LINES=94210
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -2792,6 +2792,7 @@ payload:
   - '+.6657f1d5a25b6.com'
   - '+.666574.xyz'
   - '+.666576.xyz'
+  - '+.666577.xyz'
   - '+.6666349.com'
   - '+.66666119.com'
   - '+.666666666666.site'
@@ -6237,6 +6238,7 @@ payload:
   - '+.adshell.net'
   - '+.adshexa.com'
   - '+.adshob.com'
+  - '+.adshoper.com'
   - '+.adshopping.com'
   - '+.adshort.media'
   - '+.adshort.space'
@@ -19142,6 +19144,7 @@ payload:
   - '+.cityads.ru'
   - '+.cityadspix.com'
   - '+.cityadstrack.com'
+  - '+.citydsp.com'
   - '+.go.cityfootball-leadership.com'
   - '+.citygrid.com'
   - '+.oms.cityline.tv'
