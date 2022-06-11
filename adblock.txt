@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 8UCznCITgU0cll/wQbRE6Q
+! Checksum: 4O3GCYtXWkgSNtCEnVRIBw
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-11 20:13:36（北京时间） 
-! Total count: 93386
+! Version: 2022-06-11 20:34:36（北京时间） 
+! Total count: 93385
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -27667,7 +27667,6 @@ adrama.to#?#.post_sidebar > div.side_box:has(div[id^="mynewads_"])
 adrama.to,icdrama.se###closeADV
 adreep.cn,baoliny.com,gasaq.com,hgitv.com,ifooday.cn,nen.com.cn##.guanggao
 ads.nipr.ac.jp,burzahrane.hr#@#.ads-header
-ads_container
 adshnk.com,adshrink.it,pairom.com##+js(nano-setInterval-booster, count, , 0.02)
 adshnk.com,adshrink.it,pairom.com##+js(window.open-defuser)
 adshnk.com,adshrink.it,pairom.com#$#.adsbox.pub_300x250 { display: block !important; }
