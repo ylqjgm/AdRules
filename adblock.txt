@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: uwf2qnyxhu+3Li/E/t6FOA
+! Checksum: 1wmZeAGk7CqqzGFlyt5dxw
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-11 16:25:35（北京时间） 
-! Total count: 93375
+! Version: 2022-06-11 17:21:14（北京时间） 
+! Total count: 93378
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -19720,6 +19720,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 66se2.com##a[target="_blank"] > img
 6789.com##.mm-force
 6789.com,hao.360.cn,hao.360.com###daily-hotwords
+67hailhail.com,deepdaledigest.com,forevergeek.com,geordiebootboys.com,hammers.news,hitc.com,molineux.news,nottinghamforest.news,rangersnews.uk,realitytitbit.com,tbrfootball.com,thechelseachronicle.com,thefocus.news##.GRVVideo
 699pic.com###landlord
 699pic.com##.springtime-floatLink
 699pic.com##.springtime-pop
@@ -34783,6 +34784,7 @@ historydaily.org##.adwrapper
 hit180.com##.widget_ui_orbui:nth-child(-n+2)
 hitc.com,dualshockers.com##+js(set-constant, pbjs.setConfig, noopFunc)
 hitc.com,dualshockers.com##.GRVMpuWrapper
+hitc.com,thefocus.news##.GRVMpuWrapper
 hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
 hitime5.com###gg250
 hitime5.com###gg730
@@ -43476,7 +43478,6 @@ thefappeningblog.com##.cl-exl
 thefappeningblog.com##a[href^="https://join3.bannedsextapes.com/track"]
 thefastlaneforum.com##+js(abort-current-script, $, !document.getElementById(btoa)
 thefmovies.me##+js(window.open-defuser)
-thefocus.news##.GRVMpuWrapper
 thefreedictionary.com###Content_CA_AD_0_BC
 thefreedictionary.com###Content_CA_AD_1_BC
 thefreedictionary.com###Content_CA_AD_1_BC > .box
@@ -55235,7 +55236,7 @@ zznews.cn##.ad:not([style])
 ||bred4tula.com^
 ||breedingunspeakableplaice.com^
 ||breedtagask.com^
-||brid.tv^$script,domain=spin.com|thewrap.com
+||brid.tv^$script,domain=67hailhail.com|deepdaledigest.com|forevergeek.com|geordiebootboys.com|hammers.news|hitc.com|molineux.news|nottinghamforest.news|rangersnews.uk|realitytitbit.com|spin.com|tbrfootball.com|thechelseachronicle.com|thefocus.news|thewrap.com
 ||bridge-ashiato.appspot.com/beacon/
 ||bridgetrack.com^
 ||bridgevine.com^$third-party
@@ -56102,6 +56103,7 @@ zznews.cn##.ad:not([style])
 ||cdn.scores24.ru/upload/*-components-promo-popup-
 ||cdn.shdsp.net/ad
 ||cdn.shorte.st/link-converter.min.js$script,third-party
+||cdn.smilk.cc^
 ||cdn.spylees.com/vast3?
 ||cdn.statically.io/gh/Kaka4i-os/js/main/adblock.js$domain=peshdpatch.com
 ||cdn.sunporno.com/sunstatic/v*/common/sunporno/compiled/script.v*.min.js
@@ -58046,6 +58048,7 @@ zznews.cn##.ad:not([style])
 ||cqishr.mobile.de^
 ||cqjjlsy.com^
 ||cqlijie.cn^
+||cqn.vue-js.cyou^
 ||cqnpfyb.cn^
 ||cqpmvc.capital.fr^
 ||cqpmvc.cuisineactuelle.fr^
