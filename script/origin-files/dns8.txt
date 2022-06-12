@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5X3ToCQuBu/CR8ghGzrZXw
+! Checksum: eFNag+wujOROLJIdjE5vLA
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206120433
-! Last modified: 2022-06-12 04:33 UTC
+! Version: 202206120533
+! Last modified: 2022-06-12 05:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21949,6 +21949,7 @@ _800x80_
 ##.adv__box
 ##.adv__container--300x250
 ##.adv__container--728x90
+##.adv__leaderboard
 ##.adv__text
 ##.adv__wrapper
 ##.adv_aff
@@ -57170,8 +57171,8 @@ eteknix.com###wrapper > header
 cranestodaymagazine.com,hoistmagazine.com,ttjonline.com,tunnelsonline.info###wrapper_banners
 blasternation.com###xobda
 yardbarker.com###yb_recirc
-sevenforums.com###yui-gen0
-sevenforums.com###yui-gen1
+sevenforums.com,tenforums.com###yui-gen0
+sevenforums.com,tenforums.com###yui-gen1
 ecoustics.com###zox-lead-bot
 talkingpointsmemo.com##.--span\:12.AdSlot
 voiceofsandiego.org##.-sponsored
@@ -58940,6 +58941,7 @@ dailyherald.com##.stnContainer
 politico.com##.story-continued
 climbingbusinessjournal.com##.strack_bnr
 indiatoday.in##.stradds
+hbr.org##.sponsored
 siasat.com##.stream-item-below-post-content
 twitter.com##.stream-item-group-start[label="promoted"]
 coinpedia.org,siasat.com##.stream-item-inline-post
