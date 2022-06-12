@@ -2,7 +2,7 @@
 ! Title: adg-kall
 ! Description: Adg-kall collected on the network and I have written some rules. 
 ! Homepage: https://kbsml.com
-! Last modified: 6/11/2022, 4:00:04 PM
+! Last modified: 6/12/2022, 8:00:04 AM
 !
 ||slfango.ltd^
 ||xt.kluvcc.com^
@@ -2370,6 +2370,7 @@ $popup,third-party,domain=76fengyun.com|88files.net|avsdown.com|downdv.com|downd
 ||btn.pchome.net^
 ||business.92wy.com^
 ||c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com^
+||c.d.cg/3C.JS
 ||cacafly.net^
 ||cbjs.ciwei.in^
 ||cdgfa.ifeng.com^
@@ -2556,6 +2557,7 @@ $popup,third-party,domain=76fengyun.com|88files.net|avsdown.com|downdv.com|downd
 ||xc.mydrivers.com^
 ||xdyjt.com^
 ||xinjscn.oss-cn-hangzhou.aliyuncs.com^
+||xiurenji.net/heji/mei
 ||xs.houyi.baofeng.net^
 ||ygdy8.com/jsy/
 ||ygdy8.net/js1/
@@ -2568,6 +2570,7 @@ $popup,third-party,domain=76fengyun.com|88files.net|avsdown.com|downdv.com|downd
 ||ztyumn.ifeng.com^
 1024pb.com###header > center
 ifenpaidy.com###new_a
+tuku.cc##.TLAD
 downkr.com##.address-left > ul:nth-child(2)
 0du123.com,100ec.cn,10besty.com,24en.com,3gsc.com.cn,591hx.com,acgnx.net,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iguaji.com,iqiyi.com,jia360.com,jojf.cn,kdnet.net,kumi.cn,netbian.com,qiuziti.com,rain2.top,solarbe.com,tiboo.cn,v2rayssr.com,wallstreetcn.com,woniuyulew.com,xingkbjm.com,xizi.com,zgfznews.com,zyue.com##.banner
 weike87.com##.copy
@@ -29565,6 +29568,11 @@ ipv6.baidu.com,m.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###resul
 ||alicdn.com^$image,domain=m.k1k.cc|thcdy.co|27k.cc|1024pa.com|hg6384.com-www.6u7u.com|4080kan.com|dy686.net
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_left > .result ~ div:not([class]):not([style])
 /^(?!.*(bootstrapcdn.com|cdn.ampproject.org|cloudflare.com|disqus.com|disquscdn.com|dmca.com|ebacdn.com|facebook.net|fbcdn.net|fluidplayer.com|fontawesome.com|github.io|google.com|googleapis.com|googletagmanager.com|gstatic.com|jquery.com|jsdelivr.net|jwpcdn.com|jwplatform.com|polyfill.io|recaptcha.net|shrink.pe|twitter.com|ulogin.ru|unpkg.com|userapi.com|vidazoo.com|vk.com|yandex.|yastatic.net|ytimg.com|zencdn.net|player|youtube.com|cackle.me|googleoptimize.com|vuukle.com|chatango.com|twimg.com|google-analytics.com|hcaptcha.com|raincaptcha.com|media-imdb.com|blogger.com|hwcdn.net|instagram.com|wp.com)).*$/$third-party,script,domain=yemancomic.com|qimiaoxiaoshuo.com
+/https:\/\/[a-z0-9.]{6,}.(com|net)\/[\s\S]*[a-zA-Z0-9]{6,}.(gif|png)/$domain=69t79.com,image,third-party
+/(960|650)X(60|80|150).(gif|png)/$domain=69t79.com
+||taiwtp1.com^$domain=69t79.com
+||z4a.net^$domain=69t79.com
+||si.geilicdn.com^$domain=69t79.com
 tw.news.yahoo.com###sda-MON
 php.cn##.wwads-cn
 downkr.com##.banner-right
@@ -30577,6 +30585,7 @@ duba.com#$#.fav_box_wrap { visibility: hidden; height: 60px!important; }
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js,domain=gamer.com.tw,important
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
+/heji/mei00*.js
 -880-80-4.jpg
 -90mh-gg.
 .bid/ads/
@@ -31980,8 +31989,8 @@ _yad_jsonp_
 ##div[onclick*=".leyu"]
 ##div[onclick*="?i_code="]
 ##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="60px"]
-##div[style=" max-width:984px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:984px;  margin:0 auto;"] > a > img[height="60px"]
+##div[style=" max-width:985px;  margin:0 auto;"] > a > img[height="120px"]
+##div[style=" max-width:985px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style="text-align:center;"] > a[href*="/register/?i_code="]
 ##img#adv1
@@ -32272,6 +32281,7 @@ _yad_jsonp_
 ||opuik.com^
 ||awsxc.live^
 ||jtrgzj9.com^
+||666577.xyz^
 ||666576.xyz^
 ||u0065.com^
 .8ox.cn
@@ -34252,7 +34262,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||bytravel.cn/js/s_
 ||bzdiao.com/wp-content/uploads/bhOCwJfYleFC/
 ||c-ctrip.com/train/201611/yqh_270-280.jpg
-||c.d.cg/3C.JS
 ||c114.com.cn/default_inc/a/images/
 ||c114.com.cn/js/channel.js
 ||c114.com.cn^*/js/ad_load-new.js
@@ -37276,7 +37285,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||xitongzhijia.net/theme/2017/images/temp/ad_
 ||xitongzhijia.net/theme/2017/js/total_soft.js
 ||xiu8.com/baidu-tieba/*&forum_name=
-||xiurenji.net/heji/mei
 ||xizi.com/a/
 ||xizi.com/js/rotator.js
 ||xkd*.com/layer/layer.js
@@ -37645,6 +37653,11 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 ||titan007.com/js/indexshow.
 szxx.com.cn###A0
+dmh8.com##img[src*="data:"]
+360doc.com###arttopbdad
+sina.com.tw##div[style="height:156px;width:570px;margin:0px auto;display:block;"]
+sina.com.tw##div[style*="min-height"][style*="250px"]
+sina.com.tw##.tablet_above_ad
 itxueyuan.com##a[href*="guanggaowei"]
 wanmeikk.me##a[href="http://qq.wanmeikk.me/index"]
 szxx.com.cn###A1
@@ -39244,7 +39257,6 @@ solarbe.com##.RT_banner
 3dmgame.com##.R_qingtianzhu
 3jy.com##.Rad
 zhihu.com##.RelatedReadings-adItem
-tuku.cc##.TLAD
 avmimi.com##.TW_UTtoy
 bmlink.com##.Tg_1190x70
 alu.cn##.Tg_125x70
