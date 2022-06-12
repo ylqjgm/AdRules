@@ -36,7 +36,7 @@ cat dead-hosts*.txt | grep -v -E "^(#|\!)" \
  | uniq >base-dead-hosts.txt
 
 cat allow*.txt | grep -v -E "^(#|\!)" \
- | sort | sed 's/[ ]//g'|sed 's/||/0.0.0.0 /g' | sed 's/\^//g' |sort \
+ | sort | sed 's/[ ]//g'|sed 's/^$/d'|sed 's/^/||/g' | sed 's/$/\^/g' |sort \
  | uniq >allow-lists.txt
 
 cat easylist*.txt dns* *rule*| grep -E "^\|\|[^\*\^]+?\^" | sort | uniq >base-src-easylist.txt
