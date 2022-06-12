@@ -23,6 +23,7 @@ cat ./mod/rules/*-rules.txt |grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort|uniq >>
 cat ./script/*/white_domain_list.php |grep -Po "(?<=').+(?=')" |sed "s/^/||&/g" |sed "s/$/&^/g"| sed '/^$/d'   > allowtest.txt
 hostlist-compiler -c ./script/dns-rules-config.json -o dns-output.txt &
 wait
+rm -f allowtest.txt
 mv -f dns-output.txt dns.txt
 cd ./script/
 #sed -i "s/\|\|tanx.com\^/\|\|tanx.com\^\$dnstype\=\~CNAME/" ../dns.txt
