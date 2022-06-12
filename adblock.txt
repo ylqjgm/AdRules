@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: T4KYEtFm87LMnaO4yPR3kg
+! Checksum: 0uE5H+wHFwixV/Ux/gKaIA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-12 16:24:56（北京时间） 
-! Total count: 93346
+! Version: 2022-06-12 17:10:23（北京时间） 
+! Total count: 93345
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -15973,6 +15973,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /pixel.gif?
 /pixel.json?
 /pixel.jsp?
+/pixel.mathtag.com/*
 /pixel.php?
 /pixel.png?
 /pixel.swf?
@@ -16941,7 +16942,6 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /static/ad-
 /static/ad/*
 /static/ad_
-/static/ads/*
 /static/adsview/*
 /static/adv/*
 /static/advertising/*
@@ -19130,7 +19130,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 265g.com##div[class^="ban"]
 28188.com,28188.net,yxad.com###nav
 28hse.com###floating_left_div
-2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,duckduckgo.com,fifplay.com,herald.co.zw,libhunt.com,motherjones.com,msn.com,reviewjournal.com,stocksnap.io,timeslive.co.za##.sponsored
+2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,duckduckgo.com,fifplay.com,hbr.org,herald.co.zw,libhunt.com,motherjones.com,msn.com,reviewjournal.com,stocksnap.io,timeslive.co.za##.sponsored
 2beeg.me##.ave-pl
 2beeg.me,teenpornvideo.fun,nakedteens.fun##.full-ave-pl
 2c2.website,2p8.space,adultgao.com,caopop.com,caoporn.com,caouoo.com,caox.cc,gao1.cc,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vwan.xyz,xhao1.com##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
@@ -21424,7 +21424,6 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||bing.com/AS/Suggestions?$removeparam=cvid
 @@||bing.com/Passport.aspx$document
 @@||bing.com/search?$generichide
-@@||bing.com/shop$generichide
 @@||bing.com/translator/api/Translate/TranslateArray?$third-party,xmlhttprequest
 @@||bing.com^$generichide
 @@||bingfeng.tw/source/plugin/unadblock/*_ads_*.js
@@ -22455,7 +22454,6 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||energeticexample.com^$script,xmlhttprequest
 @@||energeticladybug.com^$script,xmlhttprequest
 @@||energy.de^*/ivw.js?$domain=energy.de
-@@||engine.presearch.org^$generichide
 @@||england101.com/assets/js/prebid-add.js
 @@||english-subtitles.club/assets/$image,~third-party
 @@||enormousearth.com^$script,xmlhttprequest
@@ -29252,6 +29250,7 @@ bing.com##.b_adPATitleBlock
 bing.com##.b_adPATitleBlock + div
 bing.com##.b_poleContent > #ifeu
 bing.com##.b_spa_adblock
+bing.com##.br-productCarousel
 bing.com##.ins_exp.tds
 bing.com##.ins_exp.vsp
 bing.com##.mapsTextAds
@@ -34455,7 +34454,6 @@ hboav.com#%#//scriptlet("set-constant", "onload", "null")
 hboav.com#@#.close_box0
 hboav.com#@#script + div[class="cc5278_banner_ad"]
 hbr.org##.partner-center
-hbr.org##.sponsored
 hbzhan.com###leftAdv
 hbzhan.com###rightAdv
 hc360.com###endAccessories1
@@ -40811,6 +40809,7 @@ premiumebooks.*##+js(abort-current-script, document.getElementsByTagName, /antiA
 premiumtimesng.com##img[alt$=" Ad"]
 prepostseo.com##+js(set-constant, showDabay, noopFunc)
 preroll$xmlhttprequest,domain=iprima.cz
+presearch.com##[x-data*="keywordAdFirst"]
 presearch.org##div[x-data*="keywordAdFirst"]
 presentslide.in,forex-articles.com,forums.flyer.co.uk,3xplanet.com,getintocourse.com,schooldrillers.com,sex-jav.com,aceofhacking.com,linuxpip.org,kodi-tutorials.uk,yofreesamples.com,thispointer.com,sportnews.to,freesoft.id,stevessmarthomeguide.com,animenhentai.com,sharkserve.rs,softvela.us,hwnews.in,collegelearners.com,watchmalcolminthemiddle.com,romadd.com###custom_html-3
 price.com.hk###ad0
