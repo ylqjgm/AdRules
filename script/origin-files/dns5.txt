@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SofaBENxT3JsbJNr4655cw
-! Version: 202206120945
+! Checksum: 3bWIg29N4ao5xgBGdA5DPA
+! Version: 202206121615
 ! Title: EasyList China+EasyList
-! Last modified: 12 Jun 2022 09:45 UTC
+! Last modified: 12 Jun 2022 16:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -1394,6 +1394,7 @@ ubmcmm.baidustatic.com
 ##a[href^="javascript:gl012"] + img
 ##a[onclick*="open"] > img[src*=".dailygn.com/"]
 ##a[onclick^="_czc."] > .add
+##a[href] > img[id][src*="hdslb.com"]
 ##a[onclick^="_czc."] > .ads
 ##a[onclick^="_czc.push(['_trackEvent', '广告"]
 ##a[onclick^="javascript:pc_"] > img[src*=".alicdn.com"]
@@ -1750,6 +1751,7 @@ ubmcmm.baidustatic.com
 ||666577.xyz^
 !2301
 !2212
+||xinshizongqin.com^
 !2211
 ||z4a.net^
 !2210
@@ -17644,6 +17646,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||xuekalun.com^
 ||yping.online^
 !2303
+||sjpoxe6.com^
 ||mingchacn.top^
 ||defenga.top^
 ||edetlmb.cn^
@@ -84674,7 +84677,10 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||pornbraze.com^$generichide
 @@||rule34hentai.net^$generichide
 @@||urlgalleries.net^$generichide
-! *** easylist:easylist_adult/adult_allowlist_popup.txt ***ty
+! *** easylist:easylist_adult/adult_allowlist_popup.txt ***op^
+||wdymwzz.com^
+||wdzsb.com.cn^
+||weareqy.com^$third-party
 ||weddingeeos.com^$third-party
 ||weifengtianxia.com^
 ||weizhenwx.com^
@@ -98220,6 +98226,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||xuekalun.com^
 ||yping.online^
 !2303
+||sjpoxe6.com^
 ||mingchacn.top^
 ||defenga.top^
 ||edetlmb.cn^

@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: DvBqggeJU57GBd6iEaY+4A
+! Checksum: VKcY2FIJou8pghFOytmI7Q
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-12 18:00:36（北京时间） 
-! Total count: 19475
+! Version: 2022-06-13 00:29:05（北京时间） 
+! Total count: 19477
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -14046,6 +14046,7 @@
 @@||proiezionidiborsa.it^$ghide
 @@||projectevolove.com/application/themes/clean/images/with_facebook.png
 @@||projectkorra.com/*/siropu/*/ads$script,1p
+@@||promo-visits.site^$ghide
 @@||promo.awempire.com/live_feeds/script_basic_livefeed.php?$domain=sexcamdb.com
 @@||promo.com/embed/$subdocument,third-party
 @@||promo.gramedia.com^|
@@ -18532,6 +18533,7 @@
 @@||washingtonpost.com/gdpr-consent/$subdocument,xmlhttprequest
 @@||washingtonpost.com/wp-stat/analytics/latest/main.js
 @@||washingtonpost.com/wpost/js/combo?token*/wp_omniture.js
+@@||wasing.co.uk/global/cookie/$~third-party
 @@||wat.*/assets/images/common/fbsubscribe.jpg
 @@||watch.aetnd.com^*_SocialMedia_$image,xmlhttprequest
 @@||watch.globaltv.com^$generichide
