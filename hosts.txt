@@ -1,12 +1,12 @@
 # Title: AdRules Hosts List
-# Checksum: IjOoItrL4YrErWaAyxnYSw
+# Checksum: 5W/y5cW9eKvwuR/Li+DD+A
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 8 Hours
 # 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
 #
-# Version: 2022-06-12 10:06:56（北京时间） 
-# Total count: 120411
+# Version: 2022-06-12 11:57:57（北京时间） 
+# Total count: 120415
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0-158.net.daraz.com
 0.0.0.0 0-bitbucket.net.zooplus.de
@@ -5028,6 +5028,8 @@
 0.0.0.0 666574.xyz
 0.0.0.0 666576.xyz
 0.0.0.0 666577.xyz
+0.0.0.0 666579.xyz
+0.0.0.0 666582.xyz
 0.0.0.0 6666349.com
 0.0.0.0 66666119.com
 0.0.0.0 666666666666.site
@@ -24203,6 +24205,7 @@
 0.0.0.0 bob.dmpxs.com
 0.0.0.0 bob.gitclear.com
 0.0.0.0 bob4915.com
+0.0.0.0 bob4994.com
 0.0.0.0 bobaidu8.com
 0.0.0.0 bobarilla.com
 0.0.0.0 bobbytubate.com
@@ -32140,6 +32143,7 @@
 0.0.0.0 cooch.tv
 0.0.0.0 coocomall.com
 0.0.0.0 coocopop.com
+0.0.0.0 coodawei.cn
 0.0.0.0 cooguo.com
 0.0.0.0 cookevegas.com
 0.0.0.0 cookie-accept.com

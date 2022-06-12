@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220612100642
+#VER=20220612115741
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=94283
+#TOTAL_LINES=94287
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -2798,6 +2798,8 @@ payload:
   - '+.666574.xyz'
   - '+.666576.xyz'
   - '+.666577.xyz'
+  - '+.666579.xyz'
+  - '+.666582.xyz'
   - '+.6666349.com'
   - '+.66666119.com'
   - '+.666666666666.site'
@@ -14990,6 +14992,7 @@ payload:
   - '+.boattraider.com'
   - '+.boayipids.com'
   - '+.bob4915.com'
+  - '+.bob4994.com'
   - '+.bobaidu8.com'
   - '+.bobarilla.com'
   - '+.bobbytubate.com'
@@ -21421,6 +21424,7 @@ payload:
   - '+.cooch.tv'
   - '+.coocomall.com'
   - '+.coocopop.com'
+  - '+.coodawei.cn'
   - '+.cooguo.com'
   - '+.12.cookcai.com'
   - '+.cookevegas.com'
