@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220613002847
+#VER=20220613065310
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93927
+#TOTAL_LINES=93926
 DOMAIN-SUFFIX,cda.0-shiny.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
 DOMAIN-SUFFIX,c.0.0.0.0.cn
@@ -8893,6 +8893,7 @@ DOMAIN-SUFFIX,amazon-brand-registry.com
 DOMAIN-SUFFIX,amazon-cornerstone.com
 DOMAIN-SUFFIX,amazon-indonesia.vip
 DOMAIN-SUFFIX,rcm-it.amazon.it
+DOMAIN-SUFFIX,amazonaax.com
 DOMAIN-SUFFIX,m.amazonappservices.com
 DOMAIN-SUFFIX,wp-stat.s3.amazonasw.com
 DOMAIN-SUFFIX,amazonbusiness.ca
@@ -25489,7 +25490,6 @@ DOMAIN-SUFFIX,mlweb.dmlab.hu
 DOMAIN-SUFFIX,pdc.dmleonyc.com
 DOMAIN-SUFFIX,dmlkicqupnjfryv.com
 DOMAIN-SUFFIX,aqua.dmm.co.jp
-DOMAIN-SUFFIX,cn.dap.dmm.co.jp
 DOMAIN-SUFFIX,imp.dmm.co.jp
 DOMAIN-SUFFIX,mkmree.dmm.co.jp
 DOMAIN-SUFFIX,widget-view.dmm.co.jp
@@ -32484,7 +32484,7 @@ DOMAIN-SUFFIX,fppzikurc.com
 DOMAIN-SUFFIX,fpreld.cn
 DOMAIN-SUFFIX,fprnt.com
 DOMAIN-SUFFIX,fa.fpt.shop
-DOMAIN-SUFFIX,fptad.com
+DOMAIN-SUFFIX,customers.fptad.com
 DOMAIN-SUFFIX,ads-cdn.fptplay.net
 DOMAIN-SUFFIX,sentry.fptplay.net
 DOMAIN-SUFFIX,ads.fptplay.vn
@@ -62966,8 +62966,6 @@ DOMAIN-SUFFIX,plutoclean.com
 DOMAIN-SUFFIX,plutostars.com
 DOMAIN-SUFFIX,plutothejewel.com
 DOMAIN-SUFFIX,plutusads.com
-DOMAIN-SUFFIX,vb.plvb.xyz
-DOMAIN-SUFFIX,xl.plvb.xyz
 DOMAIN-SUFFIX,plwan.com
 DOMAIN-SUFFIX,plxnt.com
 DOMAIN-SUFFIX,plxserve.com
@@ -82630,6 +82628,7 @@ DOMAIN-SUFFIX,ads.ultimate-guitar.com
 DOMAIN-SUFFIX,onoztg.ultimate-guitar.com
 DOMAIN-SUFFIX,track.ultimate-guitar.com
 DOMAIN-SUFFIX,stats.ultimate-webservices.com
+DOMAIN-SUFFIX,ultimateaderaser.com
 DOMAIN-SUFFIX,grouse.ultimateballistics.com
 DOMAIN-SUFFIX,ultimateclixx.com
 DOMAIN-SUFFIX,ultimatecounter.com

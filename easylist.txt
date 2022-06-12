@@ -1,5 +1,5 @@
 ! Title: AdRules for AdGuard
-! Version: 20220612162849193888943
+! Version: 20220612225311854426083
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Total lines: 00000
 ||cda.0-shiny.com^
@@ -8887,6 +8887,7 @@
 ||amazon-cornerstone.com^
 ||amazon-indonesia.vip^
 ||rcm-it.amazon.it^
+||amazonaax.com^
 ||m.amazonappservices.com^
 ||wp-stat.s3.amazonasw.com^
 ||amazonbusiness.ca^
@@ -25459,7 +25460,6 @@
 ||pdc.dmleonyc.com^
 ||dmlkicqupnjfryv.com^
 ||aqua.dmm.co.jp^
-||cn.dap.dmm.co.jp^
 ||imp.dmm.co.jp^
 ||mkmree.dmm.co.jp^
 ||widget-view.dmm.co.jp^
@@ -32445,7 +32445,7 @@
 ||fpreld.cn^
 ||fprnt.com^
 ||fa.fpt.shop^
-||fptad.com^
+||customers.fptad.com^
 ||ads-cdn.fptplay.net^
 ||sentry.fptplay.net^
 ||ads.fptplay.vn^
@@ -62890,8 +62890,6 @@
 ||plutostars.com^
 ||plutothejewel.com^
 ||plutusads.com^
-||vb.plvb.xyz^
-||xl.plvb.xyz^
 ||plwan.com^
 ||plxnt.com^
 ||plxserve.com^
@@ -82517,6 +82515,7 @@
 ||onoztg.ultimate-guitar.com^
 ||track.ultimate-guitar.com^
 ||stats.ultimate-webservices.com^
+||ultimateaderaser.com^
 ||grouse.ultimateballistics.com^
 ||ultimateclixx.com^
 ||ultimatecounter.com^

@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: Imd6kOJGoVj2c/Gek5s8Dw
+! Checksum: ZHZH4Ay85Snd5VtNdVzkRQ
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 8 Hours
 ! Description: 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyListChina、EasyList、oisd Basic、Adaway等并补充了一些规则
-! Version: 2022-06-13 00:29:05（北京时间） 
-! Total count: 94493
+! Version: 2022-06-13 06:53:26（北京时间） 
+! Total count: 94492
 *.91ivr.
 *.91wan.
 *.99g99.
@@ -11420,6 +11420,7 @@
 ||amazon-cornerstone.com^
 ||amazon-indonesia.vip^
 ||amazon.wii-info.fr^
+||amazonaax.com^
 ||amazonbusiness.ca^
 ||amazonbusiness.com^
 ||amazonbusiness.eu^
@@ -21927,7 +21928,6 @@
 ||cn-3drp.com^
 ||cn.adpinfo.com^
 ||cn.bidushe.com^
-||cn.dap.dmm.co.jp^
 ||cn.dematic.cn^
 ||cn.innity-asia.com^
 ||cn.tatami-solutions.com^
@@ -24661,6 +24661,7 @@
 ||customer.newsflare.com^
 ||customerconversio.com^
 ||customerlabs.co^
+||customers.fptad.com^
 ||customersuccess.rezstream.com^
 ||customersupporthelp.com^
 ||customfingerprints.bablosoft.com^
@@ -33468,7 +33469,6 @@
 ||fppzikurc.com^
 ||fpreld.cn^
 ||fprnt.com^
-||fptad.com^
 ||fpvdxd5.com^
 ||fpwtsp.xxxlutz.de^
 ||fpxau.net^
@@ -84944,6 +84944,7 @@
 ||ulqlckpdpadfpo.com^
 ||ult-blk-cbl.com^
 ||ultimate-detection.com^
+||ultimateaderaser.com^
 ||ultimateclixx.com^
 ||ultimatecounter.com^
 ||ultimatetopsites.com^
@@ -86122,7 +86123,6 @@
 ||vax-now.com^
 ||vazlshyjp.com^
 ||vazulp.graniph.com^
-||vb.plvb.xyz^
 ||vb211.com^
 ||vb4rvq.cn^
 ||vb7ojn.cn^
@@ -91380,7 +91380,6 @@
 ||xkzjq.cn^
 ||xl-rank.com^
 ||xl-trk.com^
-||xl.plvb.xyz^
 ||xladapi.izuiyou.com^
 ||xlcun.com^
 ||xldcdnd.com^
