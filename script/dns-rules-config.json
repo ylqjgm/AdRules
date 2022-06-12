@@ -28,6 +28,12 @@
         },
         {
             "name": "DNS List",
+            "source": "allowtest.txt",
+            "type": "adblock",
+            "transformations": ["InvertAllow"]
+        },
+        {
+            "name": "DNS List",
             "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/sha_ad_hosts",
             "type": "hosts",
             "transformations": ["Compress", "RemoveModifiers", "Validate"]
