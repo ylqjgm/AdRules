@@ -12,10 +12,15 @@ dead_hosts=(
   "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
   "https://raw.githubusercontent.com/badmojr/1Hosts/master/submit_here/exclude_for_all.txt"
 )
-for i in "${!dead_hosts[@]}"
+allow=(
+  "https://raw.githubusercontent.com/badmojr/1Hosts/master/submit_here/exclude_for_all.txt"
+  "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt"
+  "https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt"
+)
+for i in "${!dead_hosts[@]}" "${!allow[@]}"
 do
-  echo "开始下载 dead-hosts${i}..."
-  curl -o "./origin-files/dead-hosts${i}.txt" --connect-timeout 60 -s "${dead_hosts[$i]}"
+  curl -o "./origin-files/dead-hosts${i}.txt" --connect-timeout 60 -s "${dead_hosts[$i]}" &
+  curl -o "./origin-files/allow${i}.txt" --connect-timeout 60 -s "${allow[$i]}" &
 done
 cp ../mod/rules/*rule* ./origin-files/
 cp ../tmp/{*easy*,dns*,base*,hosts*,pre-allow1.txt} ./origin-files/
@@ -29,6 +34,10 @@ cat hosts*.txt | grep -v -E "^((#.*)|(\s*)|(\!.*))$" \
 cat dead-hosts*.txt | grep -v -E "^(#|\!)" \
  | sort | sed 's/[ ]//g'|sort \
  | uniq >base-dead-hosts.txt
+
+cat allow*.txt | grep -v -E "^(#|\!)" \
+ | sort | sed 's/[ ]//g'|sed 's/||/0.0.0.0 /g' | sed 's/\^//g' |sort \
+ | uniq >allow-lists.txt
 
 cat easylist*.txt dns* *rule*| grep -E "^\|\|[^\*\^]+?\^" | sort | uniq >base-src-easylist.txt
 cat easylist*.txt dns* *rule*| grep -E "^\|\|?([^\^=\/:]+)?\*([^\^=\/:]+)?\^" | sort | uniq >wildcard-src-easylist.txt
