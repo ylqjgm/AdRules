@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: jsaYAHpo82uaxqqJE3C3eg
+! Checksum: QhblpAGa7EiCHEMkp5mnRg
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-12 13:49:47（北京时间） 
-! Total count: 93343
+! Version: 2022-06-12 14:25:08（北京时间） 
+! Total count: 93345
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -19889,6 +19889,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 9le8.com###program_play_right
 9miao.com###deanrlc22
 9now.com.au##.vjs-cuepoints-bar
+9t.cloudfront.net^
 9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,electrek.co##.ad-disclaimer-container
 9to5google.com,9to5mac.com,audiokarma.org,beeradvocate.com,bizjournals.com,biznews.com,businessinsider.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,engineeringnews.co.za,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,my9nj.com,myfitnesspal.com,nbcnews.com,nzherald.co.nz,opb.org,pixiv.net,punchng.com,realsport101.com,reason.com,scroll.in,seattletimes.com,sportskeeda.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,toofab.com,usmagazine.com,wogx.com##.ad-container
 9to5mac.com,9to5google.com,9to5toys.com##iframe[data-google-container-id]
@@ -52684,6 +52685,7 @@ zznews.cn##.ad:not([style])
 ||api.wipmania.com^
 ||api.wudizuqiu.com/72nba
 ||api.wudizuqiu.com/bocai.js
+||api.yuanzun888.com^
 ||api64.com^$third-party
 ||apiads.gg.pl^
 ||apic.91bixin.net/api/thirdadv/
