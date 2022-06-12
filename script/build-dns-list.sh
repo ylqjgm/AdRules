@@ -25,9 +25,6 @@ hostlist-compiler -c ./script/dns-rules-config.json -o dns-output.txt &
 wait
 mv -f dns-output.txt dns.txt
 cd ./script/
-
-cat ../tmp/dns998* >>../dns.txt
-cat .././mod/rules/*-rules.txt |grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort|uniq >> ../dns.txt
 #sed -i "s/\|\|tanx.com\^/\|\|tanx.com\^\$dnstype\=\~CNAME/" ../dns.txt
 cd ../
 bash ./sc*/exin*dns.sh
