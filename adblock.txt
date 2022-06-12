@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: MJI0JrsMiEFSs8qB82PCkg
+! Checksum: 9nGfTs90tI7Gi5dFbsamhA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-12 11:57:57（北京时间） 
-! Total count: 93338
+! Version: 2022-06-12 13:42:16（北京时间） 
+! Total count: 93340
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -57723,6 +57723,7 @@ zznews.cn##.ad:not([style])
 ||conveyor.lewcoinc.com^
 ||convrse.media^
 ||convsgmp.taboola.com^
+||coodawei.cn^
 ||cookie-guard-erdee.ey.r.appspot.com^
 ||cookie.amerigas.com^
 ||cookie.cynch.com^
@@ -63436,7 +63437,6 @@ zznews.cn##.ad:not([style])
 ||gamblingliquidate.com^
 ||game-data.xyz^
 ||game.466.com^$third-party
-||game.weixin.qq.com^
 ||game234.com/1/234.php
 ||game234.com/wd/*ad.js
 ||game333.net/aainset/
@@ -63624,6 +63624,7 @@ zznews.cn##.ad:not([style])
 ||gegeyingshi.com/template/*/images/g_js/
 ||geili.co^
 ||geili201911.ink^
+||geilicdn.com/img*_960_60.
 ||geishascoset.com^
 ||geistm.com^$third-party
 ||gej.effectivehealthy.cn^
@@ -79126,6 +79127,7 @@ zznews.cn##.ad:not([style])
 ||rp-rep.net^$third-party
 ||rpersonals.com^
 ||rpfkgf.rp-online.de^
+||rppg.pro^
 ||rprinc6etodn9kunjiv.com^
 ||rps-p2.rockpapershotgun.com^
 ||rps-uk.rockpapershotgun.com^

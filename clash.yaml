@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220612115741
+#VER=20220612134201
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=94287
+#TOTAL_LINES=94289
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -69364,6 +69364,7 @@ payload:
   - '+.ads.rpgdot.com'
   - '+.rpgmasterleague.com'
   - '+.www2.rpost.com'
+  - '+.rppg.pro'
   - '+.rprgn.cn'
   - '+.rprinc6etodn9kunjiv.com'
   - '+.rpsrv.com'
@@ -82996,6 +82997,7 @@ payload:
   - '+.uluswozzel.info'
   - '+.ulxypyg.cn'
   - '+.ulyvjty4rd.com'
+  - '+.um-bs.com'
   - '+.um0592.com'
   - '+.um29.com'
   - '+.umapi.cn'

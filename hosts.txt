@@ -1,12 +1,12 @@
 # Title: AdRules Hosts List
-# Checksum: 5W/y5cW9eKvwuR/Li+DD+A
+# Checksum: XbyXEvH7pLI9/4GvuHBfVQ
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 8 Hours
 # 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
 #
-# Version: 2022-06-12 11:57:57（北京时间） 
-# Total count: 120415
+# Version: 2022-06-12 13:42:16（北京时间） 
+# Total count: 120417
 0.0.0.0 .weixingshexiangji.net
 0.0.0.0 0-158.net.daraz.com
 0.0.0.0 0-bitbucket.net.zooplus.de
@@ -86712,6 +86712,7 @@
 0.0.0.0 rpi-staging.adpopcorn.com
 0.0.0.0 rpi.adpopcorn.com
 0.0.0.0 rpm.newrelisc.com
+0.0.0.0 rppg.pro
 0.0.0.0 rprgn.cn
 0.0.0.0 rprinc6etodn9kunjiv.com
 0.0.0.0 rps-p2.rockpapershotgun.com
@@ -107247,6 +107248,7 @@
 0.0.0.0 uluswozzel.info
 0.0.0.0 ulxypyg.cn
 0.0.0.0 ulyvjty4rd.com
+0.0.0.0 um-bs.com
 0.0.0.0 um.afcav.com
 0.0.0.0 um.cavuc.com
 0.0.0.0 um.simpli.fi
