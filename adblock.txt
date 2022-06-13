@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: uLYTZYjJhTcSugs4BdYNEA
+! Checksum: Q68e99zw0zbErQRFujaYug
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-13 19:27:52（北京时间） 
-! Total count: 93342
+! Version: 2022-06-13 19:34:06（北京时间） 
+! Total count: 93343
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -28902,7 +28902,7 @@ baixing.com##.poster-info-container + .side-block
 baixing.com##.red-package
 baixing.com##.refashion-listing-banner
 baiyangzuo.xkyn.com#%#//scriptlet("set-constant", "conone_lmg", "noopFunc")
-bajarpelisgratis.com,jkanime.top,pelismart.com,series-de.online,torrentdownloads.pro#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
+bajarpelisgratis.com,jkanime.top,pelismart.com,pelispoptv.com,series-de.online,torrentdownloads.pro#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
 bajeczki.org##.site-content > .vjs-ex-mcn-video
 baliphim.com#$#override-property-read time_load_ads_1 0; override-property-read time_load_ads_2 0
 baliphim.com,lucaphim.com#$#abort-current-inline-script parseInt break;case $.
@@ -39888,6 +39888,7 @@ pansci.asia##body > section.hide-on-print.mt-5
 pansci.asia#$##firstSingle { padding: 0 !important; }
 pansci.asia#@#.ad-container
 paopaoche.net##.down_btn2.green
+papadustream.co,papystreamings.com#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
 papalah.com#%#//scriptlet("abort-on-property-read", "adBlockDetected")
 paper-io.com###gameadsbanner
 papergeek.fr##[id^="padb_widget_"]
