@@ -9,6 +9,7 @@
 
 return array(
     /**start**/
+    'lf1-cdn-tos.bytegoofy.com' => 0, //抖音电脑页面
     'local.adguard.org' => 0, //adg
     'game.weixin.qq.com' => 0, //微信游戏
     'app-monitor.ele.me' => 0, //饿了么外卖小程序
