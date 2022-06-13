@@ -9,6 +9,7 @@
 
 return array(
     /**start**/
+    'local.adguard.org' => 0, //adg
     'game.weixin.qq.com' => 0, //微信游戏
     'app-monitor.ele.me' => 0, //饿了么外卖小程序
     'mb.yidianzixun.com' => 0, //小米浏览器新闻(?
