@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: A9BEYmU8NHcgfaATUuZSAw
+! Checksum: VIgXilXgZfYAdXNMF856Qw
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-14 01:01:12（北京时间） 
-! Total count: 93390
+! Version: 2022-06-14 07:00:31（北京时间） 
+! Total count: 93411
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -27553,7 +27553,6 @@ acwifi.net,zhain8.com##.ssr
 ad-survey.com
 ad0R$xmlhttprequest,domain=expres.cz|idnes.cz
 ad4msan.com##+js(abort-current-script, String.fromCharCode, decodeURIComponent)
-ad_thread1_1
 ada.baidu.com
 ada.org,globes.co.il,techcentral.ie,texteditor.co,versus.com##.topBanner
 adaa.org##div[class^="c-ad_"]
@@ -32488,7 +32487,6 @@ familyhandyman.com,tasteofhome.com,rd.com##.taboola-wrapper
 familyminded.com,workandmoney.com##.ad-inStory
 familyporn.tv##.media_spot_holder
 familyporn.tv##.textlink
-familyporn.tv,biqle.com,verhentai.top,lovefap.com,sdefx.cloud,info-english.ru,alluretube.com,anyxvideos.com,fucktheporn.com,hugetits.win,italianporn.com.es,mommysucks.com,mzansinudes.com,napiszar.com,onlineporn24.com,porntube15.com,pornvdoxxx.com,pozdravlove.ru,sexavgo.com,store-of-beats.ru,pinayvids.com,dvdplay.*,sxyprn.*,mmopeon.ru,acervodaputaria.com.br,animefenix.com,masahub.net,rule34porn.net,hispasexy.org,tokyoblog.tv,idolsblog.tv,sturls.com,sexphimhd.net,freeporn.org.uk,xvideos2020.me,pornovidea.net,youporn.red,animesanka.*,adsh.cc,85tube.com,pornobr.ninja,ekasiwap.com,hentaidexy.com,pornoruhe.net,girl2sex.com,suki48.web.id,xpornass.com,javhd.icu,mxtube.net,juicyoldpussy.com,sexofilm.co,xnxx66.com,paidthe.site,illink.net,xxxlucah.com,mangaraw.org,pornbox.cc,pornhex.com,xxxhub.cc,sexe-libre.org,picrok.com,zplayer.live,ccurl.net,jav688.com,datawav.club,xxxpicz.com,canyoublockit.com,mypornhere.com,skidrowcodex.net##+js(set-constant, D4zz, noopFunc)
 familyporner.com##+js(set-constant, canRunAds, true)
 familyporner.com##.single.alrt
 fanatik.ro##.strawberry-ads-manager-container
@@ -36177,12 +36175,12 @@ javlibrary.com#%#//scriptlet('abort-current-inline-script', 'document.write', '/
 javlove.xyz##+js(window.open-defuser)
 javporn18.com##+js(abort-current-script, mypop)
 javpost.net,javmost.*##div[style="overflow: hidden !important;"] > center > div[style="width:100%; height: 100px;overflow: hidden !important;"]
+javpro.cc,javtc.*,javmec.*,javsun.*,tubeqd.tv##div[style^="height: 250px;overflow: hidden;"]
 javqd.com#@#.adsBox
 javraveclub.com,javrave.club##.leader_banner
 javsaga.ninja##.pb-3.text-center
 javsenpai.site##+js(window.open-defuser)
 javstream.top##+js(window.open-defuser)
-javtc.*,javmec.*,javsun.*,tubeqd.tv##div[style^="height: 250px;overflow: hidden;"]
 javtiful.com###showerm
 javtiful.com##+js(addEventListener-defuser, DOMContentLoaded, adsBlocked)
 javtiful.com##.dontblockme
@@ -42042,6 +42040,7 @@ shortenbuddy.com##+js(set-constant, show_ads_gr8_lite, true)
 shortenbuddy.com##+js(window.open-defuser)
 shortenmm.cf##+js(window.open-defuser)
 shorterall.com##+js(no-setTimeout-if, adblock)
+shorterall.com,familyporn.tv,biqle.com,verhentai.top,lovefap.com,sdefx.cloud,info-english.ru,alluretube.com,anyxvideos.com,fucktheporn.com,hugetits.win,italianporn.com.es,mommysucks.com,mzansinudes.com,napiszar.com,onlineporn24.com,porntube15.com,pornvdoxxx.com,pozdravlove.ru,sexavgo.com,store-of-beats.ru,pinayvids.com,dvdplay.*,sxyprn.*,mmopeon.ru,acervodaputaria.com.br,animefenix.com,masahub.net,rule34porn.net,hispasexy.org,tokyoblog.tv,idolsblog.tv,sturls.com,sexphimhd.net,freeporn.org.uk,xvideos2020.me,pornovidea.net,youporn.red,animesanka.*,adsh.cc,85tube.com,pornobr.ninja,ekasiwap.com,hentaidexy.com,pornoruhe.net,girl2sex.com,suki48.web.id,xpornass.com,javhd.icu,mxtube.net,juicyoldpussy.com,sexofilm.co,xnxx66.com,paidthe.site,illink.net,xxxlucah.com,mangaraw.org,pornbox.cc,pornhex.com,xxxhub.cc,sexe-libre.org,picrok.com,zplayer.live,ccurl.net,jav688.com,datawav.club,xxxpicz.com,canyoublockit.com,mypornhere.com,skidrowcodex.net##+js(set-constant, D4zz, noopFunc)
 shorterall.com,promo-visits.site##+js(remove-attr, onclick, #invisibleCaptchaShortlink)
 shorthitz.com##+js(window.open-defuser)
 shortit.pw##+js(window.open-defuser)
@@ -43398,6 +43397,8 @@ theblaze.com##[data-category="SPONSORED"]
 theblissempire.com##+js(window.open-defuser)
 theblogcash.in##+js(window.open-defuser)
 thebookee.net,decomaniacos.es,acapellas.eu,depo-program.blogspot.com,animeuniverse.*,e9china.net,igtools.net,shirosafe.web.id,freecoursesonline.me,configinter.net,smsbomber.biz,pianetafanta.it,freesoftpdfdownload.blogspot.com##+js(addEventListener-defuser, load, google_ad_client)
+thebridgechronicle.com##.aside-collection-ad-slot
+thebridgechronicle.com,maharashtratimes.com##div[class^="ad-wrapper-"]
 thebussybandit.com#@#.adsBox
 thecambabes.com,celebsroulette.com,camuploads.com,heroero.com,thebestshemalevideos.com##.block-video > .table > .opt
 thecinemaholic.com##.cinemaholic-ad-below-header
@@ -47613,6 +47614,7 @@ zznews.cn##.ad:not([style])
 ||1l1.cc^
 ||1lib.cn^
 ||1loveclones.com^
+||1o1camshow.com^$popup
 ||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1p1eqpotato.com^
 ||1pel.com^$third-party
@@ -58610,6 +58612,7 @@ zznews.cn##.ad:not([style])
 ||d2as12kgjg8gw5.cloudfront.net^
 ||d2axgrpnciinw7.cloudfront.net^
 ||d2bbq3twedfo2f.cloudfront.net^
+||d2bxxk33t58v29.cloudfront.net^
 ||d2c.ne.jp^$third-party
 ||d2c4ylitp1qu24.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
@@ -59815,6 +59818,7 @@ zznews.cn##.ad:not([style])
 ||dlkoo.cc/down/copy
 ||dlkoo.com/down/$subdocument
 ||dlkoo.com/down/copy
+||dlkruoxcusyy.com^
 ||dloeloqua.danskespil.dk^
 ||dlovet.cn^
 ||dlpifu.com^
@@ -60953,6 +60957,7 @@ zznews.cn##.ad:not([style])
 ||ee.m08pe.cn^$third-party
 ||ee.shixunwang.net^
 ||ee021.com/Runtime/js/
+||eeaacsmmdenxarx.com^
 ||eec.crunchyroll.com^
 ||eeco-net.actonservice.com^
 ||eeco.xyz^
@@ -62191,6 +62196,7 @@ zznews.cn##.ad:not([style])
 ||factory.redbull.racing^
 ||fadama.com^$third-party
 ||fadbell.com^
+||fadedpracticedduly.com^
 ||fadedprofit.com^
 ||fadedsnow.com^$third-party
 ||fadewaves.com^
@@ -63274,6 +63280,7 @@ zznews.cn##.ad:not([style])
 ||fwcdn1.com/js/storyblock.js$badfilter
 ||fwcdn2.com^$third-party,badfilter
 ||fwetxfvxsjtw.com^
+||fwglrwncnusph.com^
 ||fwix.com/ref.js
 ||fwix.com^*/trackclicks_
 ||fwlgepp.cn^
@@ -66304,6 +66311,7 @@ zznews.cn##.ad:not([style])
 ||icbdr.com/images/pixel.gif
 ||icdazoy.cn^
 ||icdxqn.xyz^
+||iceberg.ink^
 ||icebergindigo.com^
 ||icefog.xyz^
 ||icelessbogles.com^
@@ -67651,6 +67659,7 @@ zznews.cn##.ad:not([style])
 ||itchimpish.com^
 ||itcoder.top^
 ||itdqdqgxdgkhv.com^
+||iteassemblyj.xyz^
 ||itechwall.com^$third-party
 ||iterable.com/analytics.js
 ||iterable.convoy.com^
@@ -68344,6 +68353,7 @@ zznews.cn##.ad:not([style])
 ||jobs.ch/api/v1/public/product/track/
 ||jobvite.com/analytics.js
 ||jocelynlaura.com^
+||jocowhab.com^
 ||joedisarmament.com^
 ||joemonster.org/build/js/prebid_*.js
 ||jogbxpg.cn^
@@ -74482,6 +74492,7 @@ zznews.cn##.ad:not([style])
 ||noapai.name^
 ||noaptauw.com^
 ||noaqhkfrsotpyk.top^
+||noawhaub.net^
 ||nobbutaaru.com^
 ||noblemeantimeawelessaweless.com^
 ||noblift.mobi^
@@ -74861,6 +74872,7 @@ zznews.cn##.ad:not([style])
 ||oamoatch.com^
 ||oanimsen.net^
 ||oaphoace.net^
+||oaptukeh.net^
 ||ob3o3r7.cn^
 ||obashwmzrfofi.com^
 ||obbtix.eolo.it^
@@ -76461,6 +76473,7 @@ zznews.cn##.ad:not([style])
 ||piroji.com^$domain=pronpic.org
 ||pirtecho.net^
 ||pisism.com^
+||pitchedfurs.com^
 ||pites.cc/js/top.php
 ||piti.bplaced.net^
 ||pitpastraja.com^
@@ -78155,6 +78168,7 @@ zznews.cn##.ad:not([style])
 ||quintesse.io^$third-party
 ||quinuaknife.com^
 ||quipin.cn^
+||quiremuken.xyz^
 ||quisma.com/tracking/
 ||quitsnap-blue.com^$third-party
 ||quiz.stroeermediabrands.de/pub/$image
@@ -79685,6 +79699,7 @@ zznews.cn##.ad:not([style])
 ||sapo.pt/Projects/sapoabd/
 ||sappmetrics.sprint.com^
 ||saptiledispatch.com^
+||sarcasmhickbits.com^
 ||sare25.com^$third-party
 ||sarov.ws^$third-party
 ||sartagesampi.com^
@@ -79753,6 +79768,7 @@ zznews.cn##.ad:not([style])
 ||sbpb1.chuiyue.com^
 ||sbpb1.qulishi.com^
 ||sbplay2.*/js/jquery/*/jquery-*.min.js?v=
+||sbprpoowdyfbx.com^
 ||sbqsftz.cn^
 ||sbrqp.com^
 ||sbs-ad.com^$third-party
@@ -83098,6 +83114,7 @@ zznews.cn##.ad:not([style])
 ||ssh.mn123cass.xyz^
 ||ssh.mzya5718.xyz^
 ||ssh.q4hwkg.cn^
+||sshsnahw.com^
 ||ssite.johnlewis.com^
 ||ssite.waitrose.com^
 ||ssitecat.eset.com^
@@ -84033,6 +84050,7 @@ zznews.cn##.ad:not([style])
 ||status500.xyz^
 ||statystyki.ekspertyzy-szkolenia.pl^
 ||statystyki.panelek.com^
+||stauru.com^
 ||stawhoph.com^
 ||stbaolin.cn^
 ||stcounter.com^$third-party
@@ -84809,6 +84827,8 @@ zznews.cn##.ad:not([style])
 ||ta80.com^$third-party
 ||taadd.com/files/js/site_skin.js
 ||tabici.com^
+||tabledownstairsprovocative.com^
+||tabledownstairsprovocative.com^$popup
 ||tabloidsuggest.com^
 ||tabookbusines.info^
 ||tabookbusines.info^$third-party
@@ -88407,6 +88427,7 @@ zznews.cn##.ad:not([style])
 ||velaro.com^$third-party
 ||velocecdn.com^
 ||velocitycdn.com^
+||velteels.net^
 ||vempozah.net^
 ||venber.cn^
 ||vencerocasino.com/$popup

@@ -13888,6 +13888,7 @@ beautypackaging.com##+js(aopw, adblockerpopup)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/5893
 uptomega.*##+js(acis, parseInt, break;case $.)
+uptomega.*##+js(nano-stb, seconds)
 uptomega.*##.ads
 
 ! https://forums.lanik.us/viewtopic.php?f=62&t=43212
@@ -19532,6 +19533,7 @@ shorterall.com##+js(aopr, app_vars.force_disable_adblock)
 shorterall.com##+js(aopr, open)
 shorterall.com##+js(nostif, alert)
 shorterall.com##+js(set, blurred, false)
+shorterall.com##+js(acis, decodeURI, decodeURIComponent)
 shorterall.com##.banner
 shorterall.com##div[style="width:300px;height:250px;display: inline-block;margin: 0 auto"]
 shorterall.com##[href^="//chrif8kdstie.com"]
