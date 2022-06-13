@@ -1,9 +1,9 @@
 ! Title: AdRules Allowlist
-! Checksum: jxFc8HaDept9UIETuGcfgA
+! Checksum: FQJIExyvw/8KERVjDwJGxQ
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-13 07:08:06（北京时间） 
+! Version: 2022-06-13 10:06:39（北京时间） 
 ! Total count: 19477
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
@@ -656,7 +656,6 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org.cgi?
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -13913,6 +13912,7 @@
 @@||positivewordsdictionary.com^$ghide
 @@||possessivebucket.com^$script,xmlhttprequest
 @@||possibleboats.com^$script,xmlhttprequest
+@@||post2go.ru/widget/tracking?$~third-party
 @@||post4earn.com/js/advertisement.js
 @@||postclickmarketing.com^$domain=adtspecials.com|befinanciallyfit.com|cursodemedicina.com.br|demandmetric.com|hootsuite.com|semipresencial.com.br|systemsprotect.com
 @@||poste.it/cerca-app/js/app/webtrends_service.js$script,~third-party

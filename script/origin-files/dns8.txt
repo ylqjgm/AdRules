@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OpH/3eFtHDnJp6s3jm+DGg
+! Checksum: wMhWq7Q0a0syajl6yhgo2g
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206122233
-! Last modified: 2022-06-12 22:33 UTC
+! Version: 202206130133
+! Last modified: 2022-06-13 01:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31491,9 +31491,11 @@ _800x80_
 ##a[href^="https://www.g4mz.com/"]
 ##a[href^="https://www.gambling-affiliation.com/cpc/"]
 ##a[href^="https://www.googleadservices.com/pagead/aclk?"]
+##a[href^="https://www.healthrangerstore.com/"] > img
 ##a[href^="https://www.hotgirls4fuck.com/"]
 ##a[href^="https://www.im88trk.com/"]
 ##a[href^="https://www.iyalc.com/"]
+##a[href^="https://www.jackery.com?aff="] > img
 ##a[href^="https://www.kingsoffetish.com/tour?partner_id="]
 ##a[href^="https://www.mrskin.com/account/"]
 ##a[href^="https://www.mrskin.com/tour"]
@@ -31507,6 +31509,7 @@ _800x80_
 ##a[href^="https://www.popads.net/users/"]
 ##a[href^="https://www.pornhat.com/"][rel="nofollow"]
 ##a[href^="https://www.rabbits.webcam/?id="]
+##a[href^="https://www.rcbopt.com:8080/offer/"] > img
 ##a[href^="https://www.securegfm.com/"]
 ##a[href^="https://www.share-online.biz/affiliate/"]
 ##a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="]
@@ -31671,6 +31674,7 @@ _800x80_
 ##.gnt_tbr.gnt_tb
 ! (invideo advertising)
 ###mplayer-embed
+##.GRVVideo
 ##.ac-lre-desktop
 ##.ac-lre-player-ph
 ##.ac-lre-wrapper
@@ -35560,7 +35564,6 @@ tf2r.com#@#.adverts
 ||chrigm.com^
 ||christingera.site^
 ||christmasaxehandyman.com^
-||christmasporn.top^
 ||chronicads.com^
 ||chsrkred.com^
 ||chtntr.com^
@@ -56963,6 +56966,8 @@ ebay.com###rtm_html_441
 noqreport.com###rumble_vj59vh
 skylinewebcams.com###s1123
 skylinewebcams.com###s4152
+faucetpay.nurul-huda.or.id###satoshi1
+faucetpay.nurul-huda.or.id###satoshi2
 wsj.com###saving-united-coupon-list
 flatpanelshd.com###sb-site > .hidden-xs.container
 hwhills.com###sb_left_tower
@@ -57286,7 +57291,7 @@ searchenginejournal.com##.absolute-banner
 trustpilot.com##.ad-block
 sciencenews.org##.ad-block-leaderboard__freestar___Ologr
 sciencenewsforstudents.org##.ad-block-leaderboard__wrapper___1rR0c
-9to5google.com,9to5mac.com,audiokarma.org,beeradvocate.com,bizjournals.com,biznews.com,businessinsider.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,engineeringnews.co.za,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,my9nj.com,myfitnesspal.com,nbcnews.com,nzherald.co.nz,opb.org,pixiv.net,punchng.com,realsport101.com,reason.com,scroll.in,seattletimes.com,sportskeeda.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,toofab.com,usmagazine.com,wogx.com##.ad-container
+9to5google.com,9to5mac.com,audiokarma.org,beeradvocate.com,bizjournals.com,biznews.com,businessinsider.com,computerworld.com,driven.co.nz,ecr.co.za,electrek.co,engineeringnews.co.za,etcanada.com,fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,funkidslive.com,gfinityesports.com,gmanetwork.com,grammarbook.com,hbr.org,insidehook.com,intouchweekly.com,khou.com,ktvu.com,lifeandstylemag.com,macstories.net,metro.us,miningweekly.com,mobilesyrup.com,modernhealthcare.com,my9nj.com,myfitnesspal.com,nbcnews.com,nzherald.co.nz,opb.org,pixiv.net,punchng.com,realsport101.com,reason.com,scroll.in,seattletimes.com,sportskeeda.com,theglobeandmail.com,thelocal.at,thelocal.ch,thelocal.de,thelocal.dk,thelocal.es,thelocal.fr,thelocal.it,thelocal.no,thelocal.se,toofab.com,usmagazine.com,wogx.com##.ad-container
 mobilesyrup.com##.ad-goes-here
 goal.com##.ad-slide_adSlideBanner__cEgCm
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,iamgujarat.com,lolcounter.com,mpog100.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
@@ -57734,6 +57739,7 @@ roseindia.net##.col-md-4
 titanwolf.org##.col-md-4 > .card-raised > .card-body
 tineye.com##.col-md-4.sidebar
 disqus.com##.col-promoted
+faucetpay.nurul-huda.or.id##.col-sm-3
 nycgo.com##.colBBox
 jamendo.com##.col_extra
 iamgujarat.com,indiatimes.com,samayam.com,vijaykarnataka.com##.colombia
@@ -58993,7 +58999,7 @@ macrumors.com##.tertiary
 ericpetersautos.com##.text-109
 businessonhome.com##.text-info
 sciencedaily.com##.textrule
-evilbeetgossip.com##.textwidget
+evilbeetgossip.com,katt.com,kyis.com,thesportsanimal.com,wild1049hd.com,wky930am.com##.textwidget
 tftcentral.co.uk##.tftce-adlabel
 thedailyusnews.com##.theda-id-1
 thedailyusnews.com##.theda-id-2
@@ -59103,6 +59109,7 @@ fastpic.ru##.vright
 vaughn.live##.vs_v75_MvnAbvsLowerThirdWrapper
 ebook-searcher.com##.w-100
 w2g.tv##.w2g-cas-ad
+w2g.tv##.w2g-dub-ad
 userscript.zone##.w300
 goodfon.com##.wallpapers__banner240
 dailymail.co.uk,thisismoney.co.uk##.watermark
@@ -59157,6 +59164,7 @@ gamenguides.com,teslaoracle.com##.wp-block-image
 repeatreplay.com##.wp-block-spacer
 c19-worldnews.com##.wp-caption
 onepagerules.com##.wp-container-6.wp-block-columns
+strangesounds.org##.wp-image-281312
 hack-sat.com##.wp-image-31131
 rvguide.com##.wp-image-3611
 appuals.com##.wp-timed-p
@@ -59244,6 +59252,7 @@ deshdoaba.com##[href="https://www.nsbinsures.com/"]
 ftv-news.com##[href="https://www.rizik.com.bd/"]
 jagoroniya.com##[href="https://www.virtuanic.com/"]
 himovies.to,musichq.net##[href="https://zoro.to"]
+faucetpay.nurul-huda.or.id##[href] > .col-sm-4
 cq-esports.com##[href][target*="blank"]
 bittools.net##[href^="//www.bittools.net/binance"]
 shroomery.org##[href^="//www.shroomery.org/ads/"]
@@ -59793,7 +59802,6 @@ bossip.com,hiphopwired.com,madamenoire.com###player-wrapper
 realclearpolitics.com###realclear_jwplayer_container
 uproxx.com###upx-mm-player-wrap
 newseveryday.com###vplayer_large
-67hailhail.com,deepdaledigest.com,forevergeek.com,geordiebootboys.com,hammers.news,hitc.com,molineux.news,nottinghamforest.news,rangersnews.uk,realitytitbit.com,tbrfootball.com,thechelseachronicle.com,thefocus.news##.GRVVideo
 sciencetimes.com##.article-videoplayer
 thewrap.com##.aspect-ratio-box-inside
 thewrap.com##.brid-default-skin
@@ -67489,6 +67497,7 @@ _mongo_stats/
 ||brontops.com^
 ||bydst.com^
 ||ccm19.de^
+||cdnhst.xyz^
 ||click360.io^
 ||cloudwp.io^
 ||cpx.to^
@@ -72462,6 +72471,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||props.id^$third-party
 ! Italian
 ||0stats.com^$third-party
+||24log.it^$third-party
 ||accessi.it^$third-party
 ||avstat.it^$third-party
 ||buzzoole.com^$third-party
@@ -89080,6 +89090,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||player.vgtrk.com/js/stat.js?
 @@||playy.online/log_event$~third-party,xmlhttprequest
 @@||plplayer.online/log_event$~third-party,xmlhttprequest
+@@||post2go.ru/widget/tracking?$~third-party
 @@||relap.io^*/similar_pages_jsonp.js$script,domain=adme.ru
 @@||rtr-vesti.ru/pvc_cdn/js/stat.js$domain=player.vgtrk.com
 @@||sptmr.ru/sportmaster.ru/js/modules/gtm.js$script,domain=sportmaster.ru
@@ -94151,7 +94162,6 @@ _revotas_push.
 /scocial-
 /scrollShareMenu.
 /semsocial.*/widgets.
-/sendtofriend.
 /seomoz_35.
 /share-actions.
 /share-actions/*
@@ -133219,6 +133229,7 @@ dlife.com##.findUs
 blog.leanstart.ch##.fixed
 fansided.com,winteriscoming.net##.fixed-article-nav
 businessnewsdaily.com##.fixed-bar
+istreamy.com##.fixed-nav
 gogameguru.com,tecmint.com,wpbeginner.com##.fixedBar
 oneplus.com##.fixed_feedback
 bamsmackpow.com,gamesided.com,gojoebruin.com,lightlybuzzed.com##.fixnav
@@ -138046,6 +138057,8 @@ antenne.at,betsafe.ee,betsafe.lv,casino.dk,collibris-app.com,ekuriren.se,hw-zusc
 blueflag.global,lemoncode.net,records.team,stoeger.net##.sqs-announcement-bar
 !! .active.legacy
 batida.de,kuemmerling.de,lutter-und-wegner.de,menger-krug.de##.active.legacy
+!! .bottom-0.position-fixed
+carsharingi.ru##.bottom-0.position-fixed
 !! .bottom-0.relative
 onassis.org##.bottom-0.relative
 !! .bottom-0.fixed
@@ -138163,6 +138176,7 @@ mirror.co.uk##.captify-iframe
 mirror.co.uk##.captify-widget
 flattr.com,thebarchive.com##.cc_banner
 indiatimes.com##.consent-popup
+developer.chrome.com##.cookie-banner
 hypable.com##.cookie-bar
 tidal.com##.cookie-info
 metro.style##.cookie-modal

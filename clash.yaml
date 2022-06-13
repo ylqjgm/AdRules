@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220613070750
+#VER=20220613100623
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=93926
+#TOTAL_LINES=93934
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -882,6 +882,7 @@ payload:
   - '+.1jsskipuf8sd.com'
   - '+.ad.1k3.com'
   - '+.1k4vd.cn'
+  - '+.1kcx.hk'
   - '+.bstatic.1kejian.com'
   - '+.1kinobig.ru'
   - '+.1klink.ru'
@@ -1211,6 +1212,7 @@ payload:
   - '+.24log.de'
   - '+.24log.es'
   - '+.24log.fr'
+  - '+.24log.it'
   - '+.24log.ru'
   - '+.csymrm.24mx.fr'
   - '+.24network.it'
@@ -2794,6 +2796,7 @@ payload:
   - '+.666577.xyz'
   - '+.666579.xyz'
   - '+.666582.xyz'
+  - '+.666584.xyz'
   - '+.6666349.com'
   - '+.66666119.com'
   - '+.666666666666.site'
@@ -4028,6 +4031,7 @@ payload:
   - '+.aa808.com'
   - '+.aa88.in'
   - '+.e.aa985.cn'
+  - '+.aa9v.cn'
   - '+.aa9z.cn'
   - '+.aaa-architecten.nl'
   - '+.aaa-arcobaleno.it'
@@ -14948,6 +14952,7 @@ payload:
   - '+.boattraider.com'
   - '+.boayipids.com'
   - '+.bob4915.com'
+  - '+.bob4942.com'
   - '+.bob4994.com'
   - '+.bobaidu8.com'
   - '+.bobarilla.com'
@@ -17819,6 +17824,7 @@ payload:
   - '+.clicktalecdn.sslcs.cdngc.net'
   - '+.c.cdngeek.com'
   - '+.a.cdngeek.net'
+  - '+.cdnhst.xyz'
   - '+.cdnion.com'
   - '+.cdnjke.com'
   - '+.ad.cdnjm.cn'
@@ -54916,6 +54922,7 @@ payload:
   - '+.muyoozrkkyr.com'
   - '+.m.muyuge.com'
   - '+.muyviajero.com'
+  - '+.muzhiying.xyz'
   - '+.muzhskoy.xyz'
   - '+.muzotur.info'
   - '+.muzsj.com'
@@ -66529,6 +66536,7 @@ payload:
   - '+.widget.raaze.com'
   - '+.rabamnetee.com'
   - '+.rabbitbreath.com'
+  - '+.rabbitcloud.ltd'
   - '+.rabbithole.top'
   - '+.a2.rabbitpre.com'
   - '+.rabbitrifle.com'

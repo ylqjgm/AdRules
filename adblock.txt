@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: BnbGHrNgG2bOvjRoU5vi8w
+! Checksum: iiLtHh6lmQDPUDuDG2B/ow
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-13 07:08:06（北京时间） 
-! Total count: 93351
+! Version: 2022-06-13 10:06:39（北京时间） 
+! Total count: 93354
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -25135,6 +25135,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||pos.baidu.com^$script,domain=rjno1.com
 @@||possessivebucket.com^$script,xmlhttprequest
 @@||possibleboats.com^$script,xmlhttprequest
+@@||post2go.ru/widget/tracking?$~third-party
 @@||postex.com/api/ping?$~third-party
 @@||postnord.no/api/tracking/$~third-party
 @@||posttrack.com^$xmlhttprequest,~third-party
@@ -47785,6 +47786,7 @@ zznews.cn##.ad:not([style])
 ||24log.de^$third-party
 ||24log.es^$third-party
 ||24log.fr^$third-party
+||24log.it^$third-party
 ||24log.ru^$third-party
 ||24smi.info^$third-party
 ||24smi.net^$third-party
@@ -56116,6 +56118,7 @@ zznews.cn##.ad:not([style])
 ||cdnfile.cryy.vip^
 ||cdnfjz.com^
 ||cdngain.com^
+||cdnhst.xyz^
 ||cdninstagram.com^$removeparam=ccb
 ||cdninstagram.com^$removeparam=efg
 ||cdnjjvcd.com^*.php
