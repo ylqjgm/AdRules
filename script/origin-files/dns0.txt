@@ -1,8 +1,8 @@
-! Checksum: RE9LyJbIDTUi7q9OXnJ6AA
+! Checksum: wSxz3Wo+zqn4Go/XL8LEbQ
 ! Title: AdGuard Chinese filter
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.0.58.15
-! TimeUpdated: 2022-06-13T01:02:35+00:00
+! Version: 2.0.58.20
+! TimeUpdated: 2022-06-13T07:31:00+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -368,6 +368,9 @@
 ! Bad: ||ad.doubleclick.net^ (should be in adservers.txt)
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/121515
+bigpixel.cn#$?##PAGE_AD_1 { remove: true; }
+bigpixel.cn#%#//scriptlet("set-constant", "killads", "true")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/120635
 moeci.com#%#//scriptlet('prevent-setTimeout', '_0x')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/120433
@@ -3773,6 +3776,7 @@ ubmcmm.baidustatic.com
 ##div[id^="adv-"].adv
 ##div[id^="photo-header-title-content-text-dall"]
 ##div[onclick*=".leyu"]
+##a[href*=":10443/"]
 ##div[onclick*="?i_code="]
 ##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style=" max-width:983px;  margin:0 auto;"] > a > img[height="120px"]
@@ -4069,6 +4073,7 @@ ubmcmm.baidustatic.com
 ||bob4994.com^
 ||mnvde.com^
 ||opuik.com^
+||cgdjy.top^
 ||500img.com^
 ||89qp98.com^
 ||awsxc.live^
@@ -11941,7 +11946,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||c-ctrip.com/images/0101r120009e1kn7oCDCA.gif
 szxx.com.cn###A0
+mydrivers.com##a[href*="/a.ashx"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -19920,6 +19927,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||jueditt.top^
 ||rabbitcloud.ltd^
 ||shoujizhuanqian.store^
 ||muzhiying.xyz^
@@ -19931,6 +19939,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||lwxqaq.club^
 ||rinn.love^
 ||yyyyt.ltd^
+||zwgege.cn^
 ||2329.ink^
 ||666video.asia^
 ||a19cd.xyz^
@@ -19954,6 +19963,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||twtiq.xyz^
 ||xuekalun.com^
 ||yping.online^
+||nianshen.xyz^
 ||defenga.top^
 ||edetlmb.cn^
 ||gzww.site^

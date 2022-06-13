@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202206120240
+! Version: 202206130258
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26947
+! Lenth = 26962
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -1148,6 +1148,7 @@
 ##a[href*="/yhbet50.vip"]
 ##a[href*="/yigeyuming3880.top"]
 ##a[href*="://mgzs.cdn.bcebos.com/"]
+##a[href*=":10443/"]
 ##a[href*="?channelCode="] > img[src*=".com:"]
 ##a[href*="?invite_code="] > img[src*=".com"]
 ##a[href*="itoon.app"]
@@ -1175,6 +1176,7 @@
 ##a[href="javascript:GoGd();"]
 ##a[href="javascript:GoTp();"]
 ##a[href="javascript:window.GoTp();"]
+##a[href] > img[id][src*="hdslb.com"]
 ##a[href^="/dasp.php?a="]
 ##a[href^="/hy-"][ontouchstart]
 ##a[href^="http"][onclick^="setCookie"][style^="width:100%;height:100"]
@@ -1251,8 +1253,6 @@
 ##div[style=" max-width:979px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style=" max-width:983px;  margin:0 auto;"] > a > img[height="120px"]
 ##div[style=" max-width:983px;  margin:0 auto;"] > a > img[height="60px"]
-##div[style=" max-width:985px;  margin:0 auto;"] > a > img[height="120px"]
-##div[style=" max-width:985px;  margin:0 auto;"] > a > img[height="60px"]
 ##div[style="border-radius:8px;background-color:#005737;padding:6px;"]
 ##div[style="box-sizing:border-box;padding:20px 16px;border-radius:8px;width:90%;margin:0 auto;"]
 ##div[style="display: flex;flex-wrap: wrap;margin-right: 5px;margin-left: 5px;"] + style + .container
@@ -5117,6 +5117,7 @@ autohome.com.cn###live_rec
 autohome.com.cn###packetsWrap
 autohome.com.cn###s5473
 autohome.com.cn##.activity-app-layer
+autohome.com.cn##.activity-coin-layer
 autohome.com.cn##.fixqbot
 autohome.com.cn##.information-adv
 autohome.com.cn##.monkey_box
@@ -12310,6 +12311,7 @@ zznews.cn##.ad:not([style])
 ||1haosuo.com^
 ||1i580.com^
 ||1jsskipuf8sd.com^
+||1kcx.hk^
 ||1ketang.com/Runtime/js/play
 ||1kmb.cn^
 ||1l1.cc^
@@ -13073,6 +13075,7 @@ zznews.cn##.ad:not([style])
 ||666577.xyz^
 ||666579.xyz^
 ||666582.xyz^
+||666584.xyz^
 ||666666666666.site^
 ||6667778882021.site^
 ||6669667.com^
@@ -13654,6 +13657,7 @@ zznews.cn##.ad:not([style])
 ||aa.gushiwen.org^
 ||aa.wenxue6.com^
 ||aa.xiangxiangmf.com^
+||aa9v.cn^
 ||aa9z.cn^
 ||aaa.tumanyi.com^
 ||aaaa8.top^
@@ -15102,6 +15106,7 @@ zznews.cn##.ad:not([style])
 ||bnuni.com^$third-party
 ||boardx.huanqiu.com^
 ||bob4915.com^
+||bob4942.com^
 ||bob4994.com^
 ||bobo.com/special/mod-follow/
 ||bobo.com^$third-party
@@ -15262,6 +15267,7 @@ zznews.cn##.ad:not([style])
 ||bzyunduan.cn^
 ||c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com^
 ||c-ctrip.com/ResUnionOnline/R3/float/floating_normal.min.js
+||c-ctrip.com/images/0101r120009e1kn7oCDCA.gif
 ||c-ctrip.com/train/201611/yqh_270-280.jpg
 ||c.28rv.com^
 ||c.91wan.com^$third-party
@@ -15891,6 +15897,7 @@ zznews.cn##.ad:not([style])
 ||content.xilu.com^$object
 ||continuedsys.cn^
 ||continuefaf.top^
+||coodawei.cn^
 ||coolaler.com/index_ads/
 ||coolbook.cc^
 ||coolfenxi.com^
@@ -17515,6 +17522,7 @@ zznews.cn##.ad:not([style])
 ||gegeyingshi.com/template/*/images/g_js/
 ||geili.co^
 ||geili201911.ink^
+||geilicdn.com/img*_960_60.
 ||genfar.club^
 ||gengsang.me^
 ||geoart.vip^
@@ -21204,6 +21212,7 @@ zznews.cn##.ad:not([style])
 ||muyijia.shop^
 ||muyuge.com/fw.html/
 ||muyys.com/img/
+||muzhiying.xyz^
 ||muzisoft.com/static/*_f.js
 ||mvcat.com/ad/
 ||mvcat.com/api/wx/follow.js
@@ -22547,6 +22556,7 @@ zznews.cn##.ad:not([style])
 ||r5rl5r.cn^
 ||r890x3.com^
 ||r8sr4j.cn^
+||rabbitcloud.ltd^
 ||rabc1.iteye.com^
 ||rackcdn.com/htv/banners/$domain=hanime.tv
 ||radikal.ru^$domain=18board.com|18p2p.com
@@ -22707,6 +22717,7 @@ zznews.cn##.ad:not([style])
 ||rouman5.com/a2/*.gif
 ||rouman5.com/cps/*.gif
 ||rouman5.com/hlw.jpg
+||rppg.pro^
 ||rqgsf.com^
 ||rqjhhg.cn^
 ||rqkgcd.xyz^
@@ -23068,6 +23079,7 @@ zznews.cn##.ad:not([style])
 ||shorug.cn^
 ||shoudan6.press^
 ||shouji.com.cn/static/v1/js/appinfo.js
+||shoujizhuanqian.store^
 ||shoushushi.info^
 ||shouwangba.cn^
 ||shouyoutv.com/assets/api/web/v4/js/global_head.js
@@ -23243,6 +23255,7 @@ zznews.cn##.ad:not([style])
 ||sjmmhhh.cn^
 ||sjmwkj.cn^
 ||sjoy7rq.cn^
+||sjpoxe6.com^
 ||skads.gxsky.com^$script
 ||skeimg.com/i/*.gif
 ||skeyword.browser.qq.com/getHotRank
@@ -24916,6 +24929,7 @@ zznews.cn##.ad:not([style])
 ||whycywhivu.pro^
 ||whytoss.com^
 ||whyxqoc.cn^
+||whzshoes.com^
 ||whzxpm.cn^
 ||whzz.shop^
 ||wicp.net^*.swf
@@ -25456,6 +25470,7 @@ zznews.cn##.ad:not([style])
 ||xinshijue6080.com/Runtime/js/
 ||xinshijue6080.com/gg
 ||xinshijueba.com/js/home/
+||xinshizongqin.com^
 ||xintengfeiyang.info^
 ||xinwenren.com/index.php?m=poster&
 ||xinxbh.cn^

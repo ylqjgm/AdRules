@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206120240
+! Version: 202206130258
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41851
+! Lenth = 41856
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -4270,6 +4270,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /pixel.gif?
 /pixel.json?
 /pixel.jsp?
+/pixel.mathtag.com/*
 /pixel.php?
 /pixel.png?
 /pixel.swf?
@@ -8299,6 +8300,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ponominalu.ru/cart$document
 @@||popeater.com/traffic/?$script,domain=popeater.com
 @@||portalbici.es/lib/angulartics-google-analytics/dist/angulartics-ga.min.js
+@@||post2go.ru/widget/tracking?$~third-party
 @@||postclickmarketing.com^$domain=adtspecials.com|befinanciallyfit.com|cursodemedicina.com.br|demandmetric.com|hootsuite.com|semipresencial.com.br|systemsprotect.com
 @@||postex.com/api/ping?$~third-party
 @@||postnord.no/api/tracking/$~third-party
@@ -9451,6 +9453,7 @@ znak.com##.relap
 ||24log.de^$third-party
 ||24log.es^$third-party
 ||24log.fr^$third-party
+||24log.it^$third-party
 ||24log.ru^$third-party
 ||24smi.info^$third-party
 ||24smi.net^$third-party
@@ -14630,6 +14633,7 @@ znak.com##.relap
 ||cdn.digitaloceanspaces.com/pixel/lp.js
 ||cdn.dopc.cz/gen/detect.png
 ||cdn.driveback.ru^$third-party
+||cdn.fast.beintoo.net/static/tags/beintoo-tag.js
 ||cdn.feeds.ibt.com/track.gif^
 ||cdn.gamedock.io/gamedock-web-tracker/
 ||cdn.gamer-network.net/*/scripts/mormont
@@ -14685,6 +14689,7 @@ znak.com##.relap
 ||cdn7.baunetz.de^
 ||cdnanalytics.xyz^$third-party
 ||cdnen.rt.com/static/js/libs/counters.js
+||cdnhst.xyz^
 ||cdnma.com/apps/capture.js
 ||cdnmaster.cn^$third-party
 ||cdnmaster.com/sitemaster/sm360.js
