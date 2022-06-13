@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: HjVvnoILnDI1gL19PQjz2w
+! Checksum: fGIdbyi/aSCZSfHo3HB0GQ
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-13 16:29:01（北京时间） 
-! Total count: 19489
+! Version: 2022-06-13 19:23:14（北京时间） 
+! Total count: 19491
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -656,7 +656,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org.cgi?
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgy
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -9399,6 +9399,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$app=com.nextmediatw
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$app=net.ettoday.phone
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=10play.com.au
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|givemesport.com|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=24h.com.vn
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com
@@ -10652,7 +10653,6 @@
 @@||ktube.kr^$generichide
 @@||kubadownload.com^$generichide
 @@||kubadownload.com^$ghide
-@@||kukupl##.ad-sidebar-outer
 @@||kukuplay.com/upload/*.*.swf
 @@||kuntv.pw/sdembed$domain=strikeout.nu
 @@||kupongid.ru/design/js/adblock_detector.js$script
@@ -16199,6 +16199,7 @@
 @@||ssl.cf3.rackcdn.com/Ads/*$domain=theinquirer.net
 @@||ssl.cf3.rackcdn.com/Pub/*$domain=theinquirer.net
 @@||ssl.fastly.net/js/prebid-1-min.js$script
+@@||ssl.geoplugin.net/javascript.gp$domain=forfun.ist
 @@||ssl.geoplugin.net/javascript.gp$domain=imalentstore.com
 @@||ssl.geoplugin.net/javascript.gp$domain=retrohahn.myshopify.com
 @@||ssl.google-analytics.com$app=com.avast.android.mobilesecurity
@@ -18354,6 +18355,7 @@
 @@||vivo.sx^$generichide
 @@||vivo.sx^$ghide
 @@||vivo.sx^$stealth
+@@||vivocha.com/a/kartell/api/vivocha.js$domain=kartell.com
 @@||vivocha.com^*/vivocha.js?$script,domain=kartell.com
 @@||vivud.com/js/pop.js
 @@||viz.com^$generichide
