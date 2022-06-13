@@ -20,8 +20,7 @@ cat ./tmp/l.txt >> dns.txt
 cat ./tmp/dns998* >>../dns.txt
 cat ./mod/rules/*-rules.txt |grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort|uniq >> ../dns.txt
 
-cat ./script/*/white_domain_list.php |grep -Po "(?<=').+(?=')" | sed '/^$/d'   > allowtest.txt
-cat ./script/*/white_domain_list.php |grep -Po "(?<=').+(?=')" | sed '/^$/d'   >> allowtest.txt
+#cat ./script/*/white_domain_list.php |grep -Po "(?<=').+(?=')" | sed '/^$/d'   > allowtest.txt
 hostlist-compiler -c ./script/dns-rules-config.json -o dns-output.txt &
 wait
 rm -f allowtest.txt
