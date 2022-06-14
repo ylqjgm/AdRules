@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: X4a6sh3f1xlIlIbxvdHjKA
+! Checksum: 2/3fvlrxHlA36iXJna7tAA
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-14 16:29:01（北京时间） 
-! Total count: 19494
+! Version: 2022-06-14 18:26:05（北京时间） 
+! Total count: 19498
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -1405,6 +1405,7 @@
 @@||adobe.com/www.adobe.com/uber/js/pdc_s_code.js
 @@||adobe.com^*/delicious.png$domain=adobe.com
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca|nbarizona.com
+@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|ingrammicro.com|kroger.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|kroger.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
@@ -2393,6 +2394,7 @@
 @@||api.ipify.org/?format=jsonp&callback=getIP$domain=embedflix.net
 @@||api.ipify.org^
 @@||api.ipify.org^$script,domain=right-on.co.jp
+@@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|bicyclebluebook.com|equinoxplus.com|speedcheck.ky
 @@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|equinoxplus.com|speedcheck.ky
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.iplay.163.com^
@@ -13941,7 +13943,9 @@
 @@||powderprofit.com^$script,xmlhttprequest
 @@||powforums.com/js/*$xhr,1p
 @@||powr.io/form-builder/$domain=ipitaka.com
+@@||powr.io/form-builder/$domain=lavatools.co
 @@||powr.io/powr.js$domain=ipitaka.com
+@@||powr.io/powr.js$domain=lavatools.co
 @@||powr.io^$domain=kinetikwellbeing.com
 @@||powv1deo.cc^$stealth
 @@||powvibeo.cc^$stealth

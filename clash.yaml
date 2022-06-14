@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220614162843
+#VER=20220614182544
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=110207
+#TOTAL_LINES=110215
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -36890,6 +36890,7 @@ payload:
   - '+.guotaotaoci.net'
   - '+.guoxintdh.com'
   - '+.guoyu.link'
+  - '+.lnm.guozhongwang.cn'
   - '+.widgets.guppy.live'
   - '+.guppymedia.com'
   - '+.gurimix.com'
@@ -45321,6 +45322,7 @@ payload:
   - '+.stat.tiara.kakao.com'
   - '+.track.tiara.kakao.com'
   - '+.videostats.kakao.com'
+  - '+.tr.ds.kakao.com'
   - '+.ad.kakaocorp.com'
   - '+.kakappp.com'
   - '+.kakayy.com'
@@ -46265,6 +46267,7 @@ payload:
   - '+.kkmacsqsbf.info'
   - '+.pixel.kknews.cc'
   - '+.kkpqhqu.cn'
+  - '+.kkuuu.top'
   - '+.kl-toys.com'
   - '+.kl0ru78.xyz'
   - '+.kl6636.net'
@@ -56032,6 +56035,7 @@ payload:
   - '+.xcc.nbfieef.cn'
   - '+.nbgairiest.com'
   - '+.gb.nbgoodever.cn'
+  - '+.percent.nbgsintl.com'
   - '+.e.nbhaosheng168.com'
   - '+.m.nbhaosheng168.com'
   - '+.nbheopi.cn'
@@ -56969,6 +56973,7 @@ payload:
   - '+.nfqglptm47uc.com'
   - '+.nfsuj.com'
   - '+.bee.nfte.app'
+  - '+.fv.nftjjw.com'
   - '+.nftvvjpla.com'
   - '+.nfwebminer.com'
   - '+.nfztms.com'
@@ -88712,6 +88717,7 @@ payload:
   - '+.wtgongsi.com'
   - '+.wthnbwzk.com'
   - '+.ywrcqa.wthr.com'
+  - '+.dc.wtiaw.top'
   - '+.wtlive.com'
   - '+.wtmtrack.com'
   - '+.wtoicnybhh.com'
@@ -91725,6 +91731,7 @@ payload:
   - '+.yuanwei.ltd'
   - '+.yuanyanglw.com'
   - '+.api.yuanzun888.com'
+  - '+.vb.yubingyuan.top'
   - '+.yuccasswears.com'
   - '+.yucwqrqlf.com'
   - '+.yudaisuzuki.jp'
@@ -110209,6 +110216,7 @@ payload:
   - '+.zzxlhwyp.com'
   - '+.zzxxli.club'
   - '+.zzyanhushi.com'
+  - '+.pernet.zzycj.com'
   - '+.zzyonghao.com'
   - '+.zzyytt.top'
   - '+.zzznews.ru'
