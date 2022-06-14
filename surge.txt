@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220614182542
+#VER=20220614203648
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=110215
+#TOTAL_LINES=110216
 DOMAIN-SUFFIX,cda.0-shiny.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
 DOMAIN-SUFFIX,c.0.0.0.0.cn
@@ -31058,7 +31058,6 @@ DOMAIN-SUFFIX,fengchedaomall.cn
 DOMAIN-SUFFIX,bd1.fengdu100.com
 DOMAIN-SUFFIX,fengfeng.fun
 DOMAIN-SUFFIX,fenggejiaju.com
-DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,fengmian.xyz
 DOMAIN-SUFFIX,fengmishop.cn
 DOMAIN-SUFFIX,js.fengniao.com
@@ -45317,9 +45316,9 @@ DOMAIN-SUFFIX,act.ds.kakao.com
 DOMAIN-SUFFIX,ad.kakao.com
 DOMAIN-SUFFIX,kyson.kakao.com
 DOMAIN-SUFFIX,stat.tiara.kakao.com
+DOMAIN-SUFFIX,tr.ds.kakao.com
 DOMAIN-SUFFIX,track.tiara.kakao.com
 DOMAIN-SUFFIX,videostats.kakao.com
-DOMAIN-SUFFIX,tr.ds.kakao.com
 DOMAIN-SUFFIX,ad.kakaocorp.com
 DOMAIN-SUFFIX,kakappp.com
 DOMAIN-SUFFIX,kakayy.com
@@ -76924,6 +76923,7 @@ DOMAIN-SUFFIX,swtkc.cn
 DOMAIN-SUFFIX,swtkes.com
 DOMAIN-SUFFIX,swwbia.com
 DOMAIN-SUFFIX,swwpush.com
+DOMAIN-SUFFIX,swxun.com
 DOMAIN-SUFFIX,swzhaohuo.com.cn
 DOMAIN-SUFFIX,sx9zy.cn
 DOMAIN-SUFFIX,sxbhzs.net
@@ -81432,6 +81432,7 @@ DOMAIN-SUFFIX,t-pan.triodos.com
 DOMAIN-SUFFIX,admissions.trios.com
 DOMAIN-SUFFIX,aa-metrics.trip-ai.jp
 DOMAIN-SUFFIX,say.hello.tripactions.com
+DOMAIN-SUFFIX,ubt-sin.tripcdn.com
 DOMAIN-SUFFIX,om.triphomes.com
 DOMAIN-SUFFIX,ads.tripican.com
 DOMAIN-SUFFIX,numbers.triplejack.com
@@ -84562,7 +84563,7 @@ DOMAIN-SUFFIX,ads.vgchartz.com
 DOMAIN-SUFFIX,vgfutxwgq.com
 DOMAIN-SUFFIX,vggdaiesp.com
 DOMAIN-SUFFIX,vghd.com
-DOMAIN-SUFFIX,lie.vgijoh.com
+DOMAIN-SUFFIX,vgijoh.com
 DOMAIN-SUFFIX,vgimer.cn
 DOMAIN-SUFFIX,click.vgnett.no
 DOMAIN-SUFFIX,wall.vgr.com

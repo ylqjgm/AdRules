@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220614182544
+#VER=20220614203650
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=110215
+#TOTAL_LINES=110216
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -31061,7 +31061,6 @@ payload:
   - '+.bd1.fengdu100.com'
   - '+.fengfeng.fun'
   - '+.fenggejiaju.com'
-  - '+.fengkongcloud.com'
   - '+.fengmian.xyz'
   - '+.fengmishop.cn'
   - '+.js.fengniao.com'
@@ -45320,9 +45319,9 @@ payload:
   - '+.ad.kakao.com'
   - '+.kyson.kakao.com'
   - '+.stat.tiara.kakao.com'
+  - '+.tr.ds.kakao.com'
   - '+.track.tiara.kakao.com'
   - '+.videostats.kakao.com'
-  - '+.tr.ds.kakao.com'
   - '+.ad.kakaocorp.com'
   - '+.kakappp.com'
   - '+.kakayy.com'
@@ -76927,6 +76926,7 @@ payload:
   - '+.swtkes.com'
   - '+.swwbia.com'
   - '+.swwpush.com'
+  - '+.swxun.com'
   - '+.swzhaohuo.com.cn'
   - '+.sx9zy.cn'
   - '+.sxbhzs.net'
@@ -81435,6 +81435,7 @@ payload:
   - '+.admissions.trios.com'
   - '+.aa-metrics.trip-ai.jp'
   - '+.say.hello.tripactions.com'
+  - '+.ubt-sin.tripcdn.com'
   - '+.om.triphomes.com'
   - '+.ads.tripican.com'
   - '+.numbers.triplejack.com'
@@ -84565,7 +84566,7 @@ payload:
   - '+.vgfutxwgq.com'
   - '+.vggdaiesp.com'
   - '+.vghd.com'
-  - '+.lie.vgijoh.com'
+  - '+.vgijoh.com'
   - '+.vgimer.cn'
   - '+.click.vgnett.no'
   - '+.wall.vgr.com'
