@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: ZV0GqSDoysUP2fJkiADvzA
+! Checksum: kqV/xbuuV4Jt6MP6IKzjJQ
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-14 07:00:31（北京时间） 
-! Total count: 19494
+! Version: 2022-06-14 10:10:15（北京时间） 
+! Total count: 19497
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -8210,6 +8210,7 @@
 @@||googletagmanager.com/gtag/js$domain=xl-bygg.no
 @@||googletagmanager.com/gtag/js$script,domain=dholic.co.jp
 @@||googletagmanager.com/gtag/js$script,domain=hackintoshshop.com
+@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|livongo.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=radiosarajevo.ba
 @@||googletagmanager.com/gtag/js$script,domain=rjno1.com
@@ -11998,6 +11999,7 @@
 @@||my-debrid.net/files/reklam/js/*.js$~third-party
 @@||my.asos.com/identity^$stealth
 @@||my.bmi.ir^$elemhide,jsinject
+@@||my.dxdelivery.com/js/tracking.js$script,~third-party
 @@||my.foxnews.com^$stealth
 @@||my.leadpages.net/template/$script,domain=weddingjams.com
 @@||my.leadpages.net/template/$script,domain=weddingjams.com|thesaturdaypaper.com.au|careercontessa.com
@@ -12440,6 +12442,7 @@
 @@||nytimes.com/ads/google/adsbygoogle.js$script
 @@||nytimes.com/ads/parakeet.min.js
 @@||nytimes.com/bi/js/analytics/nyt4/controller.js
+@@||nytimes.com/games-assets/*/analytics.js$~third-party
 @@||nytimes.com^*/EventTracker.js$~third-party
 @@||nytimes.com^*/adslot-$script,xhr,badfilter
 @@||nytimes.com^*/adslot-$script,xmlhttprequest

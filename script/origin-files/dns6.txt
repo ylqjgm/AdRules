@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: zXfhNVw1fXQYuIOurhH3sA
-! Version: 202206132246
+! Checksum: h9YTqJuijzRpwMQS2AEi6Q
+! Version: 202206140156
 ! Title: EasyPrivacy
-! Last modified: 13 Jun 2022 22:46 UTC
+! Last modified: 14 Jun 2022 01:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13047,6 +13047,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sunset.com/tia/
 ||survey.interquest.com^
 ||survey.io/log?
+||surveymonkey.com/collect/
 ||surveymonkey.com/resp/api/metrics
 ||surveywall-api.survata.com^$third-party
 ||sv.aq.qq.com^
@@ -25443,6 +25444,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||rt.bunte.de^
 ||schnaeppchenfuchs.com/js/default-
 ||shoop.de/mgtrx/
+||sqs.quoka.de^
 ||squirrel.cividi.ch^
 ||ss.photospecialist.at^
 ||ss.photospecialist.de^
@@ -35595,6 +35597,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sunset.com/tia/
 ||survey.interquest.com^
 ||survey.io/log?
+||surveymonkey.com/collect/
 ||surveymonkey.com/resp/api/metrics
 ||surveywall-api.survata.com^$third-party
 ||sv.aq.qq.com^
@@ -47991,6 +47994,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||rt.bunte.de^
 ||schnaeppchenfuchs.com/js/default-
 ||shoop.de/mgtrx/
+||sqs.quoka.de^
 ||squirrel.cividi.ch^
 ||ss.photospecialist.at^
 ||ss.photospecialist.de^
