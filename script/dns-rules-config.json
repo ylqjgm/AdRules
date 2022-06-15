@@ -34,5 +34,5 @@
         }
     ],
     "exclusions_sources": ["https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt","allowtest.txt"],
-    "transformations": ["Compress", "Deduplicate", "InsertFinalNewLine", "RemoveEmptyLines", "TrimLines"]
+    "transformations": ["Compress", "Deduplicate"]
 }
