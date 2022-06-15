@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: EvC3Z8Vhj0PNSVNNJZBOoA
+! Checksum: cWIBh+wcBkap/ULOC7NXIA
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-15 10:02:39（北京时间） 
-! Total count: 19502
+! Version: 2022-06-15 16:32:12（北京时间） 
+! Total count: 19490
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -591,6 +591,7 @@
 @@_adview_$domain=muzlan.top
 @@_adview_cpc_$domain=52xkdy.com
 @@_cpc_cpm_$domain=saraba1st.com|ygo-sem.cn|youranshare.com
+@@_pic_cpm_$domain=52xkdy.com
 @@acloud*.com^$stealth,image,domain=wfwf135.com|wfwf137.com|wfwf138.com
 @@adm.fwmrm.net/p/aetn_live/AdManager.swf$domain=mylifetime.com|aetnd.com
 @@adsense$domain=adnanguney.com,image
@@ -656,7 +657,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org.script.js$script,~third-party
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgetailedgovernment.com^
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -1406,7 +1407,6 @@
 @@||adobe.com^*/delicious.png$domain=adobe.com
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca|nbarizona.com
 @@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|ingrammicro.com|kroger.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|kroger.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*/satelliteLib-$script,domain=ncaa.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
@@ -2395,7 +2395,6 @@
 @@||api.ipify.org^
 @@||api.ipify.org^$script,domain=right-on.co.jp
 @@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|bicyclebluebook.com|equinoxplus.com|speedcheck.ky
-@@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|equinoxplus.com|speedcheck.ky
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.iplay.163.com^
 @@||api.ipstack.com/check$domain=blockfi.com|get-in.com|withpersona.com
@@ -3744,7 +3743,6 @@
 @@||cdn-gl.imrworldwide.com/novms/*/ggng*.js$domain=taste.com.au
 @@||cdn-gl.imrworldwide.com/novms/js/*/configs/*.js$domain=heraldsun.com.au
 @@||cdn-gl.imrworldwide.com/novms/js/*/nlsSDK*.eu.bundle.min.js$domain=joyn.de
-@@||cdn-immedia.net/img/share/
 @@||cdn-magiclinks.trackonomics.net/client/static/v2/*_gamespot.js$domain=gamespot.com
 @@||cdn-mobile.api.pluto.tv^
 @@||cdn-net.com/cc.js$script,domain=butterfieldonline.com|uber.com|ubereats.com
@@ -6991,7 +6989,6 @@
 @@||fpdownload.macromedia.com^
 @@||fplay.online/log_event$~third-party,xmlhttprequest
 @@||fptplay.net/js/ads.js$script
-@@||fptplay.net/static/img/share/$image
 @@||frag-mutti.de^$ghide
 @@||frailflock.com^$script,xmlhttprequest
 @@||frailfruit.com^$script,xmlhttprequest
@@ -7891,7 +7888,6 @@
 @@||google-analytics.com/analytics.js^$domain=jackbox.tv
 @@||google-analytics.com/analytics.js^$domain=pioneer-car.eu
 @@||google-analytics.com/cx/api.js$domain=boingboing.net
-@@||google-analytics.com/cx/api.js$domain=pcloud.com
 @@||google-analytics.com/cx/api.js$domain=stern.de
 @@||google-analytics.com/ga.js$domain=7digital.com|account.hirezstudios.com|aebn.net|aftonbladet.se|alatest.com|americanapparel.net|apps.facebook.com|asus.com|avast.com|babylon.com|bangbros.com|banshee.fm|billabong.com|billboard.com|bolha.com|bookadumpster.com|boostmobile.com|break.com|brobible.com|change.org|cinemassacre.com|comingsoon.net|everydayhealth.com|dailyfreegames.com|dailysteals.com|echo.msk.ru|ehow.com|eonline.com|filmweb.pl|fora.tv|fossil.com|foxsports.com.au|frequency.com|g4tv.com|gasbuddy.com|globaltv.com|google.com|gumtree.com.au|hoerzu.de|imageshack.us|intellicast.com|jetbrains.com|jobsite.co.uk|justjared.com|juxtapoz.com|kaspersky.pl|kleinanzeigen.ebay.de|latimes.com|lemonfree.com|liptonicetea.com|logitech.com|lucasarts.com|mashable.com|maxcdn.com|medonet.pl|meetme.com|mevio.com|mommyish.com|newyorker.com|nme.com|nuts.co.uk|opendns.com|oyster.com|philips.com|photobucket.com|priceme.co.nz|priestville.org|salon.com|search.diy.com|seekingalpha.com|sundance.org|techbargains.com|tempe12.com|theblaze.com|thegrindstone.com|thevine.com.au|theweek.com|threatfire.com|timberland.com|tomshardware.com|tube8.com|tvunetworks.com|tweetgrid.com|umbro.com|videochart.net|weeworld.com|wonka.com|xda-developers.com|yellow.co.nz|youtube.com|zoo.org.au
 @@||google-analytics.com/ga.js$domain=7digital.com|account.hirezstudios.com|aebn.net|aftonbladet.se|alatest.com|americanapparel.net|apps.facebook.com|asus.com|avast.com|babylon.com|bangbros.com|banshee.fm|billabong.com|billboard.com|bolha.com|bookadumpster.com|boostmobile.com|break.com|brobible.com|cinemassacre.com|comingsoon.net|comingsoon.neteverydayhealth.com|dailyfreegames.com|donanimhaber.com|ehow.com|eonline.com|filmweb.pl|fora.tv|fossil.com|foxsports.com.au|frequency.com|g4tv.com|gasbuddy.com|globaltv.com|google.com|gumtree.com.au|hoerzu.de|imageshack.us|intellicast.com|jetbrains.com|jobsite.co.uk|justjared.com|juxtapoz.com|kleinanzeigen.ebay.de|latimes.com|lemonfree.com|liptonicetea.com|logitech.com|lucasarts.com|mashable.com|maxcdn.com|medonet.pl|meetme.com|mevio.com|mommyish.com|newyorker.com|nme.com|nuts.co.uk|opendns.com|oyster.com|philips.com|photobucket.com|priceme.co.nz|priestville.org|salon.com|search.diy.com|seekingalpha.com|sundance.org|techbargains.com|tempe12.com|theblaze.com|thegrindstone.com|thevine.com.au|theweek.com|threatfire.com|timberland.com|tomshardware.com|tube8.com|tvunetworks.com|tweetgrid.com|umbro.com|weeworld.com|wonka.com|xda-developers.com|yellow.co.nz|youtube.com|zoo.org.au
@@ -8211,7 +8207,6 @@
 @@||googletagmanager.com/gtag/js$script,domain=carhartt-wip.com|honeystinger.com|kawasaki.com|livongo.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=dholic.co.jp
 @@||googletagmanager.com/gtag/js$script,domain=hackintoshshop.com
-@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|livongo.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=radiosarajevo.ba
 @@||googletagmanager.com/gtag/js$script,domain=rjno1.com
 @@||googletagmanager.com/gtag/js$script,domain=timparty.tim.it
@@ -8239,7 +8234,6 @@
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
 @@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|formula1.com|fortune.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|formula1.com|fortune.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=aena.es
 @@||googletagmanager.com/gtm.js$domain=amd.com
@@ -8824,6 +8818,7 @@
 @@||haohuo.snssdk.com^
 @@||haokoubei.top/dl/rfo_v_f_pc.js
 @@||haokoubei.top/jquery/jquery-1.7.2.min.js
+@@||haokoubei.top/sz/to_v_f.js
 @@||haoweichi.com/Public/js/ads.js
 @@||happenhistory.com^$script,xmlhttprequest
 @@||happyride.se/img/admarket/
@@ -10011,6 +10006,7 @@
 @@||injections.adguard.com^$document
 @@||inkagames.com^$ghide
 @@||innerfidelity.com^$elemhide
+@@||innervision.co.jp/var/ezwebin_site/storage/images/ad/$image,~third-party
 @@||innocentinvention.com^$script,xmlhttprequest
 @@||innocentwax.com^$script,xmlhttprequest
 @@||innovelsolutions.com^*/tracking/$~third-party
@@ -10485,7 +10481,6 @@
 @@||kdslife.com/ui/css/share2.
 @@||ke1.nl^$generichide
 @@||keep.google.com^$jsinject
-@@||keepa.com/img/social/Google.svg
 @@||kehai.com/front/dist/app/site/list/advertisement.js
 @@||keneono.site^$ghide
 @@||kenkenpuzzle.com/assets/*$xhr,1p
@@ -10684,7 +10679,6 @@
 @@||labymod.net/affiliate/$~third-party
 @@||lacartes.com^$ghide
 @@||lackadaisicalkite.com^$script,xmlhttprequest
-@@||lacoste.com/on/demandware.static/*/click-analytics.js$~third-party
 @@||lacoste.com/on/demandware.static/*/js/dist-refit/framework/components/cookie-consent.js
 @@||lacoste.com^*/click-analytics.js$~third-party
 @@||lacoste.com^*/cookie-consent.js
@@ -12362,7 +12356,6 @@
 @@||notify.xboxlive.com^
 @@||notre-planete.info/medias/pub_300x250.png
 @@||nouvelle-fiat500.fr/ad-pub.js$script
-@@||nouvelobs.com/sites/all/themes/rue89base/css/img/share/bg-tools.png
 @@||novadex.com/wp-content/plugins/arscode-ninja-popups/js/ninjapopups.js
 @@||novagente.pt^$ghide
 @@||novamov.com/banner.php$script
@@ -12415,6 +12408,7 @@
 @@||nulldiscussion.com^$script,xmlhttprequest
 @@||nulled.life/Assets/Addon/Css/ads.css
 @@||nulledfree.pw/wp-content/*$script,1p
+@@||nulledsite.com/ads-prebid.js
 @@||nulledteam.com/js/*/adsservice.js
 @@||nulledteam.com/js/SvgAdblockDetected/advertising.js
 @@||nulledteam.com^$generichide
@@ -12534,7 +12528,6 @@
 @@||ojogo.pt/common/scripts/ads.js$script
 @@||ojogos.com.br/wdg/js_aggregator-active/js/module/monetisation/advertisement.js
 @@||ok.ru/web-api/music/conf$stealth
-@@||ok.ru^*/img/social/$image,domain=ok.ru
 @@||ok.ru^*/sprites/social-$image,domain=ok.ru
 @@||okccdn.com/builds/desktop/js/tracking_center.$script,domain=okcupid.com
 @@||okfirenze.com/*/app/assets/js/prebid-ads.js
@@ -12931,7 +12924,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=door2windows.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=download.mokeedev.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=download.pixelexperience.org|knowfacts.info|lacoste.com|real-sports.jp|slideplayer.com|smallseotools.com|soranews24.com|tampermonkey.net|teemo.gg|thefreedictionary.com
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=download.pixelexperience.org|knowfacts.info|real-sports.jp|slideplayer.com|smallseotools.com|soranews24.com|tampermonkey.net|teemo.gg|thefreedictionary.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=downloads.descendant.me
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dthforum.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=duit.cc
@@ -16256,8 +16248,6 @@
 @@||st.wetteronline.de/dr/*/css/p_*.css
 @@||stabila.com/*bundles/marketingsuite/css/cookie-bar.css
 @@||stabila.com/bundles/marketingsuite/css/cookie-bar.css
-@@||stackexchange.com/content/img/share-sprite-new.png
-@@||stackoverflow.com/content/img/share-sprite-new.png
 @@||stackpathcdn.com/wp-content/plugins/*/adblock-detector/advertisement.js$domain=phoneswiki.com
 @@||stackpathcdn.com^$stealth,domain=tympanus.net
 @@||stackpathdns.com^
@@ -18441,7 +18431,6 @@
 @@||voldffgkdsllkjthlkjt.b-cdn.net/ads/ads.js
 @@||volksfreund.de/assets/adsbygoogle.js$script,1p
 @@||volksfreund.de^$ghide
-@@||volkswagen-electrique.fr/img/share/share.jpg
 @@||volterra.io^*/advertise_policy$~third-party
 @@||volterra.us^*/advertise_policy$~third-party
 @@||voluumtrk.com^$image,domain=ally.sh|al.ly
@@ -18544,7 +18533,6 @@
 @@||warda.at^$ghide
 @@||ware.shop.jd.com^$genericblock,generichide
 @@||wargag.ru/public/js/counter.js?
-@@||wargaming.net/registration/static/*/img/social/icon_$image,domain=wargaming.net
 @@||wargaming.net^$stealth
 @@||warmafterthought.com^$script,xmlhttprequest
 @@||warmquiver.com^$script,xmlhttprequest

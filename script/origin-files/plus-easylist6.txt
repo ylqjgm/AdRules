@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206140357
+! Version: 202206150344
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41889
+! Lenth = 41873
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -697,6 +697,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /?fp=*&prvtof=
 /?imp_id=
 /?livehit=
+/?local_ga_js=
 /?log=experiment&
 /?log=performance-
 /?mailoptin-ajax=track_optin_impression
@@ -5385,6 +5386,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /track?wm_
 /trackAdHit.
 /trackAirship.js
+/trackBatchEvents?
 /trackClickAsync.
 /trackClickEvent.js
 /trackContentViews.
@@ -6386,7 +6388,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
 @@||adobedtm.com/*-libraryCode_source.min.js$script,domain=ally.com|crave.ca|nbarizona.com
-@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|kroger.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
+@@||adobedtm.com/*-source.min.js$script,domain=aarp.org|ally.com|atresplayer.com|backcountry.com|bose.com|bt.com|cadenaser.com|churchofjesuschrist.org|crave.ca|currys.co.uk|dollargeneral.com|etihad.com|hilton.com|ing.com.au|ingrammicro.com|kroger.com|nbarizona.com|news.sky.com|personal.natwest.com|ssrn.com|telus.com|verizon.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|hl.co.uk|kroger.com|telus.com
 @@||adobedtm.com/extensions/$script,domain=antena3.com|atresmedia.com|atresplayer.com|lasexta.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|cadenaser.com|crave.ca|foodnetwork.com|telus.com|verizon.com
@@ -6531,7 +6533,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||api.ip.sb/geoip$domain=ip.skk.moe
 @@||api.ipify.org/?format=jsonp&callback=getIP$domain=embedflix.net
 @@||api.ipify.org^$script,domain=right-on.co.jp
-@@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|equinoxplus.com|speedcheck.ky
+@@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|bicyclebluebook.com|equinoxplus.com|speedcheck.ky
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.ipstack.com/check$domain=blockfi.com|get-in.com|withpersona.com
 @@||api.mixpanel.com/engage/?data=$xmlhttprequest,domain=deezer.com
@@ -7359,7 +7361,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||google-analytics.com/analytics.js^$domain=cosstores.com
 @@||google-analytics.com/analytics.js^$domain=jackbox.tv
 @@||google-analytics.com/analytics.js^$domain=pioneer-car.eu
-@@||google-analytics.com/cx/api.js$domain=pcloud.com
 @@||google-analytics.com/cx/api.js$domain=stern.de
 @@||google-analytics.com/ga.js$domain=7digital.com|account.hirezstudios.com|aebn.net|aftonbladet.se|alatest.com|americanapparel.net|apps.facebook.com|asus.com|avast.com|babylon.com|bangbros.com|banshee.fm|billabong.com|billboard.com|bolha.com|bookadumpster.com|boostmobile.com|break.com|brobible.com|change.org|cinemassacre.com|comingsoon.net|everydayhealth.com|dailyfreegames.com|dailysteals.com|echo.msk.ru|ehow.com|eonline.com|filmweb.pl|fora.tv|fossil.com|foxsports.com.au|frequency.com|g4tv.com|gasbuddy.com|globaltv.com|google.com|gumtree.com.au|hoerzu.de|imageshack.us|intellicast.com|jetbrains.com|jobsite.co.uk|justjared.com|juxtapoz.com|kaspersky.pl|kleinanzeigen.ebay.de|latimes.com|lemonfree.com|liptonicetea.com|logitech.com|lucasarts.com|mashable.com|maxcdn.com|medonet.pl|meetme.com|mevio.com|mommyish.com|newyorker.com|nme.com|nuts.co.uk|opendns.com|oyster.com|philips.com|photobucket.com|priceme.co.nz|priestville.org|salon.com|search.diy.com|seekingalpha.com|sundance.org|techbargains.com|tempe12.com|theblaze.com|thegrindstone.com|thevine.com.au|theweek.com|threatfire.com|timberland.com|tomshardware.com|tube8.com|tvunetworks.com|tweetgrid.com|umbro.com|videochart.net|weeworld.com|wonka.com|xda-developers.com|yellow.co.nz|youtube.com|zoo.org.au
 @@||google-analytics.com/ga.js$domain=justsystems.com
@@ -7465,8 +7466,8 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js$domain=ryanair.com
 @@||googletagmanager.com/gtag/js$domain=srek.net
 @@||googletagmanager.com/gtag/js$domain=xl-bygg.no
+@@||googletagmanager.com/gtag/js$script,domain=carhartt-wip.com|honeystinger.com|kawasaki.com|livongo.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=dholic.co.jp
-@@||googletagmanager.com/gtag/js$script,domain=honeystinger.com|kawasaki.com|livongo.com|m.putlocker.how|mediaite.com|schwab.com|toptal.com
 @@||googletagmanager.com/gtag/js$script,domain=radiosarajevo.ba
 @@||googletagmanager.com/gtag/js$script,domain=timparty.tim.it
 @@||googletagmanager.com/gtag/js$script,domain=toptal.com
@@ -7482,7 +7483,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googletagmanager.com/gtag/js^$domain=timparty.tim.it
 @@||googletagmanager.com/gtm.js$domain=20min.ch
 @@||googletagmanager.com/gtm.js$domain=accupass.com
-@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|formula1.com|fortune.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
+@@||googletagmanager.com/gtm.js$domain=acehardware.com|ads.spotify.com|aeromexico.com|atptour.com|bsa-whitelabel.com|carhartt-wip.com|ccleaner.com|chipotle.com|complex.com|crello.com|cyclingnews.com|cypress.io|doodle.com|easternbank.com|flytap.com|formula1.com|fortune.com|gumtree.com|harveynorman.co.nz|harveynorman.com.au|jn.pt|kedronparkhotel.com.au|level.travel|nflgamepass.com|nordvpn.com|nourison.com|oakandfort.com|petsathome.com|pioneer.eu|primeoak.co.uk|royalbank.com|scotsman.com|soundguys.com|stressless.com|support.creative.com|trademe.co.nz|tumi.com|uniqlo.com|uqr.to
 @@||googletagmanager.com/gtm.js$domain=ads.allegro.pl
 @@||googletagmanager.com/gtm.js$domain=amd.com
 @@||googletagmanager.com/gtm.js$domain=anond.hatelabo.jp
@@ -7931,7 +7932,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||ksta.de^*/tracking/tracking.js$domain=ksta.de
 @@||l.yimg.com/g/combo/*/comscore.$script
 @@||labrc.pw/advstats/$xmlhttprequest
-@@||lacoste.com/on/demandware.static/*/click-analytics.js$~third-party
+@@||lacoste.com^*/click-analytics.js$~third-party
 @@||languagecloud.sdl.com/node_modules/fingerprintjs2/dist/fingerprint2.min.js
 @@||laredoute.pt/js/byside_webcare.js
 @@||lastampa.it/common/js/video-js-mm/webtrekk_media_flash.js
@@ -9086,6 +9087,7 @@ club-opel.com##.toplist
 cmail1.com/t$image
 cnn.com##.zn-story-bottom
 computerbild.de##.articleAdditional > .mehrthema
+configurator.ducati.com#%#//scriptlet("set-constant", "WURFL", "emptyObj")
 connect.de#%#//scriptlet("abort-on-property-read", "trConfig")
 contactmonkey.com/api/v1/tracker$image
 continentseven.com##.gaoop
@@ -9684,7 +9686,7 @@ znak.com##.relap
 ||a.intercityhotel.com^
 ||a.jaz-hotel.com^
 ||a.jenshenrikthomsen.dk^
-||a.klaviyo.com^$third-party
+||a.klaviyo.com^
 ||a.kryptonitewp.com^
 ||a.linkz.ai^
 ||a.maxxhotel.com^
@@ -9696,7 +9698,7 @@ znak.com##.relap
 ||a.myfidevs.io^$third-party
 ||a.nytimes.com/svc/nyt/data-layer?sourceApp
 ||a.o2u.jp^
-||a.oix.net^$third-party
+||a.oix.net^
 ||a.perfumesclub.fr^
 ||a.poki.com/observer/$script
 ||a.popin.cc^
@@ -9722,7 +9724,7 @@ znak.com##.relap
 ||a.zleep.com^
 ||a013.com^$third-party
 ||a1.api.bbc.co.uk^
-||a1.huiqituan.com^$third-party
+||a1.huiqituan.com^
 ||a10.nationalreview.com^
 ||a11058.actonservice.com^
 ||a11315.actonservice.com^
@@ -9988,7 +9990,7 @@ znak.com##.relap
 ||a29866.actonservice.com^
 ||a29868.actonservice.com^
 ||a2z.com/sping?
-||a3.ogt.jp^$third-party
+||a3.ogt.jp^
 ||a30667.actonservice.com^
 ||a30668.actonservice.com^
 ||a31047.actonservice.com^
@@ -10580,6 +10582,7 @@ znak.com##.relap
 ||ab-machine.forbes.com^
 ||ab.blogs.es^
 ||ab.fanatical.com^
+||ab.servogram.io^
 ||abackchain.com^
 ||abackchain.com^$third-party
 ||abacksoda.com^
@@ -10765,7 +10768,6 @@ znak.com##.relap
 ||abruptroad.com^
 ||abruptroad.com^$third-party
 ||abs.proxistore.com^
-||abs.proxistore.com^$third-party
 ||absentstream.com^
 ||absentstream.com^$third-party
 ||absinfo.eagle.org^
@@ -11020,14 +11022,14 @@ znak.com##.relap
 ||adc.api.nine.com.au^
 ||adc.nine.com.au/?token=$redirect=nooptext,important,domain=9now.com.au
 ||adc.nine.com.au^
-||adc.xxxlshop.de^$third-party
-||adc.xxxlutz.de^$third-party
+||adc.xxxlshop.de^
+||adc.xxxlutz.de^
 ||adchemix.com^$third-party
 ||adchemy-content.com^$third-party
 ||adchemy.com^$third-party
-||adclear.baur.de^$third-party
+||adclear.baur.de^
 ||adclear.net^$third-party
-||adclear.teufel.de^$third-party
+||adclear.teufel.de^
 ||adclicks.io^$third-party
 ||adclickstats.net^$third-party
 ||adcontroll.com^
@@ -11250,9 +11252,10 @@ znak.com##.relap
 ||adsmetadata.startappk8s.com^$third-party
 ||adspsp.com^$third-party
 ||adsrvr.org^$third-party
+||adstat.4u.pl^
 ||adstat.4u.pl^$third-party
 ||adstats.tencentmusic.com^
-||adstax-cdn.adrtx.net^$third-party
+||adstax-cdn.adrtx.net^
 ||adsunflower.com^
 ||adsymptotic.com^$third-party
 ||adsystem.dailyissue.co.kr/show/logs.php
@@ -11794,7 +11797,7 @@ znak.com##.relap
 ||analytic.fishtrack.com^
 ||analytic.hotelclub.com^
 ||analytic.imlive.com^
-||analytic.piri.net^$third-party
+||analytic.piri.net^
 ||analytic.pnc.com^
 ||analytic.press^
 ||analytic.rocks^
@@ -11833,7 +11836,7 @@ znak.com##.relap
 ||analytics-production.hapyak.com^
 ||analytics-proxy.springboard.com^
 ||analytics-rhwg.rhcloud.com^
-||analytics-rollout-*.amazonaws.com^$third-party
+||analytics-rollout-*.amazonaws.com^
 ||analytics-script.ad-shield.io^
 ||analytics-scripts.cablelabs.com^
 ||analytics-sdk.yle.fi^
@@ -11873,13 +11876,12 @@ znak.com##.relap
 ||analytics.amica.com^
 ||analytics.amig.com^
 ||analytics.anvato.net^
-||analytics.anvato.net^$third-party
 ||analytics.any.do^
 ||analytics.apnewsregistry.com^
 ||analytics.appsbnet.com.br^
 ||analytics.appservice.tech^
 ||analytics.archive.org^
-||analytics.artirix.com^$third-party
+||analytics.artirix.com^
 ||analytics.arunraghavan.net^
 ||analytics.asml.com^
 ||analytics.atlassian.com^
@@ -11890,7 +11892,6 @@ znak.com##.relap
 ||analytics.autozone.com^
 ||analytics.avanser.com.au^
 ||analytics.aweber.com^
-||analytics.aweber.com^$third-party
 ||analytics.basistheory.com^
 ||analytics.belgacom.be^
 ||analytics.betterplaces.nl^
@@ -11986,11 +11987,10 @@ znak.com##.relap
 ||analytics.dvidshub.net^
 ||analytics.ecosia.org^
 ||analytics.edgekey.net^
-||analytics.edgekey.net^$third-party
 ||analytics.edgesuite.net^
 ||analytics.eggoffer.com^
 ||analytics.eleague.com^
-||analytics.electro-com.ru^$third-party
+||analytics.electro-com.ru^
 ||analytics.elx.cloud^
 ||analytics.enjoymobiserver.com^
 ||analytics.erepublic.com^
@@ -12000,7 +12000,7 @@ znak.com##.relap
 ||analytics.fabricators.ltd^$third-party
 ||analytics.facebook.com^$third-party
 ||analytics.faceitanalytics.com^
-||analytics.fairfax.com.au^$third-party
+||analytics.fairfax.com.au^
 ||analytics.fatalparadox.com^
 ||analytics.fatmedia.io^$third-party
 ||analytics.favcy.com^
@@ -12191,7 +12191,6 @@ znak.com##.relap
 ||analytics.qualityquestions.co^
 ||analytics.qualityunit.com^
 ||analytics.query.yahoo.com^
-||analytics.query.yahoo.com^$third-party
 ||analytics.radiatemedia.com^
 ||analytics.rafalkukla.com^
 ||analytics.rambla.be^
@@ -12210,7 +12209,7 @@ znak.com##.relap
 ||analytics.reyrey.net^
 ||analytics.robinhood.com^
 ||analytics.rogersmedia.com^
-||analytics.rotapost.ru^$third-party
+||analytics.rotapost.ru^
 ||analytics.rover.io^
 ||analytics.salesanalytics.io^
 ||analytics.samsungknox.com^
@@ -12314,7 +12313,6 @@ znak.com##.relap
 ||analytics.tver.jp^
 ||analytics.twitter.com/i/adsct?
 ||analytics.twitter.com^
-||analytics.twitter.com^$third-party
 ||analytics.ubs.com^
 ||analytics.underarmour.com^
 ||analytics.unibuddy.co^
@@ -12523,7 +12521,6 @@ znak.com##.relap
 ||api.aio.media/stat?
 ||api.all-internet.jp^$third-party
 ||api.amplitude.com^
-||api.amplitude.com^$third-party
 ||api.analytics.omgpop.com^
 ||api.apisolutions.work/track/$third-party
 ||api.appsee.com^
@@ -12543,7 +12540,7 @@ znak.com##.relap
 ||api.branch.io^
 ||api.bunjang.co.kr/api/log/
 ||api.bunzlaucastle.com^
-||api.calq.io^$third-party
+||api.calq.io^
 ||api.carrottrack.io^$third-party
 ||api.cazamba.com^$third-party
 ||api.centify.co/adb
@@ -12566,7 +12563,7 @@ znak.com##.relap
 ||api.facebook.com/method/logging.clientevent
 ||api.fanmatics.com/event
 ||api.ffbbbdc6d3c353211fe2ba39c9f744cd.com^$third-party
-||api.flocktory.com^$third-party
+||api.flocktory.com^
 ||api.fw.tv/embed/
 ||api.gameanalytics.com^
 ||api.gameofwhales.com^
@@ -12585,7 +12582,8 @@ znak.com##.relap
 ||api.keen.io/*/projects/$domain=faceit.com
 ||api.leadpages.io/analytics/$domain=~my.leadpages.net
 ||api.limbik.com^$third-party
-||api.logmatic.io^$third-party
+||api.livestory.io/*/collect
+||api.logmatic.io^
 ||api.mercadolibre.com/tracks
 ||api.mindbox.ru/scripts/*/tracker.js
 ||api.miui.security.xiaomi.com^
@@ -12685,7 +12683,7 @@ znak.com##.relap
 ||app.compendium.com/js/stats_bundle.js
 ||app.conversio.com/tracking/
 ||app.convertkit.com/forms/*/visit
-||app.crossengage.io^$third-party
+||app.crossengage.io^
 ||app.email.influitive.com^
 ||app.emueagles.com^
 ||app.events.philips.com^
@@ -12724,7 +12722,7 @@ znak.com##.relap
 ||app.pittsburghpanthers.com^
 ||app.playhousesquare.org^
 ||app.polymersearch.com/dataunlocker.js
-||app.redretarget.com^$third-party
+||app.redretarget.com^
 ||app.response.siemens-info.com^
 ||app.responsivevoice.org/analytics/
 ||app.retargetapp.com/pixel/pixel.min.js
@@ -12795,7 +12793,7 @@ znak.com##.relap
 ||appointments.providence.org^
 ||apprhs.hrm.healthgrades.com^
 ||apps.imaginecommunications.com^
-||apps.poln.co^$third-party
+||apps.poln.co^
 ||apps.relationshipone.com^
 ||appsanalytics.appideas.it^
 ||appsecurezomation.carte-gr.total.fr^
@@ -12815,7 +12813,7 @@ znak.com##.relap
 ||aprtx.com^$third-party
 ||apsis1.com^$third-party
 ||apsislead.com^$third-party
-||apv-launcher.minute.ly^$third-party
+||apv-launcher.minute.ly^
 ||apwip-dev.actonservice.com^
 ||apxl.io^
 ||apxy.io^$third-party
@@ -12856,7 +12854,6 @@ znak.com##.relap
 ||argyresthia.com^
 ||argyresthia.com^$third-party
 ||ariane.abtasty.com^
-||ariane.abtasty.com^$third-party
 ||arianelab.com^$third-party
 ||ariseboundary.com^
 ||ariseboundary.com^$third-party
@@ -13067,7 +13064,7 @@ znak.com##.relap
 ||audience.newscgp.com^
 ||audience.standardchartered.com.tw^
 ||audience.systems^$third-party
-||audience.visiblemeasures.com^$object,third-party
+||audience.visiblemeasures.com^
 ||audience.zeustechnology.com^$third-party
 ||audienceamplify.com^$third-party
 ||audienceapi.newsdiscover.com.au^$third-party
@@ -13198,7 +13195,7 @@ znak.com##.relap
 ||aws-native.com/ping/
 ||awseukpi.whisbi.com^$third-party
 ||awstrack.me^$third-party
-||awsync.yandex.ru^$third-party
+||awsync.yandex.ru^
 ||awuapj.landwatch.com^
 ||awzbijw.com^$third-party
 ||ax.idg.se/st01^
@@ -13242,7 +13239,7 @@ znak.com##.relap
 ||b-cdn.milliyet.com.tr/banalytics.js
 ||b-ssl.grvcdn.com^
 ||b.aecf.org^
-||b.aol.com^$third-party
+||b.aol.com^
 ||b.bedop.com^
 ||b.bloomberglp.com^
 ||b.dl.redcrossblood.org^
@@ -13250,7 +13247,7 @@ znak.com##.relap
 ||b.fox.com^
 ||b.foxsports.com^
 ||b.fxnetworks.com^
-||b.grvcdn.com^$third-party
+||b.grvcdn.com^
 ||b.huffingtonpost.com^
 ||b.iheart.southwest.com^
 ||b.itravel.southwest.com^
@@ -13261,12 +13258,13 @@ znak.com##.relap
 ||b.medtronic.com^
 ||b.mibank.com^
 ||b.mynewplace.com^
-||b.oix.net^$third-party
+||b.oix.net^
 ||b.prod1.youroffers.dominos.ca^
 ||b.publicmobile.ca^
 ||b.px-cdn.net^
 ||b.rwjf.org^
 ||b.simyo.de^
+||b.sli-spark.com^
 ||b.snow.com^
 ||b.telus.com^
 ||b.travel-assets.com/travel-pixel-js/
@@ -13457,7 +13455,7 @@ znak.com##.relap
 ||bcbits.com/bundle/bundle/1/impl-$domain=bandcamp.com
 ||bcc-ltd.actonhymebiz.com^
 ||bcc-ltd.actonservice.com^
-||bcd.esprit.de^$third-party
+||bcd.esprit.de^
 ||bch8.destinia.co^
 ||bcob.uncc.edu^
 ||bcs-computersysteme.com/cgi-local/hiddencounter/
@@ -13490,6 +13488,7 @@ znak.com##.relap
 ||beacon.gutefrage.net^
 ||beacon.indieclicktv.com^
 ||beacon.itmedia.jp^
+||beacon.kmi-us.com^
 ||beacon.kmi-us.com^$third-party
 ||beacon.livefyre.com^
 ||beacon.lycos.com^
@@ -13686,7 +13685,7 @@ znak.com##.relap
 ||bi.concordesolutions.com^
 ||bi.manhuaren.com^
 ||bi.medscape.com^
-||bia.brightinfo.com^$third-party
+||bia.brightinfo.com^
 ||biberukalap.com^
 ||bibglj.timberland.fr^
 ||bid.run^$third-party
@@ -14015,7 +14014,7 @@ znak.com##.relap
 ||br.de/doTrack
 ||br.email.lifesum.com^
 ||br.links.kodakmoments.com^
-||br.phorm.com^$third-party
+||br.phorm.com^
 ||br.potato1.influitive.com^
 ||br.promo.skf.com^
 ||brahe.apptimize.com^
@@ -14118,7 +14117,7 @@ znak.com##.relap
 ||bsna.galeria-kaufhof.de^
 ||bstn-14-ma.com^$third-party
 ||bt.mediaimpact.de^
-||bt.phorm.com^$third-party
+||bt.phorm.com^
 ||btbuckets.com^$third-party
 ||btez8.xyz^
 ||btez8.xyz^$third-party
@@ -14251,19 +14250,20 @@ znak.com##.relap
 ||c-o-u-n-t.com^$third-party
 ||c-rings.net^$third-party
 ||c.aaxads.com/aax.js^
-||c.adroll.com^$third-party
+||c.adroll.com^
 ||c.amazinglybrilliant.com.au^
-||c.bigmir.net$third-party
+||c.bigmir.net
 ||c.bigmir.net^
 ||c.bing.com/c.gif
 ||c.data.mob.com^
 ||c.dpgmedia.net^$third-party
 ||c.gazetevatan.com^
+||c.hit.ua^
 ||c.hit.ua^$third-party
 ||c.holmesmind.com^
 ||c.imedia.cz^
 ||c.imedia.cz^$third-party
-||c.imrk.net^$third-party
+||c.imrk.net^
 ||c.ipaddress.com^
 ||c.keltis.com/c.aspx
 ||c.lazada.co.id/t/v.gif?__t=
@@ -14282,7 +14282,7 @@ znak.com##.relap
 ||c.sibnet.ru^
 ||c.snow.com^
 ||c.t-online.de^
-||c.tbex.ru^$third-party
+||c.tbex.ru^
 ||c.tgknt.com^$third-party
 ||c.tienda.com^
 ||c.tvpixel.com^$third-party
@@ -14296,7 +14296,7 @@ znak.com##.relap
 ||c.ypcdn.com^*?ptid
 ||c0.adalyser.com^
 ||c0.froala.com/i?
-||c00.adobe.com^$redirect=nooptext
+||c00.adobe.com^
 ||c0012.brsimg.com^
 ||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^
@@ -14321,7 +14321,7 @@ znak.com##.relap
 ||ca.mattamyhomes.com^
 ||ca.promo.skf.com^
 ||ca.ssl.holdmybeerconsulting.com^
-||ca.video-cdn.net^$third-party
+||ca.video-cdn.net^
 ||caanalytics.com^$third-party
 ||cache.am^$third-party
 ||cache.ltn.com.tw/js/c.js
@@ -14585,7 +14585,7 @@ znak.com##.relap
 ||cbuvhv.desertcart.ae^
 ||cbviho.easyvols.fr^
 ||cc-api-data.adobe.io^
-||cc.calltracking.ru^$third-party
+||cc.calltracking.ru^
 ||cc.conforama.es^
 ||cc.hb.omtrdc.net^
 ||cc.naver.com/cc|$image,other,ping
@@ -14632,12 +14632,12 @@ znak.com##.relap
 ||cdn.attn.tv/*/dtag.js
 ||cdn.awsli.com.br/production/static/analytics/owa.min.js
 ||cdn.branch.io^$domain=underarmour.com
+||cdn.c-i.as^
 ||cdn.c-i.as^$script,third-party
-||cdn.c-i.as^$third-party
 ||cdn.calltrk.com/companies/
 ||cdn.cohesionapps.com/cohesion/xs1.html?xsid=
 ||cdn.cohesionapps.com^$domain=gamespot.com
-||cdn.contalyze.com^$third-party
+||cdn.contalyze.com^
 ||cdn.contx.net/collect.js
 ||cdn.cr.org/etc/designs/electronics/clientlibs/tracking.js
 ||cdn.cubki.jp/shopping_tracker.js
@@ -14655,6 +14655,7 @@ znak.com##.relap
 ||cdn.hiido.cn^$third-party
 ||cdn.hivps.xyz/analytics-
 ||cdn.jsdelivr.net/countly-sdk-web/
+||cdn.jsdelivr.net/gh/unib0ts/
 ||cdn.jsdelivr.net/npm/@adshield/
 ||cdn.jsdelivr.net/npm/perfops-rom$domain=kropic.com|opensubtitles.org
 ||cdn.jsdelivr.net/npm/rrweb@latest/dist/rrweb.
@@ -14669,7 +14670,7 @@ znak.com##.relap
 ||cdn.melhorplano.net/scripts/tracker/mpt.min.js
 ||cdn.merklesearch.com/merkle_track.js
 ||cdn.milffox.com/static/milffox.com/js/gtm.js
-||cdn.odoscope.cloud^$third-party
+||cdn.odoscope.cloud^
 ||cdn.omuz.com.tr/connect/pub-min.js
 ||cdn.pmweb.com.br/df/tag.js
 ||cdn.preciso.net^$third-party
@@ -14712,13 +14713,13 @@ znak.com##.relap
 ||cdnplanet.com/static/rum/rum.js
 ||cdns.gigya.com/js/gigyaGAIntegration.js
 ||cdnst.zaycev.net/static/*/countersm.js
-||cdnstats-a.akamaihd.net^$third-party
+||cdnstats-a.akamaihd.net^
 ||cdnstr.com^
 ||cdntrf.de^$third-party
 ||cdnweb.avansas.com/_ui/shared/js/analyticsmediator.js
 ||cdp.cloud.unity3d.com^
 ||cdp.vemt.com^$third-party
-||ce-global-track-*.amazonaws.com^$third-party
+||ce-global-track-*.amazonaws.com^
 ||ce.lijit.com^
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||cedexis-radar.net^
@@ -14947,7 +14948,7 @@ znak.com##.relap
 ||cityua.net^$third-party
 ||cityzen.io/Pixel/
 ||ciyacton.ciy.com^
-||cj.madeleine.de^$third-party
+||cj.madeleine.de^
 ||cjcqls.onbuy.com^
 ||cjrhml.snipes.ch^
 ||cjs-cdkeys.com/index.php?action=track
@@ -15334,7 +15335,7 @@ znak.com##.relap
 ||cmstool.youku.com^
 ||cmstrendslog.indiatimes.com^
 ||cmstrendslog.timesnow.tv^
-||cmt.setrowid.com^$third-party
+||cmt.setrowid.com^
 ||cmttvv.bonprix.se^
 ||cn.adpinfo.com^
 ||cn.ntdtv.com/assets/themes/ntd/js/article_ads.js
@@ -15393,20 +15394,17 @@ znak.com##.relap
 ||cnt.cerber.rambler.ru^
 ||cnt.hd21.
 ||cnt.iceporn.com^
-||cnt.inforotor.net^$third-party
+||cnt.inforotor.net^
 ||cnt.iol.it^
 ||cnt.krasland.ru^
 ||cnt.logoslovo.ru^
-||cnt.logoslovo.ru^$third-party
 ||cnt.mastorage.net^
 ||cnt.nicemix.com^
 ||cnt.nov.ru^
-||cnt.nov.ru^$third-party
 ||cnt.nuvid.
 ||cnt.nuvid.com^
 ||cnt.proporn.
 ||cnt.rambler.ru^
-||cnt.rambler.ru^$third-party
 ||cnt.ramlife.ru^
 ||cnt.rate.ru^
 ||cnt.re/cnt/$third-party
@@ -15422,7 +15420,6 @@ znak.com##.relap
 ||cnt.yeptube.
 ||cnt1.net^$third-party
 ||cnt2.stroeerdp.de^
-||cnt2.stroeerdp.de^$third-party
 ||cntcerber.rambler.ru^
 ||cnvhtw.pompa.ru^
 ||cnxddc.lodenfrey.com^
@@ -15454,12 +15451,12 @@ znak.com##.relap
 ||cod.serverlesslaravelcourse.com^
 ||codata.ru^$third-party
 ||code.acstat.com^
-||code.lockbot.net^$third-party
+||code.lockbot.net^
 ||code.randomhouse.com^
 ||codecademy.com/analytics/
 ||codecguide.com/stats.js
 ||codeproject.com/a.min.js
-||codes.royalad.pl^$third-party
+||codes.royalad.pl^
 ||cody-stats.coupa.engineering^
 ||coefficy.com^$third-party
 ||coffeycomm.actonservice.com^
@@ -15467,9 +15464,9 @@ znak.com##.relap
 ||cognativex.com^$third-party
 ||cognitivematch.com^$third-party
 ||cognitivlabs.com^$third-party
+||coherentpath.com/tracker/
 ||cohesionapps.com^$third-party
 ||coin-have.com^$third-party
-||coinbase.com/assets/application-*.js$third-party
 ||coinbase.com^$cookie=coinbase_device_id
 ||coinerra.com^$third-party
 ||coinhiveproxy.com^$third-party
@@ -15492,7 +15489,7 @@ znak.com##.relap
 ||coll2onf.com^$third-party
 ||collarity.com^$third-party
 ||collect-ap2.attraqt.io^
-||collect-elb-*.amazonaws.com^$redirect=nooptext
+||collect-elb-*.amazonaws.com^
 ||collect-eu.attraqt.io^
 ||collect-test.arabam.com^
 ||collect.*.miui.com^
@@ -15506,13 +15503,13 @@ znak.com##.relap
 ||collect.blishtech.co^$third-party
 ||collect.cap.ch^
 ||collect.cloudsponge.com^
-||collect.data.tm-awx.com^$third-party
+||collect.data.tm-awx.com^
 ||collect.elvia.ch^
 ||collect.f5.com^
 ||collect.feefo.com^$third-party
 ||collect.helsana.ch^
+||collect.igodigital.com^
 ||collect.igodigital.com^$script
-||collect.igodigital.com^$third-party
 ||collect.iteam-dress.com^
 ||collect.lngtd.com^
 ||collect.media.jio.com^
@@ -15545,11 +15542,11 @@ znak.com##.relap
 ||collector-hpn.ghostery.net^
 ||collector-medium.lightstep.com^
 ||collector-px0py5pczn.octopart.com^
-||collector.apester.com^$third-party
+||collector.apester.com^
 ||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.brandify.com^
-||collector.bunchbox.co^$third-party
+||collector.bunchbox.co^
 ||collector.cdp.cnn.com^
 ||collector.cint.com^
 ||collector.clareity.net^
@@ -15571,9 +15568,9 @@ znak.com##.relap
 ||collector.pi.spectrum.net^
 ||collector.prod.expedia.com^
 ||collector.puhutv.com^
-||collector.retailcrm.pro^$third-party
+||collector.retailcrm.pro^
 ||collector.rn.de^
-||collector.roistat.com^$third-party
+||collector.roistat.com^
 ||collector.schibsted.io^
 ||collector.shopstream.co^
 ||collector.shorte.st^
@@ -15964,7 +15961,7 @@ znak.com##.relap
 ||cookie-guard-erdee.ey.r.appspot.com^
 ||cookie.amerigas.com^
 ||cookie.cynch.com^
-||cookie.fuel451.com^$third-party
+||cookie.fuel451.com^
 ||cookie.myamerigas.com^
 ||cookie.solutions.desertfinancial.com^
 ||cookie.sync.usonar.jp^
@@ -16067,7 +16064,6 @@ znak.com##.relap
 ||count.asnetworks.de^
 ||count.carrierzone.com^
 ||count.channeladvisor.com^
-||count.channeladvisor.com^$third-party
 ||count.fr^$third-party
 ||count.im^$third-party
 ||count.livetv.ru^
@@ -16126,7 +16122,7 @@ znak.com##.relap
 ||counter.ksm.it^
 ||counter.log24.ru^$third-party
 ||counter.maases.com^
-||counter.mediastealer.com^$third-party
+||counter.mediastealer.com^
 ||counter.megagroup.ru^
 ||counter.megaindex.ru^
 ||counter.mgronline.com^
@@ -16135,6 +16131,7 @@ znak.com##.relap
 ||counter.nn.ru^
 ||counter.nope.dk^$third-party
 ||counter.nv.ua^
+||counter.ok.ee^
 ||counter.ok.ee^$third-party
 ||counter.opinion.com.ua^
 ||counter.packa2.cz^
@@ -16161,7 +16158,7 @@ znak.com##.relap
 ||counter.tianjimedia.com^
 ||counter.tldw.me^
 ||counter.top.ge^
-||counter.top.ge^$third-party
+||counter.top.kg^
 ||counter.top.kg^$third-party
 ||counter.tovarro.com^
 ||counter.ukr.net^
@@ -16377,6 +16374,7 @@ znak.com##.relap
 ||csdata1.com^$third-party
 ||csdn.net^*/counter.js
 ||cse3.chausport.com^
+||cshield.io^$third-party
 ||csi.gstatic.com^
 ||csi.gstatic.com^$domain=promiflash.de,redirect=nooptext,important
 ||csm.cxpublic.com^
@@ -16554,7 +16552,7 @@ znak.com##.relap
 ||d.adlpo.com^
 ||d.adrolays.de^
 ||d.adroll.com/ipixel^
-||d.adtriba.com^$third-party
+||d.adtriba.com^
 ||d.applvn.com^
 ||d.cdngeek.com^$domain=edugeek.net
 ||d.email.forbes.com^
@@ -16562,7 +16560,7 @@ znak.com##.relap
 ||d.getpocket.com^
 ||d.haberler.com^
 ||d.image-ad.jp^
-||d.impactradius-event.com^$third-party
+||d.impactradius-event.com^
 ||d.k3r.jp^
 ||d.line-cdn.net/*/torimochi.js/*/torimochi.js
 ||d.line-scdn.net/*/torimochi.js/*/torimochi.js
@@ -16584,7 +16582,6 @@ znak.com##.relap
 ||d1.hb.omtrdc.net^
 ||d10gj7yjsfriaj.cloudfront.net^
 ||d10lpsik1i8c69.cloudfront.net^
-||d10lpsik1i8c69.cloudfront.net^$third-party
 ||d10vy5gom1ed53.cloudfront.net^
 ||d11a2fzhgzqe7i.cloudfront.net^
 ||d15kdaxu5c0hfw.cloudfront.net^
@@ -16615,7 +16612,7 @@ znak.com##.relap
 ||d1lm7kd3bd3yo9.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1mdhw23tj9j17.cloudfront.net^
-||d1miwkthq39xj8.cloudfront.net^$third-party
+||d1miwkthq39xj8.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
 ||d1nh2vjpqpfnin.cloudfront.net^
 ||d1q7pknmpq2wkm.cloudfront.net/js/my.fanplayr.com/
@@ -16674,7 +16671,7 @@ znak.com##.relap
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2ieqaiwehnqqp.cloudfront.net^
 ||d2j1fszo1axgmp.cloudfront.net^
-||d2j3te7y7s8xxp.cloudfront.net^$third-party
+||d2j3te7y7s8xxp.cloudfront.net^
 ||d2j74sjmqqyf26.cloudfront.net^
 ||d2jjzw81hqbuqv.cloudfront.net/assets/*/autotrack-
 ||d2kdl5wcwrtj90.cloudfront.net^
@@ -16796,6 +16793,7 @@ znak.com##.relap
 ||dable.io^$third-party
 ||dacota.tw/wp-content/plugins/wp-mop-analytics/
 ||dacounter.com^$third-party
+||dadi.technology^
 ||dadi.technology^$third-party
 ||daib.pl/sweqevub.js
 ||daifez.thebay.com^
@@ -16840,7 +16838,7 @@ znak.com##.relap
 ||dashingsweater.com^
 ||dashingsweater.com^$third-party
 ||data-basics.actonservice.com^
-||data-collector.wefi.com^$third-party
+||data-collector.wefi.com^
 ||data-dynamic.net^$third-party
 ||data-platform.squarecloudservices.com/v1/batch
 ||data-ssl.pnet.co.za^
@@ -16934,7 +16932,7 @@ znak.com##.relap
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
-||data.mob.com^$redirect=nooptext
+||data.mob.com^
 ||data.nexxt.com^
 ||data.ouigo.com^
 ||data.pepephone.com^
@@ -16972,7 +16970,7 @@ znak.com##.relap
 ||data2.gosquared.com^$third-party
 ||databrain.com^$third-party
 ||datacaciques.com^$third-party
-||datacollect*.abtasty.com^$third-party
+||datacollect*.abtasty.com^
 ||datacollector-*.dt.hicloud.com^
 ||datacollector-dra.dt.hicloud.com^
 ||datacomm.ch^*/count.cgi?
@@ -17062,6 +17060,7 @@ znak.com##.relap
 ||dc.stenaline.se^
 ||dc.stenalinetravel.com^
 ||dc.sterlingjewelers.com^
+||dc.tremormedia.com^
 ||dc.tremormedia.com^$third-party
 ||dc.volkswagen.com^
 ||dc.webtrends.com^
@@ -17107,7 +17106,7 @@ znak.com##.relap
 ||dcs.maxthon.com^
 ||dcs.plussizetech.com^
 ||dcs.reiseversicherung.de^
-||dct.mango-office.ru^$third-party
+||dct.mango-office.ru^
 ||dd.auspost.com.au^
 ||dd.lendup.com^
 ||dd3p.com/sensor/ddsense.aspx?
@@ -17200,6 +17199,7 @@ znak.com##.relap
 ||deine-tierwelt.de/external/analytics.js
 ||deine-tierwelt.de/static/js/*tracking.js
 ||dejavu.mercadolivre.com.br^
+||dejavu.mlapps.com^
 ||dejavu.mlapps.com^$third-party
 ||dejure.org/cgi-bin/sitzung.fcgi?
 ||dek-d.com^*/analytic.js
@@ -17292,9 +17292,9 @@ znak.com##.relap
 ||devatics.io^$third-party
 ||development.oregon4biz.com^
 ||developpez.com/public/js/track.js
-||device-analytics.rollout.io^$redirect=nooptext
+||device-analytics.rollout.io^
 ||device-metrics-*.amazon.com^
-||device-metrics-us*.amazon.com^$redirect=nooptext
+||device-metrics-us*.amazon.com^
 ||device9.com^$third-party
 ||devotionalclicks.amazingfacts.org^
 ||devphp.org.ua^$third-party
@@ -17568,7 +17568,7 @@ znak.com##.relap
 ||djbztw.marimekko.com^
 ||djers.com^$third-party
 ||djibeacon.djns.com^
-||djibeacon.dowjoneson.com^$third-party
+||djibeacon.dowjoneson.com^
 ||djmzap.gamivo.com^
 ||djtflbt20bdde.cloudfront.net^
 ||dk4ywix.com^
@@ -17893,7 +17893,7 @@ znak.com##.relap
 ||duu8lzqdm8tsz.cloudfront.net^
 ||duyxvw.finntrail.ru^
 ||dv.chemie.de^
-||dv0.info^$third-party
+||dv0.info^
 ||dv59b.montecarlomeeting.com^
 ||dvghns.idealista.it^
 ||dvnfo.com^$third-party
@@ -17905,7 +17905,7 @@ znak.com##.relap
 ||dw.cbsi.com^*/e.gif$image
 ||dw.cbsimg.net^$script
 ||dw.com.com^$script
-||dw.com.com^$third-party,domain=~cnet.com
+||dw.com.com^,domain=~cnet.com
 ||dw.com/tracking/
 ||dw0c.sfr.fr^
 ||dw7u.hotelsbarriere.com^
@@ -17958,7 +17958,7 @@ znak.com##.relap
 ||e-zeeinternet.com^$third-party
 ||e.beckmancoulter.com^
 ||e.darpro-solutions.com^
-||e.dr-zh.com^$third-party
+||e.dr-zh.com^
 ||e.e.themighty.com^
 ||e.ebidtech.com/cv/
 ||e.fdm.dk^
@@ -17969,7 +17969,7 @@ znak.com##.relap
 ||e.reddit.com^
 ||e.replacementdevicelawsuit.com^
 ||e.synchronybank.com^
-||e.tw.cx^$third-party
+||e.tw.cx^
 ||e.unchealthcare.org^
 ||e.used.ca/event
 ||e.viously.com^
@@ -18066,6 +18066,7 @@ znak.com##.relap
 ||eagle.kudzu.com^
 ||eagle.mbcharbonneau.com^
 ||eanalyzer.de^$third-party
+||eapi.pcloud.com/loganalyticsevent
 ||early-birds.fr/tracker/
 ||early-birds.fr^$third-party
 ||early-birds.io^$third-party
@@ -18246,7 +18247,7 @@ znak.com##.relap
 ||ed.large.nl^
 ||edge.adobedc.net^
 ||edge.bredg.com^$third-party
-||edge.quantserve.com^$third-party
+||edge.quantserve.com^
 ||edgeadx.net^$third-party
 ||edgesuite.net^*/googleanalyt
 ||edgrmtracking.com^$third-party
@@ -18813,7 +18814,7 @@ znak.com##.relap
 ||episerver.net/ia.gif?r=
 ||episerver.net^$third-party
 ||epitrack.com^$third-party
-||epiv.cardlytics.com^$third-party
+||epiv.cardlytics.com^
 ||epl.paypal-communication.com^$script
 ||epm.mailperformance.com^
 ||epmeyn.thebookedition.com^
@@ -19008,9 +19009,9 @@ znak.com##.relap
 ||event.api.drift.com^
 ||event.chitai-gorod.ru^
 ||event.clubcorp.com^
-||event.condenastdigital.com^$third-party
+||event.condenastdigital.com^
 ||event.csdn.net^
-||event.demirorenteknoloji.com^$third-party
+||event.demirorenteknoloji.com^
 ||event.dengage.com^
 ||event.edb.gov.sg^
 ||event.evtm.53.com^
@@ -19057,11 +19058,10 @@ znak.com##.relap
 ||events-tracker.deliveroo.net^
 ||events.air.tv^
 ||events.apester.com^
-||events.apester.com^$third-party
 ||events.api.godaddy.com^
 ||events.api.red.wemesh.ca^
 ||events.appsflyer.com^
-||events.artirix.com^$third-party
+||events.artirix.com^
 ||events.attentivemobile.com^
 ||events.audiate.me^
 ||events.audioplace.me^$third-party
@@ -19089,6 +19089,7 @@ znak.com##.relap
 ||events.jokerly.com^
 ||events.jora.com^
 ||events.jotform.com^
+||events.kaloo.ga^
 ||events.kaloo.ga^$third-party
 ||events.kangan.edu.au^
 ||events.launchdarkly.com^$third-party
@@ -19252,7 +19253,7 @@ znak.com##.relap
 ||ext-inv-cdn.presage.io^$third-party
 ||ext.chtbl.com/trackable.js
 ||ext.goguardian.com^
-||ext.host-tracker.com^$third-party
+||ext.host-tracker.com^
 ||extendoffice.com/analytics.js
 ||external-promo-metrics.yandex.net^
 ||external.techopian.com^
@@ -19363,7 +19364,7 @@ znak.com##.relap
 ||faintflag.com^
 ||fairdatacenter.de^
 ||fairfax.com.au/js/track/
-||fairfaxmedia.sharedcount.com^$third-party
+||fairfaxmedia.sharedcount.com^
 ||faktor.io^$third-party
 ||falcon.aniftyco.com^
 ||falcon.backgroundnoise.app^
@@ -19397,7 +19398,7 @@ znak.com##.relap
 ||faphouse.com/api/collector/
 ||farethief.com^
 ||farethief.com^$third-party
-||farmer.wego.com^$third-party
+||farmer.wego.com^
 ||farmergoldfish.com^$third-party
 ||farshake.com^$third-party
 ||fascinatedfeather.com^
@@ -19459,6 +19460,7 @@ znak.com##.relap
 ||fbu8.ticket-online.montecarlolive.com^
 ||fbvbyi.abekker.ru^
 ||fc.vodafone.de^
+||fc.webmasterpro.de^
 ||fc.webmasterpro.de^$third-party
 ||fc2.com/ana/analyzer.php
 ||fc2.com/ana/processor.php?
@@ -20268,7 +20270,7 @@ znak.com##.relap
 ||geo.gorillanation.com^
 ||geo.hltv.org^
 ||geo.homepage-web.com^
-||geo.kaloo.ga^$third-party
+||geo.kaloo.ga^
 ||geo.kontagent.net^
 ||geo.mattel163.com^
 ||geo.metronews.ca^
@@ -20285,7 +20287,6 @@ znak.com##.relap
 ||geo.theawesomer.com^
 ||geo.thehindu.com^
 ||geo.xcel.io^
-||geo.xcel.io^$third-party
 ||geo.yahoo.com^
 ||geobar.ziffdavisinternational.com^
 ||geobeacon.ign.com^
@@ -20336,13 +20337,13 @@ znak.com##.relap
 ||geolocation-db.com^$third-party
 ||geolocation.forbes.com^
 ||geolocation.outreach.com^
-||geolocation.performgroup.com^$third-party
-||geolocation.stroeerdp.de^$third-party
+||geolocation.performgroup.com^
+||geolocation.stroeerdp.de^
 ||geoplugin.net^
 ||geoplugin.net^$third-party
 ||georiot.com^$third-party
 ||geoservice.curse.com^
-||geosvc.globalmailer.com^$third-party
+||geosvc.globalmailer.com^
 ||geotargetly-1a441.appspot.com^$third-party
 ||geotargetly.co^$third-party
 ||geotrust.com^$third-party
@@ -20454,7 +20455,7 @@ znak.com##.relap
 ||gjapplog.uc.cn^
 ||gjapplog.ucweb.com^
 ||gjtclx.strefatenisa.com.pl^
-||gjtrack.uc.cn^$third-party
+||gjtrack.uc.cn^
 ||gk.sina.cn^
 ||gkfdkf.jdsports.co.uk^
 ||gkgygj.verivox.de^
@@ -20660,7 +20661,7 @@ znak.com##.relap
 ||goazlf.mytoys.de^
 ||gobankingrates.com/fp/
 ||gocertiport.pearsonvue.com^
-||gocp.stroeermediabrands.de^$third-party
+||gocp.stroeermediabrands.de^
 ||godaddy.com/js/gdwebbeacon.js
 ||godhat.com^$third-party
 ||godlygeese.com^
@@ -20958,8 +20959,8 @@ znak.com##.relap
 ||grxsaq.tagheuer.com^
 ||gs.mountain.com^
 ||gsasolutionssecure.gsa.gov^
-||gscounters.*.gigya.com^$third-party
-||gscounters.gigya.com^$third-party
+||gscounters.*.gigya.com^
+||gscounters.gigya.com^
 ||gsecondscreen.com^$third-party
 ||gsght.com/twizards.js
 ||gsimedia.net^$third-party
@@ -21304,12 +21305,12 @@ znak.com##.relap
 ||hit-counts.com^$third-party
 ||hit-parade.com^$third-party
 ||hit-pool.upscore.io^
-||hit.8digits.com^$third-party
+||hit.8digits.com^
 ||hit.acstat.com^
-||hit.copesa.cl^$third-party
-||hit.darmoweliczniki.pl^$third-party
+||hit.copesa.cl^
+||hit.darmoweliczniki.pl^
 ||hit.demirorenteknoloji.com^
-||hit.dogannet.tv^$third-party
+||hit.dogannet.tv^
 ||hit.duhnet.tv^
 ||hit.gemius.pl^
 ||hit.interia.pl^
@@ -21347,7 +21348,7 @@ znak.com##.relap
 ||hits.porn.fr^
 ||hits.tf.rs^
 ||hits.theguardian.com^
-||hits.top.lv^$third-party
+||hits.top.lv^
 ||hits.tv8.com.tr/save_video_event
 ||hits.zdnet.co.kr^
 ||hits2u.com^$third-party
@@ -21386,6 +21387,7 @@ znak.com##.relap
 ||hlserve.com^$third-party
 ||hltv.org/scripts/hltv-tracking.js
 ||hm.baidu.com/hm.gif
+||hm.baidu.com^
 ||hm.baidu.com^$third-party
 ||hm.com/global/session-tracking
 ||hmakpa.saksoff5th.com^
@@ -21698,7 +21700,7 @@ znak.com##.relap
 ||icebergindigo.com^
 ||icebergindigo.com^$third-party
 ||ichnaea-web.netflix.com^
-||ichnaea.netflix.com^$third-party
+||ichnaea.netflix.com^
 ||iciciprulife.tt.omtrdc.net^
 ||iclive.com^$third-party
 ||icoktb.onygo.com^
@@ -21753,7 +21755,7 @@ znak.com##.relap
 ||ifnyop.priceline.com^
 ||ifolder.ru/stat/?
 ||ifvox.com^$third-party
-||ig.fp.oix.net^$third-party
+||ig.fp.oix.net^
 ||ig.ig.com^
 ||ig.ig.ig.com^
 ||ig.igmarkets.com^
@@ -21813,7 +21815,6 @@ znak.com##.relap
 ||imagecrest.com/asset/view/stats.php
 ||imagefap.com/images/yes.gif?
 ||images-amazon.com^*/ClientSideMetricsAUIJavascript*.js
-||images.dmca.com^$~image,third-party
 ||images.explore.edgeverve.com^
 ||images.hepsiburada.net/webtrekk/webtrekk.js
 ||images.information.maileva.com^
@@ -21847,7 +21848,7 @@ znak.com##.relap
 ||img.interhome.es^
 ||img.interhome.ie^
 ||img.litix.io/a.gif
-||img.opentracker.net$third-party
+||img.opentracker.net
 ||img.simply.bwin.com^
 ||img.sportsworldi.com/static/w_sportsworld/common/js/analytics.js
 ||img.sputniknews.com/min/js/plugins/video-counters.js
@@ -21979,7 +21980,6 @@ znak.com##.relap
 ||infinigraph.com^$third-party
 ||infinity-tracking.net^$third-party
 ||infinityid.condenastdigital.com^
-||infinityid.condenastdigital.com^$third-party
 ||inflectionpointmedia.com^$third-party
 ||influid.co^$third-party
 ||info-fsi.stanford.edu^
@@ -22313,7 +22313,6 @@ znak.com##.relap
 ||informengine.com^$third-party
 ||informer.com/ajax/article_log.php
 ||informer.yandex.ru^
-||informer.yandex.ru^$third-party
 ||informers.sinoptik.ua/counter.php$third-party
 ||informers.sinoptik.ua^
 ||informz.net^$third-party
@@ -22331,6 +22330,7 @@ znak.com##.relap
 ||infos.yellow.com.au^
 ||infosniper.net/locate-ip-on-map.php
 ||infospot.roanokegroup.com^
+||infostroy.nnov.ru^
 ||infostroy.nnov.ru^$third-party
 ||infotor.net/button.php^$third-party
 ||infox.sg/stats.php^
@@ -22592,7 +22592,7 @@ znak.com##.relap
 ||ip-whois.net/test-speed-internet/$third-party
 ||ip.cliphunter.com^
 ||ip.goguardian.com^
-||ip.hivps.xyz^$third-party
+||ip.hivps.xyz^
 ||ip.pichunter.com^
 ||ip.prvtx.net^
 ||ip2c.landscape.co.jp^
@@ -22903,7 +22903,7 @@ znak.com##.relap
 ||js.sohu.com/track/
 ||js.soufunimg.com/count/
 ||js.static.m1905.cn/pingd.js
-||js.stroeermediabrands.de^$third-party
+||js.stroeermediabrands.de^
 ||js.trendmd.com^$script,subdocument,third-party
 ||js.washingtonpost.com/*/init.track-header-*.js
 ||js.washingtonpost.com/wp-stat/
@@ -23039,6 +23039,7 @@ znak.com##.relap
 ||kbvxbw.bugatti-fashion.com^
 ||kck.st/web/track
 ||kcqoej.roborock.com^
+||kctag.net^
 ||kctag.net^$third-party
 ||kcuzgn.fnac.be^
 ||kcvtjj.meerdanlicht.nl^
@@ -23122,7 +23123,7 @@ znak.com##.relap
 ||kitesquirrel.com^
 ||kitesquirrel.com^$third-party
 ||kittyaction.com^
-||kiupoo.stroeerdp.de^$third-party
+||kiupoo.stroeerdp.de^
 ||kiva.org/r3pNVz1F/init.js
 ||kiwari.com^*/impressions.asp?
 ||kiwi.emilkowal.ski^
@@ -23212,10 +23213,10 @@ znak.com##.relap
 ||kqmhog.tbmmarket.ru^
 ||kqscrl.bonprix.nl^
 ||kqzyfj.com^$third-party
-||kr.phorm.com^$third-party
+||kr.phorm.com^
 ||kraken.com/analytics
 ||kraken.com/js/sift.min.js
-||kraken.rambler.ru^$third-party
+||kraken.rambler.ru^
 ||krone.at/hps/data/test/md_track.php
 ||kropka.onet.pl^
 ||krum.vsct.fr^
@@ -23274,7 +23275,7 @@ znak.com##.relap
 ||l.engage.canva.com^
 ||l.fairblocker.com^$third-party
 ||l.ffsagami.com^
-||l.ffx.io^$third-party
+||l.ffx.io^
 ||l.franceculture.fr^
 ||l.ghostery.com/api/page/?d=
 ||l.hamazo.tv^
@@ -23307,7 +23308,6 @@ znak.com##.relap
 ||l2.io/ip.js
 ||l2.io^$third-party
 ||l2.revotas.com/trc/api/rvts*_tracker.js
-||l2.visiblemeasures.com^$object,third-party
 ||l2k30jsa.theochu.com^
 ||l936.expressnews.com^
 ||l997.lmtonline.com^
@@ -23405,7 +23405,7 @@ znak.com##.relap
 ||lcs.modoo.at^
 ||lcs.naver.com^
 ||lcsopa.onamae.com^
-||lct.salesforce.com^$third-party
+||lct.salesforce.com^
 ||ldckmk.divarese.com.tr^
 ||lddt.de^$third-party
 ||ldgxsr.locasun-vp.fr^
@@ -23815,7 +23815,6 @@ znak.com##.relap
 ||live.alljobs.co.il^
 ||live.cxo.name^
 ||live.ec2.cxo.name^
-||live.ec2.cxo.name^$third-party
 ||live.mrf.io/statics/marfeel/gardac-sync.js
 ||live.rezync.com^
 ||live2support.com^*/js_lstrk.
@@ -23824,7 +23823,6 @@ znak.com##.relap
 ||livecount.fr^$third-party
 ||livecounter.dk^$third-party
 ||livecounter.theyosh.nl^
-||livecounter.theyosh.nl^$third-party
 ||livedoor.com/counter/
 ||livedoor.jp/js/c2.js
 ||livefyre.com/libs/tracker/
@@ -23841,7 +23839,7 @@ znak.com##.relap
 ||livelib.ru/service/visitlist/
 ||livelumber.com^
 ||livelumber.com^$third-party
-||lively-collect-elb-*.amazonaws.com^$third-party
+||lively-collect-elb-*.amazonaws.com^
 ||livelylaugh.com^
 ||livelylaugh.com^$third-party
 ||livelyvideo.tv/lb/logger
@@ -23931,7 +23929,7 @@ znak.com##.relap
 ||log-collector.shopee.
 ||log-hl.snssdk.com^
 ||log-ird.outbrain.com^
-||log-live.direct.ly^$third-party
+||log-live.direct.ly^
 ||log-marketing.jp^
 ||log-player.arte.tv^
 ||log-stats.weathercn.com^
@@ -23985,13 +23983,11 @@ znak.com##.relap
 ||log.gobankingrates.com^
 ||log.gs3.goo.ne.jp^
 ||log.hiiir.com^
-||log.hira-meki.jp^
 ||log.hitsteps.com^$third-party
 ||log.hypebeast.com^
 ||log.idnes.cz^
 ||log.invodo.com^
-||log.invodo.com^$third-party
-||log.iyunmai.com^$redirect=nooptext
+||log.iyunmai.com^
 ||log.kibboko.com^
 ||log.krs-ix.ru^
 ||log.kukuplay.com^$third-party
@@ -24023,7 +24019,6 @@ znak.com##.relap
 ||log.particlenews.com^
 ||log.perfecttitspics.com^
 ||log.pinterest.com^
-||log.pinterest.com^$third-party
 ||log.player.cntv.cn/stat.html?
 ||log.plinga.de^
 ||log.polarisoffice.com^
@@ -24032,6 +24027,7 @@ znak.com##.relap
 ||log.propermessage.io^
 ||log.pvpgang.com^
 ||log.quora.com^
+||log.r-oo.jp^
 ||log.radiko.jp^
 ||log.reformal.ru^
 ||log.ren.tv^
@@ -24114,7 +24110,7 @@ znak.com##.relap
 ||logger.tvchosun.com^
 ||logger.uol.com.br^
 ||logger.viki.io^
-||logger.virgul.com^$third-party
+||logger.virgul.com^
 ||logger.yp.ca^
 ||logging.api.intuit.com^
 ||logging.carambo.la^
@@ -24217,8 +24213,7 @@ znak.com##.relap
 ||lowgxl.yokumoku.jp^
 ||lowlocket.com^$third-party
 ||loxodo-analytics.ext.nile.works^
-||loxodo-analytics.ext.nile.works^$third-party
-||loxodo-ct.ext.nile.works^$third-party
+||loxodo-ct.ext.nile.works^
 ||loyalty.interamerican.gr^
 ||lp-eq.mitsuichemicals.com^
 ||lp.americas.business.samsung.com^
@@ -24355,7 +24350,7 @@ znak.com##.relap
 ||lycos.com/hb.js
 ||lylsmz.sheridanoutlet.com.au^
 ||lyngro.com^$third-party
-||lynn.zgsemi.cn^$third-party
+||lynn.zgsemi.cn^
 ||lynx.microl.ink^
 ||lynx.sbstjn.com^
 ||lynx.simpleparish.com^
@@ -24376,15 +24371,14 @@ znak.com##.relap
 ||m-t.io^$third-party
 ||m.acmgloballab.com^
 ||m.addthisedge.com^
-||m.addthisedge.com^$third-party
 ||m.adtiming.com^
 ||m.baidu.com/tc?tcreq4log=
 ||m.bumrungrad1378.com^
 ||m.custom.info.shutterstock.com^
-||m.czbiw.com^$third-party
+||m.czbiw.com^
 ||m.data.mob.com^
 ||m.delltechnologies.com^
-||m.dubcm.com^$third-party
+||m.dubcm.com^
 ||m.edweek.org^
 ||m.enerpac.com^
 ||m.evolutiondigital.com^
@@ -24563,6 +24557,7 @@ znak.com##.relap
 ||maptrackpro.com/track/
 ||mar.vip.com^
 ||marc-o-polo.media01.eu/view.aspx?trackid
+||marche.onward.co.jp/*/sys/top_adobe_analytics.js
 ||marcom.biodex.com^
 ||marcom.kirbyrisk.com^
 ||marcomms.londonfirst.co.uk^
@@ -25126,6 +25121,7 @@ znak.com##.relap
 ||master-push.com^$third-party
 ||master-push.net^$third-party
 ||masterstats.com^$third-party
+||mastertag.effiliation.com^
 ||mastertag.effiliation.com^$third-party
 ||mastertag.kpcustomer.de^
 ||mastertag.q-sis.de^
@@ -25422,7 +25418,6 @@ znak.com##.relap
 ||media-imdb.com/twilight/?
 ||media-lab.ai/ana-sentry.js
 ||media.fc2.com/counter_empjs.php
-||media.fc2.com^$image
 ||media.flixcar.com/delivery/js/hotspot/
 ||media.gotham.com^
 ||media.kaspersky.com/tracking/
@@ -25557,7 +25552,6 @@ znak.com##.relap
 ||messyoranges.com^
 ||met.jasperforge.org^
 ||met.vgwort.de^
-||met.vgwort.de^$third-party
 ||met1.hp.com^
 ||met2.hp.com^
 ||meta.ua/c.asp?
@@ -25578,7 +25572,6 @@ znak.com##.relap
 ||metok.sys.miui.com^
 ||metric*.rediff.com^
 ||metric-agent.i10c.net^
-||metric-agent.i10c.net^$third-party
 ||metric-nonssl.nomura.co.jp^
 ||metric.angieslist.com^
 ||metric.armstrong.com^
@@ -25599,7 +25592,6 @@ znak.com##.relap
 ||metric.fatcatalog.com^
 ||metric.fidmscholarshipfoundation.org^
 ||metric.gstatic.com^
-||metric.gstatic.com^$third-party
 ||metric.hatarako.net^
 ||metric.hilton.com^
 ||metric.huya.com^
@@ -25652,7 +25644,6 @@ znak.com##.relap
 ||metric.superpages.com^
 ||metric.theatlantic.com^
 ||metric.timewarnercable.com^
-||metric.timewarnercable.com^$third-party
 ||metric.toyotacertificados.com^
 ||metric.toyotacertified.com^
 ||metric.trulia.com^
@@ -26134,7 +26125,6 @@ znak.com##.relap
 ||metrics.mytributes.com.au^
 ||metrics.myvi.in^
 ||metrics.mzstatic.com^
-||metrics.mzstatic.com^$redirect=nooptext
 ||metrics.n-tv.de^
 ||metrics.nab.com.au^
 ||metrics.nabbroker.com.au^
@@ -26185,7 +26175,7 @@ znak.com##.relap
 ||metrics.optum.com^
 ||metrics.oreilly.com^
 ||metrics.outsourcing-pharma.com^
-||metrics.pacsun.com^$third-party
+||metrics.pacsun.com^
 ||metrics.panasonic.com^
 ||metrics.parcelforce.com^
 ||metrics.penny-reisen.de^
@@ -26405,7 +26395,7 @@ znak.com##.relap
 ||metroaverage.com^
 ||metroaverage.com^$third-party
 ||metroweekly.com/tools/blog_add_visitor/
-||mevents.trusteer.com^$third-party
+||mevents.trusteer.com^
 ||mewe.com/ubk4jrxn.js
 ||meypeg.videdressing.com^
 ||mezzobit.com^$third-party
@@ -26778,7 +26768,7 @@ znak.com##.relap
 ||mp3king.club^$third-party
 ||mp3vizor.com^$third-party
 ||mparticle.com^$third-party
-||mpc.nicequest.com^$third-party
+||mpc.nicequest.com^
 ||mpglie.apartmentguide.com^
 ||mpianalytics.com^
 ||mpianalytics.com^$third-party
@@ -26827,7 +26817,6 @@ znak.com##.relap
 ||msfvwi.sieuthiyte.com.vn^
 ||msg-intl.qy.net^
 ||msg.71.am^
-||msg.71.am^$third-party
 ||msg.qy.net^
 ||msg.simeji.baidu.jp^
 ||msg.simeji.me^
@@ -26943,7 +26932,7 @@ znak.com##.relap
 ||mwtraf.mobi^$third-party
 ||mwxema.galerieslafayette.com^
 ||mx.carfax.com^
-||mx03.phorm.com^$third-party
+||mx03.phorm.com^
 ||mxapis.com^$third-party
 ||mxcdn.net^$domain=spiegel.de|stern.de
 ||mxcdn.net^$third-party
@@ -27320,7 +27309,7 @@ znak.com##.relap
 ||nfl.hb.omtrdc.net^
 ||nflshop.com/api/track
 ||nfwebminer.com^$third-party
-||ng.virgul.com^$third-party
+||ng.virgul.com^
 ||ngacm.com^$third-party
 ||ngaffn.itokin.net^
 ||ngagement-engine.mobify.com^
@@ -27366,9 +27355,9 @@ znak.com##.relap
 ||ninestats.com^$third-party
 ||ninja.akamaized.net^
 ||ninja.onap.io^
-||ninja.onap.io^$third-party
 ||ninjacat.io^$third-party
 ||niojlt.veneta.com^
+||nissen.co.jp/count|$xmlhttprequest
 ||nitropay.com^$third-party
 ||njam.tv/tracking/
 ||njorya.aosom.de^
@@ -27495,10 +27484,10 @@ znak.com##.relap
 ||ns.machinevision.webapp.net.zooplus.it^
 ||ns.rvmkitt.com^
 ||ns.v2.net.zooplus.it^
-||ns1.phorm.com^$third-party
+||ns1.phorm.com^
 ||ns1p.net^
 ||ns1p.net^$third-party
-||ns2.phorm.com^$third-party
+||ns2.phorm.com^
 ||ns336739.ip-37-187-249.eu^
 ||ns8.com^$third-party
 ||ns8ds.com^$third-party
@@ -27638,7 +27627,6 @@ znak.com##.relap
 ||octopus.petreski.co^
 ||oculus.com/ajax/bz?
 ||ocwlhv.ecid.com.br^
-||od.visiblemeasures.com^$object,third-party
 ||oda.markitondemand.com^
 ||odb.outbrain.com^
 ||odc.1und1.de^
@@ -27682,7 +27670,7 @@ znak.com##.relap
 ||oguwou.pichau.com.br^
 ||ogwzby.peek-und-cloppenburg.de^
 ||ohayoo.io^$third-party
-||ohcohz.stroeerdp.de^$third-party
+||ohcohz.stroeerdp.de^
 ||ohjrxj.personalizationmall.com^
 ||ohm-dot-hackster-io.appspot.com^
 ||ohmystats.com^$third-party
@@ -27725,12 +27713,10 @@ znak.com##.relap
 ||om.a1vacations.com^
 ||om.aopa.org^
 ||om.cbsi.com^
-||om.cbsi.com^$third-party
 ||om.churchofjesuschrist.org^
 ||om.cnet.com.au^
 ||om.cyberrentals.com^
 ||om.dowjoneson.com^
-||om.dowjoneson.com^$third-party
 ||om.escapehomes.com^
 ||om.expedia.com^
 ||om.familysearch.org^
@@ -27912,7 +27898,7 @@ znak.com##.relap
 ||onaudience.com^$third-party
 ||oncahh.boxlunch.com^
 ||onclck.ru^$third-party
-||onclickpredictiv.com^$third-party
+||onclickpredictiv.com^
 ||oncoclinicas.actonservice.com^
 ||ondu.ru^$third-party
 ||onecount.net/onecount/oc_track/
@@ -28017,7 +28003,6 @@ znak.com##.relap
 ||optimix.asia^$third-party
 ||optimizavr.ru/counter.php?
 ||optimize-stats.voxmedia.com^
-||optimize-stats.voxmedia.com^$third-party
 ||optimizely.appspot.com^$third-party
 ||optimizely.com/js/geo.js
 ||optimizely.com/js/geo2.js
@@ -28154,7 +28139,7 @@ znak.com##.relap
 ||overstat.com^$third-party
 ||overstock.com/analytics/
 ||overstock.com/dlp?
-||ovk.xceler8.io^$third-party
+||ovk.xceler8.io^
 ||ovmrti.sassyclassy.de^
 ||ovomqo.e-menessaptieka.lv^
 ||owa-tomcat.net.zooplus.de^
@@ -28214,7 +28199,7 @@ znak.com##.relap
 ||p-td.com^$third-party
 ||p.adbrn.com^
 ||p.adsymptotic.com/d/px^$domain=boudja.com
-||p.alcmpn.com^$third-party
+||p.alcmpn.com^
 ||p.altergeo.ru^$third-party
 ||p.aty.sohu.com^
 ||p.barrera.io^
@@ -28231,7 +28216,7 @@ znak.com##.relap
 ||p.ifvictr.com^
 ||p.imgur.com^
 ||p.kolplay.com^
-||p.l1v.ly^$third-party
+||p.l1v.ly^
 ||p.milliyet.com.tr^
 ||p.neil.gg^
 ||p.nqueue.io^
@@ -28240,6 +28225,7 @@ znak.com##.relap
 ||p.pmu.fr^
 ||p.pulse.buyatoyota.com^
 ||p.pulse.toyota.com^
+||p.raasnet.com^
 ||p.raasnet.com^$third-party
 ||p.rst.im/q/www.googletagmanager.com/gtag/js?id=
 ||p.ryanhalliday.com^
@@ -28249,10 +28235,11 @@ znak.com##.relap
 ||p.tinynewsfeed.com^$third-party
 ||p.versacommerce.de^
 ||p.victoria.dev^
-||p.vtracy.de^$third-party
+||p.vtracy.de^
 ||p.wren.co^
 ||p.yotpo.com^
 ||p0.com/1x1
+||p0.raasnet.com^
 ||p0.raasnet.com^$third-party
 ||p0y.cn^$third-party
 ||p2.danskebank.co.uk^
@@ -28263,7 +28250,7 @@ znak.com##.relap
 ||p24.hu^$third-party
 ||p2poolmining.com^$third-party
 ||p2r14.com^
-||p2trc.emv2.com^$third-party
+||p2trc.emv2.com^
 ||p30rank.ir^$third-party
 ||p593.seattlepi.com^
 ||p8s.oxbowshop.com^
@@ -28631,9 +28618,9 @@ znak.com##.relap
 ||phcnvk.schalke04.de^
 ||phczhg.johnjohndenim.com.br^
 ||pheasant.ampapageorgiou.gr^
-||phen.fabricmedia.ru^$third-party
+||phen.fabricmedia.ru^
 ||phgnxd.nike.com.br^
-||phiesi.stroeerdp.de^$third-party
+||phiesi.stroeerdp.de^
 ||phim.media/templates/themes/phim/js/ga.js
 ||phjzsx.elevit.jp^
 ||phoenix-widget.com^$third-party
@@ -28760,7 +28747,7 @@ znak.com##.relap
 ||pix.nbcuni.com^
 ||pix.pub^
 ||pix.revjet.com^
-||pix.sniperlog.ru^$third-party
+||pix.sniperlog.ru^
 ||pix.speedbit.com^$third-party
 ||pix.spot.im/api/*/pixel
 ||pix.spot.im^
@@ -28773,8 +28760,7 @@ znak.com##.relap
 ||pixel-a.basis.net^
 ||pixel.1und1.de^
 ||pixel.4pcdn.de^
-||pixel.4players.de
-||pixel.4players.de^$important
+||pixel.4players.de^
 ||pixel.ad^$third-party
 ||pixel.advertising.com^
 ||pixel.ampry.com^
@@ -28789,13 +28775,12 @@ znak.com##.relap
 ||pixel.bild.de^
 ||pixel.blivenyc.com^
 ||pixel.bridge.dooca.store^
-||pixel.bullion.media^$third-party
+||pixel.bullion.media^
 ||pixel.buzzfeed.com^
 ||pixel.carambo.la^
 ||pixel.cdnwidget.com^
 ||pixel.coccoc.com^
 ||pixel.condenastdigital.com^
-||pixel.condenastdigital.com^$third-party
 ||pixel.convertize.io^
 ||pixel.convertize.io^$third-party
 ||pixel.cpex.cz^
@@ -28819,11 +28804,10 @@ znak.com##.relap
 ||pixel.nine.com.au^
 ||pixel.nur.kz^
 ||pixel.parsely.com^
-||pixel.parsely.com^$third-party
 ||pixel.pcworld.com^
 ||pixel.playbuzz.com^
 ||pixel.propublica.org^
-||pixel.quantserve.com$third-party
+||pixel.quantserve.com
 ||pixel.quantserve.com^
 ||pixel.reddit.com^
 ||pixel.redditmedia.com^
@@ -28838,10 +28822,11 @@ znak.com##.relap
 ||pixel.staging.tree.com^
 ||pixel.tapad.com^$third-party
 ||pixel.tatpek.com^
-||pixel.trackverify.com^$third-party
+||pixel.trackverify.com^
 ||pixel.tree.com^
 ||pixel.tuko.co.ke^
 ||pixel.videohub.tv^
+||pixel.watch^
 ||pixel.watch^$third-party
 ||pixel.welt.de^
 ||pixel.widgetly.com^
@@ -28857,7 +28842,7 @@ znak.com##.relap
 ||pixelcounter.marca.com/pixelcontabilizacion/pixelcontabilizacion.gif
 ||pixeleze.com^$third-party
 ||pixelg.adswizz.com^
-||pixelhere.com^$third-party
+||pixelhere.com^
 ||pixelinteractivemedia.com^$third-party
 ||pixelpop.co^$third-party
 ||pixelrevenue.com^$third-party
@@ -29198,7 +29183,6 @@ znak.com##.relap
 ||portaling.net.zooplus.fr^
 ||portfold.com^$third-party
 ||pos.baidu.com^
-||pos.baidu.com^$third-party
 ||posgrado.javeriana.edu.co^
 ||possessivebucket.com^
 ||possessivebucket.com^$third-party
@@ -29264,7 +29248,7 @@ znak.com##.relap
 ||prawn.fffuel.co^
 ||prawn.lionsmouth.digital^
 ||prchecker.info^$third-party
-||prd-collector-anon-video.playbuzz.com^$third-party
+||prd-collector-anon-video.playbuzz.com^
 ||prd-collector-anon.ex.co^
 ||prd-collector-anon.ex.co^$third-party
 ||prd-collector-anon.playbuzz.com^
@@ -29611,7 +29595,7 @@ znak.com##.relap
 ||px-cdn.net^*/collector
 ||px-cloud.net/b/s
 ||px.derstandard.at^
-||px.dynamicyield.com^$third-party
+||px.dynamicyield.com^
 ||px.effirst.com^
 ||px.excitedigitalmedia.com^
 ||px.gfycat.com^
@@ -29619,7 +29603,7 @@ znak.com##.relap
 ||px.mountain.com^
 ||px.owneriq.net^
 ||px.pandora.com^
-||px.reactrmod.com^$third-party
+||px.reactrmod.com^
 ||px.redgifs.com/px.gif
 ||px.spiceworks.com^
 ||px.staticfiles.at^
@@ -29731,7 +29715,7 @@ znak.com##.relap
 ||qmiiln.tower.jp^
 ||qmlzcm.petshop.ru^
 ||qmoyfh.xcite.com.sa^
-||qnajplxtvz-a.akamaihd.net^$third-party
+||qnajplxtvz-a.akamaihd.net^
 ||qoijertneio.com^$third-party
 ||qoo.by/counter.js$third-party
 ||qoopler.ru^$third-party
@@ -29864,14 +29848,14 @@ znak.com##.relap
 ||r.mail.ru^$image
 ||r.mail.ru^$script
 ||r.miamano.com^
-||r.movad.de^$third-party
+||r.movad.de^
 ||r.msn.com^
 ||r.my.com^
 ||r.popin.cc/log.gif
 ||r.popin.cc^
 ||r.razer.com^
 ||r.rbc.ru^
-||r.remarketingpixel.com^$third-party
+||r.remarketingpixel.com^
 ||r.sax.sina.com.cn^
 ||r.skimresources.com^
 ||r.yna.co.kr/global/lib/*/js/nlogger.js
@@ -30098,7 +30082,7 @@ znak.com##.relap
 ||recosenselabs.com^$third-party
 ||recoset.com^$third-party
 ||recruitics.com^$third-party
-||recs.atgsvcs.com^$third-party
+||recs.atgsvcs.com^
 ||recs.richrelevance.com/rrserver/tracking?
 ||recs.richrelevance.com^$third-party
 ||recurly.com/js/v1/events
@@ -30309,6 +30293,7 @@ znak.com##.relap
 ||restisbench.com^$third-party
 ||resu.io/scripts/resclient.min.js
 ||resulticks.com^$third-party
+||resultspage.com/js/sli-spark.js
 ||retag.xyz^$third-party
 ||retargetapp.com/pixel.js^
 ||retargeter.com.br^$third-party
@@ -30478,7 +30463,7 @@ znak.com##.relap
 ||roosterfirework.com^$third-party
 ||ros3d4dbs3px.salud-masculina.info^
 ||rosenberg.appmetrica.webvisor.com^
-||rosenberg.appmetrica.yandex.net^$third-party
+||rosenberg.appmetrica.yandex.net^
 ||rossel.tech^$third-party
 ||roughroll.com^
 ||roughroll.com^$third-party
@@ -30536,10 +30521,10 @@ znak.com##.relap
 ||rta2.inews.co.uk^
 ||rta2.metro.co.uk^
 ||rta2.newzit.com^
-||rtax.criteo.com^$third-party
+||rtax.criteo.com^
 ||rtb-seller.com^$third-party
 ||rtb.loopa.net.au^$domain=junkmail.co.za
-||rtb.softcube.com^$third-party
+||rtb.softcube.com^
 ||rtb123.com^$third-party
 ||rtbanalytics.com^
 ||rtbcx.jp.canon.com/bcx/ap/$image
@@ -30656,7 +30641,6 @@ znak.com##.relap
 ||s.autopilotapp.com^$third-party
 ||s.batuu.pl/smartlink/collect?
 ||s.beop.io^
-||s.beop.io^$third-party
 ||s.blinds.ca^
 ||s.blinds.com^
 ||s.bramptonguardian.com^
@@ -30792,7 +30776,7 @@ znak.com##.relap
 ||sa.adidas.com.br^
 ||sa.adidas.com^
 ||sa.adidas.fi^
-||sa.aol.com^$third-party
+||sa.aol.com^
 ||sa.api.intl.miui.com^
 ||sa.bbc.co.uk^
 ||sa.bbc.com^
@@ -31418,7 +31402,7 @@ znak.com##.relap
 ||secure-e.healthiq.com^
 ||secure-eugo.arrow.com^
 ||secure-stat.canal-plus.com^
-||secure-wa-na.unileversolutions.com^$third-party
+||secure-wa-na.unileversolutions.com^
 ||secure.1-cl0ud.com^
 ||secure.acor1sign.com^
 ||secure.agoda.com/pixel.gif
@@ -31741,6 +31725,7 @@ znak.com##.relap
 ||segment.com^$third-party
 ||segment.io^$third-party
 ||segmentify.com^$third-party
+||segments.adap.tv^
 ||segments.adap.tv^$third-party
 ||segmetrics.io^$third-party
 ||segs.jp^$third-party
@@ -31794,7 +31779,7 @@ znak.com##.relap
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||sentry.arc.io^
 ||sentry.io^$third-party
-||sentry01.zerg.rambler.ru^$third-party
+||sentry01.zerg.rambler.ru^
 ||seo-master.net^$third-party
 ||seo.tkc110.jp^
 ||seoab.io^
@@ -32107,7 +32092,7 @@ znak.com##.relap
 ||siteimproveanalytics.com^$third-party
 ||siteimproveanalytics.io^$third-party
 ||siteinfo.libero.it^
-||siteintercept*.qualtrics.com^$third-party
+||siteintercept*.qualtrics.com^
 ||siteintercept.allegiancetech.com^
 ||siteintercept.qualtrics.com^$third-party
 ||sitejabber.com/set-fingerprint/
@@ -32186,7 +32171,7 @@ znak.com##.relap
 ||slewvr.gp.se^
 ||slgnt.us/track
 ||sli-spark.com/b.png$third-party
-||sli.familyhandyman.com^$third-party
+||sli.familyhandyman.com^
 ||slickdeals.net/ajax/stats/
 ||slidedeck.com^$image,third-party
 ||slideplayer.biz.tr/slide/getviewscount/
@@ -32221,7 +32206,7 @@ znak.com##.relap
 ||smallcapnetwork.com/zfbp/viewtracker/
 ||smallpdf.com/build/track-js.js
 ||smallseotools.com^$third-party
-||smart-bdash.com^$third-party
+||smart-bdash.com/tracking-script/
 ||smart-counter.net^$third-party
 ||smart-digital-solutions.com^$third-party
 ||smart-dmp.com^$third-party
@@ -34140,7 +34125,7 @@ znak.com##.relap
 ||sp.dpgmedia.net^$third-party
 ||sp.fanatical.com/i?cd_c=*&aid=
 ||sp.fdlreporter.com^
-||sp.flocktory.com^$third-party
+||sp.flocktory.com^
 ||sp.floridatoday.com^
 ||sp.freep.com^
 ||sp.fsunews.com^
@@ -34320,7 +34305,7 @@ znak.com##.relap
 ||spongesalt.com^
 ||sponsorcounter.de^$third-party
 ||sponsored.com^$third-party
-||spoods.rce.veeseo.com^$third-party
+||spoods.rce.veeseo.com^
 ||spookysleet.com^
 ||spookyslope.com^
 ||spookyslope.com^$third-party
@@ -34363,7 +34348,7 @@ znak.com##.relap
 ||sprocket-ping.s3.amazonaws.com^
 ||sprocket.bz/trackers/
 ||spscas.hitachi-solutions.co.jp^
-||spt.performgroup.com^$third-party
+||spt.performgroup.com^
 ||sptag.com^$third-party
 ||sptag1.com^$third-party
 ||spuriousbase.com^$third-party
@@ -34579,7 +34564,7 @@ znak.com##.relap
 ||ssmr.nuro.jp^
 ||ssmr.so-net.ne.jp^
 ||ssmr2.so-net.ne.jp^
-||ssp*.rtb.beeline.ru^$third-party
+||ssp*.rtb.beeline.ru^
 ||ssp.hinet.net^
 ||ssp.rambler.ru^
 ||ssp.seznam.cz^
@@ -34710,6 +34695,7 @@ znak.com##.relap
 ||sstats.www.o2.cz^
 ||sstats2.gq.com^
 ||ssy7.destinia.com.ua^
+||st-*.dynamicyield.com^
 ||st-nlyss1.plala.or.jp^
 ||st.avsplow.com^
 ||st.azcardinals.com^
@@ -34732,7 +34718,7 @@ znak.com##.relap
 ||st.s-bahn-muenchen-magazin.de^
 ||st.sawlive.tv^
 ||st.tmgrup.com.tr^
-||st.top100.ru^$third-party
+||st.top100.ru^
 ||st.wagen-eins.de^
 ||st.wir-entdecken-bayern.de^
 ||st.work.ua/js/banners/global-counter-min_*.js
@@ -34824,6 +34810,7 @@ znak.com##.relap
 ||stat.*.v-56.com^
 ||stat.1688.com^
 ||stat.24liveplus.com^
+||stat.4u.pl^
 ||stat.4u.pl^$third-party
 ||stat.5-tv.ru^
 ||stat.acca.it^
@@ -34839,13 +34826,13 @@ znak.com##.relap
 ||stat.belonnanotservice.ga^
 ||stat.bill.harding.blog^
 ||stat.boredomtherapy.com^
-||stat.botdetector.ru^$third-party
+||stat.botdetector.ru^
 ||stat.buyersedge.com.au^
 ||stat.caijing.com.cn^
 ||stat.canal-plus.com^
 ||stat.ciss.es^
 ||stat.clichehosting.de^
-||stat.clickfrog.ru^$third-party
+||stat.clickfrog.ru^
 ||stat.cncenter.cz^
 ||stat.cruisingpower.com^
 ||stat.dbschenker.com^
@@ -34853,7 +34840,6 @@ znak.com##.relap
 ||stat.download.xunlei.com^
 ||stat.duokanbox.com^
 ||stat.eagleplatform.com^
-||stat.eagleplatform.com^$third-party
 ||stat.enter-system.com^$third-party
 ||stat.freetool.it^
 ||stat.funshion.net^
@@ -34891,7 +34877,7 @@ znak.com##.relap
 ||stat.ouedkniss.com^
 ||stat.ovh^
 ||stat.pet^$third-party
-||stat.php-d.com^$third-party
+||stat.php-d.com^
 ||stat.pl^$third-party
 ||stat.ppstream.com^
 ||stat.pravmir.ru^
@@ -34900,18 +34886,17 @@ znak.com##.relap
 ||stat.prsmedia.fr^
 ||stat.pubhtml5.com^
 ||stat.radar.imgsmail.ru^
-||stat.rare.ru^$third-party
+||stat.rare.ru^
 ||stat.ringier.cz^$third-party
 ||stat.ringier.sk^
 ||stat.rum.cdnvideo.ru^
 ||stat.russianfood.com^
 ||stat.ruvr.ru^
-||stat.scroogefrog.com^$third-party
+||stat.scroogefrog.com^
 ||stat.segitek.hu^
 ||stat.social^$third-party
 ||stat.sports.ru^
 ||stat.sputnik.ru^
-||stat.sputnik.ru^$third-party
 ||stat.stars.ru^
 ||stat.starterre.fr^
 ||stat.stheadline.com^
@@ -34933,7 +34918,7 @@ znak.com##.relap
 ||stat.ustore.bz^$third-party
 ||stat.uuu9.com^
 ||stat.valica.it^
-||stat.videonow.ru^$third-party
+||stat.videonow.ru^
 ||stat.vulkanvegas.com^
 ||stat.web-regie.com^
 ||stat.wioau.com^$third-party
@@ -34943,6 +34928,7 @@ znak.com##.relap
 ||stat.wolterskluwer.es^
 ||stat.wolterskluwer.pl^
 ||stat.ws.126.net^
+||stat.www.fi^
 ||stat.www.fi^$third-party
 ||stat.xhamsterpremium.com^
 ||stat.xiaomi.com^
@@ -34950,7 +34936,7 @@ znak.com##.relap
 ||stat.youku.com^
 ||stat.zol.com.cn^
 ||stat24.com^$third-party
-||stat24.meta.ua^$third-party
+||stat24.meta.ua^
 ||stat24.ru^$third-party
 ||statad.ru^$third-party
 ||statafun.ru^$third-party
@@ -34988,7 +34974,7 @@ znak.com##.relap
 ||static-trackers.adtarget.me^
 ||static-tracking.klaviyo.com^
 ||static.actu.fr/assets/js/smarttag*.js
-||static.analytics-site.com^$third-party
+||static.analytics-site.com^
 ||static.ao.gl/js/analytics-min.js
 ||static.bbci.co.uk/bbcdotcom/*/script/av/emp/analytics.js
 ||static.bro.adca.st/broadcast/stats
@@ -35015,6 +35001,7 @@ znak.com##.relap
 ||static.narrativ.com/tags/narrativ-pub.
 ||static.olx.com.br/olx/js/lurker.min.js
 ||static.olx.pl/static/*/js/tracking/ninja.js$important,domain=olx.pl
+||static.parsely.com^
 ||static.parsely.com^$domain=spiegel.de
 ||static.parsely.com^$third-party
 ||static.plista.com/async.js$third-party
@@ -35055,7 +35042,7 @@ znak.com##.relap
 ||statistichegratis.net^$third-party
 ||statistics.11880.com^
 ||statistics.aldi-international.com^
-||statistics.crowdynews.com^$third-party
+||statistics.crowdynews.com^
 ||statistics.csob.cz^
 ||statistics.csweapons.com^
 ||statistics.daktilo.com^
@@ -35374,7 +35361,7 @@ znak.com##.relap
 ||stats.jerickson.net^
 ||stats.johnmac.pro^
 ||stats.joincomet.app^
-||stats.jpush.cn^$redirect=nooptext
+||stats.jpush.cn^
 ||stats.justanotherpm.com^
 ||stats.justinwilliams.ca^
 ||stats.justpaste.it^
@@ -35493,7 +35480,6 @@ znak.com##.relap
 ||stats.p42.ai^
 ||stats.pandasnap.io^
 ||stats.pandora.com^
-||stats.pandora.com^$redirect=nooptext
 ||stats.parqet.com^
 ||stats.paste2.org^
 ||stats.pasteapp.io^
@@ -35501,7 +35487,6 @@ znak.com##.relap
 ||stats.patriot.win^
 ||stats.paulbutler.org^
 ||stats.paypal.com^
-||stats.paypal.com^$redirect=nooptext
 ||stats.paysagistes.pro^
 ||stats.pcsg-server.de/js/
 ||stats.pebkac.io^
@@ -35719,7 +35704,7 @@ znak.com##.relap
 ||stats.vulture.com^
 ||stats.wafflemeido.art^
 ||stats.walkiees.co.uk^
-||stats.walytics.com^$third-party
+||stats.walytics.com^
 ||stats.webs.com^
 ||stats.websnap.app^
 ||stats.webstarts.com^$third-party
@@ -35731,9 +35716,7 @@ znak.com##.relap
 ||stats.wordpress.com^
 ||stats.world.hey.com^
 ||stats.wp.com^
-||stats.wp.com^$third-party
 ||stats.wpmucdn.com^
-||stats.wpmucdn.com^$third-party
 ||stats.wvs.org.uk^
 ||stats.wvsindia.org^
 ||stats.wwd.com^
@@ -35754,7 +35737,7 @@ znak.com##.relap
 ||stats.zotabox.com^
 ||stats01.20min.ch^
 ||stats1.tune.pk^
-||stats1.wpmudev.com^$third-party
+||stats1.wpmudev.com^
 ||stats2.*.fdnames.com^
 ||stats2.agilecrm.com^$third-party
 ||stats2.algo.at^$third-party
@@ -35954,7 +35937,6 @@ znak.com##.relap
 ||structurerod.com^$third-party
 ||sts.batmobi.net^
 ||sts.eccmp.com^
-||sts.eccmp.com^$third-party
 ||sts.papyrs.com^
 ||sts.ssl.net.zooplus.es^
 ||stt.nimbusweb.me^
@@ -35982,7 +35964,6 @@ znak.com##.relap
 ||sub1.cosmosdirekt.de^
 ||sub2tech.com^$third-party
 ||submitnet.net^$third-party
-||subpixel.4players.de
 ||subpixel.4players.de^
 ||subscribe.adpinfo.com^
 ||subscribe.dnv.com^
@@ -36253,13 +36234,13 @@ znak.com##.relap
 ||symbolizebeast.com^
 ||symbolizebeast.com^$third-party
 ||synapsys.us^*/tracker.js
-||sync.1dmp.io^$third-party
+||sync.1dmp.io^
 ||sync.adap.tv^
 ||sync.adotmob.com^
 ||sync.bumlam.com^$third-party
 ||sync.ebis.ne.jp^$third-party
 ||sync.hausgebrauch.net.zooplus.de^
-||sync.morgdm.ru^$third-party
+||sync.morgdm.ru^
 ||sync.outbrain.com^$third-party
 ||sync.rambler.ru^
 ||sync.shinobi.jp^
@@ -36348,7 +36329,7 @@ znak.com##.relap
 ||t.castle.io^
 ||t.centreinthesquare.com^
 ||t.cfjump.com^
-||t.channeladvisor.com^$redirect=nooptext
+||t.channeladvisor.com^
 ||t.cincinnatiarts.org^
 ||t.cinemablend.com^
 ||t.clic2buy.com^
@@ -36358,7 +36339,7 @@ znak.com##.relap
 ||t.comms.thetimes.co.uk^
 ||t.cotsta.ru^
 ||t.cubuffs.com^
-||t.custora.com^$third-party
+||t.custora.com^
 ||t.dailymail.co.uk^
 ||t.delfi.
 ||t.dgm-au.com^$third-party
@@ -36377,7 +36358,7 @@ znak.com##.relap
 ||t.fordidahocenter.com^
 ||t.foxtheatre.org^
 ||t.freelancer.com^
-||t.frtyi.com^$third-party
+||t.frtyi.com^
 ||t.gene.com^
 ||t.georgiadogs.com^
 ||t.goairforcefalcons.com^
@@ -36564,7 +36545,7 @@ znak.com##.relap
 ||tag.brandcdn.com^
 ||tag.contactatonce.co.uk^$third-party
 ||tag.cribnotes.jp^
-||tag.datariver.ru^$third-party
+||tag.datariver.ru^
 ||tag.elevaate.io^
 ||tag.escalated.io^
 ||tag.flagship.io^
@@ -36666,6 +36647,7 @@ znak.com##.relap
 ||tamgrt.com^*&pixel_version=
 ||tamindir.com/cdn-cgi/pe/bag2?r[]=
 ||tangankanan.net^$third-party
+||tangerine.io^$third-party
 ||tangibleteam.com^$third-party
 ||tanidigital.com^$third-party
 ||tanks.lv/top/stats.php
@@ -36805,7 +36787,6 @@ znak.com##.relap
 ||te.sieh-an.ch^
 ||te.sieh-an.de^
 ||te.supportfreecontent.com^
-||te.supportfreecontent.com^$third-party
 ||te.universal.at^
 ||te.witt-international.cz^
 ||te.witt-international.nl^
@@ -36921,7 +36902,7 @@ znak.com##.relap
 ||terra.com.mx^*/metrics_end.js
 ||terra.com/js/metrics/
 ||terra.com^*/td.asp?bstat
-||terra.fp.oix.net^$third-party
+||terra.fp.oix.net^
 ||terriblethumb.com^
 ||terriblethumb.com^$third-party
 ||terrificgoose.com^
@@ -36967,6 +36948,7 @@ znak.com##.relap
 ||tget.me^$third-party
 ||tgknt.com^$third-party
 ||tglyr.co^$third-party
+||tgrthaber.com.tr/item/hit?item_id=
 ||tgt.maep.ibm.com^
 ||tgtag.io^$third-party
 ||tgtgzo.otelz.com^
@@ -37298,30 +37280,30 @@ znak.com##.relap
 ||top.dkd.lt^$third-party
 ||top.doski.ru/top.gif$third-party
 ||top.elec.ru^
-||top.eomy.net^$third-party
-||top.gamesby.net^$third-party
+||top.eomy.net^
+||top.gamesby.net^
 ||top.gde.ru/isapi$third-party
 ||top.gg/api/auctions/impression
-||top.gigmir.net^$third-party
+||top.gigmir.net^
 ||top.hsdn.org^
 ||top.list.ru^$third-party
 ||top.lv^$third-party
 ||top.mail.ru/counter$third-party
 ||top.mail.ru/jump$third-party
-||top.myfilms.su^$third-party
+||top.myfilms.su^
 ||top.novosel.ru/top.gif$third-party
-||top.nydus.org^$third-party
+||top.nydus.org^
 ||top.riall.ru/counter.php$third-party
 ||top.skyzone.ro^
 ||top.startua.com/?$third-party
-||top.t-sk.ru^$third-party
-||top.topua.net^$third-party
+||top.t-sk.ru^
+||top.topua.net^
 ||top.wn.com^
 ||top.zp.ua/counter/
 ||top10.vl.ru/hh.hit$third-party
-||top100-images.rambler.ru^$third-party
-||top100.rambler.ru^$third-party
-||top100.vkirove.ru^$third-party
+||top100-images.rambler.ru^
+||top100.rambler.ru^
+||top100.vkirove.ru^
 ||top100bloggers.com^$third-party
 ||top100webshops.com^$third-party
 ||top10sportsites.com^$third-party
@@ -37337,7 +37319,7 @@ znak.com##.relap
 ||topiz.ru^$third-party
 ||toplist.cz^$third-party
 ||toplist.eu^$third-party
-||toplist.raidrush.ws^$third-party
+||toplist.raidrush.ws^
 ||toplist.sk^$third-party
 ||toplist100.org^$third-party
 ||topmalaysia.com^$third-party
@@ -37542,6 +37524,7 @@ znak.com##.relap
 ||tr.devize-companeo.ro^
 ||tr.discuss.com.hk^
 ||tr.donateur.afm-telethon.fr^
+||tr.ds.kakao.com^
 ||tr.e-mail.axa.fr^
 ||tr.e.entreprise-pm.net^
 ||tr.e.trouver-un-logement-neuf.com^
@@ -37924,7 +37907,7 @@ znak.com##.relap
 ||tr.welcome.vipmag.fr^
 ||tr.wycena-companeo.pl^
 ||tr.xleads.digital^
-||tr1.admeira.ch^$third-party
+||tr1.admeira.ch^
 ||tr1.citroen-ipsos.com^
 ||tr1.kaspersky.com^
 ||tr1.mailperf.com^
@@ -38015,7 +37998,6 @@ znak.com##.relap
 ||track.cordial.io^
 ||track.customer.io^
 ||track.custora.com^
-||track.custora.com^$third-party
 ||track.datescan.info
 ||track.ddmanager.ru^$third-party
 ||track.dictionary.com^
@@ -38035,7 +38017,7 @@ znak.com##.relap
 ||track.eadv.it^
 ||track.easeus.com^
 ||track.edu-info.jp^
-||track.effiliation.com^$third-party
+||track.effiliation.com^
 ||track.effitarget.com^
 ||track.elpais.com.uy^
 ||track.emeza.ch^
@@ -38076,7 +38058,7 @@ znak.com##.relap
 ||track.kueez.com^
 ||track.kyoads.com^
 ||track.laredoute.fr^$image
-||track.leadhit.io^$third-party
+||track.leadhit.io^
 ||track.leadhit.ru^$third-party
 ||track.leady.cz^
 ||track.lexico.com^
@@ -38136,7 +38118,6 @@ znak.com##.relap
 ||track.ra.icast.cn^
 ||track.realtimeboard.com^
 ||track.recreativ.ru^
-||track.recreativ.ru^$third-party
 ||track.rheinpfalz.de^
 ||track.robee.tech^
 ||track.roomster.com^
@@ -38146,7 +38127,6 @@ znak.com##.relap
 ||track.searchiq.co/api/tr?callback=*&event=
 ||track.searchiq.co^
 ||track.securedvisit.com^
-||track.securedvisit.com^$third-party
 ||track.segmentstream.com^$third-party
 ||track.shop2market.com^
 ||track.sitetag.us^
@@ -38167,11 +38147,9 @@ znak.com##.relap
 ||track.swaptrap.live^
 ||track.tagesanzeiger.ch/cre*/static/tracking^
 ||track.tcppu.com^
-||track.tcppu.com^$third-party
 ||track.td3x.com^
 ||track.tenjin.com^
 ||track.tenjin.io^
-||track.tenjin.io^$third-party
 ||track.tesiteca.it^
 ||track.thebase.in^
 ||track.thesaurus.com^
@@ -38210,7 +38188,7 @@ znak.com##.relap
 ||track2.dulingo.com^
 ||track2.me^$third-party
 ||track2.mycliplister.com^
-||track2.trbo.com^$third-party
+||track2.trbo.com^
 ||trackadm.com^$third-party
 ||trackalyzer.com^$third-party
 ||trackboxx.info^$third-party
@@ -38226,6 +38204,7 @@ znak.com##.relap
 ||trackedlink.net^$third-party
 ||trackedweb.net^$third-party
 ||tracker-api.my.com^
+||tracker-rec.smart-bdash.com^
 ||tracker.520call.me^
 ||tracker.77player.xyz^
 ||tracker.adbinead.com^
@@ -38233,7 +38212,7 @@ znak.com##.relap
 ||tracker.affiliate.iqoption.com^
 ||tracker.affirm.com^
 ||tracker.ai.xiaomi.com^
-||tracker.ampush.io^$third-party
+||tracker.ampush.io^
 ||tracker.anandtech.com^
 ||tracker.arc.io^
 ||tracker.azet.sk^
@@ -38243,7 +38222,7 @@ znak.com##.relap
 ||tracker.brainsins.com^
 ||tracker.bt.uol.com.br^
 ||tracker.calameo.com^
-||tracker.cartprotector.com^$third-party
+||tracker.cartprotector.com^
 ||tracker.cauly.co.kr^
 ||tracker.cdn-moneysmart.com^
 ||tracker.cdnbye.com^
@@ -38258,7 +38237,7 @@ znak.com##.relap
 ||tracker.durasite.net^
 ||tracker.euroweb.net^
 ||tracker.financialcontent.com^
-||tracker.giftd.ru^$third-party
+||tracker.giftd.ru^
 ||tracker.icerocket.com^
 ||tracker.idocdn.com^$third-party
 ||tracker.iltrovatore.it^
@@ -38293,8 +38272,8 @@ znak.com##.relap
 ||tracker.secretescapes.com^
 ||tracker.shopclues.com^
 ||tracker.softcube.com^
-||tracker.softcube.com^$third-party
 ||tracker.ssl0d.com^
+||tracker.stats.in.th^
 ||tracker.stats.in.th^$third-party
 ||tracker.stileo.it^
 ||tracker.swedish.org^
@@ -38314,6 +38293,7 @@ znak.com##.relap
 ||tracker.winload.de^
 ||tracker.wordstream.com^
 ||tracker.wpserveur.net^
+||tracker.xgen.dev^
 ||trackerapi.truste.com^
 ||trackerhqu.com^$third-party
 ||trackers.adtarget.me^
@@ -38323,13 +38303,14 @@ znak.com##.relap
 ||trackertest.org^$third-party
 ||trackfeed.com^$third-party
 ||trackicollect.ibase.fr^$third-party
+||tracking*.euroads.fi^
 ||tracking*.euroads.fi^$third-party
 ||tracking-api.sub100.com.br^
 ||tracking-config-service.glority.com^
 ||tracking-explore.agilent.com^
 ||tracking-opi.fonpit.de/tracking/
 ||tracking-opi.fonpit.de^
-||tracking-rce.veeseo.com^$third-party
+||tracking-rce.veeseo.com^
 ||tracking-receiver.prod-general.stocard-backend.com^
 ||tracking-sap.frodx.com^$third-party
 ||tracking-secure.csob.cz^
@@ -38341,7 +38322,7 @@ znak.com##.relap
 ||tracking.about.bgov.com^
 ||tracking.abrdn.com^
 ||tracking.academicyear.org^
-||tracking.adactioninteractive.com^$third-party
+||tracking.adactioninteractive.com^
 ||tracking.adalyser.com^
 ||tracking.adp.ca^
 ||tracking.adp.com^
@@ -38350,6 +38331,7 @@ znak.com##.relap
 ||tracking.adsbot.kr^
 ||tracking.adsx.unityads.unity3d.com^
 ||tracking.adtran.com^
+||tracking.adweb.co.kr^
 ||tracking.adweb.co.kr^$third-party
 ||tracking.aegpresents.com^
 ||tracking.affiliateclub.cz^$third-party
@@ -38558,7 +38540,6 @@ znak.com##.relap
 ||tracking.leeep.jp^$third-party
 ||tracking.legacyoffers.com^
 ||tracking.lengow.com^
-||tracking.lengow.com^$third-party
 ||tracking.lenovopartnernetwork.com^
 ||tracking.lenzmx.com^
 ||tracking.lg.com^
@@ -38644,7 +38625,7 @@ znak.com##.relap
 ||tracking.pella.com^
 ||tracking.pennmedicine.princetonhcs.org^
 ||tracking.pepsicopartners.com^
-||tracking.performgroup.com^$third-party
+||tracking.performgroup.com^
 ||tracking.petrelocation.com^
 ||tracking.pgi.com^
 ||tracking.pharmanewsintel.com^
@@ -38675,7 +38656,7 @@ znak.com##.relap
 ||tracking.quisma.com^
 ||tracking.rapidape.com^
 ||tracking.rasierteladies.de^
-||tracking.rce.veeseo.com^$third-party
+||tracking.rce.veeseo.com^
 ||tracking.realtor.com^
 ||tracking.redbutton.de^
 ||tracking.regus.com^
@@ -38712,6 +38693,7 @@ znak.com##.relap
 ||tracking.shoptogether.buy.com^
 ||tracking.sierrawireless.com^
 ||tracking.sim-technik.de^
+||tracking.skyword.com^
 ||tracking.skyword.com^$third-party
 ||tracking.smartbets.com^
 ||tracking.smartmeapp.com^
@@ -38790,7 +38772,7 @@ znak.com##.relap
 ||tracking.visma.no^
 ||tracking.visma.se^
 ||tracking.vismaraet.nl^
-||tracking.vitringez.com^$third-party
+||tracking.vitringez.com^
 ||tracking.vodafone.com^
 ||tracking.voordeeluitjes.nl^
 ||tracking.warehouseautomation.com^
@@ -38812,7 +38794,6 @@ znak.com##.relap
 ||tracking1.tena.com^
 ||tracking100.com^$third-party
 ||tracking2.channeladvisor.com^
-||tracking2.channeladvisor.com^$third-party
 ||tracking2.questdiagnostics.com^
 ||tracking202.com^$third-party
 ||tracking3.lenovo.com^
@@ -38932,16 +38913,15 @@ znak.com##.relap
 ||trc.caravas.jp^
 ||trc.pushnami.com^
 ||trck.bdi-services.de^
-||trck.bdi-services.de^$third-party
 ||trck.cyberport.de^
 ||trck.linkster.co^$third-party
 ||trck.rework-s.com^
 ||trck.spoteffects.net^
-||trck.spoteffects.net^$third-party
 ||trcka8net.irobot-jp.com^
 ||trckr.nordiskemedier.dk^
 ||treadbun.com^
 ||treadbun.com^$third-party
+||treasuredata.com^
 ||treasuredata.com^$third-party
 ||treatment.grammarly.com^
 ||trecker.aklamio.com^
@@ -38979,6 +38959,7 @@ znak.com##.relap
 ||trickyrock.com/redirect.aspx?pid=*&bid=$subdocument,third-party
 ||triggeredmessaging.com^$third-party
 ||triggers.wfxtriggers.com^
+||triggertag.gorillanation.com^
 ||triggertag.gorillanation.com^$third-party
 ||triggit.com^$third-party
 ||trilogyed.com^$third-party
@@ -39002,7 +38983,7 @@ znak.com##.relap
 ||trjs.mediafin.be/loader/trmfn-loader.js
 ||trk*.vidible.tv^
 ||trk-egestas.com^$third-party
-||trk.10ru.pt^$third-party
+||trk.10ru.pt^
 ||trk.absuite.com.br^
 ||trk.acukwik.com^
 ||trk.adbutter.net^
@@ -39127,7 +39108,9 @@ znak.com##.relap
 ||truconversion.com^$third-party
 ||truehits.in.th^$third-party
 ||truehits.net^$third-party
+||truehits1.gits.net.th^
 ||truehits1.gits.net.th^$third-party
+||truehits3.gits.net.th^
 ||truehits3.gits.net.th^$third-party
 ||truemfg.actonservice.com^
 ||truenat.bid^$third-party
@@ -39250,7 +39233,7 @@ znak.com##.relap
 ||tvpage.com^*/__tvpa.gif?
 ||tvpixel.com^
 ||tvsquared.com/tv2track$third-party
-||tw*.netcore.co.in^$third-party
+||tw*.netcore.co.in^
 ||tw.cx^$third-party
 ||twc.net/device/ovp/logger?
 ||twcount.com^$third-party
@@ -39299,7 +39282,7 @@ znak.com##.relap
 ||tzegilo.com^
 ||tzwaw.pw^
 ||u-on.eu^$third-party
-||u.btserve.com^$third-party
+||u.btserve.com^
 ||u0crsrah75fy.camberlion.com^
 ||u299.libelle-lekker.be^
 ||u47.pnc.com^
@@ -39334,6 +39317,7 @@ znak.com##.relap
 ||ubiquitousyard.com^$third-party
 ||ubmitt.heine.ch^
 ||ubmups.houseofindya.com^
+||ubt-sin.tripcdn.com^
 ||ubt.berlingskemedia.net^
 ||ubuyanalytics.ubuy.com^
 ||ubvsjh.pointtown.com^
@@ -39394,7 +39378,7 @@ znak.com##.relap
 ||ui-portal.de/*homepage.startseite.event
 ||ui-portal.de/pos-cdn/tracklib/
 ||ui-portal.de/prompt/permission/latest/tracking.min.js
-||ui.oix.net^$third-party
+||ui.oix.net^
 ||uicjnk.gumtree.co.za^
 ||uid.mavencoalition.io^
 ||uie.data.cbc.ca^
@@ -39458,12 +39442,14 @@ znak.com##.relap
 ||uni-duesseldorf.de/cgi-bin/nph-count?
 ||uni-leipzig.de^*/stats/
 ||unibet.de/stan/campaign.do?*&affiliateId=$subdocument,third-party
+||unibots.in^$third-party
 ||unicaondemand.com^$third-party
 ||uniconsent.com^$third-party
 ||unid.go.com^$third-party
 ||unifilabs.actonservice.com^
 ||unifyaddition.com^
 ||unifyaddition.com^$third-party
+||unileversolutions.com/*/js/trackUser.
 ||uninterestedquarter.com^$third-party
 ||union.360.cn/1899.js
 ||uniqodo.com^$third-party
@@ -40110,10 +40096,10 @@ znak.com##.relap
 ||vzw.sp1.convertro.com^
 ||w.ahalogy.com/e?v=
 ||w.ahalogy.com/widget/frame?&client=
-||w.oix.net^$third-party
+||w.oix.net^
 ||w.smobile.wotif.com^
 ||w020.newmilfordspectrum.com^
-||w1jesu6.package12.com^$third-party
+||w1jesu6.package12.com^
 ||w3.aktionaersbank.de^
 ||w3.flatex.at^
 ||w3.flatex.de^
@@ -40284,7 +40270,7 @@ znak.com##.relap
 ||weather.com/api/v*/script/dprSdkScript.js
 ||weather.com/weather/assets/omniture-app-measurement.*.js
 ||weather.com/weather/assets/omniture-visitorapi.*.js
-||web-analytics.engagio.com^$third-party
+||web-analytics.engagio.com^
 ||web-boosting.net^$third-party
 ||web-counter.net^$third-party
 ||web-g-p.com/info/js/cookie.js
@@ -40364,7 +40350,7 @@ znak.com##.relap
 ||webanalytics.astrogaming.com^
 ||webanalytics.europa.eu/ppms.js
 ||webanalytics.logitechg.com^
-||webanalyzer.bussion.com^$third-party
+||webanalyzer.bussion.com^
 ||webapi.tresorit.com/*/weblogformdata/
 ||webapp-middleware.21buttons.com/event_log/
 ||webassembly.stream^$third-party
@@ -40595,7 +40581,7 @@ znak.com##.relap
 ||whoisvisiting.com^$third-party
 ||whooshkaa.com/identify
 ||whooshkaa.com/listen/track
-||whos.amung.us^$third-party
+||whos.amung.us^
 ||whosclickingwho.com^$third-party
 ||whoseesyou.com^$third-party
 ||whoson.com^$third-party
@@ -40825,7 +40811,6 @@ znak.com##.relap
 ||wtastats.com^$third-party
 ||wtastats.ro^$third-party
 ||wtbevents.pricespider.com^
-||wtbevents.pricespider.com^$third-party
 ||wtdpkq.tausendkind.de^
 ||wtgnmr.golfdigest.co.jp^
 ||wtk.db.com^
@@ -40835,7 +40820,7 @@ znak.com##.relap
 ||wtp101.com^$third-party
 ||wts.one^$third-party
 ||wts2.one^$third-party
-||wtsdc.uhc.com^$image
+||wtsdc.uhc.com^
 ||wtstats.com^$third-party
 ||wtstats.ro^$third-party
 ||wttd.douglas.at^
@@ -41398,7 +41383,6 @@ znak.com##.relap
 ||xscmzs.tenki.jp^
 ||xserver.ne.jp/analytics?
 ||xslmpq.ohou.se^
-||xslt.alexa.com^$third-party
 ||xsltcache.alexa.com/site_stats/$third-party
 ||xsrzqh.bdnews24.com^
 ||xsrzqh.oferte360.ro^
@@ -41449,7 +41433,7 @@ znak.com##.relap
 ||y8hxgv9m.kobetsu.co.jp^
 ||y900.greenwichtime.com^
 ||ya-counter.ru^$third-party
-||ya.domain-vip.net^$third-party
+||ya.domain-vip.net^
 ||yachtingnetwork.it/stat/
 ||yackos.mamalicious.com^
 ||yadro.ru^
@@ -41539,7 +41523,7 @@ znak.com##.relap
 ||yhpknxzspo8a.kvest.ee^
 ||yhvewh.aboutyou.ro^
 ||yhyped.stolplit.ru^
-||yield-manager.browsiprod.com^$third-party
+||yield-manager.browsiprod.com^
 ||yieldbird.com^$third-party
 ||yieldbot.com^$third-party
 ||yieldify.com^$third-party
