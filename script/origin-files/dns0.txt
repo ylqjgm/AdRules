@@ -1,8 +1,8 @@
-! Checksum: TUsFkSL+mhKwq7LCImA8IQ
+! Checksum: Cilh09uhzxkyz3O8wIje5Q
 ! Title: AdGuard Chinese filter
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.0.58.42
-! TimeUpdated: 2022-06-15T07:30:56+00:00
+! Version: 2.0.58.45
+! TimeUpdated: 2022-06-15T11:31:02+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -3559,6 +3559,7 @@ ubmcmm.baidustatic.com
 ##.indexad4
 ##.indexnews-ad
 ##.itopbar + .container
+##.inner-advertise
 ##.jav-nav + .bcpic
 ##.jingqun_tu
 ##.jq_infoflow_ad_wrap
@@ -4081,6 +4082,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/ayx700.com/"]
 ##img[onclick*="/c7.net/"]
 ||jrhbhz.com^
+##a[href*="/682kg.com"]
 ||9191919199.com^
 ||bob4915.com^
 ||bob4942.com^
@@ -4093,6 +4095,7 @@ ubmcmm.baidustatic.com
 ||mnvde.com^
 ||opuik.com^
 ||qjing39.top^
+||ybkjap.com^
 ||lamimi.cn^
 ||500img.com^
 ||89qp98.com^
@@ -4111,6 +4114,7 @@ ubmcmm.baidustatic.com
 ||pbgcsk3.com^
 ||qbyyvg3.com^
 ||xtp01.com^
+||nbgsintl.com^
 ||666587.xyz^
 ||666576.xyz^
 ||666577.xyz^
@@ -12082,6 +12086,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||chusan.com/js/m*_
+||bad996.com/dakaads.js
+||dogfight360.com/Usbeam/*_ad/
 tucao.in##.td1
 skinme.cc##.huodong
 5278.cc##.pct > div[style="width: 600px;"]
@@ -15190,7 +15196,6 @@ ylfx.com##.info_logrt
 riaway.com##.info_message_container
 autohome.com.cn##.information-adv
 dzbhdm.net##.inn-nav__placeholder + .poi-container > a[target="_blank"]
-libvio.me##.inner-advertise
 chinabidding.com.cn##.innovate + .layer
 litv.tv##.internal_bn
 4gamers.com.tw##.interstitial-ads
@@ -17872,6 +17877,9 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||pos.baidu.com^$subdocument,domain=bigpixel.cn
+@@||pos.baidu.com^*?di=u3160754&$domain=bigpixel.cn
+@@||cpro.baidustatic.com/cpro/ui/cm.js$domain=bigpixel.cn
 @@.com/adv/$domain=my.ctrip.com
 @@.com/js/a_d/$domain=cocomanga.com|cocomanhua.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
@@ -17914,7 +17922,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@/advertisement/*$domain=ininin.com|midea.com|muyingzhijia.com|nmkjxy.com
 @@/advertising/*$domain=315.sh.cn
 @@/adverts/*$domain=onlychild.cn
-@@/adview_pic_$domain=1090ys8.com|2hanju.com|fydy8.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
+@@/adview_pic_$domain=bigpixel.cn|1090ys8.com|2hanju.com|fydy8.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
 @@/api/ad/*$domain=pinduoduo.com
@@ -20002,6 +20010,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 !#Novels ads union
 ||jhrtgt.site^
 ||hellohang.love^
+||hhppy.top^
 ##a[href*="/jianjianjiao.top"]
 ||1kcx.hk^
 ||lunt.cx^
@@ -20023,6 +20032,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||tokay.pro^
 ||yyyyt.ltd^
 ||zhongmeigk.hk^
+||ruslx.top^
+||qoepkc.top^
 ||hyfx.me^
 ||elomf.xyz^
 ||mengxing.ltd^

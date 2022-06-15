@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: cWIBh+wcBkap/ULOC7NXIA
+! Checksum: 4Q7iyIYOFXnkzmWQ+DJCsw
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-15 16:32:12（北京时间） 
-! Total count: 19490
+! Version: 2022-06-15 20:38:40（北京时间） 
+! Total count: 19495
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -259,6 +259,7 @@
 @@/adverts/*$domain=onlychild.cn
 @@/adview_pic_$domain=1090ys8.com|2hanju.com|fydy8.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
 @@/adview_pic_$domain=2hanju.com|laimanhua.com|lingjike.com|mahua.com|meiyouad.com|mh160.com|reh.tw|silisili.me|xiaoz.me|ykit.cn|zgpingshu.com
+@@/adview_pic_$domain=bigpixel.cn|1090ys8.com|2hanju.com|fydy8.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
 @@/adview_pic_$domain=doutula.com|fastadmin.net|toolfk.com|xclient.info
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
@@ -657,7 +658,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgetailedgovernment.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgsit/record.gif?
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -5144,6 +5145,7 @@
 @@||cpro.baidu.com/cpro/ui/uijs.php?$domain=www.400gb.com|www.pipipan.com
 @@||cpro.baidustatic.com/cpro/ui/c.js$domain=htqyy.com
 @@||cpro.baidustatic.com/cpro/ui/cm.js$domain=ali213.net|tangdoucdn.com
+@@||cpro.baidustatic.com/cpro/ui/cm.js$domain=bigpixel.cn
 @@||cpro.baidustatic.com/cpro/ui/cm.js$script,domain=rjno1.com
 @@||cpro.baidustatic.com/cpro/ui/f.js$script,domain=www.400gb.com|www.pipipan.com|colayun.com|coladrive.com
 @@||cps.jd.ru^$stealth
@@ -13920,6 +13922,8 @@
 @@||portsmouth.co.uk^$ghide
 @@||pos.baidu.com^$script,domain=fxpan.com|htqyy.com|jkpan.cc
 @@||pos.baidu.com^$script,domain=rjno1.com
+@@||pos.baidu.com^$subdocument,domain=bigpixel.cn
+@@||pos.baidu.com^*?di=u3160754&$domain=bigpixel.cn
 @@||positivewordsdictionary.com^$ghide
 @@||possessivebucket.com^$script,xmlhttprequest
 @@||possibleboats.com^$script,xmlhttprequest
@@ -14844,7 +14848,6 @@
 @@||s.aolcdn.com/ads/adsWrapperMSNI.js$domain=outlook.live.com
 @@||s.btstatic.com/tag.js$domain=sephora.com
 @@||s.cdn.turner.com^
-@@||s.click.taobao.com^
 @@||s.click.taobao.com^$popup
 @@||s.clickiocdn.com/t/*.js$domain=laleggepertutti.it
 @@||s.clickiocdn.com/t/200069/360.js$domain=glav.su
@@ -14966,6 +14969,7 @@
 @@||sams.nikonimaging.com^
 @@||sanctuary.moe/js/ads-prebid.js
 @@||sanctuary.moe/js/doubleserve.js
+@@||sandbox.cryptpad.info^$elemhide,jsinject,content,extension
 @@||sandinsect.com^$script,xmlhttprequest
 @@||sankakucomplex.com^$generichide
 @@||sankakucomplex.com^$ghide
@@ -17528,6 +17532,7 @@
 @@||track.svz.de/cre-*/tracking/tracking.js
 @@||track.toggl.com/auth^$stealth
 @@||track.ucas.com^
+@@||track.ukrposhta.ua/tracking_*.html$stealth
 @@||track2.royalmail.com^
 @@||trackad.cz/adtrack.php
 @@||trackcmp.net^|

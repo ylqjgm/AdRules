@@ -4419,6 +4419,10 @@
 @@||pos.baidu.com^$script,domain=fxpan.com|htqyy.com|jkpan.cc
 @@||pos.baidu.com^$script,domain=rjno1.com
 @@||pos.baidu.com^$script,domain=rjno1.com
+@@||pos.baidu.com^$subdocument,domain=bigpixel.cn
+@@||pos.baidu.com^$subdocument,domain=bigpixel.cn
+@@||pos.baidu.com^*?di=u3160754&$domain=bigpixel.cn
+@@||pos.baidu.com^*?di=u3160754&$domain=bigpixel.cn
 @@||possessivebucket.com^$script,xmlhttprequest
 @@||possibleboats.com^$script,xmlhttprequest
 @@||postfiles*.naver.net^$stealth
@@ -4828,6 +4832,7 @@
 @@||salon.com^*/ad-server.js
 @@||samestretch.com^$script,xmlhttprequest
 @@||sams.nikonimaging.com^
+@@||sandbox.cryptpad.info^$elemhide,jsinject,content,extension
 @@||sandinsect.com^$script,xmlhttprequest
 @@||sankakucomplex.com^$generichide
 @@||sarapbeh.com^$generichide
