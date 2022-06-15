@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: X6ThyTrKZ5I1+7FsSIeTAw
+! Checksum: N96o0BwqvzqU3vnp2rYk+A
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-15 21:15:50（北京时间） 
-! Total count: 93641
+! Version: 2022-06-16 00:30:37（北京时间） 
+! Total count: 93646
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -4203,6 +4203,7 @@
 ##.chp_branding
 ##.ck-anyclips
 ##.ck-anyclips-article
+##.ck_adv-box
 ##.click-track.partner
 ##.clickforceads
 ##.cm-ad
@@ -4851,6 +4852,7 @@
 ##.inner-ad
 ##.inner-ad-section
 ##.inner-adv
+##.inner-advertise
 ##.innerAdWrapper
 ##.innerAds
 ##.innerBanner
@@ -6915,6 +6917,7 @@
 ##a[href*="/445.ee/"]
 ##a[href*="/5537220.com/"]
 ##a[href*="/602034.com"]
+##a[href*="/682kg.com"]
 ##a[href*="/7267224.com/"]
 ##a[href*="/7699j.com:"]
 ##a[href*="/7763349.com/"]
@@ -7599,7 +7602,6 @@ $removeparam=/^dv_adwords_/
 $removeparam=/^ecid=/i
 $removeparam=/^fb_(source|ref)=/
 $removeparam=/^fb_action_(types|ids)=/
-$removeparam=/^form=/i,domain=bing.com
 $removeparam=/^from=ceneo$/
 $removeparam=/^from=kelkoo/
 $removeparam=/^from=rss$/
@@ -37062,6 +37064,8 @@ kupi.cz##[class$="_ssp"], [class^="ssp_"]
 kupi.cz##[data-sssp]
 kupi.cz##iframe[frameborder][scrolling][src^="https://www.kupi.cz/"]
 kupujemprodajem.com#@#.ad-title
+kurierlubelski.pl##.componentsListingLargeRow__content > div[data-turn-on-display] > .atomsListingArticleTileWithSeparatedLink > a[title="Reklama"]
+kurierlubelski.pl#?#.componentsListingLargeRow__content > div[data-turn-on-display]:has(> .atomsListingArticleTileWithSeparatedLink > .adsSlotContainer)
 kurnik.pl##+js(abort-on-property-read, abask)
 kurnik.pl#$#body .adsbygoogle { display: block!important; height: 2px!important; width: 1px!important; }
 kurnik.pl#@$#.adsbygoogle { height: 1px !important; width: 1px !important; }
@@ -37159,7 +37163,7 @@ latest-ufo-sightings.net##.wp-block-image a[href][target="_blank"]
 latestmanga.net##+js(abort-on-property-write, onClickTrigger)
 latimes.com,sandiegouniontribune.com##.revcontent
 latinblog.tv#$#abort-on-property-write _cpp
-latinblog.tv,adblockstreamtape.art,adblockstreamtape.site,baytorrent.eu.org,dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.ws,doodstream.co,doodstream.com,voe.sx,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.me,hdeuropix.io,hxfile.co,isohunt.lol,isohuntz.net,javmost.com,javjunkies.com,limetorrents.info,loadsubs.net,mypiratebay.best,mypiratebay.club,mypiratebay.co,mypiratebay.life,mypiratebay.live,mypiratebay.me,mypiratebay.surf,mypiratebay.win,mypiratebay.work,mypiratebay.wtf,mypiratebay.xyz,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,strcloud.club,strcloud.link,streamadblockplus.com,streamtape.cc,streamtape.com,strtapeadblock.me,streamtape.net,streamtape.to,streamtape.xyz,streamta.pe,strtape.cloud,strtape.site,strtape.tech,adblockstrtape.link,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidoz8.com,vidshare.tv,youdbox.com,mixdrop.co#$#abort-on-property-write _pop
+latinblog.tv,adblockstreamtape.art,adblockstreamtape.site,baytorrent.eu.org,dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.ws,doodstream.co,doodstream.com,voe.sx,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.me,hdeuropix.io,hxfile.co,isohunt.lol,isohuntz.net,javmost.com,javjunkies.com,limetorrents.info,loadsubs.net,mypiratebay.best,mypiratebay.club,mypiratebay.co,mypiratebay.life,mypiratebay.live,mypiratebay.me,mypiratebay.surf,mypiratebay.win,mypiratebay.work,mypiratebay.wtf,mypiratebay.xyz,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,proxyninja.org,strcloud.club,strcloud.link,streamadblockplus.com,streamtape.cc,streamtape.com,strtapeadblock.me,streamtape.net,streamtape.to,streamtape.xyz,streamta.pe,strtape.cloud,strtape.site,strtape.tech,adblockstrtape.link,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidoz8.com,vidshare.tv,youdbox.com,mixdrop.co#$#abort-on-property-write _pop
 latinohentai.com##+js(remove-attr, href, a[href]#clickfakeplayer)
 latinohentai.com##aside.widget_media_image > a:not([href*="latinohentai.com"], [href*="twitter.com"], [href*="discord.gg"]) > img
 lauxanh.org##+js(abort-on-property-write, show_pop)
@@ -52174,10 +52178,8 @@ zznews.cn##.ad:not([style])
 ||amazon.*/s?$removeparam=sprefix
 ||amazon.*/s?$removeparam=th
 ||amazon.*^$removeparam=channel
-||amazon.*^$removeparam=maas
 ||amazon.*^$removeparam=orig
 ||amazon.*^$removeparam=tag
-||amazon.*^$removeparam=visitId
 ||amazon.com/1/events/$domain=~aws.amazon.com
 ||amazon.com/1/remote-weblab-triggers/
 ||amazon.com/aan/
@@ -54817,6 +54819,7 @@ zznews.cn##.ad:not([style])
 ||bing.com/fd/ls/lsp.aspx
 ||bing.com/mouselog
 ||bing.com/retailexp/msn/api/*/trendingprods
+||bing.com/search?$removeparam=/^form=/i
 ||bing.com/search^$removeparam=pc
 ||bing.com^$removeparam=/^sh/
 ||bing.com^$removeparam=PC
@@ -79549,6 +79552,7 @@ zznews.cn##.ad:not([style])
 ||rusdosug.com/Fotos/Banners/
 ||rusenov.com^
 ||rushwei.ltd^
+||ruslx.top^
 ||rusnext.ru/advar.js$script
 ||rusticprice.com^
 ||rusu01.top^
@@ -91965,6 +91969,7 @@ zznews.cn##.ad:not([style])
 ||yaxinfushi.com.cn^
 ||yaznkj.cn^
 ||ybhypt.com^
+||ybkjap.com^
 ||ybnggmnaxu.com^
 ||ybnndud.cn^
 ||ybotvisit.com^$third-party

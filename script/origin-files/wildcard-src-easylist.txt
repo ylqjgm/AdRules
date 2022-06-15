@@ -74,10 +74,8 @@
 ||amanda.*.net^
 ||amaze*.snssdk.com^
 ||amazon.*^$removeparam=channel
-||amazon.*^$removeparam=maas
 ||amazon.*^$removeparam=orig
 ||amazon.*^$removeparam=tag
-||amazon.*^$removeparam=visitId
 ||analytics*.carambo.la^
 ||analytics*.clickdimensions.com^
 ||analytics*.prezly.com^

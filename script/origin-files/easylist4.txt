@@ -1,15 +1,15 @@
 [Adblock Plus 3.0]
-! Checksum: B52+WrU0nDIZUDDc8AJVCQ
+! Checksum: rItmRd8Ebl4Ot7SPDaYI4g
 ! Title: My AdFilters（for PC）
 ! Expires: 2 hours
-! Version: 202206152059
-! Last Modified: 2022年06月15日 20:59
+! Version: 202206152335
+! Last Modified: 2022年06月15日 23:35
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
-! Total count: 74400
+! Total count: 74406
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -4000,6 +4000,7 @@
 ##.chp_branding
 ##.ck-anyclips
 ##.ck-anyclips-article
+##.ck_adv-box
 ##.click-track.partner
 ##.clickforceads
 ##.cm-ad
@@ -4597,6 +4598,7 @@
 ##.inner-ad
 ##.inner-ad-section
 ##.inner-adv
+##.inner-advertise
 ##.innerAdWrapper
 ##.innerAds
 ##.innerBanner
@@ -6234,6 +6236,7 @@
 ##a[href*="//sub2.bubblesmedia.ru/"]
 ##a[href*="/33966676.com/"]
 ##a[href*="/3400com-o15.com/"]
+##a[href*="/682kg.com"]
 ##a[href*="/?Intr="]
 ##a[href*="/?intr="]
 ##a[href*="/Register?a="]
@@ -30219,6 +30222,8 @@ kupi.cz##[class$="_ssp"], [class^="ssp_"]
 kupi.cz##[data-sssp]
 kupi.cz##iframe[frameborder][scrolling][src^="https://www.kupi.cz/"]
 kupujemprodajem.com#@#.ad-title
+kurierlubelski.pl##.componentsListingLargeRow__content > div[data-turn-on-display] > .atomsListingArticleTileWithSeparatedLink > a[title="Reklama"]
+kurierlubelski.pl#?#.componentsListingLargeRow__content > div[data-turn-on-display]:has(> .atomsListingArticleTileWithSeparatedLink > .adsSlotContainer)
 kurnik.pl##+js(abort-on-property-read, abask)
 kurnik.pl#$#body .adsbygoogle { display: block!important; height: 2px!important; width: 1px!important; }
 kurnik.pl#@$#.adsbygoogle { height: 1px !important; width: 1px !important; }
@@ -30292,7 +30297,7 @@ latest-ufo-sightings.net##.wp-block-image a[href][target="_blank"]
 latestmanga.net##+js(abort-on-property-write, onClickTrigger)
 latimes.com,sandiegouniontribune.com##.revcontent
 latinblog.tv#$#abort-on-property-write _cpp
-latinblog.tv,adblockstreamtape.art,adblockstreamtape.site,baytorrent.eu.org,dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.ws,doodstream.co,doodstream.com,voe.sx,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.me,hdeuropix.io,hxfile.co,isohunt.lol,isohuntz.net,javmost.com,javjunkies.com,limetorrents.info,loadsubs.net,mypiratebay.best,mypiratebay.club,mypiratebay.co,mypiratebay.life,mypiratebay.live,mypiratebay.me,mypiratebay.surf,mypiratebay.win,mypiratebay.work,mypiratebay.wtf,mypiratebay.xyz,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,strcloud.club,strcloud.link,streamadblockplus.com,streamtape.cc,streamtape.com,strtapeadblock.me,streamtape.net,streamtape.to,streamtape.xyz,streamta.pe,strtape.cloud,strtape.site,strtape.tech,adblockstrtape.link,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidoz8.com,vidshare.tv,youdbox.com,mixdrop.co#$#abort-on-property-write _pop
+latinblog.tv,adblockstreamtape.art,adblockstreamtape.site,baytorrent.eu.org,dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.ws,doodstream.co,doodstream.com,voe.sx,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.me,hdeuropix.io,hxfile.co,isohunt.lol,isohuntz.net,javmost.com,javjunkies.com,limetorrents.info,loadsubs.net,mypiratebay.best,mypiratebay.club,mypiratebay.co,mypiratebay.life,mypiratebay.live,mypiratebay.me,mypiratebay.surf,mypiratebay.win,mypiratebay.work,mypiratebay.wtf,mypiratebay.xyz,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,proxyninja.org,strcloud.club,strcloud.link,streamadblockplus.com,streamtape.cc,streamtape.com,strtapeadblock.me,streamtape.net,streamtape.to,streamtape.xyz,streamta.pe,strtape.cloud,strtape.site,strtape.tech,adblockstrtape.link,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidoz8.com,vidshare.tv,youdbox.com,mixdrop.co#$#abort-on-property-write _pop
 latinohentai.com##+js(remove-attr, href, a[href]#clickfakeplayer)
 latinohentai.com##aside.widget_media_image > a:not([href*="latinohentai.com"], [href*="twitter.com"], [href*="discord.gg"]) > img
 lauxanh.org##+js(abort-on-property-write, show_pop)
@@ -30418,7 +30423,6 @@ libertycity.net,libertycity.ru#@#iframe[width="240"][height="400"]
 libhunt.com##.sprd
 libtorrent.org,mailgen.biz,speedcheck.org,torrentfreak.com,tubeoffline.com##[href*="://go.nordvpn.net/"]
 libvio.me##.hidden-log
-libvio.me##.inner-advertise
 libvio.me##.t-img-box
 lien-torrent.com###ad_divl
 lien-torrent.com###ad_divr
@@ -63042,6 +63046,7 @@ zyue.com##div[id^="divad_"]
 ||rup5.destinia.ru^
 ||rusdosug.com/Fotos/Banners/
 ||rusenov.com^
+||ruslx.top^
 ||rusnext.ru/advar.js$script
 ||rusticprice.com^
 ||rutarget.ru^$third-party
@@ -73384,6 +73389,7 @@ zyue.com##div[id^="divad_"]
 ||yawnspuker.com^
 ||yaznkj.cn^
 ||ybhypt.com^
+||ybkjap.com^
 ||ybnggmnaxu.com^
 ||ybotvisit.com^$third-party
 ||ybpeih.wconcept.com^

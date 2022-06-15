@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DiRIlwCa4ftD2HlI97e/yg
+! Checksum: Tt1h4uh3BPD33xBukPlCqQ
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206151233
-! Last modified: 2022-06-15 12:33 UTC
+! Version: 202206151533
+! Last modified: 2022-06-15 15:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24037,6 +24037,7 @@ _800x80_
 ##.chrt-subheader__adv
 ##.cinemabotad
 ##.ck-ad
+##.ck_adv-box
 ##.cl-ad-inpager
 ##.cl-ad-slot-post1
 ##.cl-ad-slot-post2
@@ -134774,6 +134775,7 @@ theguardian.com###contact-the-guardian
 euractiv.com###contribs_banner
 isglobal.org###donation-button-footer
 designtaxi.com###fancybar_link
+zacks.com###featured_zacks_rank_stocks
 theshot.net.au###fixed_footer
 theguardian.com###g200-banner
 geekwire.com###geekwire-events-sidebar
@@ -137601,6 +137603,7 @@ taste.com.au##.disclaimer-note
 news.com.au##.disclaimer-text
 xmarkets.db.com##.disclaimer_web
 virustotal.com##.disclaimers-container
+zacks.com##.disclosure-fixed-slab
 codes.co.uk##.discreet-alert
 refinitiv.com##.dismissible-banner
 transamerica.com##.dmb-notifications-ajax-wrapper
