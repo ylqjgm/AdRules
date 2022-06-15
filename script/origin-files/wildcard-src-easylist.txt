@@ -142,6 +142,7 @@
 ||clk.rtpdn*.com^$all
 ||clk.rtpdn*.com^$all
 ||clog*.yuanfudao.com^
+||collect-elb-*.amazonaws.com^
 ||collect.*.miui.com^
 ||collector-*.elb.amazonaws.com^$image,third-party
 ||collector-*.perimeterx.net^
@@ -166,6 +167,7 @@
 ||datacollect*.abtasty.com^$third-party
 ||datacollector-*.dt.hicloud.com^
 ||device-metrics-*.amazon.com^
+||device-metrics-us*.amazon.com^
 ||discord*.gift^$all,~discord.gift
 ||discord*.gifts^
 ||dm*.ppzuowen.com^
@@ -360,6 +362,7 @@
 ||ssh.*.com^*!$script,third-party
 ||ssh.*.com^*!$script,third-party
 ||ssp*.rtb.beeline.ru^
+||st-*.dynamicyield.com^
 ||startpage.*^$removeparam=segment
 ||stat*.1internet.tv^
 ||stat.*.v-56.com^
