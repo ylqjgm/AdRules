@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: Ofg4trNYiOP8KEapZoWaAA
+! Checksum: VbDyaVriuEvU80XrVJg+Ig
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-16 00:30:38（北京时间） 
-! Total count: 19495
+! Version: 2022-06-16 09:57:05（北京时间） 
+! Total count: 19500
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -1987,6 +1987,7 @@
 @@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|cnn.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|keloland.com|radio.com|rd.com|tasteofhome.com|thehealthy.com|time.com|wboy.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/aax2/apstag.js$domain=nydailynews.com
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt|gamestar.de|los40.com
+@@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt|los40.com
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=programme-tv.net
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=usgamer.net
 @@||amazon-adsystem.com/e/cm?$document,subdocument,domain=affiliate-program.amazon.co.uk|affiliate-program.amazon.com|affiliate-program.amazon.in|affiliate.amazon.co.jp|afiliados.amazon.es|associados.amazon.com.br|associates.amazon.ca|associates.amazon.cn|partenaires.amazon.fr|partnernet.amazon.de|programma-affiliazione.amazon.it
@@ -7194,6 +7195,7 @@
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?$domain=cbs.com
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|gamestar.de|pccomponentes.com|tv-tokyo.co.jp|vogue.de|voici.fr
+@@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|pccomponentes.com|tv-tokyo.co.jp|voici.fr
 @@||g.doubleclick.net/gampad/ads?$script,domain=wired.com
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=koigaku.machicon.jp
 @@||g.doubleclick.net/gampad/ads?*&url=https%3A%2F%2Fgames.poki.com$xmlhttprequest,domain=imasdk.googleapis.com
@@ -7208,6 +7210,7 @@
 @@||g.doubleclick.net/gpt/pubads_impl*.js$domain=playrust.io
 @@||g.doubleclick.net/gpt/pubads_impl*.js$domain=v3.co.uk
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=bloomberg.com|chelseafc.com|digitaltrends.com|edy.rakuten.co.jp|gamestar.de|gentside.com|pccomponentes.com|vogue.de|voici.fr
+@@||g.doubleclick.net/gpt/pubads_impl_$domain=bloomberg.com|chelseafc.com|digitaltrends.com|edy.rakuten.co.jp|gentside.com|pccomponentes.com|voici.fr
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|brigitte.de|gala.de|geo.de|guterhut.de|hardwareluxx.de|hbf-info.de|kochbar.de|n-tv.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|stern.de|welt.de|zalando.de,badfilter
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=koigaku.machicon.jp
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=spiegel.de
@@ -7221,6 +7224,7 @@
 @@||g.doubleclick.net/tag/js/gpt.js$domain=koigaku.machicon.jp
 @@||g.doubleclick.net/tag/js/gpt.js$domain=spiegel.de
 @@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|bloomberg.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|gamespot.com|gamestar.de|indy100.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|physicianspractice.com|standard.co.uk|theta.tv
+@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|bloomberg.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|gamespot.com|indy100.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|physicianspractice.com|standard.co.uk|theta.tv
 @@||g.doubleclick.net^$app=jp.co.alc.eow
 @@||g.live.com^
 @@||g.msn.com^
@@ -8557,6 +8561,7 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=etf.com
 @@||googletagservices.com/tag/js/gpt.js$domain=falkirkherald.co.uk
 @@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|vogue.de|voici.fr
+@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|voici.fr
 @@||googletagservices.com/tag/js/gpt.js$domain=games.softgames.com
 @@||googletagservices.com/tag/js/gpt.js$domain=gamestar.de
 @@||googletagservices.com/tag/js/gpt.js$domain=gaming.uefa.com
