@@ -1,10 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2022-06-14 20:35:33（北京时间） 
-! Total Count: 1947
+! Update Time: 2022-06-16 16:25:02（北京时间） 
+! Total Count: 1952
 ! by: 酷安@大萌主
 ! Host
+||marjorienice.com^
+||s.eybstar.com^
+||admhbl.xyz^
+||lovegg.club^
 ||v1qs.ywsywh.cn^
 ||percent.nbgsintl.com^
 ||nbr.yangshengzu.cn^
@@ -1878,6 +1882,7 @@ baidu.com##.ec-ad
 ##[href='http://732199.com']
 ##[href^='http://hbalsm.com:']
 ##[href^='http://amlyg.com:']
+###bl_mobile_float[style='height: 152px;']
 ###sOIcquIT
 ##[href='https://www.kissyvape.com/']
 ##[href^='https://2022025.com/']

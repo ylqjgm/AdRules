@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: VbDyaVriuEvU80XrVJg+Ig
+! Checksum: UsojrHoaws9YuVafmGz7Hg
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-16 09:57:05（北京时间） 
-! Total count: 19500
+! Version: 2022-06-16 16:27:33（北京时间） 
+! Total count: 19489
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -257,7 +257,6 @@
 @@/advertising.js$script,domain=itespresso.fr
 @@/advertising/*$domain=315.sh.cn
 @@/adverts/*$domain=onlychild.cn
-@@/adview_pic_$domain=1090ys8.com|2hanju.com|fydy8.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
 @@/adview_pic_$domain=2hanju.com|laimanhua.com|lingjike.com|mahua.com|meiyouad.com|mh160.com|reh.tw|silisili.me|xiaoz.me|ykit.cn|zgpingshu.com
 @@/adview_pic_$domain=bigpixel.cn|1090ys8.com|2hanju.com|fydy8.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
 @@/adview_pic_$domain=doutula.com|fastadmin.net|toolfk.com|xclient.info
@@ -590,7 +589,6 @@
 @@_ad_300.$domain=bleacherreport.com
 @@_ads_cpc_$domain=90lover.cn
 @@_adview_$domain=muzlan.top
-@@_adview_cpc_$domain=52xkdy.com
 @@_cpc_cpm_$domain=saraba1st.com|ygo-sem.cn|youranshare.com
 @@_pic_cpm_$domain=52xkdy.com
 @@acloud*.com^$stealth,image,domain=wfwf135.com|wfwf137.com|wfwf138.com
@@ -658,7 +656,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgetailedgovernment.com^
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org.cgi?
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -1986,7 +1984,6 @@
 @@||amazon-adsystem.com/aax2/amzn_ads.js^$domain=kino.de
 @@||amazon-adsystem.com/aax2/apstag.js$domain=accuweather.com|barstoolsports.com|blastingnews.com|cnn.com|exomashomepage.com|familyhandyman.com|foxbusiness.com|gamingbible.co.uk|history.com|keloland.com|radio.com|rd.com|tasteofhome.com|thehealthy.com|time.com|wboy.com|wkrn.com|wlns.com|wvnstv.com
 @@||amazon-adsystem.com/aax2/apstag.js$domain=nydailynews.com
-@@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt|gamestar.de|los40.com
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=abola.pt|los40.com
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=programme-tv.net
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=usgamer.net
@@ -7194,7 +7191,6 @@
 @@||g.doubleclick.net/gampad/ads$xmlhttprequest,domain=bloomberg.com|formularywatch.com|gamespot.com|managedhealthcareexecutive.com|medicaleconomics.com|physicianspractice.com
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||g.doubleclick.net/gampad/ads?$domain=cbs.com
-@@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|gamestar.de|pccomponentes.com|tv-tokyo.co.jp|vogue.de|voici.fr
 @@||g.doubleclick.net/gampad/ads?$domain=edy.rakuten.co.jp|pccomponentes.com|tv-tokyo.co.jp|voici.fr
 @@||g.doubleclick.net/gampad/ads?$script,domain=wired.com
 @@||g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=koigaku.machicon.jp
@@ -7209,7 +7205,6 @@
 @@||g.doubleclick.net/gpt/pubads_impl*.js$domain=gry.pl
 @@||g.doubleclick.net/gpt/pubads_impl*.js$domain=playrust.io
 @@||g.doubleclick.net/gpt/pubads_impl*.js$domain=v3.co.uk
-@@||g.doubleclick.net/gpt/pubads_impl_$domain=bloomberg.com|chelseafc.com|digitaltrends.com|edy.rakuten.co.jp|gamestar.de|gentside.com|pccomponentes.com|vogue.de|voici.fr
 @@||g.doubleclick.net/gpt/pubads_impl_$domain=bloomberg.com|chelseafc.com|digitaltrends.com|edy.rakuten.co.jp|gentside.com|pccomponentes.com|voici.fr
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=11freunde.de|auto-motor-und-sport.de|brigitte.de|gala.de|geo.de|guterhut.de|hardwareluxx.de|hbf-info.de|kochbar.de|n-tv.de|notebooksbilliger.de|rakuten.at|rakuten.de|rtl.de|stern.de|welt.de|zalando.de,badfilter
 @@||g.doubleclick.net/gpt/pubads_impl_$script,domain=koigaku.machicon.jp
@@ -7223,7 +7218,6 @@
 @@||g.doubleclick.net/pagead/ppub_config?$domain=bloomberg.com
 @@||g.doubleclick.net/tag/js/gpt.js$domain=koigaku.machicon.jp
 @@||g.doubleclick.net/tag/js/gpt.js$domain=spiegel.de
-@@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|bloomberg.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|gamespot.com|gamestar.de|indy100.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|physicianspractice.com|standard.co.uk|theta.tv
 @@||g.doubleclick.net/tag/js/gpt.js$script,xmlhttprequest,domain=accuweather.com|blastingnews.com|bloomberg.com|digitaltrends.com|edy.rakuten.co.jp|epaper.timesgroup.com|formularywatch.com|gamespot.com|indy100.com|managedhealthcareexecutive.com|mediaite.com|medicaleconomics.com|physicianspractice.com|standard.co.uk|theta.tv
 @@||g.doubleclick.net^$app=jp.co.alc.eow
 @@||g.live.com^
@@ -7308,7 +7302,6 @@
 @@||gamespot.redvideo.redventures.io^$xhr,domain=gamespot.com
 @@||gamesqa.ru/wp-content/themes/gamesqa/advertising.js
 @@||gamesrt.com/wp-content/plugins/*/fuckadblock.js
-@@||gamestar.de/gs_cb/assets/core/js/libs/dfp/prebid.$script,domain=gamestar.de
 @@||gametimers.it^$generichide
 @@||gametop.com^$generichide
 @@||gamezhero.com/api/ima3.js
@@ -8560,7 +8553,6 @@
 @@||googletagservices.com/tag/js/gpt.js$domain=epaper.timesgroup.com
 @@||googletagservices.com/tag/js/gpt.js$domain=etf.com
 @@||googletagservices.com/tag/js/gpt.js$domain=falkirkherald.co.uk
-@@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|vogue.de|voici.fr
 @@||googletagservices.com/tag/js/gpt.js$domain=farfeshplus.com|gentside.com|pccomponentes.com|tv-asahi.co.jp|vlive.tv|voici.fr
 @@||googletagservices.com/tag/js/gpt.js$domain=games.softgames.com
 @@||googletagservices.com/tag/js/gpt.js$domain=gamestar.de
@@ -8824,7 +8816,6 @@
 @@||hao123img.com/resource/zt/widget/service/util/clickTrack.
 @@||haohuo.snssdk.com^
 @@||haokoubei.top/dl/rfo_v_f_pc.js
-@@||haokoubei.top/jquery/jquery-1.7.2.min.js
 @@||haokoubei.top/sz/to_v_f.js
 @@||haoweichi.com/Public/js/ads.js
 @@||happenhistory.com^$script,xmlhttprequest
@@ -13679,7 +13670,6 @@
 @@||player*.cinestream.bid^$stealth
 @@||player*.kotakhitam.casa/?$stealth
 @@||player-feedback-v1.glomex.com/pf/|$domain=player.glomex.com
-@@||player-feedback.p7s1video.net^$script,domain=kabeleins.de|sat1.de
 @@||player-oni.ml^$ghide
 @@||player-smotri.mail.ru^$stealth
 @@||player.9cartoon.me/static/ads.js^
@@ -16097,7 +16087,6 @@
 @@||speedup-faucet.com/advertisement.js
 @@||speedvid.net/cdn-cgi/l/chk_jschl?jschl_vc=$popup
 @@||spellsalsa.com^$script,xmlhttprequest
-@@||spendino.de/admanager/
 @@||spendpest.com^$script,xmlhttprequest
 @@||spesifikasiharga.com^$ghide
 @@||spiceworks.com/assets/community/icons/social/$image

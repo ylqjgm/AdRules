@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206150344
+! Version: 202206160209
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41873
+! Lenth = 41884
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2758,7 +2758,9 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /facebook-tracking/*
 /facebookPixel.
 /facebook_fbevents.
+/facebook_fbevents.js$domain=femistories.com|chrum.com|deezee.eu
 /facebook_pixel_
+/facebook_sdk_$domain=femistories.com|chrum.com|deezee.eu
 /facebookpixel.
 /facebookpixel/*
 /facebookproductad/*$script
@@ -2781,6 +2783,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /fbevents.min.js
 /fbo-collect.
 /fbpix-
+/fbpix-events-
 /fbpixel.
 /fbpixel/*
 /fcp.gif?
@@ -3408,6 +3411,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /js/dart.js
 /js/dcstorm/*
 /js/ddx/*
+/js/fb_tracking.js
 /js/google_stats.
 /js/hbx.js
 /js/iMAWebCookie.js?
@@ -11405,6 +11409,7 @@ znak.com##.relap
 ||agates.ru/counters/
 ||agcmtb.nameit.com^
 ||agcs-knowledge.allianz.com^
+||agent.contentsanalyst.com^$third-party
 ||agentanalytics.com^$third-party
 ||agentcomm.mercuryinsurance.com^
 ||agentinteractive.com^$third-party
@@ -15040,6 +15045,7 @@ znak.com##.relap
 ||click.livejasmin.com^
 ||click.lmbcustomersupport.com^
 ||click.mail.carousell.com^
+||click.mail.disneyplus.com/open.aspx
 ||click.mail.thecarousell.com^
 ||click.marketing.carousell.com^
 ||click.mmosite.com^
@@ -15672,6 +15678,7 @@ znak.com##.relap
 ||communicatorcorp.com^*/conversiontracking.js
 ||communique.assetzproperty.com^
 ||community.axiscapital.com^
+||community.checkpoint.com/beacon/$image
 ||communitybuyinggroup.actonservice.com^
 ||company-target.com^$third-party
 ||compare.easyviaggio.com^
@@ -28590,6 +28597,7 @@ znak.com##.relap
 ||persuadesupport.com^$third-party
 ||pertholin.com^$third-party
 ||peruse.ai^$third-party
+||perzonalization.com^$third-party
 ||pes.itv.com/*/post/
 ||pesaea.autoesa.cz^
 ||pesquisas.lp.deloittecomunicacao.com.br^
@@ -30978,6 +30986,8 @@ znak.com##.relap
 ||samsclub.com/px/PXsLC3j22K/init.js
 ||samsung.com/*/peppermint_buy_tracking.js
 ||samsung.com^*/scripts/tracking.js
+||samsungtechwin.com/*.gif?e=
+||samsungtechwin.com/*.gif?orig=
 ||san-spr-01.net^$third-party
 ||sana.newsinc.com.s3.amazonaws.com^
 ||sanalytics.adobe.tp.gskpro.com^
@@ -41282,6 +41292,7 @@ znak.com##.relap
 ||x.clearbitjs.com^$third-party
 ||x.disq.us^
 ||x.interia.pl/inpl/inpl.klmcounter.*.js
+||x.sexhd.pics^
 ||x.weather.com^
 ||x3-policy-maker.goguardian.com^
 ||x3-predictor.goguardian.com^

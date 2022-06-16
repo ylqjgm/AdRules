@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Tg8Q+P7ZJKx1gSKgov1PuQ
+! Checksum: 9WSd+q/DL9rCP+Jg4NkMow
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206160133
-! Last modified: 2022-06-16 01:33 UTC
+! Version: 202206160733
+! Last modified: 2022-06-16 07:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30823,8 +30823,6 @@ _800x80_
 ##[href*=".engine.adglare.net/"]
 ##[href*=".zlinkm.com/"]
 ##[href*="incentrev.com/"] img
-##[href="https://turtlebids.irauctions.com/"] img
-##[href="https://zstacklife.com/"] img
 ##[href^="http://advertisesimple.info/"]
 ##[href^="http://globsads.com/"]
 ##[href^="http://go.cm-trk2.com/"]
@@ -30871,6 +30869,7 @@ _800x80_
 ##[href^="https://totlnkcl.com/"]
 ##[href^="https://track.fiverr.com/visit/"] > img
 ##[href^="https://traffserve.com/"]
+##[href^="https://turtlebids.irauctions.com/"] img
 ##[href^="https://v.investologic.co.uk/"]
 ##[href^="https://wct.link/"]
 ##[href^="https://www.dcpodj3k5.com/"]
@@ -30881,6 +30880,7 @@ _800x80_
 ##[href^="https://www.restoro.com/"]
 ##[href^="https://www.targetingpartner.com/"]
 ##[href^="https://zone.gotrackier.com/"]
+##[href^="https://zstacklife.com/"] img
 ##[id^="ad-wrap-"]
 ##[id^="ad_sky"]
 ##[id^="ad_slider"]
@@ -32179,7 +32179,6 @@ outinthepaddock.com.au#@#.topads
 codedevstuff.blogspot.com,hassiweb-programming.blogspot.com#@#.vertical-ads
 youtube.com#@#.video-ads
 javynow.com#@#.videos-ad
-zstacklife.com#@#[href="https://zstacklife.com/"] img
 globsads.com#@#[href^="http://globsads.com/"]
 mypillow.com#@#[href^="http://mypillow.com/"] > img
 mypillow.com#@#[href^="http://www.mypillow.com/"] > img
@@ -32190,6 +32189,7 @@ mypatriotsupply.com#@#[href^="https://www.mypatriotsupply.com/"] > img
 mypillow.com#@#[href^="https://www.mypillow.com/"] > img
 reimageplus.com#@#[href^="https://www.reimageplus.com/"]
 restoro.com#@#[href^="https://www.restoro.com/"]
+zstacklife.com#@#[href^="https://zstacklife.com/"] img
 amazon.com,cancam.jp,faceyourmanga.com,isc2.org,liverc.com,liverpoolfc.com,mit.edu,muscatdaily.com,olx.pl,payback.pl,pccomponentes.com,ripley.com.pe,saitama-np.co.jp,timesofoman.com,virginaustralia.com#@#[id^="div-gpt-ad"]
 economist.com,flightcentre.co.uk,foodkick.com,liverpoolfc.com,olx.pl,payback.pl,pccomponentes.com,ripley.cl,ripley.com.pe,wsj.com#@#[id^="google_ads_iframe"]
 revimedia.com#@#a[href*=".revimedia.com/"]
@@ -56291,6 +56291,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockstreamtape.a
 ||galleries-pornstar.com/thumb_top/
 ||gapeandfist.com/uploads/thumbs/
 ||gayboystube.com/templates/gayboystube2017/js/gbtpop.js
+||gayfor.us/front.js
 ||gaytail.com/vast.xml
 ||girlsofdesire.org/edge/
 ||girlsofdesire.org/paper/
@@ -71150,6 +71151,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||chewcoat.com^
 ||chickensstation.com^
 ||childlikecook.com^
+||childlikecrowd.com^
 ||childlikeform.com^
 ||chingovernment.com^
 ||chinsnakes.com^
@@ -74543,7 +74545,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ping.hellobar.com^
 ||ping.instantsearchplus.com^
 ||ping.smyte.com^
-||ping.staticmoly.me^
 ||pings.conviva.com^
 ||pings.vidpulse.com^
 ||pipe-collect.ebu.io^
@@ -74814,6 +74815,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||statdb.pressflex.com^
 ||static-tracking.klaviyo.com^
 ||static.parsely.com^$third-party
+||staticmoly.me/metric.php
 ||statistics.tattermedia.com^
 ||statistics.wibiya.com^
 ||statm.the-adult-company.com^
@@ -94768,7 +94770,6 @@ _revotas_push.
 /social-profiles-widget/*$~stylesheet
 /social-proof-
 /social-search-
-/social-share-
 /social-share.$domain=~social-share.historykon.pl
 /social-shares.
 /social-sharing-
@@ -114550,6 +114551,7 @@ _subscribers_newsletters/
 ###cookie-tajekoztatas
 ###cookie-terms
 ###cookie-text
+###cookie-timtul-bot
 ###cookie-tips
 ###cookie-tissue
 ###cookie-toast
@@ -114571,6 +114573,7 @@ _subscribers_newsletters/
 ###cookie-uzenet
 ###cookie-varsel
 ###cookie-view
+###cookie-vue-app
 ###cookie-wall
 ###cookie-warn
 ###cookie-warning
@@ -116878,6 +116881,7 @@ _subscribers_newsletters/
 ###dv-t3-consent-management-modal
 ###dvAcceptCookies
 ###dvCookie
+###dvCookieBanner
 ###dvCookieBar
 ###dvCookieChk
 ###dvCookieChoiceInfo
@@ -117290,6 +117294,7 @@ _subscribers_newsletters/
 ###gd-cookiebar
 ###gdc-container.gdc-container
 ###gdc-cookieSettings
+###gdpr--lista
 ###gdpr-acceptance
 ###gdpr-agreement
 ###gdpr-alert
@@ -118547,6 +118552,7 @@ _subscribers_newsletters/
 ###overlayContentCookie
 ###overlayCookie
 ###overlayCookie2015
+###overlayCookieNotification
 ###overlayCookies
 ###overlayTradeCCT2
 ###overlay_cookie
@@ -119135,6 +119141,7 @@ _subscribers_newsletters/
 ###scc-cookie-consent
 ###scc-mask
 ###sccCookieBanner
+###schifters-gdpr-container
 ###scmp-popin
 ###scms-cc-cookie-bar
 ###scnb-cookie-bar
@@ -119347,6 +119354,7 @@ _subscribers_newsletters/
 ###sxc_confirmation
 ###sxoCookiesAlert
 ###syl-cookie-monster
+###synapse-cookie-banner-1
 ###synergi_cookie_wrapper
 ###synergi_inner_information
 ###sysCookieMessage
@@ -120217,7 +120225,6 @@ _subscribers_newsletters/
 ##.accept_cookies_action
 ##.acceptcookie
 ##.acceptcookies
-##.accepted-cookies
 ##.accepterCookie
 ##.acceptmycookie-bar
 ##.acceptsitecookies
@@ -120301,8 +120308,6 @@ _subscribers_newsletters/
 ##.alert-compliance.fixed-bottom
 ##.alert-coocies
 ##.alert-coockie
-##.alert-cook
-##.alert-cookie
 ##.alert-cookie-banner
 ##.alert-cookie-message
 ##.alert-cookie-notice
@@ -120432,8 +120437,6 @@ _subscribers_newsletters/
 ##.as-oil[data-qa="oil-Layer"]
 ##.as__cookie-banner
 ##.asa-cookie-notification
-##.ask-cookie
-##.askcook
 ##.asset_balaNotification
 ##.assignment--cookies
 ##.aszfLayerContent
@@ -120898,7 +120901,6 @@ _subscribers_newsletters/
 ##.c-cookie__message--middle
 ##.c-cookiebanner
 ##.c-cookiebar
-##.c-cookieconsent
 ##.c-cookiehint
 ##.c-cookiepopup
 ##.c-cookies
@@ -121507,7 +121509,6 @@ _subscribers_newsletters/
 ##.cookie-agreement
 ##.cookie-agreement-container
 ##.cookie-agreement-wrapper
-##.cookie-alert
 ##.cookie-alert--top
 ##.cookie-alert-2018-c
 ##.cookie-alert-box
@@ -121627,6 +121628,7 @@ _subscribers_newsletters/
 ##.cookie-btn
 ##.cookie-bubble
 ##.cookie-button-consent
+##.cookie-callout
 ##.cookie-card_popup_fixed
 ##.cookie-cell
 ##.cookie-choice
@@ -121760,7 +121762,6 @@ _subscribers_newsletters/
 ##.cookie-dialog-container
 ##.cookie-dialog-wrapper
 ##.cookie-dialogue
-##.cookie-directive
 ##.cookie-directive-alert
 ##.cookie-directive-container
 ##.cookie-disclaimer--default
@@ -121776,13 +121777,9 @@ _subscribers_newsletters/
 ##.cookie-disclaimer-notice
 ##.cookie-disclaimer-overlay-container
 ##.cookie-disclaimer-wrapper
-##.cookie-disclamer
-##.cookie-disclosure
 ##.cookie-disclosure-message
-##.cookie-div
 ##.cookie-drop-down
 ##.cookie-dropdown
-##.cookie-eu
 ##.cookie-eu-msg
 ##.cookie-event-block
 ##.cookie-fade
@@ -121813,8 +121810,6 @@ _subscribers_newsletters/
 ##.cookie-guard-msg
 ##.cookie-guideline
 ##.cookie-handling-new
-##.cookie-header
-##.cookie-hint
 ##.cookie-hint-container
 ##.cookie-hint-wrapper
 ##.cookie-hinweis
@@ -121948,6 +121943,7 @@ _subscribers_newsletters/
 ##.cookie-message-desktop
 ##.cookie-message-modal-overlay
 ##.cookie-message-wrapper
+##.cookie-message.cmsFlexible
 ##.cookie-message__bar
 ##.cookie-message__container
 ##.cookie-message__wrap
@@ -122192,6 +122188,7 @@ _subscribers_newsletters/
 ##.cookie-section
 ##.cookie-set-pop-up
 ##.cookie-setting-bottom-bar
+##.cookie-setting-message
 ##.cookie-settings--simple
 ##.cookie-settings-band
 ##.cookie-settings-message
@@ -124186,6 +124183,7 @@ _subscribers_newsletters/
 ##.fond_bandeau_coockies
 ##.fondcookies2
 ##.fondo-aviso-cookies
+##.foo-bar-cookie
 ##.foobar-cookie
 ##.fool_text_cookie
 ##.foooter-privacy-policy
@@ -126468,7 +126466,6 @@ _subscribers_newsletters/
 ##.show-banner-cookies
 ##.show-concord-banner
 ##.show-cookie-box
-##.show-cookie-consent
 ##.show-cookie-container
 ##.show-cookie-notifyer
 ##.show-cookie-popup:not(body):not(html)
@@ -127504,7 +127501,13 @@ _subscribers_newsletters/
 ##div.Cookies
 ##div.accept-cookie
 ##div.accept-cookies
+##div.accepted-cookies
+##div.alert-cook
+##div.alert-cookie
 ##div.app-cookies
+##div.ask-cookie
+##div.askcook
+##div.c-cookieconsent
 ##div.cPolicy
 ##div.ccpa-notice
 ##div.cnil
@@ -127515,12 +127518,20 @@ _subscribers_newsletters/
 ##div.consent-summary-shown
 ##div.containerCookies
 ##div.cookie-accept-container
+##div.cookie-alert
 ##div.cookie-banner
 ##div.cookie-bar
 ##div.cookie-bar-visible
 ##div.cookie-consent
 ##div.cookie-details
+##div.cookie-directive
 ##div.cookie-disclaimer
+##div.cookie-disclamer
+##div.cookie-disclosure
+##div.cookie-div
+##div.cookie-eu
+##div.cookie-header
+##div.cookie-hint
 ##div.cookie-info
 ##div.cookie-layer
 ##div.cookie-message
@@ -127539,6 +127550,7 @@ _subscribers_newsletters/
 ##div.is-cookie
 ##div.is-cookies
 ##div.mod_cookies
+##div.show-cookie-consent
 ##div.show-cookie-policy
 ##div.with-cookie
 ! asfromania.ro
@@ -138112,6 +138124,7 @@ spox.com##.spxcib
 bonsaipartners.eu##.sqs-slide-layer-content
 fusemagazine.com##.sqs-slide-wrapper
 donsje.com##.src-components-connected-dialog-dialog__root_open--1JzrN
+andwander.com##.src-components-utils-___ModalOverlay__zigzag-modal___2pOXm
 disk-o.cloud##.src-ui-Cookie-Cookie__root--3Lml4
 openweathermap.org##.stick-footer-panel
 grafana.com,scoresaber.com,staterbros.com##.sticky-footer
@@ -138331,7 +138344,7 @@ carsharingi.ru##.bottom-0.position-fixed
 !! .bottom-0.relative
 onassis.org##.bottom-0.relative
 !! .bottom-0.fixed
-licenseglobal.com##.bottom-0.fixed
+barecollective.com,licenseglobal.com##.bottom-0.fixed
 !! .modal-cookie
 aio.media,banggood.com,jfservice.ru,medcentr-tula.ru,onetoyshop.ru,royalprestige.com,zlimovel.com.br##.modal-cookie
 !! .modalcookies
@@ -143627,6 +143640,7 @@ mnogo.ru##.cook_LFPnK
 everpharma.ru,hashrating.com,key-test.ru,narbutas.ru,onlinesim.ru,petrovax.ru,rostec.ru,rutoken.ru,sibsoc.ru,tw1.ru,wpnew.ru,yavitrina.ru,zettains.ru##.cookie
 2x2.su,advstreet.ru,calltouch.ru,glavred.info,kituramirus.com,lavardi.ru,orona.ru,skillbox.ru,sprinter-avto.com,stanumamoy.com,unian.net##.cookies
 bml.ru##.cookiesModal
+peterburg2.ru##.cow
 kaida-fish.ru##.custom_message
 rosatomflot.ru##.disclaimer
 ichip.ru,ivd.ru,lisa.ru##.disclamer
@@ -143962,6 +143976,7 @@ punpro.com##div[class^="CookieSession"]
 find.com.tr###KVK_Cerez
 oyunlarskor.com###cerez_kabul
 izocam.com.tr###closePoliciesDiv
+karakartal.com,superfb.com,webaslan.com###consentdiv
 dufa.com.tr,gencboya.com.tr###cookie
 eltesan.com.tr,magnadijital.com.tr,safetica.com,starcool.com.tr###cookies
 mepasenerji.com###dataPolicies
