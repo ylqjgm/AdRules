@@ -234,8 +234,11 @@ cat dead-hosts* \
 echo 开始合并
 cat .././mod/rules/adblock-rules.txt easylist*.txt \
  | grep -Ev "^((\!)|(\[)).*" | grep -v 'local.adguard.org' |grep -E -v "^[\.||]+[com]+[\^]$" \
- | sort -n | uniq >> tmp-adblock.txt  #处理主规则
+ | sort -n | uniq >> tmp-adblock1.txt  #处理主规则
 
+cat tmp-adblock1.txt .././mod/rules/ex*adblock-rules.txt .././mod/rules/ex*adblock-rules.txt \
+ |sort -n |uniq -u >tmp-adblock.txt
+rm -f tmp-adblock1.txt
 cat .././mod/rules/adblock-rules.txt *easylist*.txt full-adg*.txt \
  |grep -Ev "^((\!)|(\[)).*" | grep -v 'local.adguard.org' \
  | sort -u | sort -n | uniq | awk '!a[$0]++' > tmp-adblock+adguard.txt  #处理Plus规则
