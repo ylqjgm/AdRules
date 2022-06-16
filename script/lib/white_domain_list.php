@@ -9,6 +9,7 @@
 
 return array(
     /**start**/
+    'hot.browser.miui.com' => 0, //小米浏览器热搜以及下载弹窗
     'fengkongcloud.com' => 0, //验证码域名
     'lf1-cdn-tos.bytegoofy.com' => 0, //抖音电脑页面
     'local.adguard.org' => 0, //adg
