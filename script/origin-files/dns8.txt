@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 9WSd+q/DL9rCP+Jg4NkMow
+! Checksum: 5BteBXB75V2KW/u5Tqzjqw
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206160733
-! Last modified: 2022-06-16 07:33 UTC
+! Version: 202206161533
+! Last modified: 2022-06-16 15:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9010,7 +9010,9 @@ _800x80_
 ###ad-slot-1
 ###ad-slot-1501
 ###ad-slot-2
+###ad-slot-3
 ###ad-slot-4
+###ad-slot-5
 ###ad-slot-502
 ###ad-slot-lb
 ###ad-slot-mpu-1-desktop
@@ -22370,6 +22372,7 @@ _800x80_
 ##.advertisement-custom-post
 ##.advertisement-dashed
 ##.advertisement-footer
+##.advertisement-google
 ##.advertisement-header
 ##.advertisement-highlighter
 ##.advertisement-image
@@ -23285,6 +23288,7 @@ _800x80_
 ##.bh_ad_container
 ##.bi-ads-300x250
 ##.bi-ads-desktop
+##.bi-advertorial
 ##.bidbarrel-ad
 ##.big-ad
 ##.big-ads
@@ -33289,10 +33293,12 @@ tf2r.com#@#.adverts
 ||advantageglobalmarketing.com^
 ||advard.com^
 ||adventory.com^
+||adventurouscomprehendhold.com^
 ||adverpub.com^
 ||adversaldisplay.com^
 ||adversalservers.com^
 ||adverserve.net^
+||adversesuffering.com^
 ||advertbox.us^
 ||adverti.io^
 ||advertica-cdn.com^
@@ -35595,6 +35601,7 @@ tf2r.com#@#.adverts
 ||chocohjuanfhdhf.com^
 ||choconart.com^
 ||choksail.com^
+||chokupsupto.com^
 ||cholosfuhrer.com^
 ||chonenusi.com^
 ||choobinoobi.com^
@@ -35874,6 +35881,7 @@ tf2r.com#@#.adverts
 ||coenobeullucu.com^
 ||coenuriauge.com^
 ||coeqagujkay.com^
+||coetusnappers.com^
 ||coexploitates.xyz^
 ||coffeedesigningkindle.com^
 ||cogitateseparated.com^
@@ -36775,6 +36783,7 @@ tf2r.com#@#.adverts
 ||dienesasides.com^
 ||dieselhircine.com^
 ||dietalmatax.com^
+||differfundamental.com^
 ||differukent.co^
 ||difficultdisintegrate.com^
 ||difficultydilapidationsodium.com^
@@ -38194,6 +38203,7 @@ tf2r.com#@#.adverts
 ||fiwhibse.com^
 ||fixchidie.com^
 ||fixedlyvictimrevoke.com^
+||fixiondenied.com^
 ||fixpass.net^
 ||fixproteinnotch.com^
 ||fixsirrod.site^
@@ -41208,6 +41218,7 @@ tf2r.com#@#.adverts
 ||lighterplumberlimits.com^
 ||lightlycauldron.com^
 ||lightlygavetusk.com^
+||lightlyrelinquish.com^
 ||lightningcast.net^
 ||lightningprefacegrant.com^
 ||ligninenchant.com^
@@ -41328,6 +41339,7 @@ tf2r.com#@#.adverts
 ||local-hot-dates.com^
 ||localadbuy.com^
 ||localedgemedia.com^
+||localesaftaba.com^
 ||localsnaughty.com^
 ||locatedunderwear.com^
 ||locationsreverenceaid.com^
@@ -41408,6 +41420,7 @@ tf2r.com#@#.adverts
 ||loversagobearable.com^
 ||loweredinflammable.com^
 ||lowlifebadly.com^
+||lowlilyamex.com^
 ||lowpox.xyz^
 ||lowrance.top^
 ||lowremoraidon.com^
@@ -43642,6 +43655,7 @@ tf2r.com#@#.adverts
 ||pdrfvumww.com^
 ||pdvacde.com^
 ||pdxgfnnoan.com^
+||peaceablefitsfamily.com^
 ||peacebanana.com^
 ||peacefullymenitch.com^
 ||peachsquat.com^
@@ -46322,6 +46336,7 @@ tf2r.com#@#.adverts
 ||snodlycaccias.com^
 ||snonoz.com^
 ||snonsy.com^
+||snopmisgive.com^
 ||snortedbingo.com^
 ||snouft.com^
 ||snowdayonline.xyz^
@@ -47271,6 +47286,7 @@ tf2r.com#@#.adverts
 ||thrillingholesantarctic.com^
 ||thrinaxpublic.com^
 ||throbbingmill.com^
+||throngsarseno.com^
 ||throughlavish.com^
 ||throun.com^
 ||throwerdeaner.com^
@@ -54781,6 +54797,7 @@ tf2r.com#@#.adverts
 ||d3hitamb7drqut.cloudfront.net^
 ||d3hj4iyx6t1waz.cloudfront.net^
 ||d3hs51abvkuanv.cloudfront.net^
+||d3hyjqptbt9dpx.cloudfront.net^
 ||d3hyoy1d16gfg0.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 ||d3j3yrurxcqogk.cloudfront.net^
@@ -57379,6 +57396,7 @@ iogames.onl##.Advc
 tvnz.co.nz##.Advert
 suffolknews.co.uk##.Advertisement
 zerohedge.com##.AdvertisingSlot_placement__b8TLC
+dallasobserver.com##.AirBillboardInlineContentresponsive
 technicalarp.com##.Arpian-ads
 rankedboost.com##.Article-A-Align
 cruisecritic.com,cruisecritic.com.au##.ArticleItem_scrollTextContainer__GrBC_
@@ -58436,6 +58454,7 @@ hltv.org##.kN5UQvcU
 tekno.kompas.com##.kcm
 goldprice.org##.kenbi
 trustedreviews.com##.keystone-single-widget
+dallasobserver.com##.kgbqfwag
 wantedinafrica.com##.kn-widget-banner
 iphonelife.com##.l-header
 wwe.com##.l-hybrid-col-frame_rail-wrap
@@ -60040,6 +60059,8 @@ yahoo.com###sda-LDRB
 yahoo.com###sda-LDRB2
 yahoo.com###sda-LREC
 yahoo.com###sda-LREC2
+yahoo.com###sda-LREC3
+yahoo.com###sda-LREC4
 yahoo.com###sda-MAST
 yahoo.com###sda-WFPAD
 mail.yahoo.com###slot_LREC
@@ -64809,6 +64830,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 /mms/get_loaders?
 /mmt.gif?
 /mngi/tracking/*
+/mnppixellibrary.
 /mnt/imp?
 /moat-tracker.
 /moat/yield.js
@@ -77044,6 +77066,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logx.optimizely.com^
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lookawoman.com/t/
+||lowes.com/gauge/
 ||ma.redhat.com^
 ||mail.yahoo.com/f/track/
 ||mailing.enews.extremetech.com^$image
@@ -77207,6 +77230,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reports.tunein.com^
 ||retargeting.vistaprint.com^
 ||rfk.biglots.com^
+||roblox.com/report
 ||roblox.com/www/e.png?
 ||roblox.com^*/_/1px.gif
 ||rps-p2.rockpapershotgun.com^
@@ -103850,6 +103874,7 @@ _subscribers_newsletters/
 ##.fb-like-widget
 ##.fb-like2
 ##.fb-likebox
+##.fb-likebox-container
 ##.fb-link
 ##.fb-messenger--collapse
 ##.fb-msg
@@ -117300,6 +117325,7 @@ _subscribers_newsletters/
 ###gdpr-alert
 ###gdpr-banner
 ###gdpr-banner-blurred-background
+###gdpr-banner-component
 ###gdpr-banner-module
 ###gdpr-banner-wrapper
 ###gdpr-bar
@@ -120176,6 +120202,7 @@ _subscribers_newsletters/
 ##.abc-cookies-wrapper
 ##.abcookielaw
 ##.abcookielawbg
+##.abe-gdpr-banner
 ##.abnormMediaCookieConsent
 ##.abstractCmpDisclaimer
 ##.abt-cookieNotification
@@ -121080,6 +121107,7 @@ _subscribers_newsletters/
 ##.ccpa-consent-bar
 ##.ccpa-container
 ##.ccpa-cookie-notification
+##.ccpa-message-banner
 ##.ccpa-notice-wrapper
 ##.ccpa-notification
 ##.ccpa-notification-banner
@@ -122268,6 +122296,7 @@ _subscribers_newsletters/
 ##.cookie-warning-container
 ##.cookie-warning-content
 ##.cookie-warning-message
+##.cookie-warning-modal--ribbon
 ##.cookie-warning-panel
 ##.cookie-warning-popup
 ##.cookie-warning-wrapper
@@ -127480,6 +127509,7 @@ _subscribers_newsletters/
 ##div#allow-cookies
 ##div#cc-consent-container
 ##div#cc_container
+##div#ccpa-consent
 ##div#cmp-app-container
 ##div#consent-cookie-container
 ##div#consent-manager-container
@@ -127509,6 +127539,7 @@ _subscribers_newsletters/
 ##div.askcook
 ##div.c-cookieconsent
 ##div.cPolicy
+##div.ccpa-message
 ##div.ccpa-notice
 ##div.cnil
 ##div.confirm-cookie
@@ -129987,6 +130018,7 @@ _subscribers_newsletters/
 ##.wrap-newsletter
 ##.wrapper-box-suscription-newsletter
 ##.wrapper-button-newsletter
+##.wrapper-newsletter
 ##.wrapper_suscribe_home
 ##.wwd-subscribe-now-banner-background
 ##.yel-email-popup
@@ -134877,6 +134909,7 @@ nationalpost.com##.carousel-widget
 wired.com##.cm-footer-container
 alistapart.com##.coil-banner-message-container
 foxbusiness.com,foxnews.com##.commenting-nation-promo
+dallasobserver.com##.comp-shell-supportus
 wired.com##.consumer-marketing-unit--article-mid-content
 gq.com##.consumer-marketing-unit--cm-footer
 vox.com##.contribute-banner
@@ -137564,7 +137597,7 @@ cityoflondon.gov.uk##.container-floating-notifications
 bankofengland.co.uk,cityoflondon.police.uk##.container-notifications
 antoineonline.com##.container-overlay
 writerduet.com##.container.pb-4.pt-4
-18virginsex.com,altervista.org,alutech-group.com,anglianwater.co.uk,ask.fm,awesomic.io,callcredit.co.uk,calvertjournal.com,castleton.edu,cbeci.org,cibeg.com,clubtshe.com,coolblue.be,crazydomains.co.uk,derwaldhof.com,dw.com,eldoled.com,farecompare.com,firefox-usb.com,forever21.com,forgeworld.co.uk,genuinewriting.com,gha.org.uk,gheed.com,global.abb,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,idemitsu.com,investcapital.com.mt,iplt20.com,jaguarlandrover.com,lava-drops.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mp3poolonline.com,muskathlon.com,mydraw.com,mysteriumvpn.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,netbiter.com,nornickel.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,safedns.com,samsunghealthcare.com,secapital.lu,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,softhints.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,togetherall.com,top-electronics.com,trailfinders.com,treasurytoday.com,tubidy.news,twitchstrike.com,unicheck.com,unicreditgroup.eu,virgin-atlantic.com,wannawork.com,wantbaby.info,yachtclubgames.com,ytddownloader.com##.cookie
+18virginsex.com,altervista.org,alutech-group.com,anglianwater.co.uk,ask.fm,awesomic.io,callcredit.co.uk,calvertjournal.com,castleton.edu,cbeci.org,cibeg.com,clubtshe.com,coolblue.be,crazydomains.co.uk,derwaldhof.com,dw.com,eldoled.com,farecompare.com,filescan.io,firefox-usb.com,forever21.com,forgeworld.co.uk,genuinewriting.com,gha.org.uk,gheed.com,global.abb,gooddollar.org,hempel.co.uk,hempelyacht.com,here.com,hud.ac.uk,idemitsu.com,investcapital.com.mt,iplt20.com,jaguarlandrover.com,lava-drops.com,leonorgreyl.com,liptonicetea.com,ludwig.guru,m64.info,mandarinoriental.com,mclaren.com,mik.eu,modecom.com,modhoster.com,moneywise.co.uk,mp3poolonline.com,muskathlon.com,mydraw.com,mysteriumvpn.com,mysurveylab.com,nationalcircus.org.uk,natwest.com,netbiter.com,nornickel.com,npl.co.uk,octotree.io,oldgoesyoung.com,openmailbox.org,pepperl-fuchs.com,postoffice.co.uk,prodir.com,purnatur.eu,rbs.co.uk,redditinc.com,roalddahl.com,rowenta.com,safedns.com,samsunghealthcare.com,secapital.lu,sense.org.uk,sheldrickwildlifetrust.org,silverlake.com,sleek-mag.com,softhints.com,squirt.org,statusbrew.com,syntevo.com,team-mediaportal.com,togetherall.com,top-electronics.com,trailfinders.com,treasurytoday.com,tubidy.news,twitchstrike.com,unicheck.com,unicreditgroup.eu,virgin-atlantic.com,wannawork.com,wantbaby.info,yachtclubgames.com,ytddownloader.com##.cookie
 deezer.com,tiktok.com##.cookie-banner
 forcepoint.com,geeksforgeeks.org##.cookie-consent
 7news.com.au##.cookie-consent--normal
@@ -137678,6 +137711,7 @@ lego.com##.emotion-cache-2clmu
 voat.co##.eppnotice
 playboy.com##.erk8tmg2
 airproducts.co.uk##.eu-dp
+componentsearchengine.com##.eu-message
 reolink.com##.explorer-n-privacy
 cbtnuggets.com##.fAJTqQ
 sellpy.com##.fAalHQ
@@ -137991,7 +138025,7 @@ free-power-point-templates.com##.pg-modal-blackout
 wlf.org##.pin-b.fixed
 botify.com##.pin-b.pin-l.fixed
 essayshark.com,pixlr.com##.policies
-globe.com.ph,viber.com##.policy
+designs.ai,globe.com.ph,viber.com##.policy
 esquire.com##.policy-bar
 pxhere.com,wallhere.com##.policy-info
 shazam.com##.policy-label
@@ -144501,6 +144535,7 @@ flugzeugbilder.de,jjrichards.co.nz#@#.fb-footer
 allegro.pl,itweb.co.za#@#.fb-icon
 e-biznes.pl,facebook.com,fb.com,gifyagusi.pl#@#.fb-like
 facebook.com#@#.fb-likebox
+facebook.com#@#.fb-likebox-container
 facebook.com,fb.com#@#.fb-link
 facebook.com#@#.fb-quote
 facebook.com#@#.fb-recommendations
