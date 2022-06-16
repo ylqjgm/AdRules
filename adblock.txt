@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: vT6qN/PVE+R7IjKGiLu3gg
+! Checksum: wcJ/ESlcNyqaXwoR6mh4Qw
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-17 06:44:26（北京时间） 
+! Version: 2022-06-17 07:00:13（北京时间） 
 ! Total count: 93091
 ###ADCENTER
 ###ADInterest
@@ -23361,6 +23361,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||hocgeese.com^$script,xmlhttprequest
 @@||hoge.cn/advertisement.swf
 @@||hollowafterthought.com^$script,xmlhttprequest
+@@||home.mobile.de^*/trackingService.js$script,~third-party
 @@||homebank.ro/public/HomeBankLogin/js/fingerprint/fingerprint.js
 @@||homedepotrebates11percent.com/js/third-party/angulartics-google-analytics/dist/angulartics-ga.min.js$script,~third-party
 @@||homelycrown.com^$script,xmlhttprequest
@@ -45502,7 +45503,6 @@ winaero.com##div > p[style="margin: 20px"]
 winaero.com#?#aside:has(.adsbygoogle)
 windowcleaningforums.co.uk##+js(no-setTimeout-if, test.offsetHeight)
 windowcleaningforums.co.uk#@#.adsbygoogle
-windows.net
 windows101tricks.com##+js(set-constant, better_ads_adblock, true)
 windows101tricks.com##.zanui-container
 windows10gadgets.pro#@#.adsbygoogle

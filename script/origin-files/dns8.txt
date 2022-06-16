@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MmgTFk2BbpLw5a5+pfziwg
+! Checksum: OSkJrTf3CO0vbTf1mfQLFQ
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206162133
-! Last modified: 2022-06-16 21:33 UTC
+! Version: 202206162233
+! Last modified: 2022-06-16 22:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -75101,6 +75101,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.downdetector.com^
 ||tracker.financialcontent.com^
 ||tracker.icerocket.com^
+||tracker.idocdn.com^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
 ||tracker.mrpfd.com^
