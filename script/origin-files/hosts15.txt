@@ -1,7 +1,7 @@
 # adguard-basic
 #
 # Converted from - https://filters.adtidy.org/windows/filters/2.txt
-# Last converted - Thu, 16 Jun 2022 23:31:18 +0000
+# Last converted - Fri, 17 Jun 2022 07:29:28 +0000
 #
 
 0.0.0.0 soluth.com
@@ -2401,6 +2401,7 @@
 0.0.0.0 hub.fghtem.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsungtvads.com
+0.0.0.0 ih1.fileforums.com
 0.0.0.0 ads.vidoomy.com
 0.0.0.0 veih8bee.xhcdn.com
 0.0.0.0 qontent.pomvideo.cc
@@ -24224,6 +24225,7 @@
 0.0.0.0 play.springboardplatform.com
 0.0.0.0 player.avplayer.com
 0.0.0.0 player.sendtonews.com
+0.0.0.0 video-streaming.ezoic.com
 0.0.0.0 vidora.com
 0.0.0.0 vplayer.newseveryday.com
 0.0.0.0 embed.mystream.to

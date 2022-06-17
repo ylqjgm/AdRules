@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206160209
+! Version: 202206170206
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41884
+! Lenth = 41897
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -3858,6 +3858,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /mms/get_site_js?*abp=
 /mmt.gif?
 /mngi/tracking/*
+/mnppixellibrary.
 /mnt/imp?
 /moat-tracker.
 /moat/yield.js
@@ -7778,6 +7779,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||hm.baidu.com/h.js?$domain=weaku.com
 @@||hm.baidu.com/hm.gif$image,domain=clgod.com
 @@||hobbyking.com^*/gtm.js$script,~third-party
+@@||home.mobile.de^*/trackingService.js$script,~third-party
 @@||homebank.ro/public/HomeBankLogin/js/fingerprint/fingerprint.js
 @@||homedepot.com/static/scripts/resxclsa.js
 @@||homedepotrebates11percent.com/js/third-party/angulartics-google-analytics/dist/angulartics-ga.min.js$script,~third-party
@@ -12944,7 +12946,7 @@ znak.com##.relap
 ||aspservice.jp^$third-party
 ||assessment.vetassess.com.au^
 ||assets-jpcust.jwpsrv.com/*/ping.js
-||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|gittigidiyor.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com
+||assets.adobedtm.com^$domain=mcclatchydc.com|elnuevoherald.com|bellinghamherald.com|sacbee.com|charlotteobserver.com|newsobserver.com|miamiherald.com|ef.ru|algida.com.tr|bmw-motorrad.co.uk|cif.com.tr|clearhaircare.com|domestos.com|dove.com|elidor.com.tr|f1sport.autorevue.cz|geico.com|gittigidiyor.com|hellmanns.com.tr|herkessofraya.com|johnsonsbaby.com.tr|lipton.com|lnk.to|lux.com|magnumicecream.com|neutrogena.com.tr|omo.com|rexona.com|samsung.com|sap.com|schwarzkopf.com.tr|signalturkiye.com|msnbc.com|nbcnews.com|kbb.com|eurosport.ru|timgate.it|intermiles.com|oxfordmail.co.uk
 ||assets.adsttc.com/insights/form-funnel.min.js
 ||assets.adsttc.com/insights/tracker.js
 ||assets.bbystatic.com/analytics-dotcom/
@@ -14683,6 +14685,7 @@ znak.com##.relap
 ||cdn.reproio.com^
 ||cdn.resonate.com^$third-party
 ||cdn.retailrocket.*/*/tracking.js
+||cdn.rlets.com^
 ||cdn.segment.com/analytics.js
 ||cdn.segmentify.com/*/segmentify.js$script,important,redirect=noopjs,domain=gratis.com
 ||cdn.shopify.com/s*/trekkie*.js
@@ -14878,6 +14881,7 @@ znak.com##.relap
 ||chiefexecutive.actonservice.com^
 ||chihiro.nostalgie.fr^
 ||childlikecook.com^
+||childlikecrowd.com^
 ||childlikeform.com^
 ||childlikeform.com^$third-party
 ||chimpanzee.designerdailyreport.com^
@@ -15743,6 +15747,7 @@ znak.com##.relap
 ||confiaen.legalitas.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||confiant.msn.com^
+||config.jpush.cn^
 ||config.parsely.com^$third-party
 ||config.safedk.com^
 ||config.uca.cloud.unity3d.com^
@@ -17629,6 +17634,7 @@ znak.com##.relap
 ||dmx.sync.yume.com/tracker/
 ||dmxleo.com^$third-party
 ||dmzls.safe-installation.com^$third-party
+||dn0qt3r0xannq.cloudfront.net^
 ||dn34cbtcv9mef.cloudfront.net^
 ||dna.uol.com.br^
 ||dnab.info^$third-party
@@ -23983,6 +23989,7 @@ znak.com##.relap
 ||log.f-tra.com^
 ||log.flight.qunar.com^
 ||log.g-enews.com^
+||log.game.qcplay.com^
 ||log.geetest.com^
 ||log.genyt.net^
 ||log.go.com^
@@ -24217,6 +24224,7 @@ znak.com##.relap
 ||lovelydrum.com^$third-party
 ||low-ya.com/duplicate-ga-cookie
 ||lowermybills.actonsoftware.com^
+||lowes.com/gauge/
 ||lowgxl.yokumoku.jp^
 ||lowlocket.com^$third-party
 ||loxodo-analytics.ext.nile.works^
@@ -27364,7 +27372,6 @@ znak.com##.relap
 ||ninja.onap.io^
 ||ninjacat.io^$third-party
 ||niojlt.veneta.com^
-||nissen.co.jp/count|$xmlhttprequest
 ||nitropay.com^$third-party
 ||njam.tv/tracking/
 ||njorya.aosom.de^
@@ -27454,6 +27461,7 @@ znak.com##.relap
 ||notmining.org^$third-party
 ||noushe.zevvle.com^
 ||nova.dice.net^
+||novanthealth.org/v1/tagular/beam
 ||novartispharma.hb.omtrdc.net^
 ||novedades.telecomfibercorp.com.ar^
 ||novelcool.com/files/js/yh_tj.js
@@ -30206,6 +30214,7 @@ znak.com##.relap
 ||repo.adbc.io:8081/repository/QTracker/
 ||report*.appmetrica.webvisor.com^
 ||report-ps.meettech.net^
+||report-stats.ad.jiguang.cn^
 ||report-uri.com^$third-party
 ||report-uri.io^$third-party
 ||report.*.qq.com^
@@ -30431,6 +30440,7 @@ znak.com##.relap
 ||ro.promo.skf.com^
 ||roadrunner.ausmv.com.au^
 ||rob.megaopen.ru^$third-party
+||roblox.com/report
 ||roblox.com/www/e.png?
 ||roblox.com^*/_/1px.gif
 ||robustbelieve.com^
@@ -35036,6 +35046,7 @@ znak.com##.relap
 ||static1.dmcdn.net/js/cpe/cpeEventTracking.min.js
 ||static1.dmcdn.net/playerv5/dmp.pes_pip_tracking.*.js
 ||staticiv.com^$third-party
+||staticmoly.me/metric.php
 ||statics.itc.cn^*/spm.js$script,domain=sohu.com
 ||staticsfs.host^$third-party
 ||staticwl.bkmcdn.com/scripts/adwords-tracker.js
@@ -37071,6 +37082,7 @@ znak.com##.relap
 ||tiglon.beyondco.de^
 ||tiglon.orisdental.no^
 ||tijd.be/fb/?
+||tijd.be/fb2?
 ||tijd.be/track/
 ||tiktok.com/captcha/report
 ||tiktok.com/v1/list
@@ -38249,6 +38261,7 @@ znak.com##.relap
 ||tracker.financialcontent.com^
 ||tracker.giftd.ru^
 ||tracker.icerocket.com^
+||tracker.idocdn.com^
 ||tracker.idocdn.com^$third-party
 ||tracker.iltrovatore.it^
 ||tracker.jawcloud.co^

@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: LNv8Pr9rMrc9LFUhUvkhDQ
+! Checksum: lv9o/j8NaaDnZ0e+1h7Qng
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-17 09:58:18（北京时间） 
-! Total count: 19495
+! Version: 2022-06-17 16:28:45（北京时间） 
+! Total count: 19496
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -259,7 +259,6 @@
 @@/adverts/*$domain=onlychild.cn
 @@/adview_pic_$domain=1090ys8.com|2hanju.com|bigpixel.cn|fydy8.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
 @@/adview_pic_$domain=2hanju.com|laimanhua.com|lingjike.com|mahua.com|meiyouad.com|mh160.com|reh.tw|silisili.me|xiaoz.me|ykit.cn|zgpingshu.com
-@@/adview_pic_$domain=bigpixel.cn|1090ys8.com|2hanju.com|fydy8.com|laimanhua.com|lfqie.com|lingjike.com|mahua.com|mati.hk|meiyouad.com|mh160.com|myqqjd.com|reh.tw|silisili.in|sssam.com|xiaoz.me|ykit.cn|zgpingshu.com|zyshow.net
 @@/adview_pic_$domain=doutula.com|fastadmin.net|toolfk.com|xclient.info
 @@/advs/*$domain=ciros.com.cn|gotobuy.com.tw|sj-touch.com
 @@/adx.$domain=tanx.com
@@ -658,7 +657,7 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org.cgi?
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org/visit/log.js?
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
@@ -4522,6 +4521,7 @@
 @@||chicksonright.com^$csp,~third-party
 @@||childlikecook.com^$script,xmlhttprequest
 @@||childlikeform.com^$script,xmlhttprequest
+@@||chili.com/api/v*/ad-manager/avod/metadata?*videoAssetId=
 @@||chili.com/api/v*/ad-manager/avod/metadata?videoAssetId=
 @@||chillicams.net/js/adv/fuckadblock.js
 @@||chimica-online.it^$ghide
@@ -5146,8 +5146,6 @@
 @@||cpro.baidu.com/cpro/ui/uijs.php?$domain=www.400gb.com|www.pipipan.com
 @@||cpro.baidustatic.com/cpro/ui/c.js$domain=htqyy.com
 @@||cpro.baidustatic.com/cpro/ui/cm.js$domain=ali213.net|bigpixel.cn|tangdoucdn.com
-@@||cpro.baidustatic.com/cpro/ui/cm.js$domain=ali213.net|tangdoucdn.com
-@@||cpro.baidustatic.com/cpro/ui/cm.js$domain=bigpixel.cn
 @@||cpro.baidustatic.com/cpro/ui/cm.js$script,domain=rjno1.com
 @@||cpro.baidustatic.com/cpro/ui/f.js$script,domain=www.400gb.com|www.pipipan.com|colayun.com|coladrive.com
 @@||cps.jd.ru^$stealth
@@ -9401,6 +9399,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$app=com.nextmediatw
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$app=net.ettoday.phone
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=10play.com.au
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|givemesport.com|goodmorningamerica.com|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|givemesport.com|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=24h.com.vn
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com
@@ -9507,6 +9506,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kakao.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kakaotv.daum.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kanald.com.tr
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=karnaval.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kissanime.ac
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kissasian.ac
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=kisscartoon.ac
@@ -9545,6 +9545,7 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ntvspor.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nuke.zone
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nydailynews.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=oe24.at
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=olympics.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=onlinemahjong.games
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ottwow.com
@@ -11544,6 +11545,7 @@
 @@||meltyblood.typelumina.com/resources/img/common/$image,~third-party
 @@||memangbau.com/sailthru.js
 @@||member.aetna.com/appConfig/
+@@||members.luscious.net/sailthru.js$script,1p
 @@||memecenter.com/app/
 @@||memecenter.com/comments/add_comment
 @@||memecenter.com/comments/get_comments
@@ -17935,7 +17937,6 @@
 @@||uploadbank.com^$ghide
 @@||uploadbox.io/js/advertisement.js
 @@||uploadboy.com/ads.js
-@@||uploadcloud.pro/js/advertisement.js
 @@||uploadcloud.pro^$generichide
 @@||uploaded-premium-link-generator.com/advertisement.js
 @@||uploaded-premium.ru/ads/ad.js$script
