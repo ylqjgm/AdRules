@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zZ6G5dhKRHLdbYEoiPE/Kw
+! Checksum: CXv+zi3jH54sU4LArBvrGg
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206162233
-! Last modified: 2022-06-16 22:33 UTC
+! Version: 202206170133
+! Last modified: 2022-06-17 01:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31401,6 +31401,7 @@ _800x80_
 ##a[href^="https://offers.refchamp.com/"]
 ##a[href^="https://ovb.im/"]
 ##a[href^="https://partners.fxoro.com/click.php?"]
+##a[href^="https://pb-track.com/"]
 ##a[href^="https://pcm.bannerator.com/"]
 ##a[href^="https://pl.premium4kflix.website/"]
 ##a[href^="https://playuhd.host/"]
@@ -55146,6 +55147,7 @@ tf2r.com#@#.adverts
 ||ifriends.net^$subdocument,third-party
 ||ihookup.com/configcreatives/
 ||images.elenasmodels.com/Upload/$third-party
+||imctransfer.com^*/promo/
 ||istripper.com^$third-party,domain=~istripper.eu
 ||kau.li/yad.js
 ||kenny-glenn.net^*/longbanner_$third-party
@@ -55349,6 +55351,7 @@ tf2r.com#@#.adverts
 ||animeheaven.ru/api/pop*.php
 ||animeland.tv/ios.html
 ||animesuge.to/E/aircraftmighty.com/
+||anisearch.com/amazon
 ||aolcdn.com/ads/$script
 ||apl95.me/js/pop.js
 ||armyrecognition.com/images/stories/customer/
@@ -56232,6 +56235,7 @@ $popup,third-party,domain=1337x.buzz|720pstream.tv|9anime.id|adblockstreamtape.a
 ||awrfds3.pornpapa.com^
 ||b1.tubexo.tv^$subdocument
 ||babepedia.com/istrip/
+||babepedia.com/iStripper/
 ||babepicture.co.uk^*banner
 ||babesandstars.com/img/banners/
 ||babeshows.co.uk^*banner
@@ -57180,6 +57184,7 @@ logupdateafrica.com###rotating-item-wrapper
 yttalk.com###rpmtop
 parentdish.co.uk###rr-amazon
 search-results.com###rr_sa_container
+anisearch.com###rrightX
 core77.com###rsDesignDir
 sciencealert.com###rt-header
 pages.ebay.com###rtm_1658
@@ -57347,6 +57352,7 @@ sportsclimax.com###top_banner
 caribpress.com###top_banner_container
 bleedingcool.com,indy100.com,jamaicaobserver.com,pastemagazine.com###top_leaderboard
 bleedingcool.com###top_medium_rectangle
+anisearch.com###top_outside
 imdb.com###top_rhs
 repeatmyvids.com,w3newspapers.com###topads
 scorespro.com###topban
@@ -58902,6 +58908,7 @@ pocket-lint.com##.recommended-best-deal
 forestriverforums.com##.recommended-stories
 lasvegassportsbetting.com##.recommended-wrap
 last.fm##.recs-feed-item--ad
+anisearch.com##.rect_sidebar
 dosgamesarchive.com##.rectangle
 knowyourmeme.com##.rectangle-unit-wrapper
 arras.io##.referral
@@ -59130,7 +59137,7 @@ jquery.com##.sponsor-line
 cricketireland.ie##.sponsor-strip
 arizonasports.com,ktar.com##.sponsorBy
 blbclassic.org##.sponsorZone
-2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,duckduckgo.com,fifplay.com,hbr.org,herald.co.zw,libhunt.com,motherjones.com,msn.com,reviewjournal.com,stocksnap.io,timeslive.co.za##.sponsored
+2b2t.online,caixinglobal.com,chicagobusiness.com,chronicle.co.zw,duckduckgo.com,fifplay.com,hbr.org,herald.co.zw,infoq.com,libhunt.com,motherjones.com,msn.com,reviewjournal.com,stocksnap.io,timeslive.co.za##.sponsored
 washingtontimes.com##.sponsored-heading
 hellomagazine.com##.sponsored-news
 coinmarketcap.com##.sponsoredMark
@@ -87795,6 +87802,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||stats.fd.nl^
 ||tdep.kvk.nl^
 ||tijd.be/fb/?
+||tijd.be/fb2?
 ||tijd.be/track/
 ||topspin.npo.nl^
 ||track.pexi.nl^
@@ -88894,6 +88902,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/gtm/js?$script,domain=unicef.de
 @@||google-analytics.com/plugins/ua/ec.js$domain=saturn.at
 @@||googletagmanager.com/gtm.js$domain=bunte.de|computerbild.de|finanzen.at|finanzen.net|freenet-funk.de|idealo.at|idealo.de|radiorur.de|saturn.at|sport1.de|vox.de
+@@||home.mobile.de^*/trackingService.js$script,~third-party
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=tvnow.de
 @@||kameleoon.com/geolocation.gif$domain=welt.de
@@ -139933,6 +139942,7 @@ dehn.at,dehn.de,dehn.fr,dehn.hu,dehn.it,desitek.dk#@##cookie-layer
 defencediscountservice.co.uk#@##cookie-popup:not(html):not(body)
 epolisbari.com#@##cookieModal
 mustijamirri.fi#@##cookie_consent
+bafin.de#@##cookiebanner
 d-power-modellbau.com,modellbau-metz.com,mustijamirri.fi#@##cookieform
 qastack.com.de#@##cookies-accept
 qastack.com.de#@##cookies-consent

@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220617070902
+#VER=20220617095757
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=110184
+#TOTAL_LINES=110189
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -2803,6 +2803,7 @@ payload:
   - '+.666584.xyz'
   - '+.666585.xyz'
   - '+.666587.xyz'
+  - '+.666589.xyz'
   - '+.6666349.com'
   - '+.66666119.com'
   - '+.666666666666.site'
@@ -14573,6 +14574,7 @@ payload:
   - '+.blazingswatstated.com'
   - '+.blb2s77r.cn'
   - '+.blbhqqdfmvfsu.com'
+  - '+.blddnwt.cn'
   - '+.bleaborahm.one'
   - '+.bleachbit.com'
   - '+.analytics.bleacherreport.com'
@@ -30866,6 +30868,7 @@ payload:
   - '+.fccinteractive.com'
   - '+.fccxgjg.com'
   - '+.fcdnmkc.com'
+  - '+.fcgjewelry.com'
   - '+.fcheng.top'
   - '+.fchio.com'
   - '+.fcjglegnjab.com'
@@ -36844,6 +36847,7 @@ payload:
   - '+.annwwu.guitarcenter.com'
   - '+.guitargrandmother.com'
   - '+.guitarpro.cc'
+  - '+.guixie.info'
   - '+.guiyimq.fun'
   - '+.bigads.guj.de'
   - '+.gujace.com'
@@ -86241,6 +86245,7 @@ payload:
   - '+.codes.wai.it'
   - '+.waiads.com'
   - '+.waihui518.com'
+  - '+.waikuai.vip'
   - '+.wailay.com'
   - '+.waisheph.com'
   - '+.waistcoataskeddone.com'

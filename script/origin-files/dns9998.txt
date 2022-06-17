@@ -2,7 +2,7 @@
 ! Title: adg-kall
 ! Description: Adg-kall collected on the network and I have written some rules. 
 ! Homepage: https://kbsml.com
-! Last modified: 6/16/2022, 4:00:03 PM
+! Last modified: 6/17/2022, 8:00:04 AM
 !
 ||slfango.ltd^
 ||xt.kluvcc.com^
@@ -302,6 +302,7 @@ cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 ||6huu.com^
 ||70lm.com^
 ||70yst.cn^
+||710070.com^$third-party
 ||711kk.com^
 ||71sem.com^
 ||761f1b3960.com^
@@ -421,6 +422,7 @@ cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 ||agilehw.online^
 ||agnezanna.com^
 ||agtsjb.com^
+||agxclick.com^$third-party
 ||ah58tc.com^
 ||ahjinhuayi.com^
 ||ahjzys.com^
@@ -561,6 +563,7 @@ cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 ||bydonline.com^
 ||byqxqhb.cn^
 ||bznxc6721.xyz^
+||caiyifz.com^$third-party
 ||calistabeverly.com^
 ||cangnews.com^
 ||cao444cao.com^
@@ -874,6 +877,7 @@ cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 ||glrcy.cn^
 ||goodgoodluck.cn^
 ||goodgz.cn^
+||googleadsl.com^$third-party
 ||gouweida.cn^
 ||govchaozhou.cn^
 ||govchongqing.cn^
@@ -909,6 +913,7 @@ cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 ||guanjiabo.net^
 ||guanmeixiangsu.com^
 ||guduopu.com^
+||gugeys.com^$third-party
 ||guidashu.com^
 ||guirui-clothes.com^
 ||guominziben.com^
@@ -1064,6 +1069,7 @@ cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 ||hzyyhz.cn^
 ||hzzcxxzx.com^
 ||i.zhuoyaju.com^
+||i000o.com^$third-party
 ||i3818.com^
 ||icemf.com^
 ||icilyassertiveindoors.com^
@@ -1186,6 +1192,7 @@ cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 ||jtdxz.top^
 ||jtj7tq6c.xyz^
 ||jtkshop.net^
+||juhepen.com^$third-party
 ||junfull.com^
 ||junkucm.com^
 ||junwjwl.com^
@@ -1480,6 +1487,7 @@ cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 ||ojbknx.com^
 ||okm918.com^
 ||okshuwu.top^
+||onewhee.com^$third-party
 ||oneyearonechange.com^
 ||oo5548q.top^
 ||oomll.cn^
@@ -2054,6 +2062,7 @@ cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 ||xn--wxtr9fwyxk9c.top^
 ||xn--xhq9mt12cf5v.ren^
 ||xn--xhq9mt12cf5v.top^
+||xn01.xyz^$third-party
 ||xnjpg.com^
 ||xplnnxx.top^
 ||xqwkjf.top^
@@ -2290,6 +2299,7 @@ cardu.com.tw,cw.com.tw,hk.on.cc,share.acgnx.se##.banner
 ||zzyonghao.com^
 $popup,third-party,domain=76fengyun.com|88files.net|avsdown.com|downdv.com|downdvs.com|downhhh.com|imedown.info|jandown.com|mimima.com|mnks.jxedt.com|rmdown.com|soyunpan.com|youtubeto.com
 ||taobao.com^$popup,domain=ifenpaidy.com
+||agxclick.com^$popup
 ||haogo.cc^$popup,third-party
 ||1.hao123.com^
 ||1.i999d.cn^
@@ -3355,6 +3365,7 @@ $webrtc,domain=avgle.com
 ||zoom.zshu.net^
 ||zq.lansedir.com^
 ||zuowen.hydcd.com^
+##a[href*=".gotourls.bid"]
 ||2013sh.com^
 ||258ydh.com^
 ||265958.com^
@@ -32323,6 +32334,7 @@ _yad_jsonp_
 ##img[onclick*="/682kg.com"]
 ##img[onclick*="/c7.net/"]
 ||jrhbhz.com^
+||drrzzl.cn^
 ##a[href*="/682kg.com"]
 ||9191919199.com^
 ||bob4915.com^
@@ -32330,6 +32342,7 @@ _yad_jsonp_
 ||bob4994.com^
 ||kkuuu.top^
 ||tangkai.ltd^
+##a[href*=".xxgxqscl.com/"]
 ||ijswq.com^
 ||zhuomengwangluo.cn^
 ||zygkzytb.cn^
@@ -32347,6 +32360,7 @@ _yad_jsonp_
 ||awsxc.live^
 ||cgdjy.top^
 ||taiwtp1.com^
+||sosrom.cn^
 ||17265111.com^
 ||22195976.com^
 ||32851897.com^
@@ -32485,7 +32499,6 @@ _yad_jsonp_
 ||6travel.com^$third-party
 ||6v4.cn^$third-party
 ||70e.com^$third-party
-||710070.com^$third-party
 ||7540.com^$third-party
 ||7676.com^$third-party
 ||77777.org^$third-party
@@ -32548,7 +32561,6 @@ _yad_jsonp_
 ||adyun.com^$third-party
 ||agrantsem.com^$third-party
 ||aguo.com^$third-party
-||agxclick.com^$third-party
 ||aiclicash.com^$third-party
 ||aidaicn.com^$third-party
 ||aimato.com^$third-party
@@ -32578,7 +32590,6 @@ _yad_jsonp_
 ||bs777.net^$third-party
 ||btyou.com^$third-party
 ||buzzads.com^$third-party
-||caiyifz.com^$third-party
 ||caodaye.com^$third-party
 ||cardniu.com^$third-party
 ||cclnuzn.cn^
@@ -32645,11 +32656,9 @@ _yad_jsonp_
 ||gezkdx7.com^
 ||ggmm777.com^$third-party
 ||ggxt.net^$third-party
-||googleadsl.com^$third-party
 ||gotonav.com^$third-party
 ||gowinxp.com^$third-party
 ||gs307.com^$third-party
-||gugeys.com^$third-party
 ||h501.cn^$third-party
 ||haiyunx.com^$third-party
 ||hao222.com^$third-party
@@ -32666,7 +32675,6 @@ _yad_jsonp_
 ||huimee.com^$third-party
 ||hxqu.com^$third-party
 ||hxsq.app^$third-party
-||i000o.com^$third-party
 ||i3z.cn^$third-party
 ||ianpos.com^$third-party
 ||icast.cn^$third-party
@@ -32700,7 +32708,6 @@ _yad_jsonp_
 ||jtxh.net^$third-party
 ||ju33.com^$third-party
 ||juandou.com^$third-party
-||juhepen.com^$third-party
 ||junnew.com^$third-party
 ||jusha.com^$third-party
 ||juxiangyou.com^$third-party
@@ -32757,7 +32764,6 @@ _yad_jsonp_
 ||ny5159.com^$third-party
 ||okokw.com^$third-party
 ||onetad.com^$third-party
-||onewhee.com^$third-party
 ||open8.cn^$third-party
 ||oxrm.com^$third-party
 ||pababy.cn^$third-party
@@ -32897,7 +32903,6 @@ _yad_jsonp_
 ||xixianad.com^$third-party
 ||xlingdi.com^$third-party
 ||xmshqh.com^$third-party
-||xn01.xyz^$third-party
 ||xp3366.com^$third-party
 ||xq12.com^$third-party
 ||xsu.cc^$third-party
@@ -32971,7 +32976,6 @@ $popup,third-party,domain=76fengyun.com|88files.net|avsdown.com|downdv.com|downd
 ||88p2p.com^$popup
 ||9453hot.com^$popup
 ||99nfft.com^$popup,third-party
-||agxclick.com^$popup
 ||aiwanma99.com^$popup
 ||b477.life^$popup,third-party
 ||baidu.com/adrc.$popup
@@ -43662,7 +43666,6 @@ bejson.com##img[src^="data"]
 52bdys.com##div[style^="position: fixed;bottom:"]
 bingfeng.tw###adbt
 bingfeng.tw##.wow-ad-link
-##a[href*=".gotourls.bid"]
 ##a[href^="http://yunbofangbt."]
 /images/*.gif$domain=2c2.website|2p8.space|adultgao.com|caopop.com|caoporn.com|caouoo.com|caox.cc|h3e.pw|h3y.pw|k88.club|me88.pw|p5p.space|se88.space|t2p.space|tb001.xyz|te88.pw|vwan.xyz|xhao1.com
 2c2.website,2p8.space,adultgao.com,caopop.com,caoporn.com,caouoo.com,caox.cc,gao1.cc,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vwan.xyz,xhao1.com##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
@@ -44010,6 +44013,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||twtiq.xyz^
 ||xuekalun.com^
 ||yping.online^
+||469716.top^
 ||pjuulzj.cn^
 ||bnux.store^
 ||defenga.top^
@@ -44026,6 +44030,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||vz1m.com^
 ||bestnfq.com^
 ||kongbao.ren^
+||qc-meta.com^
 ||zhihuinongye.biz^
 ||52xs.live^
 ||whzshoes.com^
