@@ -27,7 +27,7 @@ easylist=(
 )
 
 easylist_plus=(
-"https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
+#"https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
 "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt" #ubo烦人过滤器
 "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt" #
 "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt" #ubo基础过滤器
@@ -85,9 +85,6 @@ dns=(
   "https://raw.githubusercontent.com/hacamer/AdRule/main/dns.txt"
    "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
    "https://fastly.jsdelivr.net/gh/francis-zhao/quarklist/dist/quarklist.txt"
-#  "https://blocklistproject.github.io/Lists/adguard/ads-ags.txt"
-#  "https://blocklistproject.github.io/Lists/adguard/tracking-ags.txt"
-#  "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt"
 )
 
 hosts=(
