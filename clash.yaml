@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220617225558
+#VER=20220617232854
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=110548
+#TOTAL_LINES=110549
 
 #RULE-SET,AdRules,REJECT
 payload:
@@ -92316,6 +92316,7 @@ payload:
   - '+.yyslate.com'
   - '+.yystzl.cn'
   - '+.yysvzaodorhv.com'
+  - '+.yyxjt.cloud'
   - '+.yyxrm.com'
   - '+.q1.yyxwzx.com'
   - '+.yyy6999.com'
