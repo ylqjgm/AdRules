@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: LwExSalJAiURC66lW2vZGQ
+! Checksum: XNhI0Kp+O8kyLCX8W8ElGg
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-17 23:29:15（北京时间） 
-! Total count: 19500
+! Version: 2022-06-17 23:41:00（北京时间） 
+! Total count: 19479
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -49,7 +49,6 @@
 @@*$media,domain=camvideos.org
 @@*$script,1p,domain=mylink.*|my1ink.*|myl1nk.*|myli3k.*
 @@*$script,1p,domain=solvetube.*
-@@*$stylesheet
 @@*$third-party,image,domain=avaxhome.pro
 @@*$xhr,domain=cbssports.com
 @@*$xhr,domain=dl.ccbluex.net,3p
@@ -657,14 +656,13 @@
 @@|http://ie.microsoft.com/testdrive/Performance/FishBowl/Default.html|$document
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org! CJX's Annoyance List
-@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org/visit/log.js?
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.orgeskdecision.com^
 @@|https://$image,domain=socketloop.com
 @@|https://$image,script,third-party,domain=blockadblock.com
 @@|https://$image,third-party,domain=hackintosh.zone|hackintosh.computer
 @@|https://$script,domain=sport1.de
 @@|https://$xmlhttprequest,domain=depositfiles.com|depositfiles.org|dfiles.eu|dfiles.ru
 @@|https:///ovh.webshark.pl/adserver/*/main_script.js?advertise_check=1
-@@|https://media.amazon.map.fastly.net^$script
 @@|https://www.speedtest.net/user-*.php$script,xmlhttprequest
 @@|partners.adsterra.com^|
 @@|publishers.adsterra.com^|
@@ -1135,7 +1133,6 @@
 @@||acousticsapparel.com^$script,xmlhttprequest
 @@||acquireattention.com^$script,xmlhttprequest
 @@||acridtwist.com^$script,xmlhttprequest
-@@||acs.m.taobao.com
 @@||acs.m.taobao.com^
 @@||act2.mediafour.com^
 @@||actiris.be/urchin.js
@@ -3034,7 +3031,6 @@
 @@||bdstatic.com/??*,*,*,
 @@||bdstatic.com/po/??*,*,*,
 @@||bdstatic.com/static/common/widget/ui/admanager/
-@@||bdstatic.com/static/common/widget/ui/admanager/$script,domain=image.baidu.com
 @@||bdstatic.com/static/exp-pc/article/widget/cms-banner-ads/cms-banner-ads_*.css
 @@||bdstatic.com/static/v1/mip$domain=100fanwo.com|biqugesc.com|dmhuah.com
 @@||bdstatic.com/static/v1/mip$domain=biqugecom.com
@@ -3279,7 +3275,6 @@
 @@||blushingboundary.com^$script,xmlhttprequest
 @@||blushingwar.com^$script,xmlhttprequest
 @@||bnc.lt/a/key_live$domain=pinterest.co.kr|pinterest.com|pinterest.de|pinterest.com.au|pinterest.com.mx|pinterest.es|pinterest.jp|pinterest.it|pinterest.ca|pinterest.co.uk|pinterest.ru|pinterest.ch|pinterest.fr|pinterest.cl|pinterest.at|pinterest.pt|pinterest.nz|pinterest.dk|pinterest.se|pinterest.ie|pinterest.ph|pinterest.info
-@@||bnet.163.com/
 @@||bnet.163.com^
 @@||bnf.fr/assets/*/sociallinks_controller.js$script
 @@||bntech.io^$script,domain=buffalonews.com
@@ -3538,7 +3533,6 @@
 @@||c.dun.*.com/api/$stealth,domain=dig.chouti.com
 @@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=crunchyroll.com|southpark.de|southparkstudios.nu
 @@||c.evidon.com^
-@@||c.gdt.qq.com/gdt_click.
 @@||c.gj.qq.com^
 @@||c.mipcdn.com^$domain=100fanwo.com|77dushu.com|biqugesc.com|dmhuah.com|prpcoin.com
 @@||c.mipcdn.com^$domain=77dushu.com|biqugecom.com|prpcoin.com|zhetian.org
@@ -5195,7 +5189,6 @@
 @@||crowdcompute-pa.clients*.google.com^$stealth
 @@||crowdscience.com/max-$script,domain=everydayhealth.com
 @@||crowdscience.com/start-$script,domain=everydayhealth.com
-@@||crsky.com/ggao/images/$image
 @@||cruisecenter.com.tw/data/ad/
 @@||cruisin.me/community/js/*/oasadframe.js
 @@||cruisin.me/community/js/wutime_adblock/ads.js
@@ -7181,10 +7174,8 @@
 @@||fxporn69.com^$generichide
 @@||fyre.co/*/facebook_share_post.png
 @@||g-status.com^$ghide
-@@||g.alicdn.com/$script,subdocument
 @@||g.alicdn.com/??*/criteo
 @@||g.alicdn.com^*/banner_ad_
-@@||g.csdnimg.cn/$script
 @@||g.csdnimg.cn/lib/fuckadblock/3.2.1/fuckadblock.min.js
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
 @@||g.doubleclick.net/aclk?$popup,domain=bodas.com.mx|bodas.net|casamentos.com.br|casamentos.pt|casamiento.com.uy|casamientos.com.ar|mariages.net|matrimonio.com|matrimonio.com.co|matrimonio.com.pe|matrimonios.cl|pianobuyer.com|weddingspot.co.uk|zillow.com
@@ -7223,7 +7214,6 @@
 @@||g.doubleclick.net^$app=jp.co.alc.eow
 @@||g.live.com^
 @@||g.msn.com^
-@@||g.tbcdn.cn/
 @@||g.tbcdn.cn^
 @@||g.w.bilicdn1.com/$script,domain=bilibili.com
 @@||g17media.com/detect.html$domain=lcpdfr.com
@@ -9837,7 +9827,6 @@
 @@||img.xcartoon.online/js/ads.js
 @@||img.zcool.cn/ad_manager/location/$domain=zcool.com.cn
 @@||img.zuoyebang.cc^
-@@||img05.zhaopin.cn/2014/common/js/za/ga.js
 @@||img1.sj.qq.com^
 @@||img2.xyz.futbol/comics/$domain=jmana1.net,stealth
 @@||img4399.com/static/huodong/daily/fpv2.js
@@ -10137,7 +10126,6 @@
 @@||irsr.games.pitforest.de^$elemhide
 @@||is.snssdk.com^
 @@||isale.su/bitrix/*/adverts/
-@@||isdspeed.qq.com/cgi-bin/r.cgi?flag1=
 @@||isee.weishi.qq.com^
 @@||isite.tw^$ghide
 @@||island.lk/userfiles/image/danweem/island.gif
@@ -14243,7 +14231,6 @@
 @@||qianpanso.cn/other/*.js$domain=cilimao.co|cilimao.one
 @@||qiantucdn.com/static/images/adsbygoogle.js
 @@||qiantucdn.com^$stealth,domain=58pic.com
-@@||qidian.gtimg.com/*/qd/js/component/ad_strategies.$script
 @@||qidian.qpic.cn/qidian_common^$third-party
 @@||qihucdn.com^
 @@||qimingdao.com/Index/loadmore?tag_id=
@@ -14637,7 +14624,6 @@
 @@||repubblica.it/pw/pw.js?deskurl=$domain=gelocal.it|ilsecoloxix.it|lastampa.it
 @@||res-x.com^*/Resonance.aspx?
 @@||res.cloudinary.com^
-@@||res.wx.qq.com/mmbizwap/$script
 @@||res.yyets.com/ads/mediav-250.js
 @@||resdz.com^$ghide
 @@||research.de.com/bb-mx/prime$xhr,domain=joyn.de
@@ -14851,7 +14837,6 @@
 @@||s.aolcdn.com/ads/adsWrapperMSNI.js$domain=outlook.live.com
 @@||s.btstatic.com/tag.js$domain=sephora.com
 @@||s.cdn.turner.com^
-@@||s.click.taobao.com^$popup
 @@||s.clickiocdn.com/t/*.js$domain=laleggepertutti.it
 @@||s.clickiocdn.com/t/200069/360.js$domain=glav.su
 @@||s.gateway.messenger.live.com^
@@ -15019,7 +15004,6 @@
 @@||savoryorange.com^$script,xmlhttprequest
 @@||savorystructure.com^$script,xmlhttprequest
 @@||sawlive.tv^$script,1p
-@@||sax.sina.com.cn/video/$script
 @@||sax.sina.com.cn/video/newimpress?
 @@||sax.sina.com.cn^
 @@||saysidewalk.com^$script,xmlhttprequest
@@ -18114,7 +18098,6 @@
 @@||v.fwmrm.net^$domain=pga.com
 @@||v.fwmrm.net^$xhr,domain=stream.golfchannel.com
 @@||v.fwmrm.net^*ad/g/*_Supla_Audio_HTML5_Live$script
-@@||v.gdt.qq.com/gdt_stats.fcg?
 @@||v.gqyy8.com:*.php?vid=$stealth
 @@||v.me/personal/assets/ntpagetag-$script
 @@||v.shoosh.co^$media,stealth
@@ -18505,7 +18488,6 @@
 @@||waccoe.com^$generichide
 @@||wad.ojooo.com/js/ads.js
 @@||waggishpig.com^$script,xmlhttprequest
-@@||wago.io/js/118.$script
 @@||waitrosecellar.com^*/eventTracking-Cellar.js$domain=waitrosecellar.com
 @@||wakanim.tv^$script,xhr,1p
 @@||wakatest.keydelivery.northeurope.media.azure.net^$stealth,domain=wakanim.tv
@@ -19040,7 +19022,6 @@
 @@||www.facebook.com/ads/$generichide
 @@||www.facebook.com/ajax/ads/$xmlhttprequest,domain=facebookcorewwwi.onion|www.facebook.com
 @@||www.facebook.com^$generichide
-@@||www.gamersky.com/gsinc/$subdocument
 @@||www.gdata.pl^$elemhide
 @@||www.google-analytics.com^
 @@||www.google-analytics.com^$app=com.fitbit.FitbitMobile
@@ -19091,7 +19072,6 @@
 @@||www.lanzous.com/includes/js/jquery.js$domain=lanzous.com,important
 @@||www.lotustalk.com^
 @@||www.meipian7.cn^
-@@||www.microsoft.com/onerfstatics/marketingsites-wcus-prod/shell/_scrf/js/themes=default/$script
 @@||www.msftconnecttest.com^
 @@||www.msftncsi.com^
 @@||www.msn.cn/spartan/mmx^
@@ -19125,7 +19105,6 @@
 @@||wwwshooter.com/includes/js/adblockdetect/
 @@||wwwshooter.com/js/adblockdetect/_advertisement.js$script
 @@||wx.qlogo.cn^
-@@||wx.qq.com/*/ad_$script
 @@||wx.qq.com/c/=/mpres/*/video_ad_
 @@||wx.qq.com/mmbizwap/*/framead.
 @@||wx.tenpay.com^

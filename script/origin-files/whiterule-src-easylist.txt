@@ -46,7 +46,6 @@
 @@||1337x.st^$csp=script-src 'self' 'unsafe-inline'
 @@||1337x.st^$csp=script-src 'self' 'unsafe-inline'
 @@||1337x.to^$csp=script-src 'self' 'unsafe-inline'
-@@||1337x.to^$csp=script-src 'self' 'unsafe-inline'
 @@||17173im.allyes.com^
 @@||177mh.com^$stealth
 @@||177mh.com^$stealth
@@ -146,7 +145,6 @@
 @@||a-delivery*.mxdcontent.net^$stealth,media
 @@||a-delivery*.mxdcontent.net^$stealth,media
 @@||a-msedge.net^
-@@||a.ads.cn.miaozhen.com^$domain=youku.com
 @@||a.ads.cn.miaozhen.com^$domain=youku.com
 @@||a.adwolf.ru^|
 @@||a.gsmarena.com^$script,domain=gsmarena.com
@@ -4092,7 +4090,6 @@
 @@||open.spotify.com^$generichide
 @@||open.spotify.com^$generichide
 @@||openad.oss-cn-shanghai.aliyuncs.com^$domain=yicai.com
-@@||openad.oss-cn-shanghai.aliyuncs.com^$domain=yicai.com
 @@||openload.co^$elemhide
 @@||openload.co^$genericblock,generichide
 @@||openload.io^$elemhide
@@ -4796,7 +4793,6 @@
 @@||s-delivery*.mxdcontent.net^$media,stealth
 @@||s-delivery*.mxdcontent.net^$media,stealth
 @@||s-media*.pinimg.com^$image,third-party
-@@||s.click.taobao.com^$popup
 @@||s.swiftypecdn.com^$stylesheet,xmlhttprequest,domain=docs.ansible.com
 @@||s.tgfcer.com^$generichide
 @@||s.tgfcer.com^$generichide
@@ -5297,7 +5293,6 @@
 @@||static.3001.net^$stealth,domain=freebuf.com
 @@||static.adman.gr^$domain=naftemporiki.gr
 @@||static.adman.gr^$domain=naftemporiki.gr
-@@||static.atm.youku.com^*.swf
 @@||static.atm.youku.com^*.swf
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.gota.infomaker.io^$stealth,domain=blt.se
@@ -6421,8 +6416,6 @@
 @@||yottaa.net^*/analytics/gtm-analytics-events.min.js$domain=hannaandersson.com
 @@||yottaa.net^*/scripts/eventtracking/$script,domain=containerstore.com
 @@||youku.com^*^adshow
-@@||youku.com^*^adshow
-@@||youku.com^*^showAd
 @@||youku.com^*^showAd
 @@||youngmarble.com^$script,xmlhttprequest
 @@||yourbittorrent2.com^$csp=script-src 'self' 'unsafe-inline'

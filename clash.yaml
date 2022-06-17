@@ -1,5 +1,5 @@
 #TITLE=AdRules
-#VER=20220617232854
+#VER=20220617234039
 #URL=https://github.com/Cats-Team/AdRules
 #TOTAL_LINES=110549
 
@@ -14910,6 +14910,7 @@ payload:
   - '+.aomarketing.blytheco.com'
   - '+.blzsnd02.com'
   - '+.bm23.com'
+  - '+.bm2bm.com'
   - '+.bm324.com'
   - '+.bm999999.com'
   - '+.ad.bmac.com.cn'
@@ -43740,7 +43741,6 @@ payload:
   - '+.jazzharder.com'
   - '+.bdjs.jb51.net'
   - '+.dm.jb51.net'
-  - '+.files.jb51.net'
   - '+.jb777.net'
   - '+.jb7hvcksstar.com'
   - '+.jb7hvckszone.com'
