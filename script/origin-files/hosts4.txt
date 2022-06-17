@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 17 Jun 2022 07:29:24 +0000
+# Last converted - Fri, 17 Jun 2022 14:29:44 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 tzegilo.com
 0.0.0.0 cdn.rlets.com
 0.0.0.0 agent.contentsanalyst.com
 0.0.0.0 tangerine.io
@@ -565,7 +566,6 @@
 0.0.0.0 shopback.net
 0.0.0.0 shopconvert.com.br
 0.0.0.0 neemu.com
-0.0.0.0 ping.staticmoly.me
 0.0.0.0 prod-sb-appanalytics-us1.servicebus.windows.net
 0.0.0.0 mci1.co.kr
 0.0.0.0 analytics.sitewit.com
@@ -6593,6 +6593,7 @@
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 d10vy5gom1ed53.cloudfront.net
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
+0.0.0.0 pl02.owen.prolitteris.ch
 0.0.0.0 1909a8.satofull.jp
 0.0.0.0 a8-itp.qoo10.jp
 0.0.0.0 a8.01cloud.jp

@@ -5745,6 +5745,7 @@
 @@||tpc.googlesyndication.com^$domain=hoyts.com.au
 @@||track.nzz.ch^$script,~third-party
 @@||track.rutarget.ru^|
+@@||track.ukrposhta.ua^$stealth
 @@||tracker.namitiyu.com^
 @@||tracking.epicgames.com^
 @@||traffichaus.com^*/banner-ad.js
@@ -5843,6 +5844,7 @@
 @@||twimg.com^*/tweets.js$domain=twitter.com
 @@||twineer.com^$generichide
 @@||twineer.com^$generichide
+@@||twitch.tv^$extension
 @@||twofactorauth.org^$generichide
 @@||twofactorauth.org^*/social/
 @@||tx.acgvideo.com^$stealth

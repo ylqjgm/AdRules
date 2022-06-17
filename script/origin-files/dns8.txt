@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: M0H6/dYy+NsFpkMaqNk8+A
+! Checksum: ONNkjwR0rl+Bq6x+3TzStA
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206170733
-! Last modified: 2022-06-17 07:33 UTC
+! Version: 202206171433
+! Last modified: 2022-06-17 14:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -102761,7 +102761,6 @@ _subscribers_newsletters/
 ##.boxsocial
 ##.boxsociale
 ##.boxzilla-like-us-facebook
-##.bp-horizontal-share
 ##.bp-share-btn
 ##.bp-share-button
 ##.bpro-social
@@ -112541,6 +112540,7 @@ _subscribers_newsletters/
 ###CookieConsentDiv
 ###CookieConsentGdpr
 ###CookieConsentMessage
+###CookieConsentWrapper
 ###CookieConsentement
 ###CookieContainer
 ###CookieControlWrapper
@@ -114474,6 +114474,7 @@ _subscribers_newsletters/
 ###cookie-notice-platform
 ###cookie-notice-popup
 ###cookie-notice-section
+###cookie-notice-top
 ###cookie-notice-top-banner
 ###cookie-notice-uk
 ###cookie-notice-v3
@@ -116684,6 +116685,7 @@ _subscribers_newsletters/
 ###d-cookiesWarningAdsLayout
 ###d-notification-bar
 ###dCookies
+###daextlwcnf-cookie-notice-container
 ###dap-cookie-bar
 ###darkener_cookie
 ###dasCookieControl
@@ -122082,6 +122084,7 @@ _subscribers_newsletters/
 ##.cookie-notice-overlay
 ##.cookie-notice-popup
 ##.cookie-notice-root
+##.cookie-notice-top
 ##.cookie-notice-ui
 ##.cookie-notice-visible
 ##.cookie-notice-wrap
@@ -122089,6 +122092,8 @@ _subscribers_newsletters/
 ##.cookie-notice-wrapper-privacypolicy
 ##.cookie-notice.alert
 ##.cookie-notice.alert-secondary
+##.cookie-notice.bottom
+##.cookie-notice.top
 ##.cookie-notice__content
 ##.cookie-notice__inner
 ##.cookie-notice__overlay
@@ -122500,6 +122505,7 @@ _subscribers_newsletters/
 ##.cookieConsentPopup
 ##.cookieConsentShort
 ##.cookieConsentWrapper
+##.cookieConsentWrapperCon
 ##.cookieContainer
 ##.cookieContainerV2
 ##.cookieControl
@@ -126882,6 +126888,7 @@ _subscribers_newsletters/
 ##.ts_privacy_adv
 ##.tscUiNotificationMiddleWrapper
 ##.tsccb-banner-container
+##.tsd-cookie-notice
 ##.tsl-cookiebanner
 ##.tsp-cookie
 ##.tt-bsh-cookiebar
@@ -127619,6 +127626,7 @@ _subscribers_newsletters/
 ##div.cookie-info
 ##div.cookie-layer
 ##div.cookie-message
+##div.cookie-notice-body
 ##div.cookie-notice-open
 ##div.cookie-notification
 ##div.cookie-policy-open
@@ -127637,6 +127645,9 @@ _subscribers_newsletters/
 ##div.show-cookie-consent
 ##div.show-cookie-policy
 ##div.with-cookie
+! cuny.jobs/southerncompany-engineer.jobs/tradesmen.jobs
+##div.cookie-consent--visible
+##section.cookie-consent--visible
 ! asfromania.ro
 ###cp-dialog.cp-wrapper
 ! onyx-healthcare.com
@@ -134922,6 +134933,7 @@ lifesitenews.com###give-insert
 theshot.net.au###home_row_1
 alternet.org###kindest-container
 dailywire.com###lts-banner
+libertynation.com###memberZoneFullSub
 foodnetwork.com###mod-editorial-promo-1
 finance.yahoo.com###monalixa-stickyfooter
 moneyweb.co.za###overlayVideo
@@ -135001,6 +135013,7 @@ peoplesworld.org##.donate_strip
 revolver.news##.donation-header
 bgr.com##.dont-miss
 nzherald.co.nz##.down.premium-toaster
+libertynation.com##.embedshortcode
 dealnews.com##.engagement
 dealnews.com##.engagement-container
 cbn.com##.field-name-news-cta
@@ -144580,7 +144593,6 @@ isixsigma.com#@#.besocial
 engage.it#@#.block-social
 opposingviews.com#@#.block-socialmedia
 kcrw.com#@#.bottom-social
-automotoclub.info,downloadly.ir,downloadlyir.com,region.expert,skinpacks.com#@#.bp-horizontal-share
 azlyrics.com,theoldreader.com,userzoom.com#@#.btn-share
 appspot.com#@#.btn-social-icon
 passeidireto.com#@#.btn_google
