@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206170206
+! Version: 202206180202
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41897
+! Lenth = 41906
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -1126,6 +1126,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /ac-site-tracking-
 /ac.fcgi?
 /acbeacon2.
+/acc/acctag.js
 /accAnal.js
 /access.html$domain=2jigiri.net|pig109.net
 /access.php?referrer=
@@ -3436,6 +3437,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /js/tracking?
 /js/tracking_
 /js/trk_
+/js/wherego_tracker.js?
 /js?event=page&
 /js_event_tracking/*
 /js_gpt.
@@ -7808,6 +7810,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||images*.engageya.com^$image,domain=popmech.ru
 @@||images-dl.taboola.com^$domain=samsung.com|thestartmagazine.com
 @@||images.apple.com/metrics/scripts/s_code_h.js$domain=apple.com
+@@||images.news18.com^*/comscore.min.js$script,~third-party
 @@||images.sprinklecontent.com^$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||images.taboola.com^$domain=samsung.com|thestartmagazine.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=r7.com
@@ -13833,6 +13836,7 @@ znak.com##.relap
 ||blogranking.net^$third-party
 ||blogrankings.com/img_$third-party
 ||blogreaderproject.com^$third-party
+||blogroll.livedoor.net/img/blank.gif?
 ||blogscounter.com^$third-party
 ||blogsontop.com^$third-party
 ||blogtoplist.com^$third-party
@@ -13909,6 +13913,7 @@ znak.com##.relap
 ||boar.hopehollow.com^
 ||boar.indieweb.org^
 ||boar.jreviews.com^
+||bob-recs.com^$third-party
 ||bob.gitclear.com^
 ||bobcad.actonservice.com^
 ||bobcat.pilvia.com^
@@ -14128,6 +14133,7 @@ znak.com##.relap
 ||btbuckets.com^$third-party
 ||btez8.xyz^
 ||btez8.xyz^$third-party
+||btg360.com.br^$third-party
 ||bthwkw.bazarchic.com^
 ||btkbei.courir.com^
 ||btloader.com^$third-party
@@ -14626,7 +14632,6 @@ znak.com##.relap
 ||cdn-ra.rockcontent.com^$third-party
 ||cdn-rum.ngenix.net^
 ||cdn-sitegainer.com^$third-party
-||cdn.1337x.to/ip*.php
 ||cdn.abcotvs.net/abcotv/assets/news/global/js/analytics/VideoHeartbeat.min.js
 ||cdn.adrise.tv/*/appboy.min.js
 ||cdn.adrise.tv/*/sentry/
@@ -18011,6 +18016,7 @@ znak.com##.relap
 ||ea.diamant-unique.com^
 ||ea.ecotour.com^
 ||ea.elstarprevention.com^
+||ea.epochbase.com^
 ||ea.evaway.com^
 ||ea.fleurancenature.com^
 ||ea.fleurancenature.fr^
@@ -21109,6 +21115,7 @@ znak.com##.relap
 ||handleteeth.com^$third-party
 ||handsomeindustry.com^
 ||handsomeindustry.com^$third-party
+||handsomelyhealth.com^
 ||handyfield.com^
 ||handyfield.com^$third-party
 ||handyfireman.com^$third-party
@@ -28696,7 +28703,6 @@ znak.com##.relap
 ||ping.naturadapt.com^
 ||ping.richardtaylor.dev^
 ||ping.smyte.com^
-||ping.staticmoly.me^
 ||ping.tvmaze.com^
 ||ping.typekit.net/p.gif
 ||ping.xlmc.sandai.net^
@@ -28787,6 +28793,7 @@ znak.com##.relap
 ||pixel.archivecaslytosk.onion^
 ||pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^
 ||pixel.augsburger-allgemeine.de^
+||pixel.biano.cz^
 ||pixel.biano.ro^
 ||pixel.bild.de^
 ||pixel.blivenyc.com^
@@ -28911,6 +28918,7 @@ znak.com##.relap
 ||pl.volunteeringwaikato.org.nz^
 ||pl.volunteermarlborough.org.nz^
 ||pl.volunteersouth.org.nz^
+||pl02.owen.prolitteris.ch^
 ||pla-tk.flipkart.net^
 ||pla.naver.com/log/
 ||pla.wigglepixel.nl^
@@ -31737,6 +31745,7 @@ znak.com##.relap
 ||seekingalpha.com/xgCxM9By/init.js
 ||seelive.me/wau.php
 ||seesaa.jp/ot_square.pl?
+||seesaa.net/common/track.gif^
 ||seesaawiki.jp/img/rainman.gif?
 ||seevolution.com^$third-party
 ||seewhy.com^$third-party

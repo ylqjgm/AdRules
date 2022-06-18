@@ -1,7 +1,7 @@
 #TITLE=AdRules
-#VER=20220618095939
+#VER=20220618112151
 #URL=https://github.com/Cats-Team/AdRules
-#TOTAL_LINES=110450
+#TOTAL_LINES=110451
 DOMAIN-SUFFIX,cda.0-shiny.com
 DOMAIN-SUFFIX,api.0.0.0.0.cn
 DOMAIN-SUFFIX,c.0.0.0.0.cn
@@ -13898,6 +13898,7 @@ DOMAIN-SUFFIX,biallo3.de
 DOMAIN-SUFFIX,bian123.icu
 DOMAIN-SUFFIX,ads.bianca.com
 DOMAIN-SUFFIX,biandaosheng.com
+DOMAIN-SUFFIX,pixel.biano.cz
 DOMAIN-SUFFIX,pixel.biano.ro
 DOMAIN-SUFFIX,bianpin.pw
 DOMAIN-SUFFIX,bianxianmao.com

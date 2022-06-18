@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pBFLRAktTuRITLth4FD6YA
+! Checksum: cGuqmEQB5bmaf7nTMT2sug
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206180133
-! Last modified: 2022-06-18 01:33 UTC
+! Version: 202206180233
+! Last modified: 2022-06-18 02:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22468,6 +22468,7 @@ _800x80_
 ##.advertisement_container
 ##.advertisement_flag
 ##.advertisement_flag_sky
+##.advertisement_footer
 ##.advertisement_g
 ##.advertisement_header
 ##.advertisement_horizontal
@@ -61403,7 +61404,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||promo.com/embed/$subdocument,third-party
 @@||promo.zendesk.com^$xmlhttprequest,domain=promo.com
 @@||radiotimes.com/static/advertising/$script,~third-party
-@@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=techrepublic.com|zdnet.com
+@@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|techrepublic.com|zdnet.com
 @@||renewcanceltv.com/porpoiseant/banger.js$script,~third-party
 @@||rumble.com/embedJS/$script,domain=usawatchdog.com
 @@||rumble.com/j/p/$script,domain=usawatchdog.com
@@ -76100,6 +76101,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||i.imedia.cz^
 ||log.cpex.cz^
 ||log.idnes.cz^
+||pixel.biano.cz^
 ||pixel.cpex.cz^
 ||r2b2.cz/events.php?
 ||ssp.seznam.cz^
@@ -109545,6 +109547,7 @@ _subscribers_newsletters/
 ##.social-shadow
 ##.social-shar-bar
 ##.social-share
+##.social-share--column
 ##.social-share--desktop
 ##.social-share--linkedin
 ##.social-share--sticky
@@ -113843,6 +113846,7 @@ _subscribers_newsletters/
 ###ckieprompt
 ###ckkasten
 ###ckkasten-container
+###ckm-cookie-cont
 ###ckmcookiescont
 ###ckpolicy
 ###ckpop.outer
@@ -114649,6 +114653,7 @@ _subscribers_newsletters/
 ###cookie-space
 ###cookie-spacer
 ###cookie-statement
+###cookie-status-widget-holder
 ###cookie-stick2
 ###cookie-sticky
 ###cookie-sticky-bar
@@ -117073,6 +117078,7 @@ _subscribers_newsletters/
 ###emea-cookie
 ###emea-cookie-msg
 ###emerse-consent-pop
+###emg_cookiewall
 ###emnprivacyservice_ui
 ###emobile-cookies-notice
 ###empori-cookie-modal
@@ -119388,6 +119394,7 @@ _subscribers_newsletters/
 ###sn_cookies
 ###snippet--cookies
 ###snippet-cookieAllow-cookieAllow
+###snippet-cookieControl-cookieInfo
 ###snippet-cookiesAgreementControl-bar
 ###snmcookies
 ###soi-global-privacy-info
@@ -119559,6 +119566,7 @@ _subscribers_newsletters/
 ###tn-cookiebar
 ###tnw_cookieconsent
 ###tnzcookie_bottom
+###toast-cookies
 ###toasts > #toastsWrapper
 ###tofino-notification
 ###toog-cookies
@@ -119732,6 +119740,7 @@ _subscribers_newsletters/
 ###validationCookie
 ###varian-gdpr-consent
 ###vc-bar-cookie
+###vcm-v-consent-sdk
 ###vd-cookie-alert
 ###vd-cookie-banner
 ###vd-cookie-banner-spacer
@@ -120075,6 +120084,7 @@ _subscribers_newsletters/
 ##.CookieOptIn
 ##.CookieOverlay
 ##.CookiePanel
+##.CookiePerm
 ##.CookiePolicy
 ##.CookiePolicy-Contener
 ##.CookiePolicyBar
@@ -121466,6 +121476,7 @@ _subscribers_newsletters/
 ##.consentWrapper
 ##.consent[ng-controller="cookieConsentCtrl"]
 ##.consent__alert
+##.consent__banner
 ##.consent__cookies
 ##.consent_box
 ##.consent_cookies
@@ -122334,7 +122345,9 @@ _subscribers_newsletters/
 ##.cookie-statement-popup
 ##.cookie-status
 ##.cookie-sticky
+##.cookie-sticky-flex
 ##.cookie-sticky-holder
+##.cookie-sticky-wrap
 ##.cookie-stikey-nav
 ##.cookie-stripe
 ##.cookie-tab
@@ -122400,9 +122413,11 @@ _subscribers_newsletters/
 ##.cookie-warnung
 ##.cookie-widget
 ##.cookie-widget--open
+##.cookie-widget-holder
 ##.cookie-widget-v2
 ##.cookie-window
 ##.cookie-window-block
+##.cookie-window-overlay-no-settings
 ##.cookie-wr
 ##.cookie-wrap
 ##.cookie-wrap-content
@@ -124776,6 +124791,7 @@ _subscribers_newsletters/
 ##.hello-rodo--show
 ##.herbyCookieConsent
 ##.hfs_pageCookieHint
+##.hi-cookie-block
 ##.hidden-xs.eu-policy
 ##.hide-cookie-setting-button
 ##.hideFirstLoadPopUpCookiePolicy
@@ -126860,6 +126876,7 @@ _subscribers_newsletters/
 ##.tnf-cookie
 ##.tnw_cookieconsent
 ##.tnzcookie_container
+##.toast-block-cookies
 ##.toast-cookie
 ##.toast-cookie-active
 ##.toast-cookie-container
@@ -135022,6 +135039,7 @@ out.com##.bean-house-promo
 thenational.scot##.block-article-shoutout
 insideedition.com##.block-tip-block
 lambdatest.com##.blog__cta__signup
+jacobin.com##.bn-at
 bing.com##.bnp_fly_hp
 restofworld.org##.bottom-bar
 coindesk.com##.brVneQ
@@ -135110,6 +135128,7 @@ thepeterboroughexaminer.com,therecord.com##.overlay
 independentaustralia.net##.panelSubscription
 blizzardwatch.com##.patreon-sidebar
 wweek.com##.pb-f-global-blank-html
+jacobin.com##.po-sr-sb__container
 theweek.com##.polaris__subscription
 theweek.com##.polaris__teads
 thedraftnetwork.com##.popup
@@ -137520,7 +137539,7 @@ powercolor.com##.Privacy
 fashionmodeldirectory.com##.PrivacyNotice
 accobrands.com##.Promotional-corner
 eneba.com##.R05cUo
-gcds.com,great.gov.uk,tommy.com##.ReactModal__Overlay
+gcds.com,great.gov.uk,swapcard.com,tommy.com##.ReactModal__Overlay
 m.twitch.tv##.ReactModal__Overlay--after-open.ReactModal__Overlay
 huawei.com##.ReadPolicy
 bethesda.net##.RiotWrapper-visor-alert-RiotWrapper-visor-alert5
@@ -138503,6 +138522,8 @@ bospol.cz,faifiltri.it,first-certificate.com,galleria.com.pl,hliva-ustricna.cz,i
 bospol.cz,faifiltri.it,first-certificate.com,galleria.com.pl,hliva-ustricna.cz,instalxpert.com,kiennast.at,masjerez.com,ncts.ie,picardiegazette.fr,pleines.de,regueira.com,sinfonicadegalicia.com,tabletteslorraines.fr,uaianuncios.com.br,unidavi.edu.br##.modal-backdrop
 !! .modal only
 anpeandalucia.es,anpeasturias.es,anpecanarias.es,anpegalicia.es,crbinverbio.com,eldefensordelprofesor.es##.modal
+!! .gdpr-container
+hhmi.org##.gdpr-container
 !! cdk-overlay-container
 antenne.at,betsafe.ee,betsafe.lv,casino.dk,collibris-app.com,ekuriren.se,hw-zuschuss.daimler.com,inshared.nl,kkuriren.se,mediaportal.regione.lombardia.it,mobilbahis623.com,moncompteformation.gouv.fr,nordicbet.dk,rekonise.com,shopstyle.co.uk,skiclub-villingen.de,spedition.de,tacobot.tf,townsmith.de##.cdk-overlay-container
 !! .sqs-announcement-bar
@@ -139185,6 +139206,7 @@ fitbit.com##.ftr-mail-me
 screenbinge.com##.ftr-subscribe
 fundable.com##.fundable_newsletter_signup
 whatuni.com##.fwrp
+fxstreet.com##.fxs_global_alert
 thegolfnewsnet.com##.g-20
 crunchyroll.com##.game-banner-wrapper
 startribune.com##.gameday
@@ -145562,6 +145584,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||washingtonpost.com/gdpr-consent/$subdocument,xmlhttprequest
 @@||wasing.co.uk/global/cookie/$~third-party
 @@||wcpstatic.microsoft.com/mscc/lib/v2/wcp-consent.js$~third-party,domain=~halowaypoint.com
+@@||wesendit.com/lib/cookieconsent.min.js$~third-party
 @@||workingtitlefilms.com/site-content/plugins/nbcu-plugins/bwp-minify/$stylesheet
 @@||www.digikey.*/cookie-notice.css$stylesheet,~third-party
 @@||xe.com/themes/xe/js/react/cookie-consent.$script,~third-party
