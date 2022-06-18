@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: zIIy09mShRaq57SYDSITjg
+! Checksum: I2/mEBTEAlIUOuhjVyJkBQ
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-18 00:33:25（北京时间） 
-! Total count: 19478
+! Version: 2022-06-18 09:52:28（北京时间） 
+! Total count: 19480
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -1616,6 +1616,7 @@
 @@||adserver.rhombusads.com/api/$domain=spin.com
 @@||adserver.rockwell.kakao.com/adserver/api/v2^$xhr
 @@||adserver.xpanama.net^$script,domain=gsmarena.com
+@@||adservex.media.net/videoAds.js?$script,domain=forbes.com
 @@||adservice.$script,domain=stltoday.com
 @@||adservice.com/wp-content/themes/adservice/$~third-party
 @@||adservice.google.$domain=cbs.com
@@ -9356,6 +9357,7 @@
 @@||images.intellicast.com/App_Scripts/ad.min.js
 @@||images.intellicast.com/Scripts/ad-v3.js
 @@||images.kojaro.com/assets/ad/advertise-$image,~third-party
+@@||images.news18.com^*/comscore.min.js$script,~third-party
 @@||images.pluto.tv^
 @@||images.sprinklecontent.com^$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||images.taboola.com/taboola/$image,domain=indiatimes.com
@@ -11532,7 +11534,6 @@
 @@||meltyblood.typelumina.com/resources/img/common/$image,~third-party
 @@||memangbau.com/sailthru.js
 @@||member.aetna.com/appConfig/
-@@||members.luscious.net/sailthru.js$script,1p
 @@||memecenter.com/app/
 @@||memecenter.com/comments/add_comment
 @@||memecenter.com/comments/get_comments
@@ -16358,6 +16359,7 @@
 @@||static.bigc.co.th/media/bannerads/images/$domain=bigc.co.th
 @@||static.canva.com/designThumbnails/pinterest.png
 @@||static.cdn.web.tv/scripts/ads.js
+@@||static.cgames.de/gs_cb/assets/core/js/libs/adblockDetection.min.js
 @@||static.chartbeat.com/crossdomain.xml
 @@||static.chartbeat.com/js/chartbeat.js$domain=hindustantimes.com
 @@||static.chartbeat.com/js/chartbeat.js$domain=m.chosun.com
