@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: I2/mEBTEAlIUOuhjVyJkBQ
+! Checksum: /1Po1v/UWwBoZrU/A5X8BQ
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-18 09:52:28（北京时间） 
-! Total count: 19480
+! Version: 2022-06-18 10:00:01（北京时间） 
+! Total count: 19481
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -18746,6 +18746,7 @@
 @@||wenxuecity.com/include/editor/*/media/ad/
 @@||wenxuecity.com^$generichide
 @@||werbung.qs-optiker.de^$domain=werbung.qs-optiker.de
+@@||wesendit.com/lib/cookieconsent.min.js$~third-party
 @@||weser-kurier.de/stellen/riot-utils/joined.js?*/socialshareprivacy/
 @@||westelm.com^*/bloomreach.js
 @@||westjet.com/js/webstats.js
