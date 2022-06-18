@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: cGuqmEQB5bmaf7nTMT2sug
+! Checksum: 7FCNxbH3GwkxeOTqczsIlw
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206180233
-! Last modified: 2022-06-18 02:33 UTC
+! Version: 202206180733
+! Last modified: 2022-06-18 07:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18349,6 +18349,7 @@ _800x80_
 ##.ad-note
 ##.ad-notice
 ##.ad-notice-small
+##.ad-observer
 ##.ad-oms
 ##.ad-on
 ##.ad-on-top
@@ -26962,6 +26963,8 @@ _800x80_
 ##.metabet-adtile
 ##.metaboxType-sponsor
 ##.mf-ad300-container
+##.mf-adsense-leaderboard
+##.mf-adsense-rightrail
 ##.mg_box_ads
 ##.mgid-wrapper
 ##.mgid_3x2
@@ -29506,6 +29509,7 @@ _800x80_
 ##.sticky-ad-unit-default
 ##.sticky-ad-wrapper
 ##.sticky-ads-container
+##.sticky-adsense
 ##.sticky-bottom-ad
 ##.sticky-footer-ad
 ##.sticky-rail-ad-container
@@ -120576,6 +120580,7 @@ _subscribers_newsletters/
 ##.auskunft-cookies
 ##.austria_cookie_law
 ##.auth-cookie
+##.automart-cookiealert
 ##.av-cookie-wrapper
 ##.avCookieLaw
 ##.avalanche-message
@@ -120668,6 +120673,7 @@ _subscribers_newsletters/
 ##.ba_cookie_bar
 ##.ba_popup_cookie
 ##.backcookie
+##.backdrop-cookies
 ##.backdrop-ley-cookies
 ##.background-petrol-cookie
 ##.background_cookie_banner
@@ -120838,6 +120844,7 @@ _subscribers_newsletters/
 ##.block-cnil
 ##.block-cookie
 ##.block-cookie-accept-notify
+##.block-cookie-approval
 ##.block-cookie-banner
 ##.block-cookie-notification
 ##.block-cookie-popup
@@ -120852,6 +120859,7 @@ _subscribers_newsletters/
 ##.block-cookies-warning
 ##.block-gdpr-cookie-banner
 ##.block-info-cookie
+##.block-khst-cookie-approval
 ##.block-lsw-cookie
 ##.block-notification--cookies
 ##.block-por-cookies
@@ -121736,6 +121744,7 @@ _subscribers_newsletters/
 ##.cookie-bar2
 ##.cookie-bar__inner
 ##.cookie-bar__wrapper
+##.cookie-bar_component
 ##.cookie-bar_container
 ##.cookie-bar_inner
 ##.cookie-barre
@@ -125105,6 +125114,7 @@ _subscribers_newsletters/
 ##.js-gdpr
 ##.js-gdpr-banner
 ##.js-gdpr-consent-container
+##.js-gdpr-cookie-banner
 ##.js-gdpr-cookie-box
 ##.js-gdpr-header
 ##.js-gdpr-info
@@ -126338,6 +126348,8 @@ _subscribers_newsletters/
 ##.pusherpanel-cookienotice
 ##.puu-cookie
 ##.pw-cookie-consent
+##.pw-cookie-consent-v2
+##.pw-cookie-consent-v2-backdrop
 ##.pw-cookie-window
 ##.pw_consent_messagediv
 ##.pwd-cookie-consent-customize
@@ -127697,6 +127709,7 @@ _subscribers_newsletters/
 ##div.cookieMsg
 ##div.cookie_popup
 ##div.cookienotice
+##div.cookies-cont
 ##div.dp--cookie-consent
 ##div.is-cookie
 ##div.is-cookies
@@ -137739,6 +137752,7 @@ vivo.com##.common_prompt-privacy-bg
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.compliance
 riversidecompany.com##.compliance-banner
 unitedtalent.com##.compliance.banner
+polleverywhere.com##.component-notification
 razer.com##.component-sticky-dialog
 agenda.brussels,visit.brussels##.confirm
 acast.com,builds.gg,checkyourmath.com,codementor.io,grips-automation.com##.consent
@@ -143184,6 +143198,7 @@ milanoajto.hu##.cdisclaimer
 daiwa-info.hu##.ciacho-wrap-container
 alahome.hu,bestsellers.hu,bevachip.hu,cct.hu,dermashop.hu,firstshop.hu,focuscamera.hu,gyorgyteabolt.hu,joautok.hu,karatekyokushin.hu,katolikus.hu,kiwipress.hu,onlineszerszam.hu,szerszamoutlet.hu,union.hu,vigszinhaz.hu##.cookie
 fressnapf.hu##.cookie-base
+lampak.hu##.cookie-setting
 foramax.hu,mp4bolt.hu##.ct
 butor-mirjan24.hu##.gdprModal
 fressnapf.hu##.grey-popup-layer
@@ -145204,6 +145219,7 @@ consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,
 calameo.com#@#.consent.cookies
 svenskhalsokost.se#@#.cookie-accept
 bitburger-braugruppe.de#@#.cookie-age
+calameo.com#@#.cookie-alert-container
 boursorama.com,dogedash.com,nuxeo.com,swedbank.se,teacheconomy.de#@#.cookie-banner:not(body):not(html)
 janrain.com,moemax.de,xxxlshop.de#@#.cookie-bar
 biblioteka.wroc.pl#@#.cookie-btn
@@ -145340,6 +145356,7 @@ wetransfer.com#@#.welcome--cookies
 inspirock.com#@#.with-cookie
 ceramtec-group.com,openfiber.it,rete.toscana.it#@#[aria-label="cookieconsent"]
 devowl.io#@#[href="https://devowl.io/wordpress-real-cookie-banner/"]
+calameo.com#@#div.cookie-alert
 forbesafrica.com#@#div[class*="CookieConsent"]
 what3words.com#@#div[class^="CookieNotice"]
 etsy.com#@#div[data-gdpr-consent-prompt]

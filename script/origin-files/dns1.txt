@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202206180254
+! Version: 202206180439
 ! Title: Fanboy's Annoyance List
-! Last modified: 18 Jun 2022 02:54 UTC
+! Last modified: 18 Jun 2022 04:39 UTC
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -30510,6 +30510,7 @@ _vpcookieconsent/
 ##.auskunft-cookies
 ##.austria_cookie_law
 ##.auth-cookie
+##.automart-cookiealert
 ##.av-cookie-wrapper
 ##.avCookieLaw
 ##.avalanche-message
@@ -30602,6 +30603,7 @@ _vpcookieconsent/
 ##.ba_cookie_bar
 ##.ba_popup_cookie
 ##.backcookie
+##.backdrop-cookies
 ##.backdrop-ley-cookies
 ##.background-petrol-cookie
 ##.background_cookie_banner
@@ -31672,6 +31674,7 @@ _vpcookieconsent/
 ##.cookie-bar2
 ##.cookie-bar__inner
 ##.cookie-bar__wrapper
+##.cookie-bar_component
 ##.cookie-bar_container
 ##.cookie-bar_inner
 ##.cookie-barre
@@ -35041,6 +35044,7 @@ _vpcookieconsent/
 ##.js-gdpr
 ##.js-gdpr-banner
 ##.js-gdpr-consent-container
+##.js-gdpr-cookie-banner
 ##.js-gdpr-cookie-box
 ##.js-gdpr-header
 ##.js-gdpr-info
@@ -36274,6 +36278,8 @@ _vpcookieconsent/
 ##.pusherpanel-cookienotice
 ##.puu-cookie
 ##.pw-cookie-consent
+##.pw-cookie-consent-v2
+##.pw-cookie-consent-v2-backdrop
 ##.pw-cookie-window
 ##.pw_consent_messagediv
 ##.pwd-cookie-consent-customize
@@ -46577,6 +46583,7 @@ vivo.com##.common_prompt-privacy-bg
 browardpalmbeach.com,dallasobserver.com,houstonpress.com,miaminewtimes.com,phoenixnewtimes.com,westword.com##.compliance
 riversidecompany.com##.compliance-banner
 unitedtalent.com##.compliance.banner
+polleverywhere.com##.component-notification
 razer.com##.component-sticky-dialog
 agenda.brussels,visit.brussels##.confirm
 acast.com,builds.gg,checkyourmath.com,codementor.io,grips-automation.com##.consent
@@ -52900,6 +52907,7 @@ consent.yahoo.com,lawrievetgroup.co.uk,payments.amazon.ca,payments.amazon.co.jp,
 calameo.com#@#.consent.cookies
 svenskhalsokost.se#@#.cookie-accept
 bitburger-braugruppe.de#@#.cookie-age
+calameo.com#@#.cookie-alert-container
 boursorama.com,dogedash.com,nuxeo.com,swedbank.se,teacheconomy.de#@#.cookie-banner:not(body):not(html)
 janrain.com,moemax.de,xxxlshop.de#@#.cookie-bar
 biblioteka.wroc.pl#@#.cookie-btn
@@ -53036,6 +53044,7 @@ wetransfer.com#@#.welcome--cookies
 inspirock.com#@#.with-cookie
 ceramtec-group.com,openfiber.it,rete.toscana.it#@#[aria-label="cookieconsent"]
 devowl.io#@#[href="https://devowl.io/wordpress-real-cookie-banner/"]
+calameo.com#@#div.cookie-alert
 forbesafrica.com#@#div[class*="CookieConsent"]
 what3words.com#@#div[class^="CookieNotice"]
 etsy.com#@#div[data-gdpr-consent-prompt]
