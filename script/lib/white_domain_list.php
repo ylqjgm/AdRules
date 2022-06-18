@@ -9,6 +9,9 @@
 
 return array(
     /**start**/
+    'ib.snssdk.com' => 0, //今天头条加载
+    'is.snssdk.com' => 0, //今日头条搜索
+    'mon.snssdk.com' => 0, //今天头条加载
     'windows.net' => 0, //微软
     'hot.browser.miui.com' => 0, //小米浏览器热搜以及下载弹窗
     'fengkongcloud.com' => 0, //验证码域名
