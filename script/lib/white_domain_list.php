@@ -9,6 +9,7 @@
 
 return array(
     /**start**/
+    'stats.foldingathome.org' => 0, //Folding@Home 的用户运算统计页面
     'ib.snssdk.com' => 0, //今天头条加载
     'is.snssdk.com' => 0, //今日头条搜索
     'mon.snssdk.com' => 0, //今天头条加载
