@@ -1,15 +1,15 @@
 [Adblock Plus 3.0]
-! Checksum: juUcnImK80+Y4nbN+ElW/Q
+! Checksum: 7Ke5wwxa8IaCVH4OT1PJwg
 ! Title: My AdFilters（for PC）
 ! Expires: 2 hours
-! Version: 202206191527
-! Last Modified: 2022年06月19日 15:27
+! Version: 202206192050
+! Last Modified: 2022年06月19日 20:50
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
-! Total count: 73015
+! Total count: 73025
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -20505,6 +20505,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||sankakucomplex.com^$generichide
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
+@@||sarapbabe.com/nativeads-v2.js
 @@||sarapbeh.com^$generichide
 @@||sardeath.com^$generichide
 @@||saruch.co/ads/ad.xml$domain=saruch.co
@@ -27078,6 +27079,7 @@ gaymovievids.com,me-gay.com,ts-tube.net,verygayboys.com##.random-td
 gaymovievids.com,verygayboys.com##.mobile-random
 gayporno.fm##.b-content__aside-head
 gayporno.fm##.traffic
+gayporno.fm,gaymaletube.name,gayporn.fm,gaysuperman.com##.b-uvb-spot
 gayporno.fm,gayporn.fm,igayvideos.tv##.b-content__aside > .b-random-column
 gaystream.pw##.a-block
 gaytail.com##+js(abort-current-script, onload, onclick)
@@ -27347,7 +27349,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 gohome.com.hk,idv.st#@##adFrame
 gokano.com#@#.adsbygoogle
 goldderby.com##.adma
-goldgay.tv,verytwink.com,redporn.xxx,me-gay.com,24porn.com,gayporno.fm##.ae-player__itv
+goldgay.tv,verytwink.com,redporn.xxx,24porn.com,gayporno.fm##.ae-player__itv
 golf.com##.golf-ad
 golfdigest.com##.o-ArticleRecirc
 golfroyale.io##+js(set-constant, adblocked, false)
@@ -30211,9 +30213,7 @@ mcrypto.club,ptc4btc.com,eldibux.com,coinsearns.com##div[id^="promo"]
 md4u.ru###pagecontent > div[style*="background-color"]
 md5hashing.net##+js(set-constant, _app.adsBlocked.set, falseFunc)
 me-gay.com##.b-uvb-spot
-me-gay.com,gayporno.fm,gaymaletube.name,gayporn.fm,gaysuperman.com##.b-uvb-spot
 me-gay.com,gaysuperman.com##.mobile-random
-me-gay.com,youtrannytube.com##.random-td
 me360.com##.footer-booking-open
 meczyki.pl##.placeholder
 med66.com##.banner
@@ -33085,6 +33085,7 @@ sanos.xyz##+js(window.open-defuser)
 sanoybonito.club##+js(window.open-defuser)
 sanoybonito.club#@#.adbanner
 saramin.co.kr#@##ad_top
+sarapbabe.com##a.has-text-danger
 sashares.co.za##.elementor-48612
 sashares.co.za##.wppopups-whole
 sashares.co.za##a[data-wpel-link="external"]
@@ -34765,6 +34766,8 @@ tmall.com##.app-download-popup
 tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
 tmall.com##.mui-mbarp-qrcode
 tmearn.com##+js(window.open-defuser)
+tmioe.com##.ad_single_0
+tmioe.com##a[target="_blank"] > img[src*=".sinaimg.cn"]
 tmtpost.com##.open-app
 tnaflix.com###zoneInPlayer
 tnaflix.com##.menu-paid-tab
@@ -36661,6 +36664,7 @@ youth.cn##.hd_pic
 youth.cn##.tj2_pic
 youth.cn##div[style="width:960px;height:90px;margin:0 auto;"]
 youtnbe.xyz##+js(window.open-defuser)
+youtrannytube.com##.random-td
 youtube-nocookie.com##.ytp-ad-progress-list
 youtube-video.download##+js(window.open-defuser)
 youtube.com###YtKevlarVisibilityIdentifier
@@ -37880,6 +37884,7 @@ zyue.com##div[id^="divad_"]
 ||666587.xyz^
 ||666589.xyz^
 ||666592.xyz^
+||666593.xyz^
 ||6669667.com^
 ||666video.asia^
 ||66996.top^
@@ -43222,6 +43227,7 @@ zyue.com##div[id^="divad_"]
 ||cagothie.net^$popup
 ||cahf4eed.mooo.com^
 ||caichenguang.cn^
+||caicnax.cn^
 ||caijingzz.cn^
 ||caimlkh.com^
 ||caiteesh.net^
@@ -51015,6 +51021,7 @@ zyue.com##div[id^="divad_"]
 ||hgcdn.net/?$third-party
 ||hgcmnews.pro^
 ||hgf4.zanzicar.fr^
+||hggtt.top^
 ||hghit.com^
 ||hgub2polye.com^$third-party
 ||hgyouxi.com/data/hgyouxiad/
@@ -70146,6 +70153,7 @@ zyue.com##div[id^="divad_"]
 ||vyjhr.cn^
 ||vymhnxjyj.com^
 ||vyrhxfi.cn^
+||vyvxx.com^
 ||vyyikx.sixt.ch^
 ||vz.7vid.net^
 ||vz1m.com^
@@ -70245,6 +70253,7 @@ zyue.com##div[id^="divad_"]
 ||wangderder.xyz^
 ||wangdq.com^
 ||wanghu2020.ltd^
+||wangjianxd.site^
 ||wangkeduo.cn^
 ||wangketuan.com^
 ||wangkuang.net.cn^
@@ -72334,6 +72343,7 @@ zyue.com##div[id^="divad_"]
 ||youtube.com/pagead/
 ||youtube.com/ptracking?
 ||youtube.com/set_awesome?
+||youtube.com^$domain=sarapbabe.com
 ||youtube4kdownloader.com/scripts/stats.js
 ||youtubekids.com/api/stats/ads?
 ||youtubekids.com/api/stats/qoe?
