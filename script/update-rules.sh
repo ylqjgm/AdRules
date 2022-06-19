@@ -213,7 +213,7 @@ cat allow-domains0.txt | sed '/^$/d' | grep -v "#" \
  | uniq | awk '!a[$0]++' > pre-allow1.txt & #将允许域名转换为ABP规则
 
 cat allow-domains0.txt | sed '/^$/d' | grep -v "#" \
- |sed "s/^/0.0.0.0 &/g" | sort -n \
+ |sed "s/^/0.0.0.0 /g" | sort -n \
  | uniq | awk '!a[$0]++' > pre-hostsallow.txt & #将允许域名转换为ABP规则
 
 cat *.txt | sed '/^$/d' \
