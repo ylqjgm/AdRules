@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206180202
+! Version: 202206190317
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41906
+! Lenth = 41910
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -2982,6 +2982,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 /gcui_vidtracker/*
 /gd-stat.
 /gd.stat?
+/gd_tracker_
 /gemius.3.15.js
 /gemius.js
 /gemius/*
@@ -9535,6 +9536,7 @@ znak.com##.relap
 ||4399.com/js/4399stat.js
 ||4399stat.5054399.com^
 ||45.32.105.134^
+||4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com^
 ||4gtv.tv/js/ga_
 ||4hds.com/js/camstats.js
 ||4jnzhl0d0.com^
@@ -23908,6 +23910,7 @@ znak.com##.relap
 ||lltrck.com^
 ||lmavci.eloquii.com^
 ||lmcdn.ru^*/statistics.js
+||lmepbq.com^
 ||lmgvur.scbt.com^
 ||lmiutil.com^$third-party
 ||lmnqof.littletoncoin.com^
@@ -31804,6 +31807,7 @@ znak.com##.relap
 ||sensor.org.ua^$third-party
 ||sensors.ibreader.com^
 ||sensors.snappea.com^
+||sensorsdata.cn^$third-party
 ||sentifi.com^$third-party
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||sentry.arc.io^

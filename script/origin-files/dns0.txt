@@ -1,8 +1,8 @@
-! Checksum: 8+exXs4+WX/mj/AUElGdNQ
+! Checksum: pkCGjgjfg0pwe5P7HIipog
 ! Title: AdGuard Chinese filter
 ! Description: EasyList China + AdGuard Chinese filter. Filter list that specifically removes ads on websites in Chinese language.
-! Version: 2.0.58.79
-! TimeUpdated: 2022-06-19T00:30:57+00:00
+! Version: 2.0.58.82
+! TimeUpdated: 2022-06-19T07:30:58+00:00
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/AdguardTeam/AdGuardFilters
 ! License: https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE
@@ -4136,6 +4136,7 @@ ubmcmm.baidustatic.com
 ||qbyyvg3.com^
 ||sosrom.cn^
 ||xtp01.com^
+||666593.xyz^
 ||666576.xyz^
 ||666577.xyz^
 ||666579.xyz^
@@ -19692,6 +19693,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 !#Novels ads union
 ||luotuoma.cool^
 ||randolph.love^
+||hggtt.top^
 ##a[href*="/jianjianjiao.top"]
 ||1kcx.hk^
 ||cfqc.me^
@@ -19754,6 +19756,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zhflodsix.cn^
 ||zhuomengwangluo.com^
 ||zwgege.cn^
+||caicnax.cn^
+||wangjianxd.site^
 ||172872.com^
 ||aa9q.cn^
 ||aa9u.cn^
@@ -19793,6 +19797,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||pjuulzj.cn^
 ||sjpoxe6.com^
 ||tianyao.site^
+||zhihuichuxing.pw^
 ||zhjzjnb.xyz^
 ||avtej.com^
 ||cmall.club^
@@ -19808,6 +19813,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||bm2bm.com^
 ||qc-meta.com^
 ||xuhaijun.pw^
+||vyvxx.com^
 ||52xs.live^
 ||whzshoes.com^
 ||zhihuinongye.biz^

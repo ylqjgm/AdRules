@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202206190151
+! Version: 202206190541
 ! Title: Fanboy's Annoyance List
-! Last modified: 19 Jun 2022 01:51 UTC
+! Last modified: 19 Jun 2022 05:41 UTC
 ! Expires: 4 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Please report any unblocked content or problems by email or in our forums
@@ -16923,6 +16923,7 @@ _vpcookieconsent/
 ##.pdb-share-block
 ##.pdb-social
 ##.pds-share
+##.pen_social_networks
 ##.penci-facebook_page
 ##.penci-social-buttons
 ##.penci-social-share-footer
@@ -23897,6 +23898,7 @@ _vpcookieconsent/
 ###cokieCover
 ###cokieMain
 ###cokiesinfo
+###colorify-pro-cookie-ify
 ###com4cookies-container
 ###com_cookie_policy
 ###comavoo-ga-cookie-banner
@@ -24258,6 +24260,7 @@ _vpcookieconsent/
 ###cookie-declaration
 ###cookie-dett
 ###cookie-dialog
+###cookie-dialog-bar
 ###cookie-dialogue
 ###cookie-dialogue-div
 ###cookie-dim
@@ -26747,6 +26750,7 @@ _vpcookieconsent/
 ###display_cookie_message
 ###div-accept-cookies
 ###div-cookie
+###div-cookie-consent
 ###div-cookie-info
 ###div-cookie-komunikat
 ###div-cookie-monster
@@ -29351,6 +29355,7 @@ _vpcookieconsent/
 ###spfcookiebanner
 ###spletko-cookies
 ###spoilerCookie
+###spotbuzz-pro-cookie-ify
 ###sprd-consent
 ###sputnik_cookie_policy_banner
 ###sr-cookie-policy
@@ -29809,6 +29814,7 @@ _vpcookieconsent/
 ###wpca-popup-modal
 ###wpcui_cookie_bar_main_body
 ###wpf_cookie-alert
+###wpk-cookie-consent
 ###wpnb-bar
 ###wpx_cookie
 ###wq-cookie-banner
@@ -31792,6 +31798,7 @@ _vpcookieconsent/
 ##.cookie-consent-panel-message
 ##.cookie-consent-pnl
 ##.cookie-consent-popup
+##.cookie-consent-popup-wrap
 ##.cookie-consent-prompt
 ##.cookie-consent-prompt-container
 ##.cookie-consent-request
@@ -36822,6 +36829,7 @@ _vpcookieconsent/
 ##.theCookie
 ##.theeclbox
 ##.this_site_uses_cookies
+##.thomann-cookie-consent-overlay
 ##.thscookies
 ##.tibrr-cookie-consent-container
 ##.ticker_cookie
@@ -37244,6 +37252,7 @@ _vpcookieconsent/
 ##.wsite-cookie-opt-out--wrapper
 ##.wt-confirm-layer
 ##.wt-cookie-box-wrapper
+##.wt-cookie-consent
 ##.wta-cookies-policy
 ##.wuCookieBanner
 ##.wwwschutz_cmp_showing
@@ -37507,6 +37516,7 @@ _vpcookieconsent/
 ##footer > .cookie
 ##form[name="FormLeggeCookies"]
 ##g-cookie-policy
+##gdpr-age-consent-modal
 ##gdpr-consent
 ##gdpr-cookies
 ##gdpr-policies
@@ -47301,6 +47311,7 @@ gitconnected.com##.yu.yt.ys.gi.u.od
 yahoo.com##.yucs-eprivacy
 cote.co.uk,ennismore.com##.z-100
 londonciv.org.uk##.z-30.inset-0.fixed
+freelway.com##.z-50
 pizzahut.co.uk##.z-600
 ethereumprice.org##.zxc-msg
 santatracker.google.com##SANTA-NOTICE
@@ -47428,7 +47439,7 @@ cetelem.es,diskus.cz,ernest-inn.com,q2bstudio.com###modalCookies
 ! ! .cookie-modal
 777score.ru,bahamar.com,cashper.fr,cinestar.cz,evl.fi,geis-group.sk,geis.pl,hudy.cz,treatstock.com##.cookie-modal
 ! ! .bottom-0
-badael.org,bateswells.co.uk,bishopfox.com,burnleyfootballclub.com,centricabusinesssolutions.ie,cherryservers.com,globusgroup.com,matador-diervoeders.be,matador-diervoeders.com,mirabilisapartments.com,moonpay.com,nucleusnetwork.com,sfc.edu,teym.eu,thaicycling.or.th,theburydirectory.co.uk,tpg.com,truecaller.com,vilavitaparc.com,wallstreetenglish.in.th,webcatalog.io##.bottom-0
+badael.org,bateswells.co.uk,bishopfox.com,burnleyfootballclub.com,centricabusinesssolutions.ie,cherryservers.com,cll.net.nz,globusgroup.com,matador-diervoeders.be,matador-diervoeders.com,mirabilisapartments.com,moonpay.com,nucleusnetwork.com,sfc.edu,teym.eu,thaicycling.or.th,theburydirectory.co.uk,tpg.com,truecaller.com,vilavitaparc.com,wallstreetenglish.in.th,webcatalog.io##.bottom-0
 ! ! .mysticky-welcomebar-fixed-wrap
 fabocompany.com,polipc.hu##.mysticky-welcomebar-fixed-wrap
 ! ! mod_cms_accept_tags
@@ -50156,6 +50167,7 @@ myeducation.de##.modals-overlay
 phoenix-media.eu##.modals-wrapper
 demirjasarevic.com##.mpp-container
 foundrax.de##.mpp-container-position-bottom-bar
+krs-recht.de##.mpp-is-open
 tecedo.at##.msg-banner
 kaelte-nuhn.com,kvvks.de,messe-kassel.de##.note
 moviepilot.de##.notification
@@ -51039,6 +51051,7 @@ aldi.it,eosc-eu.cloud.garr.it,feralpisalo.it,meteo.fvg.it,osmer.fvg.it##.modal-b
 telethon.it##.modalMessage
 tuttoamerica.it##.modal__overlay
 pasinigioielli.com##.modals-wrapper
+degoosta.com##.mpp-is-open.mpp-box
 pizzastories.le5stagioni.it##.mx-0.w-100.row
 initalia.it##.notice-wrap
 jaguar.it,landrover.it##.notificationBars
@@ -51636,6 +51649,7 @@ nbazar.sk##.eu
 diamante.sk##.gdprModal
 nabytok-aldo.sk,thechillidoctor.sk##.modal
 autoobuv.sk,bpq.sk,claudianum.sk,nabytok-aldo.sk##.modal-backdrop
+eso.sk##.mpp-is-open
 ndsas.sk##.navbar-fixed-top > .container
 inzeratyzadarmo.sk##.pd10-ing
 zebracomp.sk##.position-fixed.ov.shadow
@@ -53223,6 +53237,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||alphavps.com/assets/js/services/CookiesConsent.min.js
 @@||ampproject.org^*/amp-consent-$domain=9to5google.com|9to5mac.com|connectthewatts.com|dronedj.com|electrek.co|spaceexplored.com|www-history-com.cdn.ampproject.org
 @@||apikeys.civiccomputing.com^$xmlhttprequest,domain=videogameschronicle.com
+@@||assets.travix.com/client/cookie-banner-$script
 @@||banking.fyrst.de/translations/*-cookiedisclaimer$~third-party,xmlhttprequest
 @@||barclays.co.uk^*/cookiepolicy.js$~third-party
 @@||bbci.co.uk^*/cookie-library.min.js
