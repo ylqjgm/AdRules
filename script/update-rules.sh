@@ -252,7 +252,7 @@ bash ../script/prepare-dns-upstream.sh
 wait
 bash ../script/rebuilt-dns-list.sh
 wait
-bash ./script/built-dns-list.sh
+#bash ./script/built-dns-list.sh
 wait
 << EOF
 cat .././mod/rules/*-rules.txt dns*.txt dns10.txt *easylist*.txt full-adg*.txt abp-hosts*.txt \

@@ -27,4 +27,17 @@ printf "%s\n" "||$i^" >> ../../dns.txt
 printf "%s\n" "0.0.0.0 $i" >> ../../hosts.txt
 wait
 cd ../../
+cat ./tmp/l.txt >> dns.txt
+
+cat ./tmp/dns998* >> dns.txt
+cat ./mod/rules/*-rules.txt |grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort|uniq >> dns.txt
+
+cat ./script/*/white_domain_list.php |grep -Po "(?<=').+(?=')" | sed "s/^/||&/g" |sed "s/$/&^/g"| sed '/^$/d'   > allowtest.txt
+hostlist-compiler -c ./script/dns-rules-config.json -o dns-output.txt &
+wait
+#rm -f allowtest.txt
+mv -f dns-output.txt dns.txt
+cat ./mod/rules/*-rules.txt |grep -E "^[(\@\@)][^\/\^]+\^$" |sort|uniq >> dns.txt
+cd ./script/
+cd ../
 exit
