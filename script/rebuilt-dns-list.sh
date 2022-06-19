@@ -26,5 +26,5 @@ printf "%s\n" "$i" >> ../../ad-domains.txt
 printf "%s\n" "||$i^" >> ../../dns.txt
 printf "%s\n" "0.0.0.0 $i" >> ../../hosts.txt
 wait
-cd ../../
+cd ../
 exit
