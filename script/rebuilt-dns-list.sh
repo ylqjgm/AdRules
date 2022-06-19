@@ -1,4 +1,5 @@
 #!/bin/bash
+cd $(cd "$(dirname "$0")";pwd)
 cd ./origin-files
 echo 开始处理DNS规则
 yc=`cat dns* hosts*| grep -vE ']|@|!' |grep -v -E "^((#.*)|(\s*))$"  | grep -v -E "^[0-9\.:]+\s+(ip6\-)?(localhost|loopback)$"  | sed -e "s/||//g" -e "s/\^//g" -e "s/0.0.0.0 //g" -e "s/127.0.0.1 //g" | sed 's/[ ]//g'|sort|uniq `
