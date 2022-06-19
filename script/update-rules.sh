@@ -249,6 +249,8 @@ cat full-adguard*.txt \
  | sort -n | uniq | awk '!a[$0]++' > tmp-adguard-full.txt  #处理AdGuard的Full规则
 
 bash ../script/prepare-dns-upstream.sh
+bash ../script/rebuilt-dns-list.sh
+bash ../script/built-dns-list.sh
 wait
 << EOF
 cat .././mod/rules/*-rules.txt dns*.txt dns10.txt *easylist*.txt full-adg*.txt abp-hosts*.txt \

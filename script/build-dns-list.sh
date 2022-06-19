@@ -4,7 +4,7 @@ source /etc/profile
 
 cd $(cd "$(dirname "$0")";pwd)
 
-bash ./rebuilt-dns-list.sh
+#bash ./rebuilt-dns-list.sh
 cat ./tmp/l.txt >> dns.txt
 
 cat ./tmp/dns998* >> dns.txt

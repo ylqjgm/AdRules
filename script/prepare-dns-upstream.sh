@@ -44,4 +44,4 @@ cat easylist*.txt dns* *rule*| grep -E "^\|\|?([^\^=\/:]+)?\*([^\^=\/:]+)?\^" | 
 cat easylist*.txt dns* *rule*| grep -E "^@@\|\|?[^\^=\/:]+?\^([^\/=\*]+)?" | sort | uniq >whiterule-src-easylist.txt
 
 cd ../
-bash ./build-dns-list.sh
+#bash ./build-dns-list.sh
