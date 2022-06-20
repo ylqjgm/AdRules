@@ -22,10 +22,10 @@ do
 done
 wait
 i=`cat pre-rules.txt|grep -v "#"|grep -v "\/"|grep -v "^\."|sed 's/.*#.*//g' | sed '/^$/d'`
-echo "$i"| sed '/^$/d' >> ../../ad-domains.txt
-echo "$i"| sed '/^$/d' >> ../../dns.txt
-echo "$i"| sed '/^$/d' |sed 's/^/0.0.0.0 /g' >> ../../hosts.txt
-echo "$i"| grep -v '\*' |sed 's/^/host-suffix,/g' > ../../qx.conf
+echo "$i"| sed '/^$/d' > ../../ad-domains.txt
+echo "$i"| sed '/^$/d' > ../../dns.txt
+echo "$i"| sed '/^$/d' |sed 's/^/0.0.0.0 /g' > ../../hosts.txt
+#echo "$i"| grep -v '\*' |sed 's/^/host-suffix,/g'|sed 's/$/,reject/g' > ../../qx.conf
 wait
 cd ../../
 cat ./tmp/l.txt >> dns.txt
@@ -42,4 +42,5 @@ cat ./mod/rules/*-rules.txt |grep -E "^[(\@\@)][^\/\^]+\^$" |sort|uniq >> dns.tx
 cd ./script/
 cd ../
 bash ./*/exincludes-dns.sh
+cat dns.txt|grep -P "(?<=\|\|).+(?=\^)"| grep -v '\*' |sed 's/^/host-suffix,/g'|sed 's/$/,reject/g' > ../qx.conf
 exit
