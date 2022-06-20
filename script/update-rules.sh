@@ -221,10 +221,10 @@ cat *.txt | sed '/^$/d' \
  |sort -u >> l.txt &
 
 cat dead-hosts* \
- | sed "s/^/||&/g" | sed "s/$/&^/g" > deadblock.txt &
+ | sed "s/^/||&/g" | sed "s/$/&^/g" > deadblock.txt 
 
 cat dead-hosts* \
- | sed "s/^/0.0.0.0 &/g" > deadhosts.txt &
+ | sed "s/^/0.0.0.0 /g" > deadhosts.txt &
 
 # Start Merge and Duplicate Removal
 
@@ -253,7 +253,7 @@ wait
 bash ../script/rebuilt-dns-list.sh
 wait
 #bash ./script/built-dns-list.sh
-wait
+#wait
 << EOF
 cat .././mod/rules/*-rules.txt dns*.txt dns10.txt *easylist*.txt full-adg*.txt abp-hosts*.txt \
  | grep -E "(^\*.*|^-.*|^\/.*|^\..*|^:.*|^[a-z])|([(\@\@)|(\|\|)][^\/\^]+\^)" \
