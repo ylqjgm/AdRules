@@ -21,7 +21,7 @@ do
   sed -i 's/.*$i//g' pre-rules.txt &
 done
 wait
-i=`cat pre-rules.txt|grep -v "#"|sed 's/.*#.*//g' | sed '/^$/d'`
+i=`cat pre-rules.txt|grep -v "#"|grep -v "/"|grep -v "^."|sed 's/.*#.*//g' | sed '/^$/d'`
 echo "$i"| sed '/^$/d' >> ../../ad-domains.txt
 echo "$i"| sed '/^$/d' >> ../../dns.txt
 echo "$i"| sed '/^$/d' |sed 's/^/0.0.0.0 /g' >> ../../hosts.txt
