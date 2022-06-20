@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: OhqM9L6eOWTJLFYTngPjRA
+! Checksum: UoLE0GZSXazc9wzRNEi6JA
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-20 14:11:07（北京时间） 
-! Total count: 19466
+! Version: 2022-06-20 16:31:55（北京时间） 
+! Total count: 19467
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -11303,6 +11303,7 @@
 @@||maroelamedia.co.za^*/ultimate-social-deux/*/jquery.tooltipster-min.js
 @@||marriedgames.com.br/wp-content/cache/*/js/advertising-*.js
 @@||martinfowler.com/articles/asyncJS.css$stylesheet,~third-party
+@@||martinfowler.com/articles/asyncJS.css$styom/special/script.packed
 @@||marvel-*.bc0a.com/*/images/$domain=whittard.co.uk
 @@||marvel.com/api/tallus$script,domain=marvel.com
 @@||marvelousga.com^$generichide
