@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: FXMDb1IVvREq/4RlXfNEQw
+! Checksum: zY8YeU5sqs76ECSu9rxDMA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-20 13:21:45（北京时间） 
-! Total count: 91422
+! Version: 2022-06-20 13:33:29（北京时间） 
+! Total count: 91447
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -7184,6 +7184,7 @@
 ##a[target="_blank"] > img[height="120px"][src*=".tripcdn.com"][src$=".gif"]
 ##a[target="_blank"] > img[height="120px"][src*="qlogo.cn"][src$=".png"]
 ##a[target="_blank"] > img[height="60px"][src*=".126.net"][src$=".gif"]
+##a[target="_blank"] > img[height="60px"][src*=".360buyimg.com"][src$=".gif"]
 ##a[target="_blank"] > img[height="60px"][src*=".alicdn.com"][src$=".gif"]
 ##a[target="_blank"] > img[height="60px"][src*=".c-ctrip.com"][src$=".gif"]
 ##a[target="_blank"] > img[height="60px"][src*=".lenovo.com"][src$=".png"]
@@ -30164,11 +30165,11 @@ ctwant.com##.m-adpopup
 cubehosting.me##+js(noeval-if, adksite)
 cultofmac.com##.important
 cultofmac.com##.sponsored_paragraph
+cumlouder.com##.related-sites
 cumlouder.com##.resumecard
 cumlouder.com##.video-promos > div.box-video + div[class]
 cumlouder.com##[class^="sm"]
 cumlouder.com##body > div.related-sites + div[class]
-cumlouder.com,pornjam.com##.related-sites
 cumple.xyz##+js(abort-on-property-read, adblockmesaj)
 cupfox.app#@#.adsbygoogle
 curseforge.com###cdm-zone-03
@@ -32467,6 +32468,7 @@ freelivesport.eu,cv55.eu,nowwatchtvlive.me,nowwatchtvlive.co,liguendirect.com,be
 freemagazines.top##+js(set-constant, adsbygoogle.length, undefined)
 freemail.hu###content-container div[class^="Grid-item-"] > a[target="_blank"]:not([href^="#"])
 freemc.host##+js(no-setInterval-if, adsbygoogle, 1000)
+freemovies.tv##.publis-bottom
 freemulticoins.com#@#.adsbygoogle
 freenod32key.com,nod32key.xyz##.mobile-ad
 freeomovie.co.in#$#abort-on-property-read decodeURIComponent
@@ -39875,6 +39877,10 @@ pornicom.com##.spot-after
 pornicom.com##.thumb_aside
 pornid.xxx##.rsidebar-spots-holder
 pornj.com,see.xxx,pornl.com##.vda-item
+pornjam.com##.productora
+pornjam.com##.publ1s-b0ttom
+pornjam.com##.r1ght-pl4yer-169
+pornjam.com##.r1ght-pl4yer-43
 pornjapan.pro##+js(abort-on-property-read, Aloader)
 pornjapan.pro##+js(abort-on-property-read, openP)
 pornkino.cc,xopenload.me,watchpornfree.info##+js(abort-on-property-read, popunder)
@@ -42741,6 +42747,7 @@ theworld.cn##.download-now
 thewrap.com##.aspect-ratio-box-inside
 thewrap.com##div[id^="dsk-box-ad"]
 thexvid.com##.in-bg-pop > div#morev
+theyarehuge.com##.video-holder > .box
 theyarehuge.com#$#abort-on-property-read Element.prototype.attachShadow
 theync.com###bottom-af
 theync.com,all-that-is-interesting.com,kodicommunity.com##.header-banner
@@ -47744,6 +47751,7 @@ zznews.cn##.ad:not([style])
 ||666589.xyz^
 ||666592.xyz^
 ||666593.xyz^
+||666595.xyz^
 ||666666666666.site^
 ||6667778882021.site^
 ||6669667.com^
@@ -57905,6 +57913,7 @@ zznews.cn##.ad:not([style])
 ||datajsext.com^
 ||datam.com^$third-party
 ||datamaster.com.cn^$third-party
+||datamilk.app^$third-party
 ||datamind.ru^$third-party
 ||datanoticias.prisasd.com^
 ||dataoke.com/api/component/code-info/v1?
@@ -58194,6 +58203,7 @@ zznews.cn##.ad:not([style])
 ||dendrito.name^
 ||denetsuk.com^
 ||dengage.com^$third-party
+||dengzhou.us^
 ||denizealgific.com^
 ||denknowled.xyz^
 ||deovr.com/api_logs/
@@ -63021,6 +63031,7 @@ zznews.cn##.ad:not([style])
 ||goodmeasure.io^$third-party
 ||goods.tudou.com/api?
 ||goodsky.shop^
+||goodvpnoffers.com^$popup
 ||google-analytics.com/analytics.js$domain=boote-forum.de
 ||google-analytics.com/analytics.js$domain=fanfiktion.de
 ||google-analytics.com/analytics.js$domain=gamestar.de
@@ -63242,6 +63253,7 @@ zznews.cn##.ad:not([style])
 ||greatdexchange.com^
 ||greatdexchange.com^$popup
 ||greatestquaint.com^
+||greatnfq.com^
 ||greatviews.de^$third-party
 ||greatwit.cn^
 ||gredraus.net^
@@ -63470,6 +63482,7 @@ zznews.cn##.ad:not([style])
 ||guq9.vente-unique.it^
 ||guqu.net/Cooperate/
 ||gurgle.pcmag.com^
+||guro2.com^$popup
 ||guruguru.cn^
 ||gus.host/coins.js
 ||gus.host^$third-party
@@ -64076,6 +64089,7 @@ zznews.cn##.ad:not([style])
 ||hexun.com/js/att_count.js
 ||hexun.com^*/appDplus
 ||heybuddycn.me^
+||heyflow.co/pixel/
 ||heygugu.com^
 ||heyhelga.net^$third-party
 ||heyi.shop^
@@ -65847,6 +65861,7 @@ zznews.cn##.ad:not([style])
 ||inigusyou.fun^
 ||inimbus.com.au^$third-party
 ||inistrack.net^$third-party
+||initiatecompletelysophisticatedthefile.vip^$popup
 ||injectlocum.com^
 ||injusticeamend.com^
 ||inkestyle.net^
@@ -66276,6 +66291,8 @@ zznews.cn##.ad:not([style])
 ||ismatlab.com^$third-party
 ||ismlks.com^
 ||isnwkcxe.com^
+||isohunt.app/a/b.js
+||isohuntx.com/vpn/$popup
 ||isovav.akomeya.jp^
 ||isso.com.cn/club/adv
 ||isso.com.cn^*/A-D/
@@ -67309,6 +67326,7 @@ zznews.cn##.ad:not([style])
 ||jutou5.com^
 ||jutyledu.pro^
 ||juuhe.com^
+||juvxsbhinuqifu.com^
 ||juweixin.com/static/spk
 ||juxia.com/jxtp/indexbg.jpg
 ||juxiangyou.com^$third-party
@@ -67382,6 +67400,7 @@ zznews.cn##.ad:not([style])
 ||jygtlqh.cn^
 ||jyigozm.cn^
 ||jyjhkz.com^
+||jykhjwb.cn^
 ||jylgd.com^$script
 ||jypugepha.pro^
 ||jyrd.com/statics/*/js/baizhu/
@@ -70866,7 +70885,9 @@ zznews.cn##.ad:not([style])
 ||megaline.co/Webservices/jsParseLinks.aspx$script,third-party
 ||megaline.co/visitScript/$script,third-party
 ||megastats.net^$third-party
+||megatube.xxx/ab-s.js
 ||megatube.xxx/atrm^
+||megatube.xxx/su4unbl-r.js
 ||megavisites.com^$third-party
 ||mehrwertdienstekompetenz.de/cp/$third-party
 ||meibiisheng.com^
@@ -71388,6 +71409,7 @@ zznews.cn##.ad:not([style])
 ||miao.baidu.com^
 ||miaoche.cc^
 ||miaolejieshui.cn^
+||miaorentang.xyz^
 ||miaoyuan.work^
 ||miaozhen.com^$popup,domain=iqiyi.com
 ||miaozhen.com^$third-party
@@ -78912,6 +78934,7 @@ zznews.cn##.ad:not([style])
 ||shanxige.com^
 ||shanyu178.com/agg$script
 ||shanyuebrowser.com^
+||shaonlt.love^
 ||shaoxing.com.cn/gg
 ||shaoxing.com.cn^*gg.
 ||shapelcounset.xyz^
@@ -79478,6 +79501,7 @@ zznews.cn##.ad:not([style])
 ||slgnt.us/track
 ||slgo.club^
 ||sli-spark.com/b.png$third-party
+||slibindy.top^
 ||slickdeals.net/ajax/stats/
 ||slickdeals.net^$removeparam=bsencid
 ||slidecaffeinecrown.com^
@@ -86172,6 +86196,7 @@ zznews.cn##.ad:not([style])
 ||unarmedindustry.com^$third-party
 ||unawakegaleus.com^
 ||unbecominghall.com^$third-party
+||unbeedrillom.com^$popup
 ||unblentnitric.com^
 ||unblockia.com^$third-party
 ||unblog.fr/cu.js
