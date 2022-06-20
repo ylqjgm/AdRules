@@ -25,6 +25,7 @@ i=`cat pre-rules.txt|grep -v "#"|sed 's/.*#.*//g' | sed '/^$/d'`
 echo "$i"| sed '/^$/d' >> ../../ad-domains.txt
 echo "$i"| sed '/^$/d' >> ../../dns.txt
 echo "$i"| sed '/^$/d' |sed 's/^/0.0.0.0 /g' >> ../../hosts.txt
+echo "$i"| grep -v '\*' |sed 's/^/host-suffix,/g' > ../../qx.conf
 wait
 cd ../../
 cat ./tmp/l.txt >> dns.txt
@@ -40,4 +41,5 @@ mv -f dns-output.txt dns.txt
 cat ./mod/rules/*-rules.txt |grep -E "^[(\@\@)][^\/\^]+\^$" |sort|uniq >> dns.txt
 cd ./script/
 cd ../
+bash ./exincludes-dns.sh
 exit
