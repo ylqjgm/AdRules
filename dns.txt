@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: xVW3GMd4j5y/M9PbByLn8A
+! Checksum: HrBe2PRNtN4I1OhBM02obw
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 8 Hours
 ! Description: 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyListChina、EasyList、oisd Basic、Adaway等并补充了一些规则
-! Version: 2022-06-20 13:38:23（北京时间） 
-! Total count: 118569
+! Version: 2022-06-20 13:42:50（北京时间） 
+! Total count: 118576
 *.001union.com
 *.00oo00.com
 *.0594003.com
@@ -1266,6 +1266,7 @@ ya*.dwstatic.com
 ||000dn.com^
 ||000free.us^
 ||000tristanprod.free.fr^
+||000webhostapp.com^
 ||0013.cc^
 ||001union.com^
 ||0024aaaa.com^
@@ -7222,6 +7223,7 @@ ya*.dwstatic.com
 ||acton.tourismireland.com^
 ||acton.trefis.com^
 ||acton.unifilabs.com^
+||actonservice.com^
 ||actonsoftware.com^
 ||actoramusement.com^
 ||actoriends.info^
@@ -29600,6 +29602,7 @@ ya*.dwstatic.com
 ||cnzz.991yue.com^
 ||cnzz.c62v.cn^
 ||cnzz.cdbsoi.com^
+||cnzz.cn^
 ||cnzz.com.so^
 ||cnzz.com^
 ||cnzz.hhttm.top^
@@ -34544,6 +34547,7 @@ ya*.dwstatic.com
 ||daque.cn^
 ||daradis.com^
 ||darakht.com^
+||daraz.com^
 ||darcyhi.com^
 ||darcythemselvesemployee.com^
 ||dardwebertoha.info^
@@ -72428,6 +72432,9 @@ ya*.dwstatic.com
 ||net.s3core.origin.net.zooplus.com^
 ||net.sexstories69.com^
 ||net.shop.com.mm^
+||net.zooplus.com^
+||net.zooplus.de^
+||net.zooplus.nl^
 ||net00.biz^
 ||net1.coolsailing.com^
 ||net1.netski.com^
