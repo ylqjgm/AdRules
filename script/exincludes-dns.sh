@@ -1,16 +1,7 @@
 #!/bin/sh
-cname=(
- "tanx.com"
-)
-rm=(
- "windows.net"
-)
-for i in $cname
-do
-  sed -i "s/||$i^/||$i^\$dnstype=~CNAME/" dns.txt
-done
-
+rm=`cat ./sc*/allowlist.txt|grep '3 '|sed 's/3 //g'`
 for i in $rm
 do
-  sed -i "s/||$i^/||$i^\$dnstype=~CNAME/" dns.txt
+  sed -i "s/||.*$i^/d" dns.txt
+  echo "$i" |sed 's/^/||/g'|sed 's/$/\^/g'>> dns.txt
 done
