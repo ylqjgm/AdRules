@@ -21,10 +21,10 @@ do
   sed -i 's/.*$i//g' pre-rules.txt &
 done
 wait
-i=`cat pre-rules.txt|grep -v "^$"`
+i=`cat pre-rules.txt|grep -v "^$"|sed 's/.*#.*//g' `
 echo "$i" >> ../../ad-domains.txt
-echo "||$i^" >> ../../dns.txt
-echo "0.0.0.0 $i" >> ../../hosts.txt
+echo "$i" >> ../../dns.txt
+echo "$i" |sed 's/^/0.0.0.0 /g' >> ../../hosts.txt
 wait
 cd ../../
 cat ./tmp/l.txt >> dns.txt
