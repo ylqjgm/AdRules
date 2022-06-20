@@ -41,5 +41,5 @@ mv -f dns-output.txt dns.txt
 cat ./mod/rules/*-rules.txt |grep -E "^[(\@\@)][^\/\^]+\^$" |sort|uniq >> dns.txt
 cd ./script/
 cd ../
-bash ./exincludes-dns.sh
+bash ./*/exincludes-dns.sh
 exit
