@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: LDlub55pm0A3Y0uqFjrTjg
+! Checksum: Wovc4VPGR3DoGTq+uOVsqQ
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-20 00:28:26（北京时间） 
-! Total count: 91492
+! Version: 2022-06-20 09:58:53（北京时间） 
+! Total count: 91494
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -10618,7 +10618,6 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /\.com\/[_0-9a-zA-Z]+\.jpg$/$image,~third-party,domain=hottystop.com
 /\.com\/[a-zA-Z]{10}\.js$/$script,~third-party,domain=povaddict.com
 /\.tube\/[a-z]{8,12}\/[a-z]{8,12}\.js$/$script,~third-party,domain=bdsmx.tube
-/\/Content\/images\/[a-z]+\/[a-z]+\d\.(?:gif|jpeg)/$image,~third-party,domain=tamrieltradecentre.com
 /\/[0-9a-f]{12}\.js$/$script,~third-party,domain=freeuseporn.com|camwhores.*
 /\/[0-9a-z]{5,9}\.js(\?[a-z]{3})?$/$script,domain=dewimg.com|imgtown.pw|imgviu.com|mazpic.com|outletpic.com|picrok.com
 /\/[A-Z]\/[-0-9a-z]{5,}\.com\/(?:[0-9a-f]{2}\/){3}[0-9a-f]{32}\.js$/$script,~third-party,match-case,domain=9anime.to|animesuge.to|mcloud.to|vizcloud.*|vizcloud2.*
@@ -26803,6 +26802,7 @@ a.9game.cn##.downUnder
 a.9game.cn##.gameInformation
 a.9game.cn##.newGame.normal-module
 a.9game.cn##section.normal-module:nth-of-type(2)
+a.com^$image,subdocument,third-party
 a.maorx.cn##[style^='display: block; opacity: 1; transform: ']
 a10.com##div[class^="sponsor_"]
 a2zapk.com##+js(addEventListener-defuser, , /tabunder|window\['open'\]/)
@@ -43253,7 +43253,6 @@ truyentranhtuan.com#$#abort-current-inline-script $ btpop
 trxfaucet.xyz,ethereumfaucet.xyz,bchfaucet.xyz,dashfaucet.xyz,dogfaucet.xyz,ltcfaucet.xyz,digibytefaucet.xyz,bytecoinfaucet.xyz,monerofaucet.xyz,zcashfaucet.xyz,ripplefaucety.xyz,peercoinfaucet.xyz,liskfaucet.xyz,etherclassic.xyz,potcoinfaucet.xyz,wavesfaucet.xyz,neofaucet.xyz,stratisfaucet.xyz##+js(set-constant, show_ads_gr8_lite, true)
 tsdm.live###ts_sidebar_base
 tsn.ua##.c-aside__port
-tsn.ua##div[data-picture-placeholder*="/placeholders/premium-"]
 tsubasa.im#%#//scriptlet("set-constant", "compare_post", "noopFunc")
 tsubasa.im#%#//scriptlet('remove-class', 'd-none', 'body')
 tsubasa.im#?#.alert-adblock
@@ -49926,6 +49925,7 @@ zznews.cn##.ad:not([style])
 ||admd.housefun.com.tw^
 ||admd.yam.com^
 ||adme-net.com^
+||adme.media/metric-collector
 ||admeasure.hh-online.jp^
 ||admedia.com^$third-party
 ||admedo.com^$third-party
@@ -79551,6 +79551,7 @@ zznews.cn##.ad:not([style])
 ||slidedeck.com^$image,third-party
 ||slideff.com^
 ||slideshare.net/frontend_tracking/
+||slifindy.top^
 ||slightcareconditions.com^
 ||slimopinion.com^
 ||slimyscarf.com^
@@ -88090,6 +88091,7 @@ zznews.cn##.ad:not([style])
 ||wknvmj.cocooncenter.com^
 ||wknydhz.cn^
 ||wksrx.cn^
+||wl-analytics.tsp.li^
 ||wl.jd.com^
 ||wl.spotify.com^$image,script
 ||wlengrclxzypf.com^

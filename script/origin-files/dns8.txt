@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jyLDI1jjwZD2jADwef3TAw
+! Checksum: sZa9fPE0IXnPAU6/qj9VEw
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206191533
-! Last modified: 2022-06-19 15:33 UTC
+! Version: 202206200133
+! Last modified: 2022-06-20 01:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30847,7 +30847,6 @@ _800x80_
 ##[class^="AdvertisingSlot_"]
 ##[class^="div-gpt-ad"]
 ##[data-ad-cls]
-##[data-ad-id]
 ##[data-ad-manager-id]
 ##[data-ad-module]
 ##[data-ad-width]
@@ -39040,6 +39039,7 @@ tf2r.com#@#.adverts
 ||gooblesdd.com^
 ||goodadvert.ru^
 ||goodcache.ml^
+||goodcasino.uno^
 ||gooderamour.com^
 ||goodgamesmanship.com^
 ||goodtag.it^
@@ -61377,7 +61377,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||hw-ads.datpiff.com/news/$image,domain=datpiff.com
 @@||image.shutterstock.com^$image,domain=icons8.com
 @@||imasdk.googleapis.com/js/core/bridge*.html$subdocument,domain=~spotify.com
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|givemesport.com|goodmorningamerica.com|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|zdnet.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|givemesport.com|goodmorningamerica.com|goodstream.uno|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|embed.comicbook.com|sbs.com.au
 @@||imasdk.googleapis.com/js/sdkloader/ima3_debug.js$domain=abcnews.go.com|brightcove.net|pch.com
 @@||img-cdn.mediaplex.com^$image,domain=betfair.com
@@ -76608,6 +76608,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||uptolike.com/widgets/*/imp?
 ||visitor-microservice.ext.p-a.im^
 ||webtrack.biz^$third-party
+||wl-analytics.tsp.li^
 ||xn--e1aaipcdgnfsn.su^*/counter.php
 ||yandeg.ru/count/
 ||yandex.ru/metrika/
@@ -88221,6 +88222,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||3dnews.ru/track
 ||4pda.ru/stat/
 ||ad7.bigmir.net^
+||adme.media/metric-collector
 ||affilate.hh.ru^
 ||agroserver.ru/ct/
 ||analytics.carambatv.ru^
@@ -89472,7 +89474,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||playy.online/log_event$~third-party,xmlhttprequest
 @@||plplayer.online/log_event$~third-party,xmlhttprequest
 @@||post2go.ru/widget/tracking?$~third-party
-@@||relap.io^*/similar_pages_jsonp.js$script,domain=adme.ru
 @@||rtr-vesti.ru/pvc_cdn/js/stat.js$domain=player.vgtrk.com
 @@||sptmr.ru/sportmaster.ru/js/modules/gtm.js$script,domain=sportmaster.ru
 @@||ssp.rambler.ru/acp/capirs_main.$script,domain=afisha.ru
@@ -137798,6 +137799,7 @@ rimowa.com##.c-rimpopin-wrapper--privacy
 corporate.comcast.com##.c-top-banner
 ii.co.uk##.c01194
 queengarnet.com##.c0211
+aplus.com##.c206
 prepler.com##.c2696372827
 eyetvforum.com##.cAnnouncementPageTop
 uphold.com##.cILWJu
@@ -144776,7 +144778,7 @@ kino-vorschau.com#@#.arqam-widget-counter
 unian.info,unian.net,unian.ua#@#.article-selection-shares
 banki.ru,neowin.net,unionesarda.it#@#.article-share
 heise.de#@#.article-sharing
-adme.ru,pomponik.pl#@#.article-social
+adme.media,pomponik.pl#@#.article-social
 niedziela.pl#@#.article-social-btn
 pomponik.pl#@#.article-social-buttons
 drive.ru#@#.article-social-container
@@ -144863,7 +144865,7 @@ bysimple.co#@#.footer-socials
 gorod.mos.ru#@#.footer__social
 kioskpolis.pl#@#.footer__socials
 gab.com#@#.gab-bttn
-adme.ru#@#.gallery-social
+adme.media#@#.gallery-social
 vk.com#@#.group_share
 inosmi.ru#@#.header__social
 zont-online.ru#@#.header_social
