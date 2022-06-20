@@ -42,5 +42,6 @@ cat ./mod/rules/*-rules.txt |grep -E "^[(\@\@)][^\/\^]+\^$" |sort|uniq >> dns.tx
 cd ./script/
 cd ../
 bash ./*/exincludes-dns.sh
+wait
 cat dns.txt|grep -P "(?<=\|\|).+(?=\^)"| grep -v '\*' |sed 's/^/host-suffix,/g'|sed 's/$/,reject/g' > ../qx.conf
 exit
