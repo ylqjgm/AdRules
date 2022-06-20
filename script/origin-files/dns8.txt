@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FrKmJ0BcgL0mwWno1b9z7g
+! Checksum: cXovijfE1v7QCiHcjkMugA
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206200233
-! Last modified: 2022-06-20 02:33 UTC
+! Version: 202206200333
+! Last modified: 2022-06-20 03:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -48002,7 +48002,6 @@ tf2r.com#@#.adverts
 ||unacceptableclevercapable.com^
 ||unacceptablepit.com^
 ||unallowferae.com^
-||unanimis.co.uk^
 ||unattractivefrigilityfrigility.com^
 ||unavailablebackedwaved.com^
 ||unawakegaleus.com^
@@ -93242,9 +93241,6 @@ _revotas_push.
 -social-sidebar.
 -Social-Sidebar/
 -social-slider/
--social-sprite-
--social-sprite.
--social-sprites.
 -social-tumblr-
 -social-twitter-
 -social-twitter.
@@ -94923,12 +94919,6 @@ _revotas_push.
 /social-sharing.
 /Social-Sidebar.
 /social-signs.
-/social-sprite-
-/social-sprite.
-/social-sprite_
-/social-sprites-
-/social-sprites.
-/social-sprites2.
 /social-traffic-pop.$~stylesheet
 /social-traffic-pop/*
 /social-tumblr.
@@ -95656,7 +95646,6 @@ _social-bar/
 _social-google+
 _social-home-
 _social-media_
-_social-sprite.
 _social-twitter.
 _social/images/
 _social_32.
@@ -145988,7 +145977,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||friendfeed.com/static/images/icons/$~third-party
 @@||fyre.co/*/facebook_share_post.png
 @@||gamingsociety.pl/wp-content/themes/$image
-@@||gcdn.co^*/social-sprite.webp$image,domain=tut.by
 @@||ge.tt/s/images/twitter-extension-icon.png
 @@||ge.tt/s/images/twitter-signin.png
 @@||gearbest.com/imagecache/*/images/styleimg/share.png
@@ -146329,7 +146317,6 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||torrentfreak.com/images/reddit$image
 @@||tosdr.org/logo/$image
 @@||transferwise.com^$generichide
-@@||triangleoffense.com^*/triangle-offense-header-social-sprites.png
 @@||trinixy.ru/engine/classes/min/index.php?f=*/social-$script,stylesheet
 @@||tripit.com/js/tripit/social/
 @@||tunestotube.com/images/btn_google_signin_dark_normal_web.png
