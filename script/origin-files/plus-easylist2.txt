@@ -15299,7 +15299,6 @@ birdurls.com###link-view > br
 
 ! https://github.com/NanoMeow/QuickReports/issues/1815
 @@||video.bestjavporn.com^$ghide
-||phukienthoitranggiare.com^$3p
 bestjavporn.com,mm9841.cc###flash
 ! https://github.com/uBlockOrigin/uAssets/issues/6348
 javporn.best##+js(aopr, AaDetector)
@@ -19412,11 +19411,6 @@ medicalnewstoday.com##div[data-dynamic-ads]
 medicalnewstoday.com##div[class^="css-"]:matches-css-before(content: /ADVERTISEMENT/)
 medicalnewstoday.com##hl-adsense
 medicalnewstoday.com##.css-rp3d6
-
-! https://github.com/easylist/easylist/issues/5074
-ftuapps.dev##+js(nostif, onclick)
-ftuapps.dev##+js(nostif, jQuery)
-ftuapps.dev##+js(nosiif, visibility, 1000)
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/51656
 pekalongan-cits.blogspot.com##+js(aeld, load, nextFunction)
