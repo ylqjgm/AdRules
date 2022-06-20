@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: U1KV36/KcGpojrlwno6ECA
+! Checksum: k1qokgTz6tZMlRIu9Fg+Vg
 ! Title: Fanboy+Easylist-Merged Ultimate List
 ! Version: 202206200533
 ! Last modified: 2022-06-20 05:33 UTC
@@ -109996,6 +109996,7 @@ _subscribers_newsletters/
 ##.socialSharing__icons
 ##.socialSideBar
 ##.socialSidebar
+##.socialSite
 ##.socialSquare
 ##.socialSticky
 ##.socialStickyBanner
@@ -133928,7 +133929,7 @@ gigaom.com##.go-thisorthat-widget
 gigaom.com##.go-toaster
 allrecipes.com##.goBack
 allrecipes.com##.goNext
-hackingloops.com##.go_top
+china.com,hackingloops.com##.go_top
 techweez.com##.gofollow
 reddit.com##.goldvertisement
 good.is##.good-elsewhere
@@ -145679,6 +145680,7 @@ concursolutions.com,forbes.com,formula1.com,fortune.com,proximus.be,proximustv.b
 @@||jaybirdsport.com/etc.clientlibs/logitech-common/clientlibs/onetrust.$~third-party
 @@||khl.ru^*/cookieconsent.min.js
 @@||lacoste.com^*/cookie-consent.js
+@@||lecourrier-du-soir.com^*/uk-cookie-consent-js
 @@||lightningmaps.org^*/cookieconsent.$script,stylesheet
 @@||logitech.com/etc.clientlibs/logitech-common/clientlibs/onetrust.$~third-party
 @@||microsoft.com/api/privacy/cookieconsent?$xmlhttprequest,domain=docs.microsoft.com
