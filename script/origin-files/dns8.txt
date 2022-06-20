@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: sZa9fPE0IXnPAU6/qj9VEw
+! Checksum: FrKmJ0BcgL0mwWno1b9z7g
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206200133
-! Last modified: 2022-06-20 01:33 UTC
+! Version: 202206200233
+! Last modified: 2022-06-20 02:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -43799,6 +43799,7 @@ tf2r.com#@#.adverts
 ||perstago.pro^
 ||pertersacstyli.com^
 ||pertyvaluati.com^
+||pervasivebacksrate.com^
 ||pesshooting.com^
 ||pestilenttidefilth.org^
 ||petalonpeery.com^
@@ -51558,6 +51559,7 @@ tf2r.com#@#.adverts
 /(https?:\/\/)217\.182\.11\..{100,}/
 /(https?:\/\/)51\.158\..{100,}/
 /(https?:\/\/)51\.195\.31\..{100,}/
+||162.252.214.4^
 ||167.99.31.227^
 ||23.109.87.101^
 ||35.232.188.118^

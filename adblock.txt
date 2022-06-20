@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: Wovc4VPGR3DoGTq+uOVsqQ
+! Checksum: lMbcjXD2jZNBC+NpbzLqvQ
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-20 09:58:53（北京时间） 
-! Total count: 91494
+! Version: 2022-06-20 10:53:50（北京时间） 
+! Total count: 91496
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -6460,7 +6460,6 @@
 ##[class^="div-gpt-ad"]:not([style^="width: 1px; height: 1px;"])
 ##[class^=c_c][style^='text-align:']
 ##[data-ad-cls]
-##[data-ad-id]
 ##[data-ad-manager-id]
 ##[data-ad-width]
 ##[data-css-class="dfp-inarticle"]
@@ -22785,7 +22784,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||imasdk.googleapis.com/js/sdkloader/*$script,domain=mindgames.com|htmlgames.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3$domain=rotana.net
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=10play.com.au
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|givemesport.com|goodmorningamerica.com|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|zdnet.com|zeebiz.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=247sports.com|api.screen9.com|bbc.com|blastingnews.com|bloomberg.com|cbsnews.com|cbssports.com|chicagotribune.com|cnet.com|crhoy.com|distro.tv|einthusan.tv|embed.comicbook.com|etonline.com|games.usatoday.com|givemesport.com|goodmorningamerica.com|goodstream.uno|howstuffworks.com|iheart.com|insideedition.com|metacritic.com|missoulian.com|newsweek.com|paralympic.org|player.abacast.net|player.earthtv.com|player.performgroup.com|popculture.com|scrippsdigital.com|sonyliv.com|tdn.com|truvid.com|tubitv.com|zdnet.com|zeebiz.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=24h.com.vn
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=3bmeteo.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv
@@ -24725,7 +24724,6 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||regapi.37.com/api/p_register.php?login_account=
 @@||regularplants.com^$script,xmlhttprequest
 @@||rejectfairies.com^$script,xmlhttprequest
-@@||relap.io^*/similar_pages_jsonp.js$script,domain=adme.ru
 @@||removeadblock.com/js/show_ads.js$script
 @@||renewcanceltv.com/porpoiseant/banger.js$script,~third-party
 @@||repairtrackingsite.nintendo.eu/Tracking/$subdocument,domain=nintendo.co.uk
@@ -26802,7 +26800,6 @@ a.9game.cn##.downUnder
 a.9game.cn##.gameInformation
 a.9game.cn##.newGame.normal-module
 a.9game.cn##section.normal-module:nth-of-type(2)
-a.com^$image,subdocument,third-party
 a.maorx.cn##[style^='display: block; opacity: 1; transform: ']
 a10.com##div[class^="sponsor_"]
 a2zapk.com##+js(addEventListener-defuser, , /tabunder|window\['open'\]/)
@@ -58682,6 +58679,7 @@ zznews.cn##.ad:not([style])
 ||dj09j5u.cn^
 ||dj0ts1x.cn^
 ||dj155.com/gg/
+||dj57.club^
 ||dj930.cn^
 ||dj930.cn^$third-party
 ||dj97.com/api.php?mod=ad&
@@ -63073,6 +63071,7 @@ zznews.cn##.ad:not([style])
 ||goo.ne.jp^*/vltracedmd.js
 ||good8866.com/js/*.js
 ||goodcache.ml^
+||goodcasino.uno^
 ||goodcome.com.tw/block/ad/rndtopad.php
 ||goodcounter.org^$third-party
 ||goodfon.com/stat/
@@ -67739,6 +67738,7 @@ zznews.cn##.ad:not([style])
 ||kgnpwdf.cn^$third-party
 ||kgpabtukhwrp.com^
 ||kgq.ink^
+||kgsrr.top^
 ||kgthputeelbyp.com^
 ||kgua0o66bcw8.com^
 ||kguke.com^
@@ -86190,6 +86190,7 @@ zznews.cn##.ad:not([style])
 ||ujiasm.com^
 ||ujvpma.infinitytools.com^
 ||uk529u0.cn^
+||ukan.online^
 ||ukcomparends.pro^
 ||ukgfxw.satofull.jp^
 ||ukgkugxpzqvqk.com^
@@ -91394,6 +91395,7 @@ zznews.cn##.ad:not([style])
 ||zxyonlybelongstolym.xyz^
 ||zxzjtv.com/slade
 ||zxzjtv.com/t.js
+||zy1017421.xyz^
 ||zyam.club^
 ||zybrdr.com^
 ||zybveu.swappie.com^

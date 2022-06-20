@@ -1,9 +1,9 @@
 [uniartisan's Adblock List]
-! Version: 202206190317
+! Version: 202206200201
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 26206
+! Lenth = 26219
 ###Ad_windows
 ###ChapterView > .slide-baidu
 ###Layeraa1
@@ -4345,6 +4345,7 @@ $websocket,domain=5nj.com|cechi8.com
 @@||hanjuwang.com^$script,~third-party
 @@||hanjuwang.net^$script,~third-party
 @@||hao123img.com/resource/zt/widget/service/util/clickTrack.
+@@||haokoubei.top/check_img_block.js
 @@||haokoubei.top/dl/rfo_v_f_pc.js
 @@||haokoubei.top/sz/to_v_f.js
 @@||haoweichi.com/Public/js/ads.js
@@ -10600,6 +10601,8 @@ tmall.com###J_Recommend
 tmall.com##.app-download-popup
 tmall.com##.fp-lazyload-con[data-path*="/floor-ad-"]
 tmall.com##.mui-mbarp-qrcode
+tmioe.com##.ad_single_0
+tmioe.com##a[target="_blank"] > img[src*=".sinaimg.cn"]
 tmtpost.com##.open-app
 to8to.com##.ad-commom
 to8to.com##.ask_side_opa
@@ -13027,6 +13030,7 @@ zznews.cn##.ad:not([style])
 ||666587.xyz^
 ||666589.xyz^
 ||666592.xyz^
+||666593.xyz^
 ||666666666666.site^
 ||6667778882021.site^
 ||6669667.com^
@@ -15187,6 +15191,7 @@ zznews.cn##.ad:not([style])
 ||caibaojian.com/d/uploads/*0-
 ||caichenguang.cn^
 ||caicj.club^
+||caicnax.cn^
 ||caigoubao.cc^*/960
 ||caijingzz.cn^
 ||caikuu.com/ckimages/*_gg
@@ -16256,6 +16261,7 @@ zznews.cn##.ad:not([style])
 ||dizhonghaihotel.com^
 ||dj0ts1x.cn^
 ||dj155.com/gg/
+||dj57.club^
 ||dj930.cn^
 ||dj930.cn^$third-party
 ||dj97.com/api.php?mod=ad&
@@ -17977,6 +17983,7 @@ zznews.cn##.ad:not([style])
 ||hgbvtax.cn^
 ||hgdgdsgh.cn^
 ||hgdnd.cc^
+||hggtt.top^
 ||hguas.com^
 ||hgxy.info^
 ||hgyouxi.com/data/hgyouxiad/
@@ -19575,6 +19582,7 @@ zznews.cn##.ad:not([style])
 ||kgimg.com/public/root//images/hardware.jpg
 ||kgnpwdf.cn^$third-party
 ||kgq.ink^
+||kgsrr.top^
 ||kguke.com^
 ||khgj.cn^$third-party
 ||khlgdkxien.com^
@@ -22748,6 +22756,7 @@ zznews.cn##.ad:not([style])
 ||sleepzn.com^
 ||slgioxv.cn^
 ||slgo.club^
+||slifindy.top^
 ||slinindy.top^
 ||slipdashedundermine.com^$popup
 ||slit.cn/slimages/
@@ -23798,6 +23807,7 @@ zznews.cn##.ad:not([style])
 ||uiswtr3.xyz^
 ||ujian.cc^$third-party
 ||ujiasm.com^
+||ukan.online^
 ||ulfex.cn^$third-party
 ||ulifestyle.com.hk/images/*_300x100
 ||ulink.cc^$third-party
@@ -24060,6 +24070,7 @@ zznews.cn##.ad:not([style])
 ||vyjhr.cn^
 ||vyrhxfi.cn^
 ||vyule.com^
+||vyvxx.com^
 ||vz1m.com^
 ||vzmz.com/template/paody/aaaa/*0
 ||vzmz.com/template/paody/aaaa/357.js
@@ -24112,6 +24123,7 @@ zznews.cn##.ad:not([style])
 ||wangdq.com^
 ||wanghu2020.ltd^
 ||wanghualang.com/wp-content/gallery/ad/
+||wangjianxd.site^
 ||wangjing.cn*/upload/com/
 ||wangjing.cn/iframe/zhounian.php?
 ||wangjing.cn/images/js/YlFloat.js
@@ -26127,6 +26139,7 @@ zznews.cn##.ad:not([style])
 ||zxyonlybelongstolym.xyz^
 ||zxzjtv.com/slade
 ||zxzjtv.com/t.js
+||zy1017421.xyz^
 ||zyam.club^
 ||zydyjzw.cn^
 ||zyezhz.cn^

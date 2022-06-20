@@ -1,9 +1,9 @@
 [uniartisan's Privacy List]
-! Version: 202206190317
+! Version: 202206200201
 ! Title:  uniartisan's Privacy List
 ! Expires: 1 days (update frequency)
 ! URL = https://github.com/uniartisan/adblock_list
-! Lenth = 41910
+! Lenth = 41913
 ###qoo-counter
 ###ramblerCounter
 ###top100counter
@@ -7453,7 +7453,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||googleadservices.com/pagead/conversion_async.js$domain=ulmart.ru
 @@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
 @@||googleoptimize.com/optimize.js$domain=tehnomanija.rs
-@@||googleoptimize.com/optimize.js$script,domain=inquirer.com|tentree.ca
+@@||googleoptimize.com/optimize.js$script,domain=inquirer.com|lodgecastiron.com|tentree.ca
 @@||googletagmanager.com/gtag/$domain=usnews.com
 @@||googletagmanager.com/gtag/js$domain=av01.tv|javhd.com
 @@||googletagmanager.com/gtag/js$domain=battlestick2.net
@@ -8320,7 +8320,7 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||pp-serve.newsinc.com^*/unitsdata.js?$domain=timesfreepress.com
 @@||pp.lp4.io/app^$domain=berliner-zeitung.de
 @@||pro.hit.gemius.pl/gplayer.js$domain=nova.cz
-@@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|nontongp.xyz|sheee.co.il|walla.co.il
+@@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|nontongp.xyz|sheee.co.il|walla.co.il|weatherscan.tk
 @@||ps.w.org/google-analytics-dashboard-for-wp/assets/
 @@||ps.w.org/wp-slimstat/$domain=wordpress.org
 @@||puch-ersatzteile.at^*/google-analytics.min.js
@@ -8360,7 +8360,6 @@ $xmlhttprequest,domain=auroravid.to|flashx.cc|nowvideo.sx|onlinevideoconverter.c
 @@||redirect.appmetrica.yandex.com^
 @@||redirect.appmetrica.yandex.net^
 @@||reinvigorate.net/re_.js$domain=thenounproject.com
-@@||relap.io^*/similar_pages_jsonp.js$script,domain=adme.ru
 @@||remodelista.com/media/js/libs/ga_social_tracking.js
 @@||renault.de/js/sitestat.js
 @@||repairtrackingsite.nintendo.eu/Tracking/$subdocument,domain=nintendo.co.uk
@@ -15722,6 +15721,7 @@ znak.com##.relap
 ||computerbase.de/api/nlytcs
 ||computerbase.de/api/stats?
 ||computerbase.de/api2/$ping,xmlhttprequest
+||computerbase.de/nlytcs
 ||compuware.actonservice.com^
 ||comunicacao.edpcomunicacao.com.br^
 ||comunicaciones.davivienda.com.pa^
@@ -16081,6 +16081,7 @@ znak.com##.relap
 ||cougar.igtools.app^
 ||counmg.greatvaluevacations.com^
 ||count.asnetworks.de^
+||count.candou.com^
 ||count.carrierzone.com^
 ||count.channeladvisor.com^
 ||count.fr^$third-party
@@ -40706,6 +40707,7 @@ znak.com##.relap
 ||wkdspy.locondo.jp^
 ||wknd.ai^
 ||wknvmj.cocooncenter.com^
+||wl-analytics.tsp.li^
 ||wl.jd.com^
 ||wl.spotify.com^$image,script
 ||wl.yna.co.kr^
@@ -40748,6 +40750,7 @@ znak.com##.relap
 ||wordc.ga^
 ||wordkeyhelper.com^$third-party
 ||wordpress.com/geo/
+||work.3dmgame.com/js/statistics.js
 ||work.ua/analytics/view-page/
 ||workableachiever.com^
 ||workableachiever.com^$third-party
