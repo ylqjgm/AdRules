@@ -43,5 +43,5 @@ cd ./script/
 cd ../
 bash ./*/exincludes-dns.sh
 wait
-cat dns.txt|grep -P "(?<=\|\|).+(?=\^)"| grep -v '\*' |sed 's/^/host-suffix,/g'|sed 's/$/,reject/g' > ../qx.conf
+cat dns.txt|grep -P "(?<=\|\|).+(?=\^)"| grep -v '\*' |sed 's/^/host-suffix,/g'|sed 's/$/,reject/g' > ./qx.conf
 exit
