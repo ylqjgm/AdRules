@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: x/5VXe54+pCCPwXWt9EXeA
+! Checksum: 295p8lmeXbYI7MBJnOcIvA
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 8 Hours
 ! Description: 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyListChina、EasyList、oisd Basic、Adaway等并补充了一些规则
-! Version: 2022-06-20 16:31:55（北京时间） 
-! Total count: 109790
+! Version: 2022-06-20 17:49:50（北京时间） 
+! Total count: 109792
 *.001union.com
 *.00oo00.com
 *.0594003.com
@@ -56146,6 +56146,7 @@ ya*.dwstatic.com
 ||kriteriatika.ru^
 ||kriwrsvcbo.com^
 ||krkursist.com^
+||krmal.com^
 ||krmcean.xyz^
 ||krnhplalugndkkf.com^
 ||krolikplatit.ru^
@@ -90659,6 +90660,7 @@ ya*.dwstatic.com
 ||stinkwailingbalk.com^
 ||stinkyrepetition.com^
 ||stinternoctuae.com^
+||stinue.com^
 ||stipple.cachefly.net^
 ||stipple.com^
 ||stippleit.com^
