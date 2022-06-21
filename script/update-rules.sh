@@ -309,11 +309,12 @@ cd ./pre
 echo '移动完成'
 
 # Python 处理重复规则
-python .././script/rule.py
+#python .././script/rule.py
 
 # Start Add title and date
 diffFile="$(ls|sort -u)"
 for i in $diffFile; do
+ python .././script/rule.py $i
  n=`cat $i | wc -l` 
  echo "! Version: $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间） " >> tpdate.txt 
  new=$(echo "$i" |sed 's/tmp-//g') 
