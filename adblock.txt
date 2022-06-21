@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: cISB2Rd3WEP7HdajNq7RmQ
+! Checksum: hYDC/AvyZz3OCUjUbL2y+Q
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-22 00:42:12（北京时间） 
-! Total count: 91629
+! Version: 2022-06-22 06:44:38（北京时间） 
+! Total count: 91639
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -6956,6 +6956,7 @@
 ##a[href*="/yigeyuming3880.top"]
 ##a[href*="://mgzs.cdn.bcebos.com/"]
 ##a[href*=":10443/"]
+##a[href*=":10443/"] > img[src$="gif"]
 ##a[href*="?channelCode="] > img[src*=".com:"]
 ##a[href*="?invite_code="] > img[src*=".com"]
 ##a[href*="https://www.sweetdeals.com/"] img
@@ -12430,6 +12431,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 /click-tracker
 /click.*/q/*$image
 /click.cgi?callback=
+/click.em.nike.com/*$image
 /click.email.$image
 /click.php?c=
 /click/impression?
@@ -24085,6 +24087,7 @@ $~xmlhttprequest,removeparam=ref_,domain=imdb.com|amazon.*|primevideo.com|shopbo
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=navbharattimes.indiatimes.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=onperiscope.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=paraphraser.io
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=paraphrasetool.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=photopea.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=populistpress.com|canadafreepress.com|thelibertydaily.com|writerscafe.org|populist.press|welovetrump.com|grammarist.com|protrumpnews.com|concomber.com|videogamesblogger.com|gamersheroes.com|letocard.fr|100percentfedup.com|thepalmierireport.com|kresy.pl|beforeitsnews.com|thepatriotjournal.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=premid.app
@@ -34213,7 +34216,6 @@ hpav.tv,hpjav.tv##+js(window.open-defuser)
 hpjav.tv##+js(set-constant, NativeAd, noopFunc)
 hpjav.tv##+js(set-constant, checkdom, 0)
 hpjav.tv##+js(window.open-defuser, ad.pornimg)
-hpjav.tv##.home-featured-ad
 hpjav.tv##body > div[style^="position: fixed;"]
 hpjav.tv#?#.home-img-box > div.center-ad > div.video-box-ad:upward(2)
 hqdoor.com##.index_ad2
@@ -35478,6 +35480,9 @@ javpost.net,javmost.*##div[style="overflow: hidden !important;"] > center > div[
 javpro.cc,javtc.*,javmec.*,javsun.*,tubeqd.tv##div[style^="height: 250px;overflow: hidden;"]
 javqd.com#@#.adsBox
 javquick.com##+js(set-constant, adsUrls, undefined)
+javrank.com##div[class^="koukoku"]
+javrank.com#?#.video-box-ather > div.container > div.home-img-box:has(> div.text-center > div[class^="koukoku"])
+javrank.com,hpjav.tv##.home-featured-ad
 javraveclub.com,javrave.club##.leader_banner
 javsaga.ninja##.pb-3.text-center
 javsenpai.site##+js(window.open-defuser)
@@ -39684,6 +39689,7 @@ plej.tv#@#.advert_box
 plg.ovakode.com#@#.bottom-ad
 pln-pskov.ru###check_ad_block
 plos.org##.head-top
+plurk.com##.adsense-holder
 plus-belle-la-vie-replay.blogspot.com#@##adsense
 plus-belle-la-vie-replay.blogspot.com#@##publicite
 plus-belle-la-vie-video.blogspot.com#@##adsense
@@ -44182,7 +44188,7 @@ vsuda.cn,wstimes.cn##.piaofu-right
 vtvgiaitri.vn##.ads-top-wrap
 vtvgiaitri.vn#$##adblock { display: block!important; }
 vtvgiaitri.vn#@##adblock
-vudeo.net,megafilmeshd.top,animeflv.cc,tinymkv.net,milfzr.com,miraculous.to,uploadmaza.com,uptomega.me,castfree.me,9tsu.*,pelispoptv.com,hikarinoakari.com,kissmovies.io,crt.im,mangaraw.*,metx.me,starlive.xyz,123moviesfree.*,poscitech.click,filmvilag.me,voiranime.stream,putlockers.*,gdplayer.*,fileguru.net,1movieshd.com,cool-etv.net,fmovies2.cx,modsfire.com,atomohd.*,ouo.press,yugen.to,pelisplus2.io,movies7.to,buffstreams.*,apkmody.io,mycima.cloud,couchtuner.show,kimoitv.com,gdtot.*,cuevanahd.net,anavidz.com,2embed.ru,armagedomfilmes.top,movieskafanda.xyz,seriesgratis.biz,streamingcommunity.*,askflix.org,s.to,atomixhq.*,anitube.*,ymovies.to,manhuascan.*,dembed1.com,file4go.net,file4go.com,hothit.me,daddylive.eu,sflix.to,animesanka.*,cima4u.*,shrink.*,divicast.com,manhwa68.com,filma24.*,mp3yeni.org,upload-4ever.com,futebolplayhd.com,witanime.com,filmeseries.top,futemax.gratis,thetodaypost.com,hentaizm.fun,hitmovies4u.com,embedflix.net,moviesjoy.*,animespank.com,hhdmovies.*,short.katflys.com,hindilinks4u.*,topflix.*,flixtor.gg,tutele.sx,upvid.*,mangas-raw.com,bbb.fm,clipconverter.cc,megafilmeshd20.pro,watchseries.*,animesonline.cz,superflix.*,fembed.cloud,vizer.vip,kick4ss.com,jpscan-vf.com,rawkuma.com,pobreflix.top,losmovies.*,123movieshub.*,seriesflix.top,intereseducation.com,vizer.re,123movies-official.site,querofilmehd.*,gogoanime.*,animixplay.to,dood.la,dood.pm,dood.so,dood.to,dood.watch,dood.ws,anime4up.*,multicanais.tv,watchmovie.*,myflixer.*,pahe.li,filmyzilla.autos,megafilmeseseriesonline.com##+js(abort-current-script, document.createElement, break;case $.)
+vudeo.net,megafilmeshd.top,animeflv.cc,tinymkv.net,milfzr.com,miraculous.to,uploadmaza.com,uptomega.me,castfree.me,9tsu.*,pelispoptv.com,hikarinoakari.com,kissmovies.io,crt.im,mangaraw.*,metx.me,starlive.xyz,123moviesfree.*,poscitech.click,filmvilag.me,voiranime.stream,putlockers.*,gdplayer.*,fileguru.net,1movieshd.com,cool-etv.net,fmovies2.cx,modsfire.com,atomohd.*,ouo.press,yugen.to,pelisplus2.io,movies7.to,buffstreams.*,apkmody.io,mycima.cloud,couchtuner.show,kimoitv.com,gdtot.*,cuevanahd.net,anavidz.com,2embed.*,armagedomfilmes.top,movieskafanda.xyz,seriesgratis.biz,streamingcommunity.*,askflix.org,s.to,atomixhq.*,anitube.*,ymovies.to,manhuascan.*,dembed1.com,file4go.net,file4go.com,hothit.me,daddylive.eu,sflix.to,animesanka.*,cima4u.*,shrink.*,divicast.com,manhwa68.com,filma24.*,mp3yeni.org,upload-4ever.com,futebolplayhd.com,witanime.com,filmeseries.top,futemax.gratis,thetodaypost.com,hentaizm.fun,hitmovies4u.com,embedflix.net,moviesjoy.*,animespank.com,hhdmovies.*,short.katflys.com,hindilinks4u.*,topflix.*,flixtor.gg,tutele.sx,upvid.*,mangas-raw.com,bbb.fm,clipconverter.cc,megafilmeshd20.pro,watchseries.*,animesonline.cz,superflix.*,fembed.cloud,vizer.vip,kick4ss.com,jpscan-vf.com,rawkuma.com,pobreflix.top,losmovies.*,123movieshub.*,seriesflix.top,intereseducation.com,vizer.re,123movies-official.site,querofilmehd.*,gogoanime.*,animixplay.to,dood.la,dood.pm,dood.so,dood.to,dood.watch,dood.ws,anime4up.*,multicanais.tv,watchmovie.*,myflixer.*,pahe.li,filmyzilla.autos,megafilmeseseriesonline.com##+js(abort-current-script, document.createElement, break;case $.)
 vuejs.org###vm-banner
 vuejs.org##.ad-pagetop
 vuejs.org##.main-sponsor
@@ -72949,6 +72955,7 @@ zznews.cn##.ad:not([style])
 ||nfqglptm47uc.com^
 ||nfqplus.com^
 ||nftcpw.com^
+||nftqpw.com^
 ||nfwebminer.com^$third-party
 ||nfxhd.com/pic/*.gif
 ||nfydd.com/template/wap1/js/dd.js
@@ -74388,6 +74395,7 @@ zznews.cn##.ad:not([style])
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication.com/adsbygoogle.js,domain=tricksplit.io
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication.com/adsbygoogle.js,domain=unityassets4free.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication.com/adsbygoogle.js,important,domain=akinator.com|akinator.mobi
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication.com/adsbygoogle.js,important,domain=paraphrasetool.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=noop.js,domain=1cloudfile.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=noop.js,domain=bowfile.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=noop.js,domain=gulf-up.com
@@ -76981,6 +76989,7 @@ zznews.cn##.ad:not([style])
 ||raptapee.com^
 ||raqehufa.xyz^
 ||rarbt.cc/js/index960_
+||rareghoa.net^
 ||rareinsane.com^
 ||rareru.ru^$third-party
 ||raresummer.com^$third-party
@@ -88063,6 +88072,7 @@ zznews.cn##.ad:not([style])
 ||whosread.com/counter/
 ||whouledu.com^
 ||whourgie.com^
+||whoutsiy.net^
 ||whoutsog.net^
 ||whrhzz.com^
 ||whrles.com^

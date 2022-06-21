@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: kWi4XI7NNb6IHbs6xzKWgQ
-! Version: 202206211626
+! Checksum: 6svqITwBdxpkrIIKCd7dow
+! Version: 202206212236
 ! Title: EasyPrivacy
-! Last modified: 21 Jun 2022 16:26 UTC
+! Last modified: 21 Jun 2022 22:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5538,6 +5538,7 @@ cgi-bin/counter
 /beacon.krxd.net/*
 /beaconimages.netflix.net/*$image
 /click.*/q/*$image
+/click.em.nike.com/*$image
 /click.email.$image
 /clicks.*/q/*$image
 /clicks.email.$image

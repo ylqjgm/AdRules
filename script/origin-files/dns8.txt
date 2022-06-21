@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LnJcnorb2o7OEkrF4zCjvQ
+! Checksum: sG1TTYvJNW9iozhpolPe8w
 ! Title: Fanboy+Easylist-Merged Ultimate List
-! Version: 202206211533
-! Last modified: 2022-06-21 15:33 UTC
+! Version: 202206212133
+! Last modified: 2022-06-21 21:33 UTC
 ! Expires: 3 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -67611,6 +67611,7 @@ cgi-bin/counter
 /beacon.krxd.net/*
 /beaconimages.netflix.net/*$image
 /click.*/q/*$image
+/click.em.nike.com/*$image
 /click.email.$image
 /clicks.*/q/*$image
 /clicks.email.$image
@@ -139865,6 +139866,7 @@ themonthly.com.au##.signup-box-container
 androidheadlines.com##.signup-button
 gfycat.com##.signup-call-to-action
 standard.co.uk##.signup-comp
+screenshot-media.com##.signup-container
 tvnz.co.nz##.signup-content
 vouchercodes.co.uk##.signup-custom
 xbiz.com##.signup-form
