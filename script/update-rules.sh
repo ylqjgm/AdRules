@@ -183,10 +183,10 @@ wait
 # Pre Fix rules
 echo '处理规则中...'
 cat clash* \
- | grep -v '^#' | grep -F 'DOMAIN-SUFFIX' |sed 's/.*DOMAIN-SUFFIX,//g' |sed "s/^/||&/g" |sed "s/$/&^/g"> dns9999.txt 
+ | grep -v '^#' | grep -F 'DOMAIN-SUFFIX' |sed 's/.*DOMAIN-SUFFIX,//g' |sed "s/^/||/g" |sed "s/$/^/g"> dns9999.txt 
 
 cat clash* \
- | grep -v '^#' |  grep -F 'DOMAIN-KEYWORD' | sed 's/.*DOMAIN-KEYWORD\,//g' |sed "s/^/\/&/g" > l.txt 
+ | grep -v '^#' |  grep -F 'DOMAIN-KEYWORD' | sed 's/.*DOMAIN-KEYWORD\,//g' |sed "s/^/\//g" > l.txt 
 
 cat hosts*.txt | sort -n| grep -v -E "^((#.*)|(\s*))$" \
  | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|local|loopback)$" \
@@ -197,8 +197,8 @@ wait
 cat base-src-hosts.txt | grep -Ev '#|\$|@|!|/|\\|\*'\
  | grep -v -E "^((#.*)|(\s*))$" \
  | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|loopback)$" \
- | sed 's/127.0.0.1 //' | sed 's/0.0.0.0 //' \
- | sed "s/^/||&/g" |sed "s/$/&^/g"| sed '/^$/d' \
+ | sed 's/127.0.0.1 //g' | sed 's/0.0.0.0 //g' \
+ | sed "s/^/||/g" |sed "s/$/&^/g"| sed '/^$/d' \
  | grep -v '^#' \
  | sort -n | uniq | awk '!a[$0]++' \
  | grep -E "^((\|\|)\S+\^)" > abp-hosts.txt & #Hosts规则转ABP规则
