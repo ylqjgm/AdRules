@@ -220,12 +220,6 @@ cat *.txt | sed '/^$/d' \
  |grep -E "^\/[a-z]([a-z]|\.)*\.$" \
  |sort -u >> l.txt &
 
-cat dead-hosts* \
- | sed "s/^/||&/g" | sed "s/$/&^/g" > deadblock.txt 
-
-cat dead-hosts* \
- | sed "s/^/0.0.0.0 /g" > deadhosts.txt &
-
 # Start Merge and Duplicate Removal
 
 echo 开始合并
