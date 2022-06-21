@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: Eoozb+j/pTUyKXcbRTu+Wg
+! Checksum: zk0z9TMeXfkVSBPhpNB+kg
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 8 Hours
 ! Description: 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyListChina、EasyList、oisd Basic、Adaway等并补充了一些规则
-! Version: 2022-06-21 10:02:04（北京时间） 
-! Total count: 101348
+! Version: 2022-06-21 10:04:47（北京时间） 
+! Total count: 101353
 *.001union.com
 *.00oo00.com
 *.0594003.com
@@ -35456,6 +35456,7 @@ ya*.dwstatic.com
 ||fc.080999.cn^
 ||fc.co.mz^
 ||fc.gaizong.cn^
+||fc.hxwxfc.cn^
 ||fc.itmedia.co.jp^
 ||fc.tiepan.cn^
 ||fc.vodafone.de^
@@ -35852,6 +35853,7 @@ ya*.dwstatic.com
 ||fg-z.com^
 ||fg.cqbuchouhua.com^
 ||fg.glwxw.net^
+||fg.qdzilh.cn^
 ||fg.softguy.com^
 ||fgafkk.com^
 ||fgaon.com^
@@ -48761,6 +48763,7 @@ ya*.dwstatic.com
 ||j.55555555555.xyz^
 ||j.aishangdaike.com^
 ||j.avz4.com^
+||j.b0rbgroup.xyz^
 ||j.baminw.cn^
 ||j.biquge520.cc^
 ||j.br.baidu.com^
@@ -56949,6 +56952,7 @@ ya*.dwstatic.com
 ||mbs.megaroticlive.com^
 ||mbs.weathercn.com^
 ||mbsy.co^
+||mbt.deeterno.cn^
 ||mbt.tangk.top^
 ||mbtnorge.com^
 ||mbuabypsbfh.com^
@@ -63015,6 +63019,7 @@ ya*.dwstatic.com
 ||nvoepbzqtn.com^
 ||nvpdaa.brightcellars.com^
 ||nvqonvfylkxdjc.com^
+||nvr.jiangjiu.org.cn^
 ||nvrblk.xyz^
 ||nvrentao8.com^
 ||nvrkw.cn^

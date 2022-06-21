@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 65xnlOkoukrEY+iWj+iLig
+! Checksum: 2xcv5z+ai3/K2jyuYQdCfA
 ! Title: AdRules AdBlock List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: 该规则合并自EasyList、EasyListChina、AdGuard Chinese Filter、EdentwCustom、ClearUrl、乘风规则等，并补充了一些规则
-! Version: 2022-06-21 10:02:04（北京时间） 
-! Total count: 91575
+! Version: 2022-06-21 10:04:47（北京时间） 
+! Total count: 91586
 ###ADCENTER
 ###ADInterest
 ###ADSLOT_1
@@ -33150,6 +33150,7 @@ gkstk.com##.layui-layer-shade
 gktoday.in#@##google-ads
 gktoday.in#@#.adsense
 gktoday.in#@#.sponsored
+glamindir.net,secure-links.info,sedsports.com,seehd.pl,seetv.tv,sentireascoltare.com,shareinfo.pl,shencomics.com,shinden.pl,shink.me,shon.xyz,sk-ip.ru,skinnycat.org,skyroyale.io,sms-empfangen.com,sobremascotas.info,softonic.com,softwaregiveaway.xyz,sol.dk,splinternews.com,sport-tv-guide.live,ssulwar.com,stars24.cz,streamapi.xyz,surfsees.com,svapo.it,syreop.com,tagblatt.ch,teachios.com,techhung.com,techkreative.xyz,techperiod.com,tecnofullpc.com,tecnotutoshd.net,telecinco.es,telegraph.co.uk,tetewlink.me,thaivisa.com,thechive.com,thefilmbay.com,theonion.com,thepiratefilmestorrent.com,theroot.com,thesurfersview.com,thetakeout.com,today.it,tokenfly.pw,topserialy.to,torrentdosfilmeshd.net,trecetv.es,trendenciashombre.com,truyenaudiocv.com,tsa-algerie.com,tubitv.com,tugaflix.com,tvple.com,tvserial.it,tvsportslive.stream,unikampus.net,uploaded.net,upost.info,utimetableresult.in,vacation-et.work,vcstream.to,vergol.com,veuclips.com,vev.io,videostreamlet.net,vidoza.net,vipshare.co,viuclips.net,vmf.edge-apps.net,vpnssh.net,vtvgiaitri.vn,watchseries1.cc,weatherx.co.in,webzook.net,wikiall.org,win10.vn,windows7forum.pl,winhelp.us,wordgames.com,worldfreeware.com,wpteq.org,xatakandroid.com,xboxdvr.com,xkorean.biz,yafud.pl,yesmoviesapp.info,yuncomics.com,zxctunnel.com##+js(nofab)
 glamourhits.org##+js(set-constant, click_r, true)
 gledaiseriali.net#$#abort-current-inline-script Math zfgloaded
 global.americanexpress.com##.text-align-center.pad-tb
@@ -61280,6 +61281,7 @@ zznews.cn##.ad:not([style])
 ||fc.080999.cn^
 ||fc.dt243100.com^
 ||fc.gaizong.cn^
+||fc.hxwxfc.cn^
 ||fc.lc/dwn.html
 ||fc.tiepan.cn^
 ||fc.vodafone.de^
@@ -61422,6 +61424,7 @@ zznews.cn##.ad:not([style])
 ||fg.daochengwowo.top^
 ||fg.geoparker.net^
 ||fg.glwxw.net^
+||fg.qdzilh.cn^
 ||fg.rmzbfum.cn^
 ||fg.yilianqing.com^
 ||fgbgtt.cian.ru^
@@ -64446,6 +64449,7 @@ zznews.cn##.ad:not([style])
 ||hmog.me/tb
 ||hmong-miaojiuyi.com^
 ||hmstats.com^$third-party
+||hmt.zygkzytb.cn^
 ||hmtoday.com^$third-party
 ||hmttoly.com^
 ||hmwang.icu/skin/images/*.gif
@@ -64704,6 +64708,7 @@ zznews.cn##.ad:not([style])
 ||hrjg.com.cn^$third-party
 ||hrm.healthgrades.com^
 ||hrrrzwz.cn^
+||hrt.yukariyakumo.cn^
 ||hruk.gumasi.top^
 ||hruyiq.auction.co.kr^
 ||hryidhf.ltd^
@@ -66538,8 +66543,10 @@ zznews.cn##.ad:not([style])
 ||izzs.cc/wp-content/mm/
 ||j.55555555555.xyz^
 ||j.5idoy8p7.live^
+||j.afk3rs.xyz^
 ||j.aishangdaike.com^
 ||j.avz4.com^
+||j.b0rbgroup.xyz^
 ||j.baminw.cn^
 ||j.bg.adresult-sp.jp^
 ||j.dailiqing.net^
@@ -69474,6 +69481,7 @@ zznews.cn##.ad:not([style])
 ||loopoohy.com^
 ||lootynews.com^
 ||looyu.com^$third-party
+||lop.lamimi.cn^
 ||lopley.com^$third-party
 ||lord.actonservice.com^
 ||lore.circulate.com^
@@ -70656,6 +70664,7 @@ zznews.cn##.ad:not([style])
 ||mbr.baiyishaonian.cn^
 ||mbsvr.net/js/tracker/
 ||mbsy.co^$third-party
+||mbt.deeterno.cn^
 ||mbt.hongmao39.top^
 ||mbt.tangk.top^
 ||mbuabypsbfh.com^
@@ -73359,6 +73368,7 @@ zznews.cn##.ad:not([style])
 ||nvmcavgqcr.com^
 ||nvmjdpbjgrh.com^
 ||nvpdaa.brightcellars.com^
+||nvr.jiangjiu.org.cn^
 ||nvrkw.cn^
 ||nvsea.com^
 ||nvsheng.com/js/gg.js
@@ -76219,6 +76229,7 @@ zznews.cn##.ad:not([style])
 ||q-counter.com^$third-party
 ||q-stats.nl^$third-party
 ||q.baminw.com.cn^
+||q.e49.xyz^
 ||q1.yyxwzx.com^
 ||q1mediahydraplatform.com^
 ||q20jqurls0y7gk8.info^
