@@ -1,7 +1,7 @@
 #!/bin/bash
 
 source /etc/profile
-
+echo 更新上游中
 cd $(cd "$(dirname "$0")";pwd)
 rm -f ./origin-files/*
 dead_hosts=(
