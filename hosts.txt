@@ -1,12 +1,12 @@
 # Title: AdRules Hosts List
-# Checksum: MNzc2mtbh6Rw3dCFWX21Dg
+# Checksum: 7w8DZLZKda1eHZ9eCiXCaQ
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 8 Hours
 # 该规则合并自AdGuardDNS过滤器、乘风过滤规则、EasyChina、EasyList、Oisd Basic、Adaway等
 #
-# Version: 2022-06-21 17:41:02（北京时间） 
-# Total count: 126579
+# Version: 2022-06-21 18:13:05（北京时间） 
+# Total count: 126582
 0.0.0.0 *.001union.com
 0.0.0.0 *.00oo00.com
 0.0.0.0 *.0594003.com
@@ -78446,6 +78446,7 @@
 0.0.0.0 nym1.ib.adnxs.com
 0.0.0.0 nym5c.bonlook.com
 0.0.0.0 nym5c.laura.ca
+0.0.0.0 nymnt.top
 0.0.0.0 nymolf.com
 0.0.0.0 nymotuda.com
 0.0.0.0 nymphacebids.com
@@ -119385,6 +119386,7 @@
 0.0.0.0 wuhufengze.com.cn
 0.0.0.0 wuidtl.com
 0.0.0.0 wujieliulan.com
+0.0.0.0 wukelansm.top
 0.0.0.0 wula.store
 0.0.0.0 wulfstan-wil.com
 0.0.0.0 wulian.in
@@ -126585,4 +126587,5 @@
 0.0.0.0 zzz.pissrip.net
 0.0.0.0 zzz7.52896368.com
 0.0.0.0 zzznews.ru
+0.0.0.0 zzznews.ru.0.0.0ad.digitallook.com
 0.0.0.0 zzzzz4.52896368.com
