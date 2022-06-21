@@ -1,10 +1,10 @@
 ! Title: AdRules Allowlist
-! Checksum: bCaqVohoI+B0QfCzad8V8w
+! Checksum: Eso9UgC59QORlBz8e+v4/A
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-06-21 17:18:19（北京时间） 
-! Total count: 19441
+! Version: 2022-06-21 17:27:53（北京时间） 
+! Total count: 19442
 @@$csp=worker-src 'none',domain=uptostream.com
 @@$domain=avgle.com,webrtc,websocket! EasyPrivacy
 @@$generichide,domain=heapfiles.com|vidoza.co|vidoza.net
@@ -9055,6 +9055,7 @@
 @@||hoy.es^$ghide
 @@||hoyts.com.au/media/*_300x250
 @@||hoyts.com.au^$generichide
+@@||hp.com/in/*/ads/$script,stola-"]
 @@||hp.com/in/*/ads/$script,stylesheet,~third-party
 @@||hp.com/wcsstore/HPStorefrontAssetStore/js/omniture/$script
 @@||hp.com^*/caas-privacy-cookie-$script
