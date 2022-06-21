@@ -10,7 +10,7 @@ wl1=`echo "$wl" |grep '^1 '|sed 's/1 //g'`
 wl2=`echo "$wl" |grep '^2 '|sed 's/2 //g'`
 rm=`echo "$wl" |grep '^3 '|sed 's/3 //g'`
 echo "$yc" >pre-rules.txt
-cat pre-rules.txt cat base-dead-hosts.txt cat base-dead-hosts.txt |sort |uniq -u > 1.txt
+cat pre-rules.txt base-dead-hosts.txt base-dead-hosts.txt |sort |uniq -u > 1.txt
 mv -f 1.txt pre-rules.txt
 
 for i in ${!wl0[@]} ${!wl1[@]} ${!wl2[@]}
