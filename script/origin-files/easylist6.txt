@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206212043
+! Version: 202206220200
 ! Title: EasyPrivacy
-! Last modified: 21 Jun 2022 20:43 UTC
+! Last modified: 22 Jun 2022 02:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13123,6 +13123,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tags.cdn.circlesix.co^
 ||tags.clickagy.com^
 ||tags.creativille.co.uk^
+||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tags.newscgp.com^
 ||tags.refinery89.com^
@@ -25546,7 +25547,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||jv.dk/assets/statistics/
 ! French
 ||2ememain.be/c3650cdf-
-||2ememain.be/px/fbif?
+||2ememain.be/px/
 ||actu.fr/assets/js/smarttag5280-1.js
 ||aliasdmc.fr/js/general_sts.js
 ||allocine.fr/_/geolocalize
@@ -25902,6 +25903,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||stat.super.cz^
 ||statistics.csob.cz^
 ! Dutch
+||2dehands.be/px/
 ||aa.tweakers.nl^
 ||analytics.rambla.be^
 ||bc34.wijnvoordeel.nl^
@@ -27054,6 +27056,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||orginio.de/api/analytics/$~third-party,xmlhttprequest
 @@||rtl.de^*/videotracking.min.js$domain=rtl.de
 @@||scdn.cxense.com/cx.cce.js$script,domain=handelsblatt.com
+@@||shoutcast.hubu.fm/stats?sid=$script,~third-party
 @@||showheroes.com/playlist/vast3?$xmlhttprequest,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||showheroes.com/publishertag.js$domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||showheroes.com/pubtag.js$domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
@@ -27174,6 +27177,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||collectandgo.be^*/utag.sync.js
 @@||d2zv6vzmaqao5e.cloudfront.net/css/foodticket/*_google_analytics.js
 @@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|finanzen.ch|mediamarkt.nl
+@@||marketingautomation.services^$script,domain=leeuwerik.nl
 @@||optimizely.addmilk.nl^$image,domain=simyo.nl
 @@||stock.skoda.be/assets/scripts/analytics/$script,~third-party
 @@||travelbags.nl^*/web-vitals.$~third-party
